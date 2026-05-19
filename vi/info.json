@@ -1,0 +1,45 @@
+{
+    "hero": {
+        "badge": "Phiên bản 2.0 - Đã ra mắt",
+        "title": "Hệ thống quản lý toàn diện cho",
+        "titleHighlight": "máy chủ CS2",
+        "subtitle": "Từ SSH, RCON, quản lý người chơi, web UI, Discord bot API và nhiều tính năng khác - tất cả trong một nền tảng duy nhất.",
+        "getStarted": "Bắt đầu ngay",
+        "viewDocs": "Xem tài liệu"
+    },
+    "stats": {
+        "servers": "Servers",
+        "players": "Players",
+        "uptime": "Uptime",
+        "features": "Features"
+    },
+    "features": {
+        "badge": "Tính năng",
+        "title": "Mọi thứ bạn cần",
+        "subtitle": "Công cụ mạnh mẽ để quản lý máy chủ CS2 của bạn",
+        "sshRcon": "SSH & RCON",
+        "sshRconDesc": "Quản lý máy chủ từ xa với SSH và RCON tích hợp sẵn.",
+        "playerManagement": "Quản lý người chơi",
+        "playerManagementDesc": "Theo dõi, ban, mute và quản lý người chơi toàn diện.",
+        "serverListChanger": "Server List Changer",
+        "serverListChangerDesc": "Interface cho client sử dụng server list changer.",
+        "webUI": "Web UI",
+        "webUIDesc": "Giao diện web hiện đại, responsive cho người dùng.",
+        "discordBot": "Discord Bot API",
+        "discordBotDesc": "Tích hợp Discord bot API miễn phí, dễ cấu hình.",
+        "dataManagement": "Data Management",
+        "dataManagementDesc": "Quản lý dữ liệu tập trung, an toàn và hiệu quả.",
+        "multiServer": "Multi-Server",
+        "multiServerDesc": "Hỗ trợ quản lý nhiều máy chủ cùng lúc.",
+        "customize": "Customize",
+        "customizeDesc": "Tùy chỉnh mọi thứ theo nhu cầu của bạn."
+    },
+    "cta": {
+        "title": "Sẵn sàng bắt đầu?",
+        "subtitle": "Đăng ký miễn phí và trải nghiệm ngay hôm nay.",
+        "register": "Đăng ký miễn phí",
+        "free": "Miễn phí",
+        "noCard": "Không cần thẻ",
+        "support247": "Hỗ trợ 24/7"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "title": "Battle Mode",
+    "subtitle": "Hệ thống thi đấu 5v5 xếp hạng",
+    "party": {
+        "title": "Đội của bạn",
+        "solo": "Đang chơi solo",
+        "create": "Tạo đội",
+        "invite": "Mời bằng 7ID",
+        "invitePlaceholder": "Nhập #7ID...",
+        "inviteButton": "Gửi lời mời",
+        "leave": "Rời đội",
+        "disband": "Giải tán đội",
+        "full": "Đội đã đủ 5 người",
+        "members": "{count}/5 thành viên",
+        "leader": "Đội trưởng",
+        "member": "Thành viên",
+        "disbanded": "Đội đã giải tán"
+    },
+    "queue": {
+        "find": "TÌM TRẬN",
+        "cancel": "HỦY TÌM",
+        "searching": "Đang tìm trận...",
+        "estimatedWait": "Thời gian chờ ước tính: {time}",
+        "playersInQueue": "{count} người chơi đang tìm trận",
+        "partiesInQueue": "{count} đội đang tìm trận",
+        "cooldown": "Bạn đang bị cooldown. Thử lại sau {time}",
+        "memberCooldown": "{name} đang bị cooldown",
+        "emailRequired": "Tất cả thành viên phải xác minh email",
+        "leaderOnly": "Chỉ đội trưởng mới có thể tìm trận"
+    },
+    "match": {
+        "found": "ĐÃ TÌM THẤY TRẬN!",
+        "accept": "CHẤP NHẬN",
+        "decline": "TỪ CHỐI",
+        "accepted": "{count}/{total} đã chấp nhận",
+        "timeRemaining": "{seconds}s",
+        "cancelled": "Trận đã bị hủy",
+        "cancelReason": {
+            "decline": "Một người chơi đã từ chối",
+            "timeout": "Hết thời gian chấp nhận"
+        },
+        "teamA": "Đội A",
+        "teamB": "Đội B",
+        "myTeam": "ĐỘI CỦA BẠN",
+        "enemyTeam": "ĐỘI ĐỊCH",
+        "accepted_status": "Đã sẵn sàng",
+        "vs": "VS",
+        "captain": "Đội trưởng",
+        "configuring": "Đang cấu hình máy chủ...",
+        "live": "ĐANG THI ĐẤU",
+        "finished": "ĐÃ KẾT THÚC",
+        "won": "THẮNG",
+        "lost": "THUA",
+        "draw": "HÒA",
+        "starting": "TRẬN ĐẤU KHỞI TẠO!!!"
+    },
+    "mapBan": {
+        "title": "BAN MAP",
+        "yourTurn": "Lượt của bạn — Chọn map để BAN",
+        "enemyTurn": "Đối thủ đang chọn...",
+        "waiting": "Đang chờ...",
+        "banned": "Đã ban",
+        "remaining": "Còn lại: {count} maps",
+        "decided": "Map thi đấu",
+        "timePerBan": "{seconds}s",
+        "pickSide": "Chọn Side",
+        "pickSideDesc": "Đội B chọn side bắt đầu",
+        "ct": "Counter-Terrorist",
+        "t": "Terrorist"
+    },
+    "stats": {
+        "title": "Thống kê",
+        "matches": "Số trận",
+        "wins": "Thắng",
+        "losses": "Thua",
+        "draws": "Hòa",
+        "winRate": "Tỉ lệ thắng",
+        "kd": "K/D",
+        "kills": "Kills",
+        "deaths": "Deaths",
+        "assists": "Assists",
+        "mvps": "MVPs",
+        "winStreak": "Chuỗi thắng",
+        "bestStreak": "Chuỗi thắng tốt nhất",
+        "recentMatches": "Trận gần đây",
+        "noMatches": "Chưa có trận đấu nào"
+    },
+    "leaderboard": {
+        "title": "Bảng xếp hạng",
+        "rank": "#",
+        "player": "Người chơi",
+        "matches": "Trận",
+        "wins": "Thắng",
+        "winRate": "Thắng %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "Lời mời vào đội",
+        "from": "{name} mời bạn vào đội",
+        "accept": "Chấp nhận",
+        "decline": "Từ chối",
+        "expired": "Lời mời đã hết hạn",
+        "notFound": "Không tìm thấy người chơi",
+        "sent": "Đã gửi lời mời",
+        "alreadySent": "Đã gửi lời mời cho người chơi này"
+    },
+    "cooldown": {
+        "active": "Cooldown đang hoạt động",
+        "remaining": "Còn lại: {time}",
+        "reason": {
+            "decline": "Từ chối trận đấu",
+            "timeout": "Hết thời gian chấp nhận",
+            "abandon": "Bỏ trận",
+            "toxic": "Hành vi tiêu cực"
+        }
+    },
+    "history": {
+        "title": "Lịch sử trận đấu",
+        "noHistory": "Chưa có lịch sử trận đấu",
+        "map": "Map",
+        "score": "Tỉ số",
+        "result": "Kết quả",
+        "date": "Ngày"
+    },
+    "errors": {
+        "matchNotFound": "Trận đấu không tồn tại",
+        "invalidState": "Trận đấu đã thay đổi trạng thái",
+        "notYourTurn": "Chưa đến lượt đội bạn",
+        "notCaptain": "Chỉ đội trưởng mới có thể thực hiện",
+        "mapAlreadyBanned": "Map này đã bị ban",
+        "notInMatch": "Bạn không thuộc trận đấu này",
+        "notAuthorized": "Bạn không có quyền thực hiện",
+        "validationError": "Dữ liệu không hợp lệ",
+        "networkError": "Lỗi kết nối, vui lòng thử lại",
+        "unknown": "Đã xảy ra lỗi",
+        "matchDeclined": "Một người chơi đã từ chối trận đấu",
+        "matchTimeout": "Hết thời gian chấp nhận trận đấu",
+        "matchCancelled": "Trận đấu đã bị hủy"
+    },
+    "experimental": {
+        "title": "Tính năng thử nghiệm",
+        "description": "Đây là tính năng đang trong quá trình phát triển. Hiện tại chỉ có giao diện (UI) và không thể thực hiện bất kỳ thao tác nào trên môi trường này."
+    }
+}

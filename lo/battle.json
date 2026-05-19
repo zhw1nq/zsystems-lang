@@ -1,0 +1,144 @@
+{
+    "title": "ໂໝດ Battle",
+    "subtitle": "5v5 Competitive Matchmaking",
+    "party": {
+        "title": "ປາຕີ້ຂອງທ່ານ",
+        "solo": "ຫຼິ້ນຄົນດຽວ",
+        "create": "ສ້າງປາຕີ້",
+        "invite": "ເຊີນດ້ວຍ 7ID",
+        "invitePlaceholder": "ໃສ່ #7ID...",
+        "inviteButton": "ສົ່ງຄຳເຊີນ",
+        "leave": "ອອກຈາກປາຕີ້",
+        "disband": "ຍຸບປາຕີ້",
+        "full": "ປາຕີ້ເຕັມແລ້ວ (5/5)",
+        "members": "{count}/5 ສະມາຊິກ",
+        "leader": "ຫົວໜ້າ",
+        "member": "ສະມາຊິກ",
+        "disbanded": "ປາຕີ້ຖືກຍຸບແລ້ວ"
+    },
+    "queue": {
+        "find": "ຊອກແມຊ",
+        "cancel": "ຍົກເລີກ",
+        "searching": "ກຳລັງຊອກແມຊ...",
+        "estimatedWait": "ຄາດວ່າລໍຖ້າ: {time}",
+        "playersInQueue": "{count} ຄົນກຳລັງຊອກ",
+        "partiesInQueue": "{count} ປາຕີ້ກຳລັງຊອກ",
+        "cooldown": "ທ່ານຢູ່ໃນຊ່ວງ cooldown. ລອງໃໝ່ໃນ {time}",
+        "memberCooldown": "{name} ຢູ່ໃນຊ່ວງ cooldown",
+        "emailRequired": "ສະມາຊິກທຸກຄົນຕ້ອງຢືນຢັນອີເມວ",
+        "leaderOnly": "ມີແຕ່ຫົວໜ້າປາຕີ້ເທົ່ານັ້ນທີ່ຊອກແມຊໄດ້"
+    },
+    "match": {
+        "found": "ພົບແມຊແລ້ວ!",
+        "accept": "ຍອມຮັບ",
+        "decline": "ປະຕິເສດ",
+        "accepted": "ຍອມຮັບ {count}/{total}",
+        "timeRemaining": "{seconds} ວິ",
+        "cancelled": "ແມຊຖືກຍົກເລີກ",
+        "cancelReason": {
+            "decline": "ມີຜູ້ຫຼິ້ນປະຕິເສດແມຊ",
+            "timeout": "ໝົດເວລາຍອມຮັບ"
+        },
+        "teamA": "ທີມ A",
+        "teamB": "ທີມ B",
+        "myTeam": "ທີມຂອງທ່ານ",
+        "enemyTeam": "ທີມຄູ່ແຂ່ງ",
+        "accepted_status": "ພ້ອມ",
+        "vs": "VS",
+        "captain": "ກັບຕັນ",
+        "configuring": "ກຳລັງຕັ້ງຄ່າເຊີບເວີ...",
+        "live": "ກຳລັງແຂ່ງ",
+        "finished": "ຈົບແລ້ວ",
+        "won": "ຊະນະ",
+        "lost": "ແພ້",
+        "draw": "ເສມອ",
+        "starting": "ກຳລັງເລີ່ມແມຊ!!!"
+    },
+    "mapBan": {
+        "title": "ແບນແຜນທີ່",
+        "yourTurn": "ຕາຂອງທ່ານ — ເລືອນແຜນທີ່ເພື່ອແບນ",
+        "enemyTurn": "ຄູ່ແຂ່ງກຳລັງເລືອກ...",
+        "waiting": "ກຳລັງລໍຖ້າ...",
+        "banned": "ແບນແລ້ວ",
+        "remaining": "ເຫຼືອ: {count} ແຜນທີ່",
+        "decided": "ແຜນທີ່ແຂ່ງ",
+        "timePerBan": "{seconds} ວິ",
+        "pickSide": "ເລືອກຝ່າຍ",
+        "pickSideDesc": "ທີມ B ເລືອກຝ່າຍເລີ່ມ",
+        "ct": "Counter-Terrorist",
+        "t": "Terrorist"
+    },
+    "stats": {
+        "title": "ສະຖິຕິ",
+        "matches": "ແມຊ",
+        "wins": "ຊະນະ",
+        "losses": "ແພ້",
+        "draws": "ເສມອ",
+        "winRate": "ອັດຕາຊະນະ",
+        "kd": "K/D",
+        "kills": "ສັງຫານ",
+        "deaths": "ຕາຍ",
+        "assists": "ຊ່ວຍ",
+        "mvps": "MVP",
+        "winStreak": "ຊະນະຕໍ່ເນື່ອງ",
+        "bestStreak": "ສະຖິຕິດີທີ່ສຸດ",
+        "recentMatches": "ແມຊຫຼ້າສຸດ",
+        "noMatches": "ຍັງບໍ່ໄດ້ຫຼິ້ນແມຊ"
+    },
+    "leaderboard": {
+        "title": "ກະດານຜູ້ນຳ",
+        "rank": "#",
+        "player": "ຜູ້ຫຼິ້ນ",
+        "matches": "ແມຊ",
+        "wins": "ຊະນະ",
+        "winRate": "ຊະນະ %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "ຄຳເຊີນປາຕີ້",
+        "from": "{name} ເຊີນທ່ານເຂົ້າປາຕີ້",
+        "accept": "ຍອມຮັບ",
+        "decline": "ປະຕິເສດ",
+        "expired": "ຄຳເຊີນໝົດອາຍຸແລ້ວ",
+        "notFound": "ບໍ່ພົບຜູ້ຫຼິ້ນ",
+        "sent": "ສົ່ງຄຳເຊີນແລ້ວ",
+        "alreadySent": "ສົ່ງຄຳເຊີນໃຫ້ຜູ້ຫຼິ້ນນີ້ແລ້ວ"
+    },
+    "cooldown": {
+        "active": "Cooldown ກຳລັງໃຊ້ງານ",
+        "remaining": "ເຫຼືອ: {time}",
+        "reason": {
+            "decline": "ປະຕິເສດແມຊ",
+            "timeout": "ໝົດເວລາຍອມຮັບ",
+            "abandon": "ທິ້ງແມຊ",
+            "toxic": "ພຶດຕິກຳບໍ່ເໝາະສົມ"
+        }
+    },
+    "history": {
+        "title": "ປະຫວັດແມຊ",
+        "noHistory": "ຍັງບໍ່ມີປະຫວັດແມຊ",
+        "map": "ແຜນທີ່",
+        "score": "ຄະແນນ",
+        "result": "ຜົນ",
+        "date": "ວັນທີ"
+    },
+    "errors": {
+        "matchNotFound": "ບໍ່ພົບແມຊ",
+        "invalidState": "ສະຖານະແມຊປ່ຽນແລ້ວ",
+        "notYourTurn": "ຍັງບໍ່ຖຶງຕາທີມຂອງທ່ານ",
+        "notCaptain": "ມີແຕ່ກັບຕັນເທົ່ານັ້ນທີ່ດຳເນີນການນີ້ໄດ້",
+        "mapAlreadyBanned": "ແຜນທີ່ນີ້ຖືກແບນແລ້ວ",
+        "notInMatch": "ທ່ານບໍ່ໄດ້ຢູ່ໃນແມຊນີ້",
+        "notAuthorized": "ທ່ານບໍ່ມີສິດ",
+        "validationError": "ຂໍ້ມູນບໍ່ຖືກຕ້ອງ",
+        "networkError": "ເຊື່ອມຕໍ່ຜິດພາດ, ກະລຸນາລອງໃໝ່",
+        "unknown": "ເກີດຂໍ້ຜິດພາດ",
+        "matchDeclined": "ມີຜູ້ຫຼິ້ນປະຕິເສດແມຊ",
+        "matchTimeout": "ໝົດເວລາຍອມຮັບແມຊ",
+        "matchCancelled": "ແມຊຖືກຍົກເລີກແລ້ວ"
+    },
+    "experimental": {
+        "title": "ຟີເຈີທົດລອງ",
+        "description": "ຟີເຈີນີ້ກຳລັງພັດທະນາ. ມີແຕ່ສ່ວນຕິດຕໍ່ (UI) ເທົ່ານັ້ນ ແລະ ບໍ່ສາມາດດຳເນີນການໃດໄດ້ໃນສະພາບແວດລ້ອມນີ້."
+    }
+}

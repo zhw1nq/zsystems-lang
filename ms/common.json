@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Utama",
+        "dashboard": "Papan Pemuka",
+        "account": "Akaun",
+        "security": "Keselamatan",
+        "settings": "Tetapan",
+        "servers": "Pelayan",
+        "bans": "Sekatan",
+        "mutes": "Senyap / Gag",
+        "skins": "Kulit",
+        "skinCollections": "Koleksi",
+        "zmodels": "zModels",
+        "zweapons": "zWeapons",
+        "rankings": "Kedudukan",
+        "battleMode": "Mod Pertempuran",
+        "admin": "Panel Admin",
+        "login": "Log Masuk",
+        "register": "Daftar",
+        "logout": "Log Keluar",
+        "support": "Sokongan"
+    },
+    "actions": {
+        "copy": "Salin",
+        "connect": "Sambung",
+        "save": "Simpan",
+        "cancel": "Batal",
+        "close": "Tutup",
+        "confirm": "Sahkan",
+        "delete": "Padam",
+        "edit": "Sunting",
+        "back": "Kembali",
+        "retry": "Cuba Lagi",
+        "search": "Cari..."
+    },
+    "status": {
+        "online": "Dalam Talian",
+        "offline": "Luar Talian",
+        "loading": "Memuatkan...",
+        "error": "Ralat",
+        "success": "Berjaya"
+    },
+    "toast": {
+        "copied": "Disalin ke papan keratan",
+        "copyFailed": "Gagal menyalin"
+    },
+    "footer": {
+        "rights": "Hak cipta terpelihara"
+    },
+    "sidebar": {
+        "collapse": "Runtuhkan",
+        "expand": "Kembangkan",
+        "language": "Bahasa",
+        "theme": "Tema",
+        "terms": "Terma & Privasi",
+        "guest": "Tetamu",
+        "settings": "Tetapan"
+    },
+    "announcement": {
+        "title": "Pengumuman Sistem",
+        "sourceLink": "Lihat siaran asal"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "Halaman yang anda cari tidak wujud",
+            "home": "Utama",
+            "back": "Kembali"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "Ralat tidak dijangka berlaku",
+            "errorCode": "Kod ralat: {code}",
+            "pleaseRetry": "Sila cuba lagi",
+            "retry": "Cuba Lagi",
+            "home": "Utama"
+        }
+    },
+    "forcePasswordChange": {
+        "title": "Pertukaran Kata Laluan Diperlukan",
+        "description": "Pentadbir memerlukan anda menukar kata laluan atas sebab keselamatan. Anda mesti menukar kata laluan sebelum meneruskan.",
+        "newPassword": "Kata Laluan Baharu",
+        "confirmPassword": "Sahkan Kata Laluan",
+        "submit": "Tukar Kata Laluan",
+        "rules": {
+            "minLength": "Sekurang-kurangnya 8 aksara",
+            "uppercase": "Sekurang-kurangnya 1 huruf besar",
+            "number": "Sekurang-kurangnya 1 nombor",
+            "match": "Kata laluan sepadan"
+        }
+    },
+    "welcomePopup": {
+        "greeting_night": "Selamat malam, {name}",
+        "greeting_morning": "Selamat pagi, {name}",
+        "greeting_noon": "Selamat tengah hari, {name}",
+        "greeting_afternoon": "Selamat petang, {name}",
+        "greeting_evening": "Selamat petang, {name}",
+        "guest": "Tetamu",
+        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan"
+    }
+}

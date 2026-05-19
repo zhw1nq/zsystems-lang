@@ -1,0 +1,92 @@
+{
+    "terms": {
+        "title": "Thỏa Thuận Sử Dụng Dịch Vụ",
+        "subtitle": "Terms of Service · Cập nhật lần cuối: 01/03/2026",
+        "scope": "Áp dụng cho: Website 7-mau.com, tất cả tên miền phụ *.7-mau.com, hệ thống Web Dashboard zSystems, và toàn bộ máy chủ game Counter-Strike 2 của 7-Màu Community.",
+        "intro": "Bằng việc đăng nhập vào website thông qua Steam hoặc kết nối (connect) vào bất kỳ máy chủ game nào của 7-Màu Community, bạn mặc định thừa nhận đã đọc, hiểu và đồng ý vô điều kiện với toàn bộ các điều khoản dưới đây. Nếu bạn không đồng ý, quyền duy nhất của bạn là ngừng sử dụng dịch vụ ngay lập tức.",
+        "section1": {
+            "title": "1. Tài Khoản Và Định Danh Hệ Thống",
+            "steamAuthTitle": "Xác thực qua Steam",
+            "steamAuthContent": "Hệ thống của chúng tôi sử dụng API chính thức của Valve để xác thực qua Steam OpenID. Chúng tôi không yêu cầu và không lưu trữ mật khẩu Steam của bạn. Bạn tự chịu trách nhiệm về an toàn bảo mật của tài khoản Steam.",
+            "identityTitle": "Định danh người dùng",
+            "identityContent": "Mỗi người dùng được định danh bằng 7ID (mã nội bộ trên zSystems), SteamID64 và Địa chỉ IP. Nếu tài khoản của bạn bị sử dụng bởi người khác để vi phạm quy định của 7-Màu, tài khoản đó vẫn sẽ phải chịu phạt mà không có ngoại lệ."
+        },
+        "section2": {
+            "title": "2. Chính Sách Chống Gian Lận (Zero-Tolerance Anti-Cheat)",
+            "corePolicy": "Đây là cốt lõi của 7-Màu Community. Chúng tôi áp dụng chính sách KHÔNG KHOAN NHƯỢNG với mọi hình thức gian lận.",
+            "permBanTitle": "Cấm vĩnh viễn (Permanent Ban)",
+            "permBanContent": "Việc sử dụng phần mềm thứ ba (hack, cheat, aimbot, wallhack, scripts, macros) can thiệp vào game sẽ dẫn đến việc tài khoản SteamID và IP của bạn bị cấm vĩnh viễn trên toàn bộ hệ thống (Web & Game Server).",
+            "demoTitle": "Phân tích Demo (Demo Parsing)",
+            "demoContent": "Hệ thống của chúng tôi tự động lưu trữ và phân tích Replay/Demo của mọi trận đấu. BQT 7-Màu có toàn quyền dựa trên dữ liệu này để đưa ra quyết định cấm tài khoản mà không cần cung cấp bằng chứng mã nguồn hoặc thuật toán phát hiện cho người vi phạm.",
+            "evasionTitle": "Lách luật (Ban Evasion)",
+            "evasionContent": "Bất kỳ nỗ lực nào nhằm tạo tài khoản mới (Smurf) để lách lệnh cấm sẽ dẫn đến việc hệ thống tự động cấm tất cả các tài khoản liên quan."
+        },
+        "section3": {
+            "title": "3. Quy Định Về Dữ Liệu & Khai Thác Mạng",
+            "ownershipTitle": "Quyền sở hữu của 7-Màu",
+            "ownershipContent": "Mọi dữ liệu thống kê đã được xử lý, xếp hạng (Rank/ELO), và cấu trúc hiển thị trên *.7-mau.com là tài sản của 7-Màu Community.",
+            "scrapingTitle": "Nghiêm cấm Cào dữ liệu (Anti-Scraping)",
+            "scrapingContent": "Bạn KHÔNG ĐƯỢC PHÉP sử dụng bot, spider, scraper hoặc bất kỳ công cụ tự động nào để trích xuất dữ liệu hàng loạt từ website của chúng tôi. Việc cố tình gửi hàng loạt request (spam API) làm ảnh hưởng đến hiệu suất của dashboard sẽ bị coi là hành vi tấn công mạng (DoS/DDoS) và sẽ bị chặn IP ở cấp độ Cloudflare/Firewall ngay lập tức."
+        },
+        "section4": {
+            "title": "4. Quyền Lợi VIP & Đóng Góp (Donations)",
+            "donationNote": "Mọi khoản thanh toán để mua gói VIP, skin, hay đặc quyền in-game được xem là khoản đóng góp (Donation) tự nguyện để duy trì máy chủ.",
+            "noRefundTitle": "Không hoàn tiền (No Refunds)",
+            "noRefundContent": "Chúng tôi không chấp nhận hoàn tiền dưới bất kỳ hình thức nào, kể cả khi bạn bị cấm (Ban) khỏi hệ thống do vi phạm luật, hoặc khi hệ thống máy chủ phải bảo trì/đóng cửa.",
+            "vipRevoke": "BQT có quyền thay đổi, điều chỉnh hoặc thu hồi các đặc quyền VIP bất cứ lúc nào nếu phát hiện lạm dụng."
+        },
+        "section5": {
+            "title": "5. Từ Chối Trách Nhiệm (Disclaimer of Warranties)",
+            "availabilityTitle": "Tính khả dụng",
+            "availabilityContent": "Hệ thống được vận hành \"AS IS\" (Có sao dùng vậy). Chúng tôi không cam kết máy chủ game hoặc web dashboard sẽ hoạt động 100% thời gian (Uptime) mà không có lỗi.",
+            "resetTitle": "Reset Dữ liệu",
+            "resetContent": "Để đảm bảo tính cân bằng (Ví dụ: các mùa giải mới / New Season), 7-Màu Community có toàn quyền xóa (wipe) toàn bộ dữ liệu thống kê (stats, rank, điểm tín dụng) bất cứ lúc nào mà không cần đền bù."
+        }
+    },
+    "privacy": {
+        "title": "Chính Sách Bảo Mật & Thu Thập Dữ Liệu",
+        "subtitle": "Privacy Policy · Cập nhật lần cuối: 01/03/2026",
+        "intro": "Web Dashboard zSystems — được phát triển bởi zhw1nq và 7-Màu TEAM — là cỗ máy xử lý dữ liệu khổng lồ nhằm mang lại các chỉ số thống kê (Stats) chi tiết nhất cho cộng đồng CS2 trên 7-mau.com. Dưới đây là cách chúng tôi thu thập và vận hành kho dữ liệu này.",
+        "section1": {
+            "title": "1. Dữ Liệu Hệ Thống Tự Động Thu Thập",
+            "note": "Ngay khi bạn kết nối vào server game hoặc đăng nhập vào hệ thống 7-mau.com, các crawler và plugin của chúng tôi sẽ lập tức thu thập:",
+            "basicDataTitle": "Dữ liệu Định danh cơ bản",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (mã nội bộ trên zSystems), Tên hiển thị hiện tại, Lịch sử đổi tên, URL Avatar, đường dẫn Steam Profile.",
+            "steamStatusTitle": "Trạng thái Tài khoản Steam",
+            "steamStatusContent": "Kiểm tra tự động trạng thái VAC Ban, Game Ban, Trade Ban và mức độ (Level) của tài khoản Steam thông qua Steam Web API.",
+            "serverDataTitle": "Dữ liệu Máy chủ (Server-side Data)",
+            "serverDataContent": "Địa chỉ IP mạng của bạn, Ping, thông tin quốc gia/khu vực.",
+            "telemetryTitle": "Dữ liệu In-game (Deep Telemetry Data)",
+            "telemetryContent": "Mọi hành động của bạn trong server đều được ghi lại. Bao gồm: Tọa độ di chuyển, lịch sử K/D/A, sát thương gây ra, vũ khí sử dụng, vị trí hit-box (headshot, chest, etc.), và dữ liệu log chat (văn bản)."
+        },
+        "section2": {
+            "title": "2. Sự Công Khai Của Dữ Liệu Thống Kê",
+            "note": "Đây là nền tảng cốt lõi của Web Dashboard zSystems.",
+            "publicData": "Toàn bộ các chỉ số in-game (Stats), Rank, ELO, Lịch sử trận đấu (Match History) và trạng thái online của bạn trên server 7-Màu là DỮ LIỆU CÔNG KHAI (PUBLIC DATA).",
+            "publicAccess": "Mọi người dùng truy cập vào *.7-mau.com đều có thể tìm kiếm và xem chi tiết hồ sơ (Player Profile) của bạn trên hệ thống của chúng tôi.",
+            "noPrivateProfile": "Không có ngoại lệ ẩn danh cho Stats: Bằng việc chơi trên server của chúng tôi, bạn chấp nhận rằng thành tích (và cả lịch sử bị cấm/ban) của bạn sẽ được hiển thị công khai trên Bảng Xếp Hạng. Chúng tôi không hỗ trợ việc \"ẩn profile\" (Private Profile) trên web dashboard để đảm bảo tính minh bạch cho cộng đồng."
+        },
+        "section3": {
+            "title": "3. Lưu Trữ Dữ Liệu Lịch Sử Vi Phạm (Ban Records)",
+            "banData": "Dữ liệu về các tài khoản vi phạm (Banned/Muted/Gagged) bao gồm 7ID, SteamID, Lý do cấm, Thời gian cấm và Tên hiển thị lúc vi phạm sẽ được lưu trữ vĩnh viễn và công khai trên hệ thống Ban List của zSystems.",
+            "sharing": "Hệ thống có thể chia sẻ các Ban List này với các cộng đồng/đối tác CS2 khác để xây dựng môi trường game sạch."
+        },
+        "section4": {
+            "title": "4. Sử Dụng Cookie & Session Web",
+            "note": "Web dashboard 7-mau.com sử dụng Cookies và Local Storage trên trình duyệt của bạn để:",
+            "cookieLogin": "Giữ trạng thái đăng nhập (Keep Logged In).",
+            "cookieUi": "Lưu trữ các tùy chọn giao diện (Dark Mode / Light Mode, ngôn ngữ hiển thị).",
+            "cookieAnalytics": "Theo dõi lưu lượng truy cập qua các công cụ phân tích (như Google Analytics) để BQT đánh giá hiệu suất của website."
+        },
+        "section5": {
+            "title": "5. Bảo Vệ Dữ Liệu Nội Bộ",
+            "content": "Mặc dù dữ liệu in-game của bạn là công khai trên Dashboard, các thông tin nhạy cảm ở cấp độ hệ thống như: Địa chỉ IP thực tế, lịch sử giao dịch (mua VIP), và lịch sử liên kết tài khoản (Discord/Steam) được mã hóa và bảo vệ nghiêm ngặt. Chỉ có Ban Quản Trị Cấp Cao (Root Admin) mới có quyền truy cập vào Database gốc."
+        },
+        "section6": {
+            "title": "6. Cách Liên Hệ Với BQT",
+            "intro": "Mọi vấn đề liên quan đến việc khiếu nại tài khoản, báo cáo lỗi web, hoặc các vấn đề liên quan đến điều khoản, vui lòng liên hệ trực tiếp qua kênh chính thức:",
+            "discordLabel": "Cổng Hỗ Trợ (Discord Ticket):",
+            "emailLabel": "Email Quản Trị Viên:"
+        }
+    }
+}

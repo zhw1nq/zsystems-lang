@@ -1,0 +1,144 @@
+{
+    "title": "Mod Pertempuran",
+    "subtitle": "Padanan Kompetitif 5v5",
+    "party": {
+        "title": "Pasukan Anda",
+        "solo": "Bermain solo",
+        "create": "Cipta Pasukan",
+        "invite": "Jemput melalui 7ID",
+        "invitePlaceholder": "Masukkan #7ID...",
+        "inviteButton": "Hantar Jemputan",
+        "leave": "Keluar Pasukan",
+        "disband": "Bubarkan Pasukan",
+        "full": "Pasukan penuh (5/5)",
+        "members": "{count}/5 ahli",
+        "leader": "Ketua",
+        "member": "Ahli",
+        "disbanded": "Pasukan telah dibubarkan"
+    },
+    "queue": {
+        "find": "CARI PADANAN",
+        "cancel": "BATAL",
+        "searching": "Mencari padanan...",
+        "estimatedWait": "Anggaran tunggu: {time}",
+        "playersInQueue": "{count} pemain sedang mencari",
+        "partiesInQueue": "{count} pasukan sedang mencari",
+        "cooldown": "Anda dalam tempoh penyejukan. Cuba lagi dalam {time}",
+        "memberCooldown": "{name} dalam tempoh penyejukan",
+        "emailRequired": "Semua ahli mesti mengesahkan e-mel mereka",
+        "leaderOnly": "Hanya ketua pasukan boleh mencari padanan"
+    },
+    "match": {
+        "found": "PADANAN DIJUMPAI!",
+        "accept": "TERIMA",
+        "decline": "TOLAK",
+        "accepted": "{count}/{total} menerima",
+        "timeRemaining": "{seconds}s",
+        "cancelled": "Padanan dibatalkan",
+        "cancelReason": {
+            "decline": "Seorang pemain menolak padanan",
+            "timeout": "Masa penerimaan tamat"
+        },
+        "teamA": "Pasukan A",
+        "teamB": "Pasukan B",
+        "myTeam": "PASUKAN ANDA",
+        "enemyTeam": "PASUKAN LAWAN",
+        "accepted_status": "Sedia",
+        "vs": "VS",
+        "captain": "Kapten",
+        "configuring": "Mengkonfigurasi pelayan...",
+        "live": "LANGSUNG",
+        "finished": "TAMAT",
+        "won": "MENANG",
+        "lost": "KALAH",
+        "draw": "SERI",
+        "starting": "PADANAN DIMULAKAN!!!"
+    },
+    "mapBan": {
+        "title": "LARANGAN PETA",
+        "yourTurn": "Giliran anda — Pilih peta untuk LARANG",
+        "enemyTurn": "Lawan sedang memilih...",
+        "waiting": "Menunggu...",
+        "banned": "Dilarang",
+        "remaining": "Baki: {count} peta",
+        "decided": "Peta Padanan",
+        "timePerBan": "{seconds}s",
+        "pickSide": "Pilih Sisi",
+        "pickSideDesc": "Pasukan B memilih sisi permulaan",
+        "ct": "Counter-Terrorist",
+        "t": "Terrorist"
+    },
+    "stats": {
+        "title": "Statistik",
+        "matches": "Padanan",
+        "wins": "Menang",
+        "losses": "Kalah",
+        "draws": "Seri",
+        "winRate": "Kadar Menang",
+        "kd": "K/D",
+        "kills": "Bunuh",
+        "deaths": "Mati",
+        "assists": "Bantuan",
+        "mvps": "MVP",
+        "winStreak": "Rentetan Menang",
+        "bestStreak": "Rentetan Terbaik",
+        "recentMatches": "Padanan Terkini",
+        "noMatches": "Belum bermain sebarang padanan"
+    },
+    "leaderboard": {
+        "title": "Papan Pendahulu",
+        "rank": "#",
+        "player": "Pemain",
+        "matches": "Padanan",
+        "wins": "Menang",
+        "winRate": "Menang %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "Jemputan Pasukan",
+        "from": "{name} menjemput anda ke pasukannya",
+        "accept": "Terima",
+        "decline": "Tolak",
+        "expired": "Jemputan telah tamat tempoh",
+        "notFound": "Pemain tidak dijumpai",
+        "sent": "Jemputan dihantar",
+        "alreadySent": "Jemputan telah dihantar kepada pemain ini"
+    },
+    "cooldown": {
+        "active": "Penyejukan Aktif",
+        "remaining": "Baki: {time}",
+        "reason": {
+            "decline": "Menolak padanan",
+            "timeout": "Masa penerimaan tamat",
+            "abandon": "Meninggalkan padanan",
+            "toxic": "Tingkah laku negatif"
+        }
+    },
+    "history": {
+        "title": "Sejarah Padanan",
+        "noHistory": "Tiada sejarah padanan lagi",
+        "map": "Peta",
+        "score": "Skor",
+        "result": "Keputusan",
+        "date": "Tarikh"
+    },
+    "errors": {
+        "matchNotFound": "Padanan tidak dijumpai",
+        "invalidState": "Keadaan padanan telah berubah",
+        "notYourTurn": "Bukan giliran pasukan anda",
+        "notCaptain": "Hanya kapten boleh melakukan tindakan ini",
+        "mapAlreadyBanned": "Peta ini telah dilarang",
+        "notInMatch": "Anda tidak berada dalam padanan ini",
+        "notAuthorized": "Anda tidak dibenarkan",
+        "validationError": "Data tidak sah",
+        "networkError": "Ralat sambungan, sila cuba lagi",
+        "unknown": "Ralat berlaku",
+        "matchDeclined": "Seorang pemain telah menolak padanan",
+        "matchTimeout": "Masa penerimaan padanan tamat",
+        "matchCancelled": "Padanan telah dibatalkan"
+    },
+    "experimental": {
+        "title": "Ciri Percubaan",
+        "description": "Ciri ini sedang dalam pembangunan. Hanya antara muka pengguna (UI) tersedia dan tiada tindakan boleh dilakukan dalam persekitaran ini."
+    }
+}

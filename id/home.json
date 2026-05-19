@@ -1,0 +1,38 @@
+{
+    "hero": {
+        "explore": "Jelajahi",
+        "store": "Toko",
+        "letsPlayNow": "Ayo Main Sekarang!",
+        "wantToBeVip": "Ingin jadi VIP?",
+        "loginToZsystems": "Masuk ke zSystems",
+        "weaponSkins": "Skin Senjata",
+        "ranks": "Peringkat",
+        "contact": "Kontak",
+        "getDemo": "Dapatkan Demo",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "Main Sekarang",
+        "login": "Masuk",
+        "changeSkins": "Ubah Skin Senjata"
+    },
+    "nav": {
+        "community": "Komunitas",
+        "ranks": "Peringkat",
+        "support": "Dukungan"
+    },
+    "stats": {
+        "uptime": "UPTIME",
+        "ping": "PING",
+        "players6h": "PEMAIN / 6J"
+    },
+    "footer": {
+        "selectLanguage": "Pilih bahasa",
+        "language": "Bahasa Indonesia",
+        "privacy": "Kebijakan Privasi",
+        "terms": "Ketentuan Layanan",
+        "contact": "Kontak",
+        "poweredBy": "Didukung oleh zSystems — Dikembangkan oleh zhw1nq & 7-Mau TEAM"
+    },
+    "character": {
+        "name": "7-CHAN"
+    }
+}

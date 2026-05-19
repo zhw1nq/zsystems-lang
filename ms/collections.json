@@ -1,0 +1,81 @@
+{
+    "title": "Koleksi Kulit",
+    "description": "Terokai dan kongsi koleksi kulit dengan komuniti",
+    "tabs": {
+        "community": "Komuniti",
+        "my": "Koleksi Saya"
+    },
+    "sort": {
+        "newest": "Terbaharu",
+        "mostLiked": "Paling Disukai",
+        "mostUsed": "Paling Digunakan"
+    },
+    "card": {
+        "items": "{count} item",
+        "uses": "{count} penggunaan",
+        "likes": "{count} suka",
+        "comments": "{count} komen",
+        "by": "oleh {author}",
+        "public": "Awam",
+        "private": "Peribadi"
+    },
+    "create": {
+        "button": "Cipta Baharu",
+        "title": "Cipta Koleksi",
+        "name": "Nama Koleksi",
+        "namePlaceholder": "cth. AWP Dragon Lore + Butterfly Fade",
+        "description": "Penerangan",
+        "descPlaceholder": "Terangkan koleksi anda...",
+        "visibility": "Awam",
+        "preview": "Loadout Semasa",
+        "previewDesc": "{skins} kulit, {knives} pisau, {gloves} sarung tangan, {agents} ejen, {music} muzik, {pins} pin",
+        "submit": "Cipta Koleksi",
+        "success": "Koleksi berjaya dicipta!",
+        "error": "Gagal mencipta koleksi",
+        "limitReached": "Anda telah mencapai had {max} koleksi",
+        "emptyLoadout": "Loadout semasa anda kosong, tiada apa untuk disimpan"
+    },
+    "detail": {
+        "apply": "Guna Koleksi",
+        "applyConfirmTitle": "Guna Koleksi?",
+        "applyConfirmDesc": "Loadout semasa anda akan ditulis ganti sepenuhnya dengan item daripada koleksi ini. Tindakan ini tidak boleh dibatalkan.",
+        "applySuccess": "Koleksi berjaya digunakan!",
+        "applyError": "Gagal menggunakan koleksi",
+        "delete": "Padam",
+        "deleteConfirmTitle": "Padam Koleksi?",
+        "deleteConfirmDesc": "Adakah anda pasti mahu memadam koleksi ini? Tindakan ini tidak boleh dibatalkan.",
+        "edit": "Sunting",
+        "skins": "Kulit",
+        "knives": "Pisau",
+        "gloves": "Sarung Tangan",
+        "agents": "Ejen",
+        "music": "Muzik",
+        "pins": "Pin"
+    },
+    "comment": {
+        "title": "Komen",
+        "placeholder": "Tulis komen...",
+        "submit": "Siarkan",
+        "empty": "Tiada komen lagi",
+        "deleteConfirm": "Padam komen ini?",
+        "error": "Gagal menyiarkan komen",
+        "loginRequired": "Log masuk untuk memberi komen"
+    },
+    "empty": {
+        "community": "Tiada koleksi lagi. Jadilah yang pertama berkongsi!",
+        "my": "Anda belum mencipta sebarang koleksi.",
+        "noItems": "Koleksi kosong"
+    },
+    "toast": {
+        "liked": "Koleksi disukai",
+        "unliked": "Koleksi tidak disukai",
+        "deleted": "Koleksi dipadam",
+        "updated": "Koleksi dikemas kini",
+        "tooFast": "Terlalu pantas!",
+        "tooFastDesc": "Sila tunggu sebelum melakukan tindakan seterusnya",
+        "copiedId": "ID disalin",
+        "applied": "Koleksi digunakan!",
+        "applyError": "Gagal menggunakan"
+    },
+    "search": "Cari koleksi..."
+}

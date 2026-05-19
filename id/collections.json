@@ -1,0 +1,81 @@
+{
+    "title": "Koleksi Skin",
+    "description": "Temukan dan bagikan koleksi skin dengan komunitas",
+    "tabs": {
+        "community": "Komunitas",
+        "my": "Koleksi Saya"
+    },
+    "sort": {
+        "newest": "Terbaru",
+        "mostLiked": "Paling Disukai",
+        "mostUsed": "Paling Digunakan"
+    },
+    "card": {
+        "items": "{count} item",
+        "uses": "{count} penggunaan",
+        "likes": "{count} suka",
+        "comments": "{count} komentar",
+        "by": "oleh {author}",
+        "public": "Publik",
+        "private": "Privat"
+    },
+    "create": {
+        "button": "Buat Baru",
+        "title": "Buat Koleksi",
+        "name": "Nama Koleksi",
+        "namePlaceholder": "mis. AWP Dragon Lore + Butterfly Fade",
+        "description": "Deskripsi",
+        "descPlaceholder": "Jelaskan koleksi Anda...",
+        "visibility": "Publik",
+        "preview": "Loadout Saat Ini",
+        "previewDesc": "{skins} skin, {knives} pisau, {gloves} sarung tangan, {agents} agen, {music} musik, {pins} pin",
+        "submit": "Buat Koleksi",
+        "success": "Koleksi berhasil dibuat!",
+        "error": "Gagal membuat koleksi",
+        "limitReached": "Anda telah mencapai batas {max} koleksi",
+        "emptyLoadout": "Loadout Anda saat ini kosong, tidak ada yang disimpan"
+    },
+    "detail": {
+        "apply": "Terapkan Koleksi",
+        "applyConfirmTitle": "Terapkan Koleksi?",
+        "applyConfirmDesc": "Loadout Anda saat ini akan sepenuhnya diganti dengan item dari koleksi ini. Tindakan ini tidak dapat dibatalkan.",
+        "applySuccess": "Koleksi berhasil diterapkan!",
+        "applyError": "Gagal menerapkan koleksi",
+        "delete": "Hapus",
+        "deleteConfirmTitle": "Hapus Koleksi?",
+        "deleteConfirmDesc": "Yakin ingin menghapus koleksi ini? Tindakan ini tidak dapat dibatalkan.",
+        "edit": "Edit",
+        "skins": "Skin",
+        "knives": "Pisau",
+        "gloves": "Sarung Tangan",
+        "agents": "Agen",
+        "music": "Musik",
+        "pins": "Pin"
+    },
+    "comment": {
+        "title": "Komentar",
+        "placeholder": "Tulis komentar...",
+        "submit": "Kirim",
+        "empty": "Belum ada komentar",
+        "deleteConfirm": "Hapus komentar ini?",
+        "error": "Gagal mengirim komentar",
+        "loginRequired": "Masuk untuk berkomentar"
+    },
+    "empty": {
+        "community": "Belum ada koleksi. Jadilah yang pertama berbagi!",
+        "my": "Anda belum membuat koleksi.",
+        "noItems": "Koleksi kosong"
+    },
+    "toast": {
+        "liked": "Koleksi disukai",
+        "unliked": "Suka koleksi dibatalkan",
+        "deleted": "Koleksi dihapus",
+        "updated": "Koleksi diperbarui",
+        "tooFast": "Terlalu cepat!",
+        "tooFastDesc": "Tunggu sebelum melakukan tindakan berikutnya",
+        "copiedId": "ID disalin",
+        "applied": "Koleksi diterapkan!",
+        "applyError": "Gagal menerapkan"
+    },
+    "search": "Cari koleksi..."
+}

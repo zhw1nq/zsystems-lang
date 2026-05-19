@@ -1,0 +1,73 @@
+{
+    "models": {
+        "title": "zModels",
+        "description": "SVIP အတွက် သီးသန့် ကစားသမား မော်ဒယ်များ",
+        "equipped": "တပ်ဆင်ပြီး",
+        "equip": "တပ်ဆင်",
+        "unequip": "ဖြုတ်",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "ကိုယ်ပိုင်",
+        "search": "မော်ဒယ် ရှာဖွေ...",
+        "noResults": "မော်ဒယ် မတွေ့ပါ",
+        "accessDenied": "ဤအင်္ဂါရပ်ကို အသုံးပြုရန် SVIP လိုအပ်သည်",
+        "notLoggedIn": "ဤအင်္ဂါရပ်ကို အသုံးပြုရန် ဝင်ရောက်ပါ",
+        "selectCategory": "အမျိုးအစား ရွေးချယ်"
+    },
+    "weapons": {
+        "title": "zWeapons",
+        "description": "SVIP အတွက် သီးသန့် လက်နက်အရောင်",
+        "equipped": "တပ်ဆင်ပြီး",
+        "equip": "တပ်ဆင်",
+        "unequip": "ဖြုတ်",
+        "search": "လက်နက် ရှာဖွေ...",
+        "noResults": "လက်နက် မတွေ့ပါ",
+        "selectPack": "Skin pack ရွေးချယ်",
+        "selectWeapon": "လက်နက်အမျိုးအစား ရွေးချယ်",
+        "viewByType": "လက်နက်အမျိုးအစားအလိုက် ကြည့်ရန်",
+        "viewByPack": "Skin pack အလိုက် ကြည့်ရန်",
+        "accessDenied": "ဤအင်္ဂါရပ်ကို အသုံးပြုရန် SVIP လိုအပ်သည်",
+        "notLoggedIn": "ဤအင်္ဂါရပ်ကို အသုံးပြုရန် ဝင်ရောက်ပါ",
+        "categories": {
+            "rifles": "Rifles",
+            "pistols": "Pistols",
+            "smgs": "SMGs",
+            "heavy": "Heavy",
+            "knives": "ဓားများ",
+            "grenades": "လက်ပစ်ဗုံများ"
+        }
+    },
+    "common": {
+        "locked": "SVIP လိုအပ်သည်",
+        "lockedDesc": "ဤအင်္ဂါရပ်သည် SVIP အသုံးပြုသူများအတွက်သာ ဖြစ်သည်။ ဖွင့်ရန် အဆင့်မြှင့်ပါ။",
+        "loading": "ဖွင့်နေသည်...",
+        "equipSuccess": "အောင်မြင်စွာ တပ်ဆင်ပြီး",
+        "equipSuccessDesc": "{name} တပ်ဆင်ပြီး",
+        "unequipSuccess": "ဖြုတ်ပြီး",
+        "unequipSuccessDesc": "{name} ဖယ်ရှားပြီး",
+        "equipFailed": "တပ်ဆင်၍ မရပါ",
+        "unequipFailed": "ဖြုတ်၍ မရပါ",
+        "tooFast": "အလွန်မြန်သည်",
+        "tooFastDesc": "နောက်လုပ်ဆောင်ချက်မလုပ်မီ ခဏစောင့်ပါ",
+        "allWeapons": "အားလုံး"
+    },
+    "mvp": {
+        "title": "zMVP",
+        "description": "စိတ်ကြိုက် MVP သီချင်းများ တပ်ဆင်ပါ",
+        "search": "MVP ရှာဖွေ...",
+        "noResults": "MVP မတွေ့ပါ",
+        "free": "FREE",
+        "vip": "VIP",
+        "svip": "SVIP",
+        "admin": "ADMIN",
+        "preview": "နမူနာကြည့်",
+        "stop": "ရပ်",
+        "apply": "အသုံးပြု",
+        "unequip": "ဖြုတ်",
+        "equipped": "တပ်ဆင်ပြီး",
+        "lockedVip": "VIP လိုအပ်သည်",
+        "lockedVipDesc": "ဤအင်္ဂါရပ်သည် VIP အသုံးပြုသူများအတွက်သာ ဖြစ်သည်။",
+        "lockedSvip": "SVIP လိုအပ်သည်",
+        "lockedSvipDesc": "ဤအင်္ဂါရပ်သည် SVIP အသုံးပြုသူများအတွက်သာ ဖြစ်သည်။ ဖွင့်ရန် အဆင့်မြှင့်ပါ။"
+    }
+}

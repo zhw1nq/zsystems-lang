@@ -1,0 +1,92 @@
+{
+    "terms": {
+        "title": "Terms of Service Agreement",
+        "subtitle": "Terms of Service · Last updated: 03/01/2026",
+        "scope": "Applies to: Website 7-mau.com, all subdomains *.7-mau.com, zSystems Web Dashboard, and all Counter-Strike 2 game servers of 7-Mau Community.",
+        "intro": "By logging into the website through Steam or connecting to any 7-Mau Community game server, you automatically acknowledge that you have read, understood, and unconditionally agree to all the terms below. If you do not agree, your only right is to immediately stop using the service.",
+        "section1": {
+            "title": "1. Accounts and System Identification",
+            "steamAuthTitle": "Steam Authentication",
+            "steamAuthContent": "Our system uses Valve's official API for Steam OpenID authentication. We do not request or store your Steam password. You are responsible for the security of your Steam account.",
+            "identityTitle": "User Identification",
+            "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
+        },
+        "section2": {
+            "title": "2. Zero-Tolerance Anti-Cheat Policy",
+            "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
+            "permBanTitle": "Permanent Ban",
+            "permBanContent": "Using third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) that interferes with the game will result in your SteamID and IP being permanently banned from the entire system (Web & Game Server).",
+            "demoTitle": "Demo Parsing",
+            "demoContent": "Our system automatically stores and analyzes Replay/Demo of every match. 7-Mau's admin team has full authority to use this data to make ban decisions without providing source code evidence or detection algorithms to violators.",
+            "evasionTitle": "Ban Evasion",
+            "evasionContent": "Any attempt to create new accounts (Smurf) to circumvent a ban will result in the system automatically banning all related accounts."
+        },
+        "section3": {
+            "title": "3. Data & Network Exploitation Rules",
+            "ownershipTitle": "7-Mau's Ownership",
+            "ownershipContent": "All processed statistical data, rankings (Rank/ELO), and display structures on *.7-mau.com are property of 7-Mau Community.",
+            "scrapingTitle": "Anti-Scraping Policy",
+            "scrapingContent": "You are NOT ALLOWED to use bots, spiders, scrapers, or any automated tools to extract bulk data from our website. Intentionally sending mass requests (API spam) that affect dashboard performance will be considered a cyber attack (DoS/DDoS) and will be blocked at the Cloudflare/Firewall level immediately."
+        },
+        "section4": {
+            "title": "4. VIP Benefits & Donations",
+            "donationNote": "All payments for VIP packages, skins, or in-game privileges are considered voluntary donations to maintain the servers.",
+            "noRefundTitle": "No Refunds",
+            "noRefundContent": "We do not accept refunds in any form, even if you are banned from the system for rule violations, or when the server system undergoes maintenance/shutdown.",
+            "vipRevoke": "The admin team reserves the right to change, adjust, or revoke VIP privileges at any time if abuse is detected."
+        },
+        "section5": {
+            "title": "5. Disclaimer of Warranties",
+            "availabilityTitle": "Availability",
+            "availabilityContent": "The system is operated \"AS IS\". We do not guarantee that game servers or the web dashboard will operate 100% of the time (Uptime) without errors.",
+            "resetTitle": "Data Reset",
+            "resetContent": "To ensure balance (e.g., new seasons), 7-Mau Community has full authority to wipe all statistical data (stats, rank, credit points) at any time without compensation."
+        }
+    },
+    "privacy": {
+        "title": "Privacy & Data Collection Policy",
+        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
+        "intro": "Web Dashboard zSystems — developed by zhw1nq and 7-Mau TEAM — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on 7-mau.com. Below is how we collect and operate this data repository.",
+        "section1": {
+            "title": "1. Automatically Collected System Data",
+            "note": "As soon as you connect to a game server or log into 7-mau.com, our crawlers and plugins will immediately collect:",
+            "basicDataTitle": "Basic Identity Data",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code on zSystems), Current display name, Name change history, Avatar URL, Steam Profile link.",
+            "steamStatusTitle": "Steam Account Status",
+            "steamStatusContent": "Automatic checking of VAC Ban, Game Ban, Trade Ban status and Steam account Level through Steam Web API.",
+            "serverDataTitle": "Server-side Data",
+            "serverDataContent": "Your network IP address, Ping, country/region information.",
+            "telemetryTitle": "In-game Data (Deep Telemetry Data)",
+            "telemetryContent": "All of your actions in the server are recorded. Including: Movement coordinates, K/D/A history, damage dealt, weapons used, hit-box positions (headshot, chest, etc.), and chat log data (text)."
+        },
+        "section2": {
+            "title": "2. Public Nature of Statistical Data",
+            "note": "This is the core foundation of Web Dashboard zSystems.",
+            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
+            "publicAccess": "Any user visiting *.7-mau.com can search for and view your detailed Player Profile on our system.",
+            "noPrivateProfile": "No anonymity exception for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the Leaderboard. We do not support \"hiding profiles\" (Private Profile) on the web dashboard to ensure transparency for the community."
+        },
+        "section3": {
+            "title": "3. Ban Records Data Storage",
+            "banData": "Data about violating accounts (Banned/Muted/Gagged) including 7ID, SteamID, Ban reason, Ban duration, and Display name at the time of violation will be stored permanently and publicly on the zSystems Ban List.",
+            "sharing": "The system may share these Ban Lists with other CS2 communities/partners to build a clean gaming environment."
+        },
+        "section4": {
+            "title": "4. Cookie & Web Session Usage",
+            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage on your browser to:",
+            "cookieLogin": "Maintain login state (Keep Logged In).",
+            "cookieUi": "Store interface preferences (Dark Mode / Light Mode, display language).",
+            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) for the admin team to evaluate website performance."
+        },
+        "section5": {
+            "title": "5. Internal Data Protection",
+            "content": "Although your in-game data is public on the Dashboard, sensitive system-level information such as: actual IP addresses, transaction history (VIP purchases), and account linking history (Discord/Steam) are encrypted and strictly protected. Only Senior Admin (Root Admin) has access to the original Database."
+        },
+        "section6": {
+            "title": "6. How to Contact Admin",
+            "intro": "For any issues related to account appeals, web bug reports, or terms-related matters, please contact us directly through official channels:",
+            "discordLabel": "Support Portal (Discord Ticket):",
+            "emailLabel": "Admin Email:"
+        }
+    }
+}

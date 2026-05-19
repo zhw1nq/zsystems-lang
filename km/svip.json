@@ -1,0 +1,73 @@
+{
+    "models": {
+        "title": "zModels",
+        "description": "ម៉ូដែលអ្នកលេងពិសេសសម្រាប់ SVIP",
+        "equipped": "បានដាក់",
+        "equip": "ដាក់",
+        "unequip": "ដកចេញ",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "ឯកជន",
+        "search": "ស្វែងរកម៉ូដែល...",
+        "noResults": "រកមិនឃើញម៉ូដែល",
+        "accessDenied": "ត្រូវការសិទ្ធិ SVIP ដើម្បីប្រើមុខងារនេះ",
+        "notLoggedIn": "សូមចូលដើម្បីប្រើមុខងារនេះ",
+        "selectCategory": "ជ្រើសរើសប្រភេទ"
+    },
+    "weapons": {
+        "title": "zWeapons",
+        "description": "Skin អាវុធពិសេសសម្រាប់ SVIP",
+        "equipped": "បានដាក់",
+        "equip": "ដាក់",
+        "unequip": "ដកចេញ",
+        "search": "ស្វែងរកអាវុធ...",
+        "noResults": "រកមិនឃើញអាវុធ",
+        "selectPack": "ជ្រើសរើសកញ្ចប់ skin",
+        "selectWeapon": "ជ្រើសរើសប្រភេទអាវុធ",
+        "viewByType": "មើលតាមប្រភេទអាវុធ",
+        "viewByPack": "មើលតាមកញ្ចប់ skin",
+        "accessDenied": "ត្រូវការសិទ្ធិ SVIP ដើម្បីប្រើមុខងារនេះ",
+        "notLoggedIn": "សូមចូលដើម្បីប្រើមុខងារនេះ",
+        "categories": {
+            "rifles": "កាំភ្លើងវែង",
+            "pistols": "កាំភ្លើងខ្លី",
+            "smgs": "SMG",
+            "heavy": "ធ្ងន់",
+            "knives": "កាំបិត",
+            "grenades": "គ្រាប់បែក"
+        }
+    },
+    "common": {
+        "locked": "ត្រូវការ SVIP",
+        "lockedDesc": "មុខងារនេះពិសេសសម្រាប់អ្នកប្រើ SVIP។ ដំឡើងដើម្បីដោះសោ។",
+        "loading": "កំពុងផ្ទុក...",
+        "equipSuccess": "ដាក់ដោយជោគជ័យ",
+        "equipSuccessDesc": "បានដាក់ {name}",
+        "unequipSuccess": "បានដកចេញ",
+        "unequipSuccessDesc": "បានដក {name} ចេញ",
+        "equipFailed": "ដាក់មិនបាន",
+        "unequipFailed": "ដកចេញមិនបាន",
+        "tooFast": "លឿនពេក",
+        "tooFastDesc": "សូមរង់ចាំមុនធ្វើសកម្មភាពផ្សេង",
+        "allWeapons": "ទាំងអស់"
+    },
+    "mvp": {
+        "title": "zMVP",
+        "description": "ដាក់បទចម្រៀង MVP តាមបំណង",
+        "search": "ស្វែងរក MVP...",
+        "noResults": "រកមិនឃើញ MVP",
+        "free": "ឥតគិតថ្លៃ",
+        "vip": "VIP",
+        "svip": "SVIP",
+        "admin": "ADMIN",
+        "preview": "មើលជាមុន",
+        "stop": "បញ្ឈប់",
+        "apply": "អនុវត្ត",
+        "unequip": "ដកចេញ",
+        "equipped": "បានដាក់",
+        "lockedVip": "ត្រូវការ VIP",
+        "lockedVipDesc": "មុខងារនេះពិសេសសម្រាប់អ្នកប្រើ VIP។",
+        "lockedSvip": "ត្រូវការ SVIP",
+        "lockedSvipDesc": "មុខងារនេះពិសេសសម្រាប់អ្នកប្រើ SVIP។ ដំឡើងដើម្បីដោះសោ។"
+    }
+}

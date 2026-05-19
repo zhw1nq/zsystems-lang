@@ -1,0 +1,41 @@
+{
+    "title": "ສະກິນ",
+    "description": "ຄົ້ນຫາ ແລະ ປັບແຕ່ງສະກິນອາວຸດ CS2 ຂອງທ່ານ",
+    "tabs": {
+        "weaponSkins": "ສະກິນອາວຸດ",
+        "agents": "ຕົວລະຄອນ",
+        "musicKits": "ຊຸດເພງ",
+        "pinsCoins": "Pins & Coins"
+    },
+    "categories": {
+        "gloves": "ຖົງມື",
+        "rifles": "ປືນໄຮ້",
+        "knives": "ມີດ",
+        "smgs": "SMG",
+        "pistols": "ປືນສັ້ນ",
+        "heavy": "ອາວຸດໜັກ",
+        "equipment": "ອຸປະກອນ"
+    },
+    "team": {
+        "both": "ທັງສອງທີມ",
+        "ct": "ຝ່າຍ CT",
+        "t": "ຝ່າຍ T"
+    },
+    "search": "ຄົ້ນຫາສະກິນ...",
+    "noResults": "ບໍ່ພົບສະກິນ",
+    "selectWeapon": "ເລືອກອາວຸດເພື່ອເບິ່ງສະກິນ",
+    "loginRequired": "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອໃຊ້ສະກິນ",
+    "loading": "ກຳລັງໂຫຼດສະກິນ...",
+    "itemCount": "{count} ລາຍການ",
+    "toast": {
+        "tooFast": "ໄວເກີນໄປ!",
+        "tooFastDesc": "ກະລຸນາລໍຖ້າ 2 ວິນາທີກ່ອນລອງໃໝ່",
+        "equipped": "ສວມໃສ່ແລ້ວ!",
+        "equippedDesc": "ສວມໃສ່ {name} ສຳເລັດ",
+        "unequipped": "ຖອດອອກແລ້ວ!",
+        "unequippedDesc": "ຖອດ {name} ອອກແລ້ວ",
+        "equipFailed": "ສວມໃສ່ບໍ່ສຳເລັດ",
+        "unequipFailed": "ຖອດອອກບໍ່ສຳເລັດ",
+        "unknownError": "ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
+    }
+}

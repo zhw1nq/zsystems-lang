@@ -1,0 +1,41 @@
+{
+    "title": "Kulit",
+    "description": "Layari dan sesuaikan kulit senjata CS2 anda",
+    "tabs": {
+        "weaponSkins": "Kulit Senjata",
+        "agents": "Ejen",
+        "musicKits": "Kit Muzik",
+        "pinsCoins": "Pin & Syiling"
+    },
+    "categories": {
+        "gloves": "Sarung Tangan",
+        "rifles": "Raifal",
+        "knives": "Pisau",
+        "smgs": "SMG",
+        "pistols": "Pistol",
+        "heavy": "Berat",
+        "equipment": "Peralatan"
+    },
+    "team": {
+        "both": "Kedua-dua Pasukan",
+        "ct": "Pasukan CT",
+        "t": "Pasukan T"
+    },
+    "search": "Cari kulit...",
+    "noResults": "Tiada kulit dijumpai",
+    "selectWeapon": "Pilih senjata untuk layari kulit",
+    "loginRequired": "Sila log masuk untuk menggunakan Kulit",
+    "loading": "Memuatkan kulit...",
+    "itemCount": "{count} item",
+    "toast": {
+        "tooFast": "Terlalu pantas!",
+        "tooFastDesc": "Sila tunggu 2s sebelum mencuba lagi",
+        "equipped": "Dipakai!",
+        "equippedDesc": "{name} berjaya dipakai",
+        "unequipped": "Ditanggalkan!",
+        "unequippedDesc": "{name} dialih keluar",
+        "equipFailed": "Gagal memakai",
+        "unequipFailed": "Gagal menanggalkan",
+        "unknownError": "Ralat tidak diketahui"
+    }
+}

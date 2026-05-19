@@ -1,0 +1,159 @@
+{
+    "title": "ផ្ទាំងគ្រប់គ្រង",
+    "subtitle": "ទិដ្ឋភាពទូទៅ និងគ្រប់គ្រងម៉ាស៊ីនមេ",
+    "servers": {
+        "title": "ម៉ាស៊ីនមេ",
+        "count": "{count} ម៉ាស៊ីនមេ",
+        "allServers": "ម៉ាស៊ីនមេទាំងអស់",
+        "noServers": "មិនមានម៉ាស៊ីនមេក្នុងក្រុមនេះ"
+    },
+    "serverCard": {
+        "connect": "ភ្ជាប់",
+        "noMap": "គ្មានផែនទី",
+        "players": "{current}/{max} អ្នកលេង",
+        "offline": "ក្រៅបណ្តាញ",
+        "noInfo": "គ្មានព័ត៌មានម៉ាស៊ីនមេ។"
+    },
+    "serverDetail": {
+        "players": "អ្នកលេង",
+        "noPlayers": "គ្មានអ្នកលេង",
+        "teamCT": "Counter-Terrorists",
+        "teamT": "Terrorists",
+        "teamUnassigned": "មិនទាន់កំណត់",
+        "serverInfo": "ព័ត៌មានម៉ាស៊ីនមេ",
+        "chat": "ជជែក",
+        "contextMenu": {
+            "viewSteamProfile": "មើលគណនី",
+            "copySteamId": "ចម្លង SteamID",
+            "copyPlayerName": "ចម្លងឈ្មោះអ្នកលេង",
+            "copyStats": "ចម្លងស្ថិតិ",
+            "viewStats": "មើលគណនី"
+        },
+        "spectators": "អ្នកមើល",
+        "noSpectators": "គ្មានអ្នកមើល",
+        "copied": "បានចម្លង {label}",
+        "unknown": "មិនស្គាល់"
+    },
+    "stats": {
+        "totalServers": "ម៉ាស៊ីនមេសរុប",
+        "playersOnline": "អ្នកលេងអនឡាញ",
+        "totalBans": "ការហាមឃាត់សរុប",
+        "totalMutes": "Mute សរុប",
+        "kills": "K",
+        "deaths": "D",
+        "score": "ពិន្ទុ"
+    },
+    "penalty": {
+        "title": "ទណ្ឌកម្ម",
+        "bans": "ការហាមឃាត់",
+        "mutes": "Mute",
+        "records": "{count} កំណត់ត្រា",
+        "noRecords": "រកមិនឃើញកំណត់ត្រា",
+        "player": "អ្នកលេង",
+        "status": "ស្ថានភាព",
+        "type": "ប្រភេទ",
+        "reason": "មូលហេតុ",
+        "duration": "រយៈពេល",
+        "timeLeft": "នៅសល់",
+        "admin": "Admin",
+        "removeReason": "មូលហេតុលុប",
+        "dateTime": "កាលបរិច្ឆេទ / ពេល",
+        "statusActive": "សកម្ម",
+        "statusExpired": "ផុតកំណត់",
+        "statusUnbanned": "បានដោះហាមឃាត់",
+        "permanent": "អចិន្ត្រៃយ៍",
+        "expired": "ផុតកំណត់",
+        "viewAll": "មើលទាំងអស់",
+        "durationMinutes": "{value} នាទី",
+        "durationHours": "{value} ម៉ោង",
+        "durationDays": "{value} ថ្ងៃ",
+        "page": "ទំព័រ {page}/{total}",
+        "previous": "មុន",
+        "next": "បន្ទាប់",
+        "ctx": {
+            "viewSteam": "មើលគណនី",
+            "comment": "មតិ",
+            "reban": "ហាមឃាត់ម្តងទៀត",
+            "remute": "Mute ម្តងទៀត",
+            "editBan": "កែការហាមឃាត់",
+            "editMute": "កែ Mute",
+            "removeBan": "លុបការហាមឃាត់",
+            "removeMute": "លុប Mute",
+            "deleteBan": "លុបការហាមឃាត់",
+            "deleteMute": "លុប Mute"
+        }
+    },
+    "playerAction": {
+        "adminActions": "សកម្មភាព Admin",
+        "duration": "រយៈពេល",
+        "permanent": "អចិន្ត្រៃយ៍",
+        "reason": "មូលហេតុ",
+        "reasonPlaceholder": "បញ្ចូលមូលហេតុទណ្ឌកម្ម...",
+        "reasonRequired": "សូមបញ្ចូលមូលហេតុ",
+        "muteGroup": "ការទប់សំឡេង/អត្ថបទ",
+        "actions": {
+            "ban": "ហាមឃាត់អ្នកលេង",
+            "kick": "ដេញចេញពីម៉ាស៊ីនមេ",
+            "mute": "Mute សំឡេង",
+            "gag": "Gag អត្ថបទ",
+            "silence": "ទប់ទាំងអស់"
+        },
+        "success": "បានអនុវត្ត {action} លើ {player} ដោយជោគជ័យ",
+        "failed": "សកម្មភាពមិនបាន",
+        "socialLink": "តំណភ្ជាប់សង្គម",
+        "statsChecker": "STATS CHECKER"
+    },
+    "privilege": {
+        "title": "សិទ្ធិម៉ាស៊ីនមេ",
+        "description": "ដំឡើងគណនីដើម្បីដោះសោ cosmetics ពិសេស និងចូលប្រើអាទិភាព។ ជ្រើសថ្នាក់ដែលសមរម្យ។",
+        "discount": "សន្សំ",
+        "month1": "១ ខែ",
+        "months3": "៣ ខែ",
+        "mostPopular": "ពេញនិយមបំផុត",
+        "periodMonthly": "/ ៣១ ថ្ងៃ",
+        "periodQuarterly": "/ ៩០ ថ្ងៃ",
+        "currentPlan": "ផែនការបច្ចុប្បន្ន",
+        "tiers": {
+            "member": {
+                "name": "FREE",
+                "priceMonthly": "FREE",
+                "priceQuarterly": "FREE",
+                "description": "បទពិសោធន៍មូលដ្ឋាន",
+                "button": "លេងឥឡូវ"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "កិត្តិយសខ្ពស់បំផុត",
+                "button": "ដំឡើង"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "បទពិសោធន៍កែលម្អ",
+                "button": "ដំឡើង"
+            }
+        },
+        "features": {
+            "customSkins": "ប្តូរកាំបិត កងដៃ អាវុផ",
+            "createCollections": "បង្កើតការប្រមូល Skin",
+            "mvpPackFree": "ប្រើកញ្ចប់ MVP ឥតគិតថ្លៃ",
+            "publicServers": "ចូលម៉ាស៊ីនមេសហគមន៍",
+            "prioritySlot": "ចូលមុខជាមុន",
+            "fastSupport": "ជំនួយ Admin អាទិភាព",
+            "mvpPackVip": "ដោះសោកញ្ចប់ MVP VIP",
+            "customLoadout": "កំណត់ Loadout តាមបំណង",
+            "agentWibu3D": "Agents 3D Wibu ពិសេស",
+            "weaponWibu3D": "អាវុធ 3D Wibu ពិសេស",
+            "adminPrivileges": "សិទ្ធិ Admin ពិសេស"
+        }
+    },
+    "support": {
+        "title": "ក្រុមជំនួយ",
+        "description": "មនុស្សដែលតែងតែរួចរាល់ជួយអ្នកនៅ 7-Mau Community",
+        "admin": "អ្នកគ្រប់គ្រង",
+        "staff": "បុគ្គលិកជំនួយ"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "terms": {
+        "title": "Perjanjian Ketentuan Layanan",
+        "subtitle": "Ketentuan Layanan · Terakhir diperbarui: 03/01/2026",
+        "scope": "Berlaku untuk: Situs web 7-mau.com, semua subdomain *.7-mau.com, zSystems Web Dashboard, dan semua server game Counter-Strike 2 milik 7-Mau Community.",
+        "intro": "Dengan masuk ke situs web melalui Steam atau terhubung ke server game 7-Mau Community mana pun, Anda secara otomatis mengakui bahwa Anda telah membaca, memahami, dan setuju tanpa syarat dengan semua ketentuan di bawah ini. Jika Anda tidak setuju, satu-satunya hak Anda adalah segera berhenti menggunakan layanan.",
+        "section1": {
+            "title": "1. Akun dan Identifikasi Sistem",
+            "steamAuthTitle": "Autentikasi Steam",
+            "steamAuthContent": "Sistem kami menggunakan API resmi Valve untuk autentikasi Steam OpenID. Kami tidak meminta atau menyimpan kata sandi Steam Anda. Anda bertanggung jawab atas keamanan akun Steam Anda.",
+            "identityTitle": "Identifikasi Pengguna",
+            "identityContent": "Setiap pengguna diidentifikasi oleh 7ID (kode internal di zSystems), SteamID64, dan Alamat IP. Jika akun Anda digunakan oleh orang lain untuk melanggar aturan 7-Mau, akun tersebut tetap akan dikenakan sanksi tanpa pengecualian."
+        },
+        "section2": {
+            "title": "2. Kebijakan Anti-Cheat Tanpa Toleransi",
+            "corePolicy": "Ini adalah inti dari 7-Mau Community. Kami menerapkan kebijakan TOLERANSI NOL terhadap segala bentuk kecurangan.",
+            "permBanTitle": "Blokir Permanen",
+            "permBanContent": "Menggunakan perangkat lunak pihak ketiga (hack, cheat, aimbot, wallhack, skrip, makro) yang mengganggu permainan akan mengakibatkan SteamID dan IP Anda diblokir permanen dari seluruh sistem (Web & Game Server).",
+            "demoTitle": "Parsing Demo",
+            "demoContent": "Sistem kami secara otomatis menyimpan dan menganalisis Replay/Demo setiap pertandingan. Tim admin 7-Mau memiliki wewenang penuh untuk menggunakan data ini dalam keputusan blokir tanpa memberikan bukti kode sumber atau algoritma deteksi kepada pelanggar.",
+            "evasionTitle": "Penghindaran Blokir",
+            "evasionContent": "Setiap upaya membuat akun baru (Smurf) untuk menghindari blokir akan mengakibatkan sistem secara otomatis memblokir semua akun terkait."
+        },
+        "section3": {
+            "title": "3. Aturan Eksploitasi Data & Jaringan",
+            "ownershipTitle": "Kepemilikan 7-Mau",
+            "ownershipContent": "Semua data statistik yang diproses, peringkat (Rank/ELO), dan struktur tampilan di *.7-mau.com adalah milik 7-Mau Community.",
+            "scrapingTitle": "Kebijakan Anti-Scraping",
+            "scrapingContent": "Anda TIDAK DIIZINKAN menggunakan bot, spider, scraper, atau alat otomatis apa pun untuk mengekstrak data secara massal dari situs web kami. Sengaja mengirim permintaan massal (spam API) yang memengaruhi kinerja dashboard akan dianggap sebagai serangan siber (DoS/DDoS) dan akan diblokir di level Cloudflare/Firewall segera."
+        },
+        "section4": {
+            "title": "4. Manfaat VIP & Donasi",
+            "donationNote": "Semua pembayaran untuk paket VIP, skin, atau hak istimewa dalam game dianggap sebagai donasi sukarela untuk pemeliharaan server.",
+            "noRefundTitle": "Tanpa Pengembalian Dana",
+            "noRefundContent": "Kami tidak menerima pengembalian dana dalam bentuk apa pun, bahkan jika Anda diblokir dari sistem karena pelanggaran aturan, atau saat sistem server menjalani pemeliharaan/penutupan.",
+            "vipRevoke": "Tim admin berhak mengubah, menyesuaikan, atau mencabut hak istimewa VIP kapan saja jika penyalahgunaan terdeteksi."
+        },
+        "section5": {
+            "title": "5. Penafian Jaminan",
+            "availabilityTitle": "Ketersediaan",
+            "availabilityContent": "Sistem dioperasikan \"APA ADANYA\". Kami tidak menjamin bahwa server game atau dashboard web akan beroperasi 100% dari waktu (Uptime) tanpa kesalahan.",
+            "resetTitle": "Reset Data",
+            "resetContent": "Untuk menjaga keseimbangan (misalnya musim baru), 7-Mau Community memiliki wewenang penuh untuk menghapus semua data statistik (stats, rank, poin kredit) kapan saja tanpa kompensasi."
+        }
+    },
+    "privacy": {
+        "title": "Kebijakan Privasi & Pengumpulan Data",
+        "subtitle": "Kebijakan Privasi · Terakhir diperbarui: 03/01/2026",
+        "intro": "Web Dashboard zSystems — dikembangkan oleh zhw1nq dan 7-Mau TEAM — adalah mesin pemrosesan data masif yang dirancang untuk menyediakan statistik (Stats) paling detail bagi komunitas CS2 di 7-mau.com. Berikut cara kami mengumpulkan dan mengoperasikan repositori data ini.",
+        "section1": {
+            "title": "1. Data Sistem yang Dikumpulkan Secara Otomatis",
+            "note": "Segera setelah Anda terhubung ke server game atau masuk ke 7-mau.com, crawler dan plugin kami akan segera mengumpulkan:",
+            "basicDataTitle": "Data Identitas Dasar",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (kode internal di zSystems), Nama tampilan saat ini, Riwayat perubahan nama, URL Avatar, Tautan Profil Steam.",
+            "steamStatusTitle": "Status Akun Steam",
+            "steamStatusContent": "Pemeriksaan otomatis status VAC Ban, Game Ban, Trade Ban dan Level akun Steam melalui Steam Web API.",
+            "serverDataTitle": "Data Sisi Server",
+            "serverDataContent": "Alamat IP jaringan Anda, Ping, informasi negara/wilayah.",
+            "telemetryTitle": "Data Dalam Game (Deep Telemetry Data)",
+            "telemetryContent": "Semua tindakan Anda di server dicatat. Termasuk: Koordinat pergerakan, riwayat K/D/A, damage yang diberikan, senjata yang digunakan, posisi hit-box (headshot, dada, dll.), dan data log obrolan (teks)."
+        },
+        "section2": {
+            "title": "2. Sifat Publik Data Statistik",
+            "note": "Ini adalah fondasi inti Web Dashboard zSystems.",
+            "publicData": "Semua statistik dalam game (Stats), Rank, ELO, Riwayat Pertandingan, dan status online Anda di server 7-Mau adalah DATA PUBLIK.",
+            "publicAccess": "Pengguna mana pun yang mengunjungi *.7-mau.com dapat mencari dan melihat Profil Pemain detail Anda di sistem kami.",
+            "noPrivateProfile": "Tidak ada pengecualian anonimitas untuk Stats: Dengan bermain di server kami, Anda menerima bahwa pencapaian Anda (dan riwayat blokir) akan ditampilkan secara publik di Leaderboard. Kami tidak mendukung \"menyembunyikan profil\" (Private Profile) di dashboard web untuk memastikan transparansi bagi komunitas."
+        },
+        "section3": {
+            "title": "3. Penyimpanan Data Catatan Blokir",
+            "banData": "Data tentang akun yang melanggar (Banned/Muted/Gagged) termasuk 7ID, SteamID, Alasan blokir, Durasi blokir, dan Nama tampilan saat pelanggaran akan disimpan secara permanen dan dipublikasikan di Daftar Blokir zSystems.",
+            "sharing": "Sistem dapat membagikan Daftar Blokir ini dengan komunitas/mitra CS2 lain untuk membangun lingkungan bermain yang bersih."
+        },
+        "section4": {
+            "title": "4. Penggunaan Cookie & Sesi Web",
+            "note": "Dashboard web 7-mau.com menggunakan Cookie dan Local Storage di browser Anda untuk:",
+            "cookieLogin": "Mempertahankan status masuk (Tetap Masuk).",
+            "cookieUi": "Menyimpan preferensi antarmuka (Mode Gelap / Mode Terang, bahasa tampilan).",
+            "cookieAnalytics": "Melacak lalu lintas melalui alat analitik (seperti Google Analytics) agar tim admin dapat mengevaluasi kinerja situs web."
+        },
+        "section5": {
+            "title": "5. Perlindungan Data Internal",
+            "content": "Meskipun data dalam game Anda bersifat publik di Dashboard, informasi tingkat sistem yang sensitif seperti: alamat IP aktual, riwayat transaksi (pembelian VIP), dan riwayat penautan akun (Discord/Steam) dienkripsi dan dilindungi secara ketat. Hanya Senior Admin (Root Admin) yang memiliki akses ke Database asli."
+        },
+        "section6": {
+            "title": "6. Cara Menghubungi Admin",
+            "intro": "Untuk masalah terkait banding akun, laporan bug web, atau hal terkait ketentuan, silakan hubungi kami langsung melalui saluran resmi:",
+            "discordLabel": "Portal Dukungan (Discord Ticket):",
+            "emailLabel": "Email Admin:"
+        }
+    }
+}

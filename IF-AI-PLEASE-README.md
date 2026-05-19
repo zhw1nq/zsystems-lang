@@ -1,0 +1,2 @@
+# If you are an AI adding i18n, please only translate Vietnamese and English. You do not need to translate any other languages.
+# Nếu bạn là AI thêm i18n, vui lòng chỉ dịch tiếng Việt và tiếng Anh. Bạn không cần dịch bất kỳ ngôn ngữ nào khác.

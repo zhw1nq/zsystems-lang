@@ -1,0 +1,159 @@
+{
+    "title": "ແຜງຄວບຄຸມ",
+    "subtitle": "ພາບລວມ ແລະ ຈັດການເຊີບເວີ",
+    "servers": {
+        "title": "ເຊີບເວີ",
+        "count": "{count} ເຊີບເວີ",
+        "allServers": "ເຊີບເວີທັງໝົດ",
+        "noServers": "ບໍ່ມີເຊີບເວີໃນກຸ່ມນີ້"
+    },
+    "serverCard": {
+        "connect": "ເຊື່ອມຕໍ່",
+        "noMap": "ບໍ່ມີແຜນທີ່",
+        "players": "{current}/{max} ຜູ້ຫຼິ້ນ",
+        "offline": "ອອບລາຍ",
+        "noInfo": "ບໍ່ມີຂໍ້ມູນເຊີບເວີ."
+    },
+    "serverDetail": {
+        "players": "ຜູ້ຫຼິ້ນ",
+        "noPlayers": "ບໍ່ມີຜູ້ຫຼິ້ນ",
+        "teamCT": "Counter-Terrorists",
+        "teamT": "Terrorists",
+        "teamUnassigned": "ຍັງບໍ່ຈັດທີມ",
+        "serverInfo": "ຂໍ້ມູນເຊີບເວີ",
+        "chat": "ແຊັດ",
+        "contextMenu": {
+            "viewSteamProfile": "ເບິ່ງບັນຊີ",
+            "copySteamId": "ສຳເນົາ SteamID",
+            "copyPlayerName": "ສຳເນົາຊື່ຜູ້ຫຼິ້ນ",
+            "copyStats": "ສຳເນົາສະຖິຕິ",
+            "viewStats": "ເບິ່ງບັນຊີ"
+        },
+        "spectators": "ຜູ້ເບິ່ງ",
+        "noSpectators": "ບໍ່ມີຜູ້ເບິ່ງ",
+        "copied": "ສຳເນົາ {label} ແລ້ວ",
+        "unknown": "ບໍ່ຮູ້ຈັກ"
+    },
+    "stats": {
+        "totalServers": "ເຊີບເວີທັງໝົດ",
+        "playersOnline": "ຜູ້ຫຼິ້ນອອນລາຍ",
+        "totalBans": "ແບນທັງໝົດ",
+        "totalMutes": "Mute ທັງໝົດ",
+        "kills": "K",
+        "deaths": "D",
+        "score": "ຄະແນນ"
+    },
+    "penalty": {
+        "title": "ລົງໂທດ",
+        "bans": "ແບນ",
+        "mutes": "Mute",
+        "records": "{count} ລາຍການ",
+        "noRecords": "ບໍ່ພົບລາຍການ",
+        "player": "ຜູ້ຫຼິ້ນ",
+        "status": "ສະຖານະ",
+        "type": "ປະເພດ",
+        "reason": "ເຫດຜົນ",
+        "duration": "ໄລຍະເວລາ",
+        "timeLeft": "ເຫຼືອເວລາ",
+        "admin": "Admin",
+        "removeReason": "ເຫດຜົນຖອນ",
+        "dateTime": "ວັນທີ / ເວລາ",
+        "statusActive": "ກຳລັງໃຊ້",
+        "statusExpired": "ໝົດອາຍຸ",
+        "statusUnbanned": "ຖອນແບນແລ້ວ",
+        "permanent": "ຖາວອນ",
+        "expired": "ໝົດອາຍຸ",
+        "viewAll": "ເບິ່ງທັງໝົດ",
+        "durationMinutes": "{value} ນາທີ",
+        "durationHours": "{value} ຊົ່ວໂມງ",
+        "durationDays": "{value} ມື້",
+        "page": "ໜ້າ {page}/{total}",
+        "previous": "ກ່ອນໜ້າ",
+        "next": "ຕໍ່ໄປ",
+        "ctx": {
+            "viewSteam": "ເບິ່ງບັນຊີ",
+            "comment": "ຄອມເມັນ",
+            "reban": "ແບນໃໝ່",
+            "remute": "Mute ໃໝ່",
+            "editBan": "ແກ້ໄຂແບນ",
+            "editMute": "ແກ້ໄຂ Mute",
+            "removeBan": "ຖອນແບນ",
+            "removeMute": "ຖອນ Mute",
+            "deleteBan": "ລຶບແບນ",
+            "deleteMute": "ລຶບ Mute"
+        }
+    },
+    "playerAction": {
+        "adminActions": "ການກະທຳ Admin",
+        "duration": "ໄລຍະເວລາ",
+        "permanent": "ຖາວອນ",
+        "reason": "ເຫດຜົນ",
+        "reasonPlaceholder": "ໃສ່ເຫດຜົນລົງໂທດ...",
+        "reasonRequired": "ກະລຸນາໃສ່ເຫດຜົນ",
+        "muteGroup": "ບລັອກການສື່ສານ",
+        "actions": {
+            "ban": "ແບນຜູ້ຫຼິ້ນ",
+            "kick": "ເຕະອອກຈາກເຊີບເວີ",
+            "mute": "Mute ສຽງ",
+            "gag": "Gag ຂໍ້ຄວາມ",
+            "silence": "ປິດທຸກຊ່ອງທາງ"
+        },
+        "success": "ດຳເນີນ {action} ກັບ {player} ສຳເລັດ",
+        "failed": "ດຳເນີນການບໍ່ສຳເລັດ",
+        "socialLink": "SOCIAL LINK",
+        "statsChecker": "STATS CHECKER"
+    },
+    "privilege": {
+        "title": "ສິດທິພິເສດເຊີບເວີ",
+        "description": "ອັບເກຣດບັນຊີເພື່ອປົດລັອກຄອສເມຕິກ ແລະ ສິດເຂົ້າຫຼິ້ນກ່ອນ. ເລືອກແພັກທີ່ເໝາະກັບທ່ານ.",
+        "discount": "ປະຢັດ",
+        "month1": "1 ເດືອນ",
+        "months3": "3 ເດືອນ",
+        "mostPopular": "ນິຍົມສຸດ",
+        "periodMonthly": "/ 31 ມື້",
+        "periodQuarterly": "/ 90 ມື້",
+        "currentPlan": "ແພັກປັດຈຸບັນ",
+        "tiers": {
+            "member": {
+                "name": "ຟຣີ",
+                "priceMonthly": "ຟຣີ",
+                "priceQuarterly": "ຟຣີ",
+                "description": "ປະສົບການພື້ນຖານ",
+                "button": "ຫຼິ້ນເລີຍ"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "ລະດັບສູງສຸດ",
+                "button": "ອັບເກຣດ"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "ປະສົບການຂັ້ນສູງ",
+                "button": "ອັບເກຣດ"
+            }
+        },
+        "features": {
+            "customSkins": "ປັບແຕ່ງມີດ, ຖົງມື, ອາວຸດ",
+            "createCollections": "ສ້າງຄໍເລັກຊັນສະກິນ",
+            "mvpPackFree": "ໃຊ້ແພັກ MVP ຟຣີ",
+            "publicServers": "ເຂົ້າເຊີບເວີຊຸມຊົນ",
+            "prioritySlot": "ສິດເຂົ້າຫຼິ້ນກ່ອນ",
+            "fastSupport": "ຊ່ວຍເຫຼືອ Admin ກ່ອນ",
+            "mvpPackVip": "ປົດລັອກແພັກ MVP VIP",
+            "customLoadout": "ຕັ້ງ Loadout ຕາມໃຈ",
+            "agentWibu3D": "ຕົວລະຄອນ 3D Wibu ພິເສດ",
+            "weaponWibu3D": "ອາວຸດ 3D Wibu ຊັ້ນສູງ",
+            "adminPrivileges": "ສິດ Admin ຊັ້ນສູງ"
+        }
+    },
+    "support": {
+        "title": "ທີມຊ່ວຍເຫຼືອ",
+        "description": "ຜູ້ທີ່ພ້ອມຊ່ວຍທ່ານຢູ່ 7-Mau Community",
+        "admin": "ຜູ້ດູແລ",
+        "staff": "ພະນັກງານຊ່ວຍເຫຼືອ"
+    }
+}

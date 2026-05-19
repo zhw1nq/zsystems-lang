@@ -1,0 +1,81 @@
+{
+    "title": "Bộ sưu tập Skins",
+    "description": "Khám phá và chia sẻ bộ sưu tập skins với cộng đồng",
+    "tabs": {
+        "community": "Cộng đồng",
+        "my": "Của tôi"
+    },
+    "sort": {
+        "newest": "Mới nhất",
+        "mostLiked": "Nhiều thích nhất",
+        "mostUsed": "Nhiều người dùng nhất"
+    },
+    "card": {
+        "items": "{count} items",
+        "uses": "{count} lượt dùng",
+        "likes": "{count} thích",
+        "comments": "{count} bình luận",
+        "by": "bởi {author}",
+        "public": "Công khai",
+        "private": "Riêng tư"
+    },
+    "create": {
+        "button": "Tạo mới",
+        "title": "Tạo bộ sưu tập",
+        "name": "Tên bộ sưu tập",
+        "namePlaceholder": "VD: AWP Dragon Lore + Butterfly Fade",
+        "description": "Mô tả",
+        "descPlaceholder": "Mô tả về bộ sưu tập...",
+        "visibility": "Công khai",
+        "preview": "Loadout hiện tại",
+        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
+        "submit": "Tạo bộ sưu tập",
+        "success": "Đã tạo bộ sưu tập thành công!",
+        "error": "Không thể tạo bộ sưu tập",
+        "limitReached": "Bạn đã đạt giới hạn {max} bộ sưu tập",
+        "emptyLoadout": "Loadout hiện tại trống, không có gì để lưu"
+    },
+    "detail": {
+        "apply": "Áp dụng bộ sưu tập",
+        "applyConfirmTitle": "Áp dụng bộ sưu tập?",
+        "applyConfirmDesc": "Loadout hiện tại của bạn sẽ bị ghi đè hoàn toàn bằng các items trong bộ sưu tập này. Hành động này không thể hoàn tác.",
+        "applySuccess": "Đã áp dụng bộ sưu tập thành công!",
+        "applyError": "Không thể áp dụng bộ sưu tập",
+        "delete": "Xóa",
+        "deleteConfirmTitle": "Xóa bộ sưu tập?",
+        "deleteConfirmDesc": "Bạn có chắc muốn xóa bộ sưu tập này? Hành động này không thể hoàn tác.",
+        "edit": "Sửa",
+        "skins": "Skins",
+        "knives": "Dao",
+        "gloves": "Găng tay",
+        "agents": "Agents",
+        "music": "Nhạc",
+        "pins": "Huy hiệu"
+    },
+    "comment": {
+        "title": "Bình luận",
+        "placeholder": "Viết bình luận...",
+        "submit": "Gửi",
+        "empty": "Chưa có bình luận nào",
+        "deleteConfirm": "Xóa bình luận này?",
+        "error": "Không thể gửi bình luận",
+        "loginRequired": "Đăng nhập để bình luận"
+    },
+    "empty": {
+        "community": "Chưa có bộ sưu tập nào. Hãy là người đầu tiên chia sẻ!",
+        "my": "Bạn chưa tạo bộ sưu tập nào.",
+        "noItems": "Bộ sưu tập trống"
+    },
+    "toast": {
+        "liked": "Đã thích bộ sưu tập",
+        "unliked": "Đã bỏ thích",
+        "deleted": "Đã xóa bộ sưu tập",
+        "updated": "Đã cập nhật bộ sưu tập",
+        "tooFast": "Quá nhanh!",
+        "tooFastDesc": "Vui lòng đợi trước khi thực hiện hành động tiếp theo",
+        "copiedId": "Đã sao chép ID",
+        "applied": "Đã áp dụng bộ sưu tập!",
+        "applyError": "Không thể áp dụng"
+    },
+    "search": "Tìm bộ sưu tập..."
+}

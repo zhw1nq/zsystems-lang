@@ -1,0 +1,38 @@
+{
+    "hero": {
+        "explore": "ស្វែងរក",
+        "store": "ហាង",
+        "letsPlayNow": "មកលេងឥឡូវ!",
+        "wantToBeVip": "ចង់ជា VIP?",
+        "loginToZsystems": "ចូល zSystems",
+        "weaponSkins": "Skin អាវុធ",
+        "ranks": "ចំណាត់ថ្នាក់",
+        "contact": "ទំនាក់ទំនង",
+        "getDemo": "ទទួល Demo",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "លេងឥឡូវ",
+        "login": "ចូល",
+        "changeSkins": "ប្តូរ Skin អាវុធ"
+    },
+    "nav": {
+        "community": "សហគមន៍",
+        "ranks": "ចំណាត់ថ្នាក់",
+        "support": "ជំនួយ"
+    },
+    "stats": {
+        "uptime": "UPTIME",
+        "ping": "PING",
+        "players6h": "អ្នកលេង / ៦ម"
+    },
+    "footer": {
+        "selectLanguage": "ជ្រើសរើសភាសា",
+        "language": "ភាសាខ្មែរ",
+        "privacy": "គោលការណ៍ភាពឯកជន",
+        "terms": "លក្ខខណ្ឌសេវាកម្ម",
+        "contact": "ទំនាក់ទំនង",
+        "poweredBy": "ដំណើរការដោយ zSystems — អភិវឌ្ឍដោយ zhw1nq & 7-Mau TEAM"
+    },
+    "character": {
+        "name": "7-CHAN"
+    }
+}

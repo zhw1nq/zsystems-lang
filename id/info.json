@@ -1,0 +1,45 @@
+{
+    "hero": {
+        "badge": "Versi 2.0 - Tersedia Sekarang",
+        "title": "Sistem manajemen komprehensif untuk",
+        "titleHighlight": "server CS2",
+        "subtitle": "Dari SSH, RCON, manajemen pemain, UI web, API bot Discord, dan banyak fitur lainnya — semuanya dalam satu platform.",
+        "getStarted": "Mulai",
+        "viewDocs": "Lihat Dokumentasi"
+    },
+    "stats": {
+        "servers": "Server",
+        "players": "Pemain",
+        "uptime": "Uptime",
+        "features": "Fitur"
+    },
+    "features": {
+        "badge": "Fitur",
+        "title": "Semua yang Anda butuhkan",
+        "subtitle": "Alat canggih untuk mengelola server CS2 Anda",
+        "sshRcon": "SSH & RCON",
+        "sshRconDesc": "Kelola server dari jarak jauh dengan SSH dan RCON bawaan.",
+        "playerManagement": "Manajemen Pemain",
+        "playerManagementDesc": "Lacak, ban, mute, dan kelola pemain secara menyeluruh.",
+        "serverListChanger": "Pengubah Daftar Server",
+        "serverListChangerDesc": "Antarmuka klien untuk pengubah daftar server.",
+        "webUI": "UI Web",
+        "webUIDesc": "Antarmuka web modern dan responsif untuk pengguna.",
+        "discordBot": "API Bot Discord",
+        "discordBotDesc": "Integrasi API bot Discord gratis dan mudah dikonfigurasi.",
+        "dataManagement": "Manajemen Data",
+        "dataManagementDesc": "Manajemen data terpusat, aman, dan efisien.",
+        "multiServer": "Multi-Server",
+        "multiServerDesc": "Dukungan mengelola banyak server secara bersamaan.",
+        "customize": "Kustomisasi",
+        "customizeDesc": "Sesuaikan semuanya dengan kebutuhan Anda."
+    },
+    "cta": {
+        "title": "Siap memulai?",
+        "subtitle": "Daftar gratis dan coba hari ini.",
+        "register": "Daftar Gratis",
+        "free": "Gratis",
+        "noCard": "Tanpa kartu kredit",
+        "support247": "Dukungan 24/7"
+    }
+}

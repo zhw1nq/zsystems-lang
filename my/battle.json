@@ -1,0 +1,144 @@
+{
+    "title": "Battle Mode",
+    "subtitle": "5v5 ပြိုင်ဘက် Matchmaking",
+    "party": {
+        "title": "သင့် Party",
+        "solo": "တစ်ယောက်တည်း ကစားနေသည်",
+        "create": "Party ဖန်တီး",
+        "invite": "7ID ဖြင့် ဖိတ်ခေါ်",
+        "invitePlaceholder": "#7ID ထည့်ပါ...",
+        "inviteButton": "ဖိတ်ခေါ်ချက် ပို့",
+        "leave": "Party ထွက်",
+        "disband": "Party ဖျက်",
+        "full": "Party ပြည့်သွားပြီ (5/5)",
+        "members": "အဖွဲ့ဝင် {count}/5",
+        "leader": "ခေါင်းဆောင်",
+        "member": "အဖွဲ့ဝင်",
+        "disbanded": "Party ဖျက်သိမ်းပြီး"
+    },
+    "queue": {
+        "find": "ပွဲ ရှာဖွေ",
+        "cancel": "ပယ်ဖျက်",
+        "searching": "ပွဲ ရှာဖွေနေသည်...",
+        "estimatedWait": "ခန့်မှန်းထားသော စောင့်ချိန်: {time}",
+        "playersInQueue": "ကစားသမား {count} ယောက် ရှာဖွေနေသည်",
+        "partiesInQueue": "party {count} ခု ရှာဖွေနေသည်",
+        "cooldown": "သင် cooldown တွင် ရှိသည်။ {time} အကြာတွင် ထပ်စမ်းကြည့်ပါ",
+        "memberCooldown": "{name} cooldown တွင် ရှိသည်",
+        "emailRequired": "အဖွဲ့ဝင်အားလုံး အီးမေးလ် အတည်ပြုရပါမည်",
+        "leaderOnly": "party ခေါင်းဆောင်သာ ပွဲ ရှာဖွေနိုင်သည်"
+    },
+    "match": {
+        "found": "ပွဲ တွေ့ပြီ!",
+        "accept": "လက်ခံ",
+        "decline": "ငြင်းပယ်",
+        "accepted": "{count}/{total} လက်ခံပြီး",
+        "timeRemaining": "{seconds}စက္ကန့်",
+        "cancelled": "ပွဲ ပယ်ဖျက်ပြီး",
+        "cancelReason": {
+            "decline": "ကစားသမားတစ်ဦးက ပွဲကို ငြင်းပယ်ခဲ့သည်",
+            "timeout": "လက်ခံချိန် ကုန်ဆုံးသွားပြီ"
+        },
+        "teamA": "အသင်း A",
+        "teamB": "အသင်း B",
+        "myTeam": "သင့်အသင်း",
+        "enemyTeam": "ရန်သူအသင်း",
+        "accepted_status": "အဆင်သင့်",
+        "vs": "VS",
+        "captain": "ခေါင်းဆောင်",
+        "configuring": "ဆာဗာ ပြင်ဆင်နေသည်...",
+        "live": "LIVE",
+        "finished": "ပြီးဆုံး",
+        "won": "အနိုင်ရ",
+        "lost": "ရှုံး",
+        "draw": "သရေကျ",
+        "starting": "ပွဲ စတင်နေသည်!!!"
+    },
+    "mapBan": {
+        "title": "မြေပုံ ပိတ်ပင်",
+        "yourTurn": "သင့်လှည့် — ပိတ်ပင်ရန် မြေပုံ ရွေးပါ",
+        "enemyTurn": "ပြိုင်ဘက်က ရွေးချယ်နေသည်...",
+        "waiting": "စောင့်ဆိုင်းနေသည်...",
+        "banned": "ပိတ်ပင်ပြီး",
+        "remaining": "ကျန်ရှိ: မြေပုံ {count} ခု",
+        "decided": "ပွဲမြေပုံ",
+        "timePerBan": "{seconds}စက္ကန့်",
+        "pickSide": "ဘက် ရွေးချယ်",
+        "pickSideDesc": "အသင်း B က စတင်ဘက် ရွေးချယ်သည်",
+        "ct": "Counter-Terrorist",
+        "t": "Terrorist"
+    },
+    "stats": {
+        "title": "စာရင်းအင်း",
+        "matches": "ပွဲများ",
+        "wins": "အနိုင်ရ",
+        "losses": "ရှုံး",
+        "draws": "သရေကျ",
+        "winRate": "အနိုင်ရ နှုန်း",
+        "kd": "K/D",
+        "kills": "သတ်မှတ်",
+        "deaths": "သေဆုံး",
+        "assists": "အကူအညီ",
+        "mvps": "MVP",
+        "winStreak": "အနိုင်ရ ဆက်တိုက်",
+        "bestStreak": "အကောင်းဆုံး ဆက်တိုက်",
+        "recentMatches": "မကြာသေးမီ ပွဲများ",
+        "noMatches": "ပွဲ မကစားရသေးပါ"
+    },
+    "leaderboard": {
+        "title": "အဆင့်ဇယား",
+        "rank": "#",
+        "player": "ကစားသမား",
+        "matches": "ပွဲများ",
+        "wins": "အနိုင်ရ",
+        "winRate": "အနိုင်ရ %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "Party ဖိတ်ခေါ်ချက်",
+        "from": "{name} က သင့်ကို party သို့ ဖိတ်ခေါ်ထားသည်",
+        "accept": "လက်ခံ",
+        "decline": "ငြင်းပယ်",
+        "expired": "ဖိတ်ခေါ်ချက် သက်တမ်းကုန်ပြီ",
+        "notFound": "ကစားသမား မတွေ့ပါ",
+        "sent": "ဖိတ်ခေါ်ချက် ပို့ပြီး",
+        "alreadySent": "ဤကစားသမားထံ ဖိတ်ခေါ်ချက် ပို့ပြီးသား"
+    },
+    "cooldown": {
+        "active": "Cooldown တက်နေသည်",
+        "remaining": "ကျန်: {time}",
+        "reason": {
+            "decline": "ပွဲကို ငြင်းပယ်ခဲ့သည်",
+            "timeout": "လက်ခံချိန် ကုန်ဆုံးသွားပြီ",
+            "abandon": "ပွဲကို စွန့်ခွာခဲ့သည်",
+            "toxic": "အနုတ်လက္ခဏာ အပြုအမူ"
+        }
+    },
+    "history": {
+        "title": "ပွဲမှတ်တမ်း",
+        "noHistory": "ပွဲမှတ်တမ်း မရှိသေးပါ",
+        "map": "မြေပုံ",
+        "score": "ရမှတ်",
+        "result": "ရလဒ်",
+        "date": "ရက်စွဲ"
+    },
+    "errors": {
+        "matchNotFound": "ပွဲ မတွေ့ပါ",
+        "invalidState": "ပွဲအခြေအနေ ပြောင်းလဲသွားပြီ",
+        "notYourTurn": "သင့်အသင်း၏ လှည့်မဟုတ်ပါ",
+        "notCaptain": "ခေါင်းဆောင်သာ ဤလုပ်ဆောင်ချက် လုပ်နိုင်သည်",
+        "mapAlreadyBanned": "ဤမြေပုံကို ပိတ်ပင်ပြီးသား",
+        "notInMatch": "သင် ဤပွဲတွင် မပါဝင်ပါ",
+        "notAuthorized": "ခွင့်ပြုချက် မရှိပါ",
+        "validationError": "ဒေတာ မမှန်ကန်ပါ",
+        "networkError": "ချိတ်ဆက်မှု အမှား၊ ထပ်စမ်းကြည့်ပါ",
+        "unknown": "အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်",
+        "matchDeclined": "ကစားသမားတစ်ဦးက ပွဲကို ငြင်းပယ်ခဲ့သည်",
+        "matchTimeout": "ပွဲ လက်ခံချိန် ကုန်ဆုံးသွားပြီ",
+        "matchCancelled": "ပွဲ ပယ်ဖျက်ပြီး"
+    },
+    "experimental": {
+        "title": "စမ်းသပ်အင်္ဂါရပ်",
+        "description": "ဤအင်္ဂါရပ်ကို လက်ရှိတွင် ဖွံ့ဖြိုးဆဲ ဖြစ်သည်။ အသုံးပြုသူအင်တာဖေ့စ် (UI) သာ ရရှိနိုင်ပြီး ဤပတ်ဝန်းကျင်တွင် လုပ်ဆောင်ချက် မလုပ်ဆောင်နိုင်ပါ။"
+    }
+}

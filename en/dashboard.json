@@ -1,0 +1,159 @@
+{
+    "title": "Dashboard",
+    "subtitle": "Server overview & management",
+    "servers": {
+        "title": "Servers",
+        "count": "{count} servers",
+        "allServers": "All servers",
+        "noServers": "No servers in this group"
+    },
+    "serverCard": {
+        "connect": "Connect",
+        "noMap": "No map",
+        "players": "{current}/{max} Players",
+        "offline": "Offline",
+        "noInfo": "No server information available."
+    },
+    "serverDetail": {
+        "players": "Players",
+        "noPlayers": "No players",
+        "teamCT": "Counter-Terrorists",
+        "teamT": "Terrorists",
+        "teamUnassigned": "Unassigned",
+        "serverInfo": "Server Info",
+        "chat": "Chat",
+        "contextMenu": {
+            "viewSteamProfile": "View Account",
+            "copySteamId": "Copy SteamID",
+            "copyPlayerName": "Copy Player Name",
+            "copyStats": "Copy Stats",
+            "viewStats": "View Account"
+        },
+        "spectators": "Spectators",
+        "noSpectators": "No spectators",
+        "copied": "Copied {label}",
+        "unknown": "Unknown"
+    },
+    "stats": {
+        "totalServers": "Total Servers",
+        "playersOnline": "Players Online",
+        "totalBans": "Total Bans",
+        "totalMutes": "Total Mutes",
+        "kills": "K",
+        "deaths": "D",
+        "score": "Score"
+    },
+    "penalty": {
+        "title": "Penalty",
+        "bans": "Bans",
+        "mutes": "Mutes",
+        "records": "{count} records",
+        "noRecords": "No records found",
+        "player": "Player",
+        "status": "Status",
+        "type": "Type",
+        "reason": "Reason",
+        "duration": "Duration",
+        "timeLeft": "Time left",
+        "admin": "Admin",
+        "removeReason": "Remove Reason",
+        "dateTime": "Date / Time",
+        "statusActive": "Active",
+        "statusExpired": "Expired",
+        "statusUnbanned": "Unbanned",
+        "permanent": "Permanent",
+        "expired": "Expired",
+        "viewAll": "View all",
+        "durationMinutes": "{value} min",
+        "durationHours": "{value} hours",
+        "durationDays": "{value} days",
+        "page": "Page {page}/{total}",
+        "previous": "Previous",
+        "next": "Next",
+        "ctx": {
+            "viewSteam": "View Account",
+            "comment": "Comment",
+            "reban": "Re-ban",
+            "remute": "Re-mute",
+            "editBan": "Edit Ban",
+            "editMute": "Edit Mute",
+            "removeBan": "Remove Ban",
+            "removeMute": "Remove Mute",
+            "deleteBan": "Delete Ban",
+            "deleteMute": "Delete Mute"
+        }
+    },
+    "playerAction": {
+        "adminActions": "Admin Actions",
+        "duration": "Duration",
+        "permanent": "Permanent",
+        "reason": "Reason",
+        "reasonPlaceholder": "Enter penalty reason...",
+        "reasonRequired": "Please enter a reason",
+        "muteGroup": "Comm Blocks",
+        "actions": {
+            "ban": "Ban Player",
+            "kick": "Kick from Server",
+            "mute": "Mute Voice",
+            "gag": "Gag Text",
+            "silence": "Silence All"
+        },
+        "success": "Successfully executed {action} on {player}",
+        "failed": "Action failed",
+        "socialLink": "SOCIAL LINK",
+        "statsChecker": "STATS CHECKER"
+    },
+    "privilege": {
+        "title": "Server Privileges",
+        "description": "Upgrade your account to unlock exclusive cosmetics and priority access. Choose the tier that fits you.",
+        "discount": "Save",
+        "month1": "1 Month",
+        "months3": "3 Months",
+        "mostPopular": "MOST POPULAR",
+        "periodMonthly": "/ 31 Days",
+        "periodQuarterly": "/ 90 Days",
+        "currentPlan": "CURRENT PLAN",
+        "tiers": {
+            "member": {
+                "name": "FREE",
+                "priceMonthly": "FREE",
+                "priceQuarterly": "FREE",
+                "description": "Basic experience",
+                "button": "PLAY NOW"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Ultimate prestige",
+                "button": "UPGRADE"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Enhanced experience",
+                "button": "UPGRADE"
+            }
+        },
+        "features": {
+            "customSkins": "Customize Knife, Gloves, Weapons",
+            "createCollections": "Create Skin Collections",
+            "mvpPackFree": "Use Free MVP Pack",
+            "publicServers": "Join Community Servers",
+            "prioritySlot": "Priority Server Slot Access",
+            "fastSupport": "Priority Admin Support",
+            "mvpPackVip": "Unlock VIP MVP Pack",
+            "customLoadout": "Custom Loadout Configuration",
+            "agentWibu3D": "Exclusive 3D Wibu Agents",
+            "weaponWibu3D": "Supreme 3D Wibu Weapons",
+            "adminPrivileges": "Supreme Admin Privileges"
+        }
+    },
+    "support": {
+        "title": "Support Team",
+        "description": "People who are always ready to help you at 7-Mau Community",
+        "admin": "Administrator",
+        "staff": "Support Staff"
+    }
+}

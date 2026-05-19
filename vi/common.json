@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Trang chủ",
+        "dashboard": "Bảng điều khiển",
+        "account": "Tài khoản",
+        "security": "Bảo mật",
+        "settings": "Cài đặt",
+        "servers": "Máy chủ",
+        "bans": "Bans",
+        "mutes": "Mutes / Gags",
+        "skins": "Skins",
+        "skinCollections": "Bộ sưu tập",
+        "zmodels": "zModels",
+        "zweapons": "zWeapons",
+        "rankings": "Xếp hạng",
+        "battleMode": "Battle Mode",
+        "admin": "Admin Panel",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "logout": "Đăng xuất",
+        "support": "Hỗ trợ"
+    },
+    "actions": {
+        "copy": "Sao chép",
+        "connect": "Kết nối",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "close": "Đóng",
+        "confirm": "Xác nhận",
+        "delete": "Xóa",
+        "edit": "Sửa",
+        "back": "Quay lại",
+        "retry": "Thử lại",
+        "search": "Tìm kiếm..."
+    },
+    "status": {
+        "online": "Trực tuyến",
+        "offline": "Ngoại tuyến",
+        "loading": "Đang tải...",
+        "error": "Lỗi",
+        "success": "Thành công"
+    },
+    "toast": {
+        "copied": "Đã sao chép",
+        "copyFailed": "Sao chép thất bại"
+    },
+    "footer": {
+        "rights": "Mọi quyền được bảo lưu"
+    },
+    "sidebar": {
+        "collapse": "Thu gọn",
+        "expand": "Mở rộng",
+        "language": "Ngôn ngữ",
+        "theme": "Màu chủ đề",
+        "terms": "Điều khoản & Bảo mật",
+        "guest": "Khách",
+        "settings": "Cài đặt"
+    },
+    "announcement": {
+        "title": "Thông báo hệ thống",
+        "sourceLink": "Xem bài viết gốc"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "Trang bạn tìm kiếm không tồn tại",
+            "home": "Trang chủ",
+            "back": "Quay lại"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "Đã xảy ra lỗi không mong muốn",
+            "errorCode": "Mã lỗi: {code}",
+            "pleaseRetry": "Vui lòng thử lại",
+            "retry": "Thử lại",
+            "home": "Trang chủ"
+        }
+    },
+    "forcePasswordChange": {
+        "title": "Yêu cầu đổi mật khẩu",
+        "description": "Quản trị viên đã yêu cầu bạn đổi mật khẩu vì lý do bảo mật. Bạn phải đổi mật khẩu trước khi tiếp tục sử dụng.",
+        "newPassword": "Mật khẩu mới",
+        "confirmPassword": "Xác nhận mật khẩu",
+        "submit": "Đổi mật khẩu",
+        "rules": {
+            "minLength": "Tối thiểu 8 ký tự",
+            "uppercase": "Ít nhất 1 chữ hoa",
+            "number": "Ít nhất 1 số",
+            "match": "Mật khẩu khớp nhau"
+        }
+    },
+    "welcomePopup": {
+        "greeting_night": "Chào buổi đêm, {name}",
+        "greeting_morning": "Chào buổi sáng, {name}",
+        "greeting_noon": "Chào buổi trưa, {name}",
+        "greeting_afternoon": "Chào buổi chiều, {name}",
+        "greeting_evening": "Chào buổi tối, {name}",
+        "guest": "Khách",
+        "warning": "Chơi game quá 180 phút/ngày ảnh hưởng sức khỏe"
+    }
+}
