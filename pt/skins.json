@@ -1,41 +1,41 @@
 {
     "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "description": "Navegue e personalize suas skins de armas do CS2",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "Skins de Armas",
+        "agents": "Agentes",
+        "musicKits": "Kits de Música",
+        "pinsCoins": "Pins e Moedas"
     },
     "categories": {
-        "gloves": "Gloves",
+        "gloves": "Luvas",
         "rifles": "Rifles",
-        "knives": "Knives",
+        "knives": "Facas",
         "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "pistols": "Pistolas",
+        "heavy": "Pesadas",
+        "equipment": "Equipamentos"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "Ambos os Times",
+        "ct": "CT",
+        "t": "T"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "Pesquisar skins...",
+    "noResults": "Nenhuma skin encontrada",
+    "selectWeapon": "Selecione uma arma para ver as skins",
+    "loginRequired": "Faça login para usar Skins",
+    "loading": "Carregando skins...",
+    "itemCount": "{count} itens",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "Muito rápido!",
+        "tooFastDesc": "Aguarde 2s antes de tentar novamente",
+        "equipped": "Equipado!",
+        "equippedDesc": "{name} equipado com sucesso",
+        "unequipped": "Desequipado!",
+        "unequippedDesc": "{name} removido",
+        "equipFailed": "Falha ao equipar",
+        "unequipFailed": "Falha ao desequipar",
+        "unknownError": "Erro desconhecido"
     }
 }

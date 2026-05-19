@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
+        "home": "Início",
+        "dashboard": "Painel",
+        "account": "Conta",
+        "security": "Segurança",
+        "settings": "Configurações",
+        "servers": "Servidores",
+        "bans": "Banimentos",
+        "mutes": "Silenciamentos / Gags",
         "skins": "Skins",
-        "skinCollections": "Collections",
+        "skinCollections": "Coleções",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
-        "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "rankings": "Classificações",
+        "battleMode": "Modo de Batalha",
+        "admin": "Painel de Admin",
+        "login": "Entrar",
+        "register": "Registrar",
+        "logout": "Sair",
+        "support": "Suporte"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "Copiar",
+        "connect": "Conectar",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "close": "Fechar",
+        "confirm": "Confirmar",
+        "delete": "Excluir",
+        "edit": "Editar",
+        "back": "Voltar",
+        "retry": "Tentar novamente",
+        "search": "Pesquisar..."
     },
     "status": {
         "online": "Online",
         "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "loading": "Carregando...",
+        "error": "Erro",
+        "success": "Sucesso"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "Copiado para a área de transferência",
+        "copyFailed": "Falha ao copiar"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "Todos os direitos reservados"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "Recolher",
+        "expand": "Expandir",
+        "language": "Idioma",
+        "theme": "Tema",
+        "terms": "Termos e Privacidade",
+        "guest": "Convidado",
+        "settings": "Configurações"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "Anúncio do sistema",
+        "sourceLink": "Ver publicação original"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "A página que você procura não existe",
+            "home": "Início",
+            "back": "Voltar"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "Ocorreu um erro inesperado",
+            "errorCode": "Código do erro: {code}",
+            "pleaseRetry": "Por favor tente novamente",
+            "retry": "Tentar novamente",
+            "home": "Início"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "Alteração de senha obrigatória",
+        "description": "Um administrador exigiu que você altere sua senha por motivos de segurança. Você deve alterar sua senha para continuar.",
+        "newPassword": "Nova senha",
+        "confirmPassword": "Confirmar senha",
+        "submit": "Alterar senha",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "Pelo menos 8 caracteres",
+            "uppercase": "Pelo menos 1 letra maiúscula",
+            "number": "Pelo menos 1 número",
+            "match": "As senhas devem coincidir"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "Boa noite, {name}",
+        "greeting_morning": "Bom dia, {name}",
+        "greeting_noon": "Boa tarde, {name}",
+        "greeting_afternoon": "Boa tarde, {name}",
+        "greeting_evening": "Boa noite, {name}",
+        "guest": "Convidado",
+        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde"
     }
 }

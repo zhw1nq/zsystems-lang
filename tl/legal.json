@@ -1,90 +1,90 @@
 {
     "terms": {
-        "title": "Terms of Service Agreement",
-        "subtitle": "Terms of Service · Last updated: 03/01/2026",
-        "scope": "Applies to: Website 7-mau.com, all subdomains *.7-mau.com, zSystems Web Dashboard, and all Counter-Strike 2 game servers of 7-Mau Community.",
-        "intro": "By logging into the website through Steam or connecting to any 7-Mau Community game server, you automatically acknowledge that you have read, understood, and unconditionally agree to all the terms below. If you do not agree, your only right is to immediately stop using the service.",
+        "title": "Kasunduan sa Mga Tuntunin ng Serbisyo",
+        "subtitle": "Mga Tuntunin ng Serbisyo · Huling na-update: 03/01/2026",
+        "scope": "Saklaw: Website 7-mau.com, lahat ng subdomain *.7-mau.com, zSystems Web Dashboard, at lahat ng Counter-Strike 2 game servers ng 7-Mau Community.",
+        "intro": "Sa pag-login sa website gamit ang Steam o pagkonekta sa anumang 7-Mau Community game server, awtomatiko mong kinikilala na nabasa mo, naunawaan mo, at walang kundisyong sumasang-ayon ka sa lahat ng tuntunin sa ibaba. Kung hindi ka sumasang-ayon, ang tanging karapatan mo ay itigil agad ang paggamit ng serbisyo.",
         "section1": {
-            "title": "1. Accounts and System Identification",
+            "title": "1. Mga Account at System Identification",
             "steamAuthTitle": "Steam Authentication",
-            "steamAuthContent": "Our system uses Valve's official API for Steam OpenID authentication. We do not request or store your Steam password. You are responsible for the security of your Steam account.",
-            "identityTitle": "User Identification",
-            "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
+            "steamAuthContent": "Ang aming sistema ay gumagamit ng opisyal na API ng Valve para sa Steam OpenID authentication. Hindi namin hinihingi o iniimbak ang iyong Steam password. Ikaw ang responsable sa seguridad ng iyong Steam account.",
+            "identityTitle": "Pagkakakilanlan ng User",
+            "identityContent": "Bawat user ay kinikilala sa pamamagitan ng 7ID (internal code sa zSystems), SteamID64, at IP Address. Kung ang iyong account ay ginamit ng iba upang lumabag sa mga patakaran ng 7-Mau, mananatili pa ring mapapatawan ng parusa ang account na iyon nang walang eksepsyon."
         },
         "section2": {
             "title": "2. Zero-Tolerance Anti-Cheat Policy",
-            "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
-            "permBanTitle": "Permanent Ban",
-            "permBanContent": "Using third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) that interferes with the game will result in your SteamID and IP being permanently banned from the entire system (Web & Game Server).",
-            "demoTitle": "Demo Parsing",
-            "demoContent": "Our system automatically stores and analyzes Replay/Demo of every match. 7-Mau's admin team has full authority to use this data to make ban decisions without providing source code evidence or detection algorithms to violators.",
-            "evasionTitle": "Ban Evasion",
-            "evasionContent": "Any attempt to create new accounts (Smurf) to circumvent a ban will result in the system automatically banning all related accounts."
+            "corePolicy": "Ito ang pangunahing patakaran ng 7-Mau Community. Ipinapatupad namin ang ZERO TOLERANCE laban sa lahat ng uri ng pandaraya.",
+            "permBanTitle": "Permanente na Ban",
+            "permBanContent": "Ang paggamit ng third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) na nakakaapekto sa laro ay magreresulta sa permanenteng ban ng iyong SteamID at IP sa buong sistema (Web at Game Server).",
+            "demoTitle": "Pagsusuri ng Demo",
+            "demoContent": "Awtomatikong sine-save at sinusuri ng sistema ang Replay/Demo ng bawat laban. Ang admin team ng 7-Mau ay may buong awtoridad na gamitin ang datos na ito sa paggawa ng desisyon sa ban nang hindi nagbibigay ng source code o detection algorithms sa mga lumalabag.",
+            "evasionTitle": "Pag-iwas sa Ban",
+            "evasionContent": "Anumang pagtatangkang gumawa ng bagong account (Smurf) upang iwasan ang ban ay magreresulta sa awtomatikong pag-ban ng lahat ng kaugnay na account."
         },
         "section3": {
-            "title": "3. Data & Network Exploitation Rules",
-            "ownershipTitle": "7-Mau's Ownership",
-            "ownershipContent": "All processed statistical data, rankings (Rank/ELO), and display structures on *.7-mau.com are property of 7-Mau Community.",
+            "title": "3. Mga Patakaran sa Data at Network Exploitation",
+            "ownershipTitle": "Pagmamay-ari ng 7-Mau",
+            "ownershipContent": "Lahat ng statistical data, rankings (Rank/ELO), at display structures sa *.7-mau.com ay pag-aari ng 7-Mau Community.",
             "scrapingTitle": "Anti-Scraping Policy",
-            "scrapingContent": "You are NOT ALLOWED to use bots, spiders, scrapers, or any automated tools to extract bulk data from our website. Intentionally sending mass requests (API spam) that affect dashboard performance will be considered a cyber attack (DoS/DDoS) and will be blocked at the Cloudflare/Firewall level immediately."
+            "scrapingContent": "HINDI PINAPAYAGAN ang paggamit ng bots, spiders, scrapers, o anumang automated tools upang kumuha ng maramihang data mula sa aming website. Ang sinadyang mass requests (API spam) na nakakaapekto sa performance ay ituturing na cyber attack (DoS/DDoS) at agad na iba-block sa Cloudflare/Firewall level."
         },
         "section4": {
-            "title": "4. VIP Benefits & Donations",
-            "donationNote": "All payments for VIP packages, skins, or in-game privileges are considered voluntary donations to maintain the servers.",
-            "noRefundTitle": "No Refunds",
-            "noRefundContent": "We do not accept refunds in any form, even if you are banned from the system for rule violations, or when the server system undergoes maintenance/shutdown.",
-            "vipRevoke": "The admin team reserves the right to change, adjust, or revoke VIP privileges at any time if abuse is detected."
+            "title": "4. Mga Benepisyo ng VIP at Donasyon",
+            "donationNote": "Lahat ng bayad para sa VIP packages, skins, o in-game privileges ay itinuturing na boluntaryong donasyon para sa pagpapanatili ng servers.",
+            "noRefundTitle": "Walang Refund",
+            "noRefundContent": "Hindi kami tumatanggap ng refund sa anumang anyo, kahit na ma-ban ka dahil sa paglabag sa patakaran, o sa panahon ng maintenance/shutdown ng server.",
+            "vipRevoke": "May karapatan ang admin team na baguhin, ayusin, o bawiin ang VIP privileges anumang oras kung may nakitang abuso."
         },
         "section5": {
-            "title": "5. Disclaimer of Warranties",
+            "title": "5. Disclaimer ng Warranty",
             "availabilityTitle": "Availability",
-            "availabilityContent": "The system is operated \"AS IS\". We do not guarantee that game servers or the web dashboard will operate 100% of the time (Uptime) without errors.",
-            "resetTitle": "Data Reset",
-            "resetContent": "To ensure balance (e.g., new seasons), 7-Mau Community has full authority to wipe all statistical data (stats, rank, credit points) at any time without compensation."
+            "availabilityContent": "Ang sistema ay ibinibigay \"AS IS\". Hindi namin ginagarantiyahan na ang game servers o web dashboard ay 100% na gumagana sa lahat ng oras (Uptime) nang walang error.",
+            "resetTitle": "Pag-reset ng Data",
+            "resetContent": "Para sa balanse (hal. bagong season), may buong awtoridad ang 7-Mau Community na burahin ang lahat ng statistical data (stats, rank, credit points) anumang oras nang walang kompensasyon."
         }
     },
     "privacy": {
-        "title": "Privacy & Data Collection Policy",
-        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
-        "intro": "Web Dashboard zSystems — developed by zhw1nq and 7-Mau TEAM — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on 7-mau.com. Below is how we collect and operate this data repository.",
+        "title": "Patakaran sa Privacy at Pangongolekta ng Data",
+        "subtitle": "Privacy Policy · Huling na-update: 03/01/2026",
+        "intro": "Ang Web Dashboard zSystems — binuo nina zhw1nq at 7-Mau TEAM — ay isang malakihang data processing system na dinisenyo upang magbigay ng detalyadong statistics (Stats) para sa CS2 community sa 7-mau.com. Narito kung paano namin kinokolekta at pinapatakbo ang data na ito.",
         "section1": {
-            "title": "1. Automatically Collected System Data",
-            "note": "As soon as you connect to a game server or log into 7-mau.com, our crawlers and plugins will immediately collect:",
-            "basicDataTitle": "Basic Identity Data",
-            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code on zSystems), Current display name, Name change history, Avatar URL, Steam Profile link.",
-            "steamStatusTitle": "Steam Account Status",
-            "steamStatusContent": "Automatic checking of VAC Ban, Game Ban, Trade Ban status and Steam account Level through Steam Web API.",
+            "title": "1. Awtomatikong Nakokolektang Data ng Sistema",
+            "note": "Sa oras na kumonekta ka sa game server o mag-login sa 7-mau.com, awtomatikong kokolektahin ng aming sistema ang:",
+            "basicDataTitle": "Pangunahing Impormasyon",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code sa zSystems), kasalukuyang display name, history ng name changes, Avatar URL, Steam Profile link.",
+            "steamStatusTitle": "Status ng Steam Account",
+            "steamStatusContent": "Awtomatikong pag-check ng VAC Ban, Game Ban, Trade Ban at Steam account level gamit ang Steam Web API.",
             "serverDataTitle": "Server-side Data",
-            "serverDataContent": "Your network IP address, Ping, country/region information.",
+            "serverDataContent": "IP address mo, Ping, at impormasyon ng bansa/rehiyon.",
             "telemetryTitle": "In-game Data (Deep Telemetry Data)",
-            "telemetryContent": "All of your actions in the server are recorded. Including: Movement coordinates, K/D/A history, damage dealt, weapons used, hit-box positions (headshot, chest, etc.), and chat log data (text)."
+            "telemetryContent": "Lahat ng galaw mo sa server ay nirerekord: movement coordinates, K/D/A history, damage, gamit na armas, hitbox positions (headshot, chest, atbp.), at chat logs (text)."
         },
         "section2": {
-            "title": "2. Public Nature of Statistical Data",
-            "note": "This is the core foundation of Web Dashboard zSystems.",
-            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
-            "publicAccess": "Any user visiting *.7-mau.com can search for and view your detailed Player Profile on our system.",
-            "noPrivateProfile": "No anonymity exception for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the Leaderboard. We do not support \"hiding profiles\" (Private Profile) on the web dashboard to ensure transparency for the community."
+            "title": "2. Pampublikong Katangian ng Statistical Data",
+            "note": "Ito ang pangunahing pundasyon ng Web Dashboard zSystems.",
+            "publicData": "Lahat ng in-game statistics (Stats), Rank, ELO, Match History, at online status mo sa 7-Mau servers ay PAMPUBLIKONG DATA.",
+            "publicAccess": "Maaaring hanapin at tingnan ng sinumang user sa *.7-mau.com ang iyong Player Profile.",
+            "noPrivateProfile": "Walang opsyon na itago ang profile: Sa paglalaro sa aming servers, pumapayag ka na ang iyong stats at ban history ay ipapakita nang publiko sa Leaderboard."
         },
         "section3": {
             "title": "3. Ban Records Data Storage",
-            "banData": "Data about violating accounts (Banned/Muted/Gagged) including 7ID, SteamID, Ban reason, Ban duration, and Display name at the time of violation will be stored permanently and publicly on the zSystems Ban List.",
-            "sharing": "The system may share these Ban Lists with other CS2 communities/partners to build a clean gaming environment."
+            "banData": "Ang data ng mga lumabag (Banned/Muted/Gagged) kabilang ang 7ID, SteamID, dahilan ng ban, tagal, at pangalan sa oras ng violation ay permanenteng nakaimbak at pampubliko sa Ban List.",
+            "sharing": "Maaaring ibahagi ng sistema ang Ban List sa ibang CS2 communities/partners para sa mas malinis na gaming environment."
         },
         "section4": {
-            "title": "4. Cookie & Web Session Usage",
-            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage on your browser to:",
-            "cookieLogin": "Maintain login state (Keep Logged In).",
-            "cookieUi": "Store interface preferences (Dark Mode / Light Mode, display language).",
-            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) for the admin team to evaluate website performance."
+            "title": "4. Cookie at Web Session Usage",
+            "note": "Gumagamit ang 7-mau.com ng Cookies at Local Storage para sa:",
+            "cookieLogin": "Pagpapanatili ng login session.",
+            "cookieUi": "Pag-save ng UI preferences (Dark/Light mode, wika).",
+            "cookieAnalytics": "Pagsubaybay ng traffic gamit ang analytics tools tulad ng Google Analytics."
         },
         "section5": {
             "title": "5. Internal Data Protection",
-            "content": "Although your in-game data is public on the Dashboard, sensitive system-level information such as: actual IP addresses, transaction history (VIP purchases), and account linking history (Discord/Steam) are encrypted and strictly protected. Only Senior Admin (Root Admin) has access to the original Database."
+            "content": "Bagama't pampubliko ang in-game data, ang sensitibong impormasyon tulad ng IP addresses, transaction history (VIP purchases), at account linking (Discord/Steam) ay naka-encrypt at protektado. Tanging Senior Admin lamang ang may access sa database."
         },
         "section6": {
-            "title": "6. How to Contact Admin",
-            "intro": "For any issues related to account appeals, web bug reports, or terms-related matters, please contact us directly through official channels:",
+            "title": "6. Paano Makipag-ugnayan sa Admin",
+            "intro": "Para sa account issues, bug reports, o usaping may kinalaman sa terms, makipag-ugnayan sa official channels:",
             "discordLabel": "Support Portal (Discord Ticket):",
             "emailLabel": "Admin Email:"
         }

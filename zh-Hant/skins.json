@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "造型",
+    "description": "瀏覽並自訂你的 CS2 武器造型",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "武器造型",
+        "agents": "探員",
+        "musicKits": "音樂盒",
+        "pinsCoins": "徽章與硬幣"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "手套",
+        "rifles": "步槍",
+        "knives": "刀具",
+        "smgs": "衝鋒槍",
+        "pistols": "手槍",
+        "heavy": "重型武器",
+        "equipment": "裝備"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "雙方陣營",
+        "ct": "CT 陣營",
+        "t": "T 陣營"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "搜尋造型...",
+    "noResults": "找不到任何造型",
+    "selectWeapon": "選擇武器以瀏覽造型",
+    "loginRequired": "請先登入以使用造型功能",
+    "loading": "正在載入造型...",
+    "itemCount": "{count} 個項目",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "操作過快！",
+        "tooFastDesc": "請等待 2 秒後再試一次",
+        "equipped": "已裝備！",
+        "equippedDesc": "{name} 已成功裝備",
+        "unequipped": "已卸下！",
+        "unequippedDesc": "{name} 已移除",
+        "equipFailed": "裝備失敗",
+        "unequipFailed": "卸下失敗",
+        "unknownError": "未知錯誤"
     }
 }

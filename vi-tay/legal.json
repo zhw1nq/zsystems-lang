@@ -1,0 +1,92 @@
+{
+    "terms": {
+        "title": "Quy Định Dùng Dịch Vụ",
+        "subtitle": "Terms of Service · Cập nhật pày lăng chót: 01/03/2026",
+        "scope": "Dùng hẩu: Website 7-mau.com, cả thảy tên miền phụ *.7-mau.com, hệ thống Web Dashboard zSystems, cạ tàng thảy máy chủ game Counter-Strike 2 cúa 7-Màu Community.",
+        "intro": "Bặng việc đăng nhập chạu website qua Steam hay nối cấp (connect) chạu bất kỳ máy chủ game lừ cúa 7-Màu Community, pỉ đạ tự nhận lẩn đảy lượm, chắc cạ đồng ý bấu mỉ điều kiện cắp cả thảy điều khoản bưa dướn. Nếu pỉ bấu đồng ý, quyền duy nhất cúa pỉ lẩn đình chỉ dùng dịch vụ ngây.",
+        "section1": {
+            "title": "1. Tài Khoản Cạ Định Danh Hệ Thống",
+            "steamAuthTitle": "Xác nhận qua Steam",
+            "steamAuthContent": "Hệ thống cúa khỏi lồng API chính thức cúa Valve pửa xác nhận qua Steam OpenID. Khỏi bấu đòi cạ bấu giử lặp mật khẩu Steam cúa pỉ. Pỉ tự chịu trách nhiệm mừa an toàn giử kín cúa tài khoản Steam.",
+            "identityTitle": "Định danh cần dùng",
+            "identityContent": "Mỗi cần dùng đảy định danh bặng 7ID (mã nội bộ slên zSystems), SteamID64 cạ Địa chỉ IP. Nếu tài khoản cúa pỉ bỉ cần khác lồng pửa phít quy định cúa 7-Màu, tài khoản đó lẩn slẽ bỉ phạt mà bấu mỉ ngoại lệ."
+        },
+        "section2": {
+            "title": "2. Quy Định Chống Lừa (Zero-Tolerance Anti-Cheat)",
+            "corePolicy": "Nẩy lẩn cốt lõi cúa 7-Màu Community. Khỏi lồng quy định BẤU THA cắp mọi cách lỉn lừa.",
+            "permBanTitle": "Cấm mãi mãi (Permanent Ban)",
+            "permBanContent": "Việc dùng phần mềm thứ ba (hack, cheat, aimbot, wallhack, scripts, macros) chạu game slẽ pùn thâng việc tài khoản SteamID cạ IP cúa pỉ bỉ cấm mãi mãi slên cả thảy hệ thống (Web & Game Server).",
+            "demoTitle": "Phân tích Demo (Demo Parsing)",
+            "demoContent": "Hệ thống cúa khỏi tự động giử cạ phân tích Replay/Demo cúa mọi trận đấu. BQT 7-Màu mỉ tàng thảy quyền dựa chạu dữ liệu nẩy pửa chưởng lệnh cấm tài khoản mà bấu cần đưa bằng chứng mã nguồn hay thuật toán phát hiện hẩu cần phít luật.",
+            "evasionTitle": "Trốn luật (Ban Evasion)",
+            "evasionContent": "Bất kỳ ý lừ định chế tài khoản mấư (Smurf) pửa trốn lệnh cấm slẽ pùn thâng việc hệ thống tự động cấm cả thảy tàng tài khoản dính dáng."
+        },
+        "section3": {
+            "title": "3. Quy Định Mừa Dữ Liệu & Khai Thác Mạng",
+            "ownershipTitle": "Quyền slêng cúa 7-Màu",
+            "ownershipContent": "Mọi dữ liệu thống kê đạ đảy xử lý, xếp thứ (Rank/ELO), cạ cấu trúc chòi slên *.7-mau.com lẩn của cải cúa 7-Màu Community.",
+            "scrapingTitle": "Cấm kịt Sáo cào dữ liệu (Anti-Scraping)",
+            "scrapingContent": "Pỉ BẤU ĐẢY PHÉP lồng bot, spider, scraper hay bất kỳ công cụ tự động lừ pửa rứt dữ liệu lai chạ cúa website khỏi. Việc cố tình pùn lai request (spam API) lồng hại thâng sức lồng cúa dashboard slẽ bỉ coi lẩn hành vi đánh mạng (DoS/DDoS) cạ slẽ bỉ chặn IP ở cấp độ Cloudflare/Firewall ngây."
+        },
+        "section4": {
+            "title": "4. Quyền Lợi VIP & Góp Tiền (Donations)",
+            "donationNote": "Mọi khoản trố tiền pửa mạư gói VIP, skin, hay đặc quyền in-game đảy coi lẩn khoản góp tiền (Donation) tự nguyện pửa giử máy chủ.",
+            "noRefundTitle": "Bấu chả lặp tiền (No Refunds)",
+            "noRefundContent": "Khỏi bấu nhận chả lặp tiền dướn bất kỳ hình thức lừ, kể cả pửa pỉ bỉ cấm (Ban) khỏi hệ thống vị phít luật, hay pửa hệ thống máy chủ phải bảo trì/hắp tú.",
+            "vipRevoke": "BQT mỉ quyền đổi, sửa hay thu lặp tàng đặc quyền VIP bất cứ lủc lừ nếu hăn lồng lạm dụng."
+        },
+        "section5": {
+            "title": "5. Bấu Chịu Trách Nhiệm (Disclaimer of Warranties)",
+            "availabilityTitle": "Tính tể dùng",
+            "availabilityContent": "Hệ thống đảy chạy \"AS IS\" (Mỉ lừ dùng nẩy). Khỏi bấu hứa máy chủ game hay web dashboard slẽ chạy 100% thời gian (Uptime) mà bấu mỉ phít.",
+            "resetTitle": "Reset Dữ liệu",
+            "resetContent": "Pửa giử tính cân bằng (Ví dụ: mùa giải mấư / New Season), 7-Màu Community mỉ tàng thảy quyền mịt (wipe) cả thảy dữ liệu thống kê (stats, rank, điểm tín dụng) bất cứ lủc lừ mà bấu cần đền bù."
+        }
+    },
+    "privacy": {
+        "title": "Quy Định Giử Kín & Củm Lặp Dữ Liệu",
+        "subtitle": "Privacy Policy · Cập nhật pày lăng chót: 01/03/2026",
+        "intro": "Web Dashboard zSystems — đảy chế vị zhw1nq cạ 7-Màu TEAM — lẩn cỗ máy xử lý dữ liệu to luông pửa pùn lại tàng thảy chỉ số thống kê (Stats) chi tiết nhất hẩu cộng đồng CS2 slên 7-mau.com. Bưa dướn lẩn cách khỏi củm lặp cạ chạy kho dữ liệu nẩy.",
+        "section1": {
+            "title": "1. Dữ Liệu Hệ Thống Tự Củm Lặp",
+            "note": "Ngây pửa pỉ nối cấp chạu server game hay đăng nhập chạu hệ thống 7-mau.com, crawler cạ plugin cúa khỏi slẽ chập ngây củm lặp:",
+            "basicDataTitle": "Dữ liệu Định danh cơ bản",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (mã nội bộ slên zSystems), Chử tàng chòi, Lịch sử đổi chử, URL Avatar, đường dẩn Steam Profile.",
+            "steamStatusTitle": "Trạng thái Tài khoản Steam",
+            "steamStatusContent": "Kiểm tra tự động trạng thái VAC Ban, Game Ban, Trade Ban cạ mức độ (Level) cúa tài khoản Steam qua Steam Web API.",
+            "serverDataTitle": "Dữ liệu Máy chủ (Server-side Data)",
+            "serverDataContent": "Địa chỉ IP mạng cúa pỉ, Ping, thông tin mường/búng.",
+            "telemetryTitle": "Dữ liệu In-game (Deep Telemetry Data)",
+            "telemetryContent": "Mọi việc lồng cúa pỉ trong server tàng đảy ghi lặp. Bao gồm: Tọa độ pây lăng, lịch sử K/D/A, máu mết, súng lồng, búng hit-box (headshot, chest, etc.), cạ dữ liệu log chat (chử khít)."
+        },
+        "section2": {
+            "title": "2. Sự Mở Kháư Cúa Dữ Liệu Thống Kê",
+            "note": "Nẩy lẩn nền tảng cốt lõi cúa Web Dashboard zSystems.",
+            "publicData": "Toàn bộ tàng chỉ số in-game (Stats), Rank, ELO, Lịch sử trận đấu (Match History) cạ trạng thái tàng slên mạng cúa pỉ ở server 7-Màu lẩn DỮ LIỆU CÔNG KHAI (PUBLIC DATA).",
+            "publicAccess": "Mọi cần dùng chạu *.7-mau.com tàng tể sáo cạ chòi chi tiết hồ sơ (Player Profile) cúa pỉ slên hệ thống cúa khỏi.",
+            "noPrivateProfile": "Bấu mỉ ngoại lệ nẳm lỉ hẩu Stats: Bặng việc lỉn slên server cúa khỏi, pỉ nhận chụi lẩn thành tích (cạ cả lịch sử bỉ cấm/ban) cúa pỉ slẽ đảy chòi công khai slên Bảng Xếp Thứ. Khỏi bấu giúp đỡ việc \"nẳm lỉ profile\" (Private Profile) slên web dashboard pửa giử tính rõ ràng hẩu cộng đồng."
+        },
+        "section3": {
+            "title": "3. Giử Dữ Liệu Lịch Sử Phít Luật (Ban Records)",
+            "banData": "Dữ liệu mừa tàng thảy tài khoản phít (Banned/Muted/Gagged) bao gồm 7ID, SteamID, Lý do cấm, Thời gian cấm cạ Chử tàng chòi lủc phít slẽ đảy giử mãi mãi cạ công khai slên hệ thống Ban List cúa zSystems.",
+            "sharing": "Hệ thống tể chia sẻ tàng Ban List nẩy cắp tàng cộng đồng/đối tác CS2 khác pửa chế búng lỉn game chăn."
+        },
+        "section4": {
+            "title": "4. Lồng Cookie & Session Web",
+            "note": "Web dashboard 7-mau.com lồng Cookies cạ Local Storage slên trình duyệt cúa pỉ pửa:",
+            "cookieLogin": "Giử trạng thái đăng nhập (Keep Logged In).",
+            "cookieUi": "Giử tàng tùy chọn giao diện (Dark Mode / Light Mode, quam chòi).",
+            "cookieAnalytics": "Theo dõi lượng truy cập qua tàng công cụ phân tích (như Google Analytics) pửa BQT chấm điểm hiệu suất cúa website."
+        },
+        "section5": {
+            "title": "5. Giử Kín Dữ Liệu Trong Nhà",
+            "content": "Mặc dù dữ liệu in-game cúa pỉ lẩn công khai slên Dashboard, tàng thông tin cần kín ở cấp độ hệ thống như: Địa chỉ IP thực, lịch sử trố tiền (mạư VIP), cạ lịch sử nối cấp tài khoản (Discord/Steam) đảy mã hóa cạ giử kín khim. Chỉ mỉ Cần quản lý Cấp slao (Root Admin) chắng mỉ quyền chạu Database gốc."
+        },
+        "section6": {
+            "title": "6. Cách Liên Hệ Cắp BQT",
+            "intro": "Mọi việc mừa khiếu nại tài khoản, báo phít web, hay tàng việc mừa điều khoản, mời pỉ liên hệ ngây qua đường chính:",
+            "discordLabel": "Cổng Giúp đỡ (Discord Ticket):",
+            "emailLabel": "Email Cần quản lý:"
+        }
+    }
+}

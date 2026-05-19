@@ -1,0 +1,159 @@
+{
+    "title": "Bảng điều khiển",
+    "subtitle": "Chòi cả thảy & quản lý máy chủ",
+    "servers": {
+        "title": "Máy chủ",
+        "count": "{count} máy chủ",
+        "allServers": "Cả thảy",
+        "noServers": "Bấu mỉ máy chủ lừ trong nhóm nẩy"
+    },
+    "serverCard": {
+        "connect": "Nối cấp",
+        "noMap": "Bấu mỉ bản đồ",
+        "players": "{current}/{max} Cần lỉn",
+        "offline": "Lống mạng",
+        "noInfo": "Chửa mỉ thông tin máy chủ lừ."
+    },
+    "serverDetail": {
+        "players": "Cần lỉn",
+        "noPlayers": "Bấu mỉ cần lỉn lừ",
+        "teamCT": "Chống Khủng bố",
+        "teamT": "Khủng bố",
+        "teamUnassigned": "Chửa chia đội",
+        "serverInfo": "Thông tin máy chủ",
+        "chat": "Chat",
+        "contextMenu": {
+            "viewSteamProfile": "Chòi tài khoản",
+            "copySteamId": "Chép lặp SteamID",
+            "copyPlayerName": "Chép lặp chử",
+            "copyStats": "Chép lặp thống kê",
+            "viewStats": "Chòi tài khoản"
+        },
+        "spectators": "Cần chòi",
+        "noSpectators": "Bấu mỉ cần chòi lừ",
+        "copied": "Đạ chép lặp {label}",
+        "unknown": "Bấu chắc"
+    },
+    "stats": {
+        "totalServers": "Tàng thảy máy chủ",
+        "playersOnline": "Tàng lỉn",
+        "totalBans": "Tàng thảy Ban",
+        "totalMutes": "Tàng thảy Mute",
+        "kills": "K",
+        "deaths": "D",
+        "score": "Điểm"
+    },
+    "penalty": {
+        "title": "Phạt",
+        "bans": "Bans",
+        "mutes": "Mutes",
+        "records": "{count} bản ghi",
+        "noRecords": "Bấu sáo hăn bản ghi lừ",
+        "player": "Cần lỉn",
+        "status": "Trạng thái",
+        "type": "Loại",
+        "reason": "Lý do",
+        "duration": "Thời hạn",
+        "timeLeft": "Còn lặp",
+        "admin": "Admin",
+        "removeReason": "Lý do gỡ",
+        "dateTime": "Vằn / Giờ",
+        "statusActive": "Còn tể dùng",
+        "statusExpired": "Đạ mết hạn",
+        "statusUnbanned": "Đạ gỡ",
+        "permanent": "Mãi mãi",
+        "expired": "Mết hạn",
+        "viewAll": "Chòi cả thảy",
+        "durationMinutes": "{value} phút",
+        "durationHours": "{value} giờ",
+        "durationDays": "{value} vằn",
+        "page": "Trang {page}/{total}",
+        "previous": "Cón",
+        "next": "Lăng",
+        "ctx": {
+            "viewSteam": "Chòi tài khoản",
+            "comment": "Bình luận",
+            "reban": "Cấm lặp",
+            "remute": "Cấm chat lặp",
+            "editBan": "Sửa lệnh cấm",
+            "editMute": "Sửa cấm chat",
+            "removeBan": "Gỡ lệnh cấm",
+            "removeMute": "Gỡ cấm chat",
+            "deleteBan": "Mịt lệnh cấm",
+            "deleteMute": "Mịt cấm chat"
+        }
+    },
+    "playerAction": {
+        "adminActions": "Thao tác quản lý",
+        "duration": "Thời hạn",
+        "permanent": "Mãi mãi",
+        "reason": "Lý do",
+        "reasonPlaceholder": "Khít lý do phạt...",
+        "reasonRequired": "Mời khít lý do",
+        "muteGroup": "Cản cạ quam",
+        "actions": {
+            "ban": "Cấm lỉn",
+            "kick": "Tảy ók khỏi máy chủ",
+            "mute": "Cấm Voice",
+            "gag": "Cấm Text",
+            "silence": "Cấm Voice & Text"
+        },
+        "success": "Đạ lồng đảy việc {action} cắp {player}",
+        "failed": "Lồng bấu đảy",
+        "socialLink": "NỐI CẤP MẠNG XÃ HỘI",
+        "statsChecker": "CÔNG CỤ KIỂM TRA CHỈ SỐ"
+    },
+    "privilege": {
+        "title": "Quyền slêng Máy chủ",
+        "description": "Nâng cấp tài khoản pửa kháư khóa đồ vật slêng cạ quyền cón. Chọn gói hợp cắp pỉ.",
+        "discount": "Giảm",
+        "month1": "1 Bươn",
+        "months3": "3 Bươn",
+        "mostPopular": "LAI CẦN DÙNG NHẤT",
+        "periodMonthly": "/ 30 Vằn",
+        "periodQuarterly": "/ 90 Vằn",
+        "currentPlan": "TÀNG DÙNG",
+        "tiers": {
+            "member": {
+                "name": "FREE",
+                "priceMonthly": "BẤU MẾT TIỀN",
+                "priceQuarterly": "BẤU MẾT TIỀN",
+                "description": "Trải nghiệm cơ bản",
+                "button": "LỈN NGÂY"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Đẳng cấp slao nhất",
+                "button": "NÂNG CẤP"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Nâng cấp trải nghiệm",
+                "button": "NÂNG CẤP"
+            }
+        },
+        "features": {
+            "customSkins": "Tùy chỉnh skin mạc, găng, súng",
+            "createCollections": "Chế collection hẩu mạc, găng, súng",
+            "mvpPackFree": "Dùng MVP Pack Free",
+            "publicServers": "Chạu máy chủ thoải mái",
+            "prioritySlot": "Ưu tiên chạu server pửa đỉ",
+            "fastSupport": "Giúp đỡ cón tự Admin",
+            "mvpPackVip": "Dùng MVP Pack VIP",
+            "customLoadout": "Tùy chỉnh loadout slêng",
+            "agentWibu3D": "Trải nghiệm Agent Wibu 3D slêng",
+            "weaponWibu3D": "Dùng Weapon Wibu 3D chăn ngàm",
+            "adminPrivileges": "Quyền lợi Admin – quyền slêng slao nhất"
+        }
+    },
+    "support": {
+        "title": "Đội ngũ Giúp đỡ",
+        "description": "Tàng thảy cần luôn sẵn sàng giúp đỡ pỉ tại 7-Mau Community",
+        "admin": "Cần quản lý",
+        "staff": "Cần giúp đỡ"
+    }
+}

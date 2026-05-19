@@ -1,0 +1,81 @@
+{
+    "title": "Bộ sưu tập Skins",
+    "description": "Khám phá cạ chia sẻ bộ sưu tập skins cắp cộng đồng",
+    "tabs": {
+        "community": "Cộng đồng",
+        "my": "Cúa khỏi"
+    },
+    "sort": {
+        "newest": "Mấư nhất",
+        "mostLiked": "Lai thích nhất",
+        "mostUsed": "Lai cần dùng nhất"
+    },
+    "card": {
+        "items": "{count} items",
+        "uses": "{count} lượt dùng",
+        "likes": "{count} thích",
+        "comments": "{count} bình luận",
+        "by": "vị {author}",
+        "public": "Công khai",
+        "private": "Riêng tư"
+    },
+    "create": {
+        "button": "Chế mấư",
+        "title": "Chế bộ sưu tập",
+        "name": "Chử bộ sưu tập",
+        "namePlaceholder": "VD: AWP Dragon Lore + Butterfly Fade",
+        "description": "Mô tả",
+        "descPlaceholder": "Mô tả mừa bộ sưu tập...",
+        "visibility": "Công khai",
+        "preview": "Loadout lủc nẩy",
+        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
+        "submit": "Chế bộ sưu tập",
+        "success": "Đạ chế bộ sưu tập đảy việc!",
+        "error": "Bấu tể chế bộ sưu tập",
+        "limitReached": "Pỉ đạ thâng giới hạn {max} bộ sưu tập",
+        "emptyLoadout": "Loadout lủc nẩy pảo, mải lừ pửa giử"
+    },
+    "detail": {
+        "apply": "Áp dụng bộ sưu tập",
+        "applyConfirmTitle": "Áp dụng bộ sưu tập bấu?",
+        "applyConfirmDesc": "Loadout lủc nẩy cúa pỉ slẽ bỉ ghi đè hoàn toàn bặng tàng items trong bộ sưu tập nẩy. Hành động nẩy bấu tể quây lặp.",
+        "applySuccess": "Đạ áp dụng bộ sưu tập đảy việc!",
+        "applyError": "Bấu tể áp dụng bộ sưu tập",
+        "delete": "Mịt",
+        "deleteConfirmTitle": "Mịt bộ sưu tập bấu?",
+        "deleteConfirmDesc": "Pỉ mỉ chắc mừa mịt bộ sưu tập nẩy bấu? Hành động nẩy bấu tể quây lặp.",
+        "edit": "Sửa",
+        "skins": "Skins",
+        "knives": "Mạc",
+        "gloves": "Găng tay",
+        "agents": "Agents",
+        "music": "Nhạc",
+        "pins": "Huy hiệu"
+    },
+    "comment": {
+        "title": "Bình luận",
+        "placeholder": "Khít bình luận...",
+        "submit": "Sửng",
+        "empty": "Chửa mỉ bình luận lừ",
+        "deleteConfirm": "Mịt bình luận nẩy bấu?",
+        "error": "Bấu tể sửng bình luận",
+        "loginRequired": "Đăng nhập pửa bình luận"
+    },
+    "empty": {
+        "community": "Chửa mỉ bộ sưu tập lừ. Mới pỉ lẩn cần đầu tiên chia sẻ!",
+        "my": "Pỉ chửa chế bộ sưu tập lừ.",
+        "noItems": "Bộ sưu tập pảo"
+    },
+    "toast": {
+        "liked": "Đạ thích bộ sưu tập",
+        "unliked": "Đạ bỏ thích",
+        "deleted": "Đạ mịt bộ sưu tập",
+        "updated": "Đạ cập nhật bộ sưu tập",
+        "tooFast": "Lồng quá nhanh!",
+        "tooFastDesc": "Mới pỉ chả cón pửa lồng hành động tiếp lăng",
+        "copiedId": "Đạ chép lặp ID",
+        "applied": "Đạ áp dụng bộ sưu tập!",
+        "applyError": "Bấu tể áp dụng"
+    },
+    "search": "Sáo bộ sưu tập..."
+}

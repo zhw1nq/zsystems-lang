@@ -1,0 +1,45 @@
+{
+    "hero": {
+        "badge": "Phiên bản 2.0 - Đạ ók",
+        "title": "Hệ thống quản lý tàng thảy hẩu",
+        "titleHighlight": "máy chủ CS2",
+        "subtitle": "Tự SSH, RCON, quản lý cần lỉn, web UI, Discord bot API cạ lai tính năng khác - cả thảy nẳm chung búng nẩy.",
+        "getStarted": "Bắt đầu ngây",
+        "viewDocs": "Chòi tài liệu"
+    },
+    "stats": {
+        "servers": "Servers",
+        "players": "Players",
+        "uptime": "Uptime",
+        "features": "Features"
+    },
+    "features": {
+        "badge": "Tính năng",
+        "title": "Cả thảy lừ pỉ cần",
+        "subtitle": "Công cụ mạn pửa quản lý máy chủ CS2 cúa pỉ",
+        "sshRcon": "SSH & RCON",
+        "sshRconDesc": "Quản lý máy chủ tự xa cắp SSH cạ RCON mỉ cón.",
+        "playerManagement": "Quản lý cần lỉn",
+        "playerManagementDesc": "Theo dõi, ban, mute cạ quản lý cần lỉn tàng thảy.",
+        "serverListChanger": "Server List Changer",
+        "serverListChangerDesc": "Giao diện hẩu client dùng server list changer.",
+        "webUI": "Web UI",
+        "webUIDesc": "Giao diện web mấư, responsive hẩu cần dùng.",
+        "discordBot": "Discord Bot API",
+        "discordBotDesc": "Lồng Discord bot API bấu mết tiền, ngải cấu hình.",
+        "dataManagement": "Data Management",
+        "dataManagementDesc": "Quản lý dữ liệu tụ lặp, an toàn cạ đảy việc.",
+        "multiServer": "Multi-Server",
+        "multiServerDesc": "Giúp đỡ quản lý lai máy chủ cùng lủc.",
+        "customize": "Customize",
+        "customizeDesc": "Tùy chỉnh cả thảy theo ý cúa pỉ."
+    },
+    "cta": {
+        "title": "Sẵn sàng bắt đầu bấu?",
+        "subtitle": "Đăng ký bấu mết tiền cạ trải nghiệm ngây vằn nẩy.",
+        "register": "Đăng ký bấu mết tiền",
+        "free": "Bấu mết tiền",
+        "noCard": "Bấu cần thẻ",
+        "support247": "Giúp đỡ 24/7"
+    }
+}

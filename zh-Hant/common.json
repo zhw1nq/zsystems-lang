@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
-        "skins": "Skins",
-        "skinCollections": "Collections",
+        "home": "首頁",
+        "dashboard": "儀表板",
+        "account": "帳號",
+        "security": "安全性",
+        "settings": "設定",
+        "servers": "伺服器",
+        "bans": "封禁",
+        "mutes": "禁言 / Gag",
+        "skins": "造型",
+        "skinCollections": "收藏",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
-        "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "rankings": "排行榜",
+        "battleMode": "對戰模式",
+        "admin": "管理面板",
+        "login": "登入",
+        "register": "註冊",
+        "logout": "登出",
+        "support": "支援"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "複製",
+        "connect": "連線",
+        "save": "儲存",
+        "cancel": "取消",
+        "close": "關閉",
+        "confirm": "確認",
+        "delete": "刪除",
+        "edit": "編輯",
+        "back": "返回",
+        "retry": "重試",
+        "search": "搜尋..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "在線",
+        "offline": "離線",
+        "loading": "載入中...",
+        "error": "錯誤",
+        "success": "成功"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "已複製到剪貼簿",
+        "copyFailed": "複製失敗"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "版權所有"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "收合",
+        "expand": "展開",
+        "language": "語言",
+        "theme": "主題",
+        "terms": "條款與隱私權",
+        "guest": "訪客",
+        "settings": "設定"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "系統公告",
+        "sourceLink": "查看原始貼文"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "您要尋找的頁面不存在",
+            "home": "首頁",
+            "back": "返回"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "發生未預期的錯誤",
+            "errorCode": "錯誤代碼：{code}",
+            "pleaseRetry": "請再試一次",
+            "retry": "重試",
+            "home": "首頁"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "需要變更密碼",
+        "description": "基於安全原因，管理員要求您變更密碼。您必須先更新密碼才能繼續。",
+        "newPassword": "新密碼",
+        "confirmPassword": "確認密碼",
+        "submit": "變更密碼",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "至少 8 個字元",
+            "uppercase": "至少 1 個大寫字母",
+            "number": "至少 1 個數字",
+            "match": "密碼一致"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "晚安，{name}",
+        "greeting_morning": "早安，{name}",
+        "greeting_noon": "午安，{name}",
+        "greeting_afternoon": "下午好，{name}",
+        "greeting_evening": "晚上好，{name}",
+        "guest": "訪客",
+        "warning": "每日遊戲超過 180 分鐘可能影響健康"
     }
 }

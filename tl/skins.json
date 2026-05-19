@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "Mga Skin",
+    "description": "Tingnan at i-customize ang iyong CS2 weapon skins",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "Mga Weapon Skin",
+        "agents": "Mga Agent",
+        "musicKits": "Mga Music Kit",
+        "pinsCoins": "Mga Pin at Barya"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "Guwantes",
+        "rifles": "Rifle",
+        "knives": "Kutsilyo",
+        "smgs": "SMG",
+        "pistols": "Pistola",
+        "heavy": "Mabibigat na Sandata",
+        "equipment": "Kagamitan"
     },
     "team": {
-        "both": "Both Teams",
+        "both": "Parehong Team",
         "ct": "CT Side",
         "t": "T Side"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "Maghanap ng skins...",
+    "noResults": "Walang nahanap na skins",
+    "selectWeapon": "Pumili ng sandata para tingnan ang skins",
+    "loginRequired": "Mag-login muna para gamitin ang Skins",
+    "loading": "Naglo-load ng skins...",
+    "itemCount": "{count} mga item",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "Masyadong mabilis!",
+        "tooFastDesc": "Maghintay ng 2s bago subukang muli",
+        "equipped": "Naka-equip na!",
+        "equippedDesc": "Matagumpay na na-equip ang {name}",
+        "unequipped": "Tinanggal ang equip!",
+        "unequippedDesc": "Tinanggal ang {name}",
+        "equipFailed": "Nabigo ang pag-equip",
+        "unequipFailed": "Nabigo ang pagtanggal ng equip",
+        "unknownError": "Hindi kilalang error"
     }
 }

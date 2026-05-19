@@ -1,45 +1,45 @@
 {
     "hero": {
-        "badge": "Version 2.0 - Now Available",
-        "title": "Comprehensive management system for",
-        "titleHighlight": "CS2 servers",
-        "subtitle": "From SSH, RCON, player management, web UI, Discord bot API and many more features - all in one platform.",
-        "getStarted": "Get Started",
-        "viewDocs": "View Documentation"
+        "badge": "版本 2.0 - 現已推出",
+        "title": "適用於",
+        "titleHighlight": "CS2 伺服器",
+        "subtitle": "從 SSH、RCON、玩家管理、Web UI、Discord Bot API 到更多功能 —— 全部整合於同一平台。",
+        "getStarted": "開始使用",
+        "viewDocs": "查看文件"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
-        "uptime": "Uptime",
-        "features": "Features"
+        "servers": "伺服器",
+        "players": "玩家",
+        "uptime": "運行時間",
+        "features": "功能"
     },
     "features": {
-        "badge": "Features",
-        "title": "Everything you need",
-        "subtitle": "Powerful tools to manage your CS2 servers",
-        "sshRcon": "SSH & RCON",
-        "sshRconDesc": "Manage servers remotely with built-in SSH and RCON.",
-        "playerManagement": "Player Management",
-        "playerManagementDesc": "Track, ban, mute and manage players comprehensively.",
-        "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Client interface for server list changer.",
-        "webUI": "Web UI",
-        "webUIDesc": "Modern, responsive web interface for users.",
+        "badge": "功能特色",
+        "title": "您所需的一切",
+        "subtitle": "強大的工具，幫助您管理 CS2 伺服器",
+        "sshRcon": "SSH 與 RCON",
+        "sshRconDesc": "透過內建 SSH 與 RCON 遠端管理伺服器。",
+        "playerManagement": "玩家管理",
+        "playerManagementDesc": "全面追蹤、封禁、禁言與管理玩家。",
+        "serverListChanger": "伺服器列表切換器",
+        "serverListChangerDesc": "提供伺服器列表切換器的客戶端介面。",
+        "webUI": "Web 使用者介面",
+        "webUIDesc": "為使用者打造現代化且響應式的 Web 介面。",
         "discordBot": "Discord Bot API",
-        "discordBotDesc": "Free, easy-to-configure Discord bot API integration.",
-        "dataManagement": "Data Management",
-        "dataManagementDesc": "Centralized, secure, and efficient data management.",
-        "multiServer": "Multi-Server",
-        "multiServerDesc": "Support managing multiple servers simultaneously.",
-        "customize": "Customize",
-        "customizeDesc": "Customize everything to your needs."
+        "discordBotDesc": "免費且易於設定的 Discord Bot API 整合。",
+        "dataManagement": "資料管理",
+        "dataManagementDesc": "集中化、安全且高效的資料管理。",
+        "multiServer": "多伺服器支援",
+        "multiServerDesc": "支援同時管理多個伺服器。",
+        "customize": "自訂化",
+        "customizeDesc": "依照您的需求自訂所有內容。"
     },
     "cta": {
-        "title": "Ready to get started?",
-        "subtitle": "Register for free and try it today.",
-        "register": "Register for Free",
-        "free": "Free",
-        "noCard": "No card required",
-        "support247": "24/7 Support"
+        "title": "準備好開始了嗎？",
+        "subtitle": "免費註冊，立即體驗。",
+        "register": "免費註冊",
+        "free": "免費",
+        "noCard": "無需信用卡",
+        "support247": "24/7 支援"
     }
 }

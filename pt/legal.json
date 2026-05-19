@@ -1,92 +1,92 @@
 {
     "terms": {
-        "title": "Terms of Service Agreement",
-        "subtitle": "Terms of Service · Last updated: 03/01/2026",
-        "scope": "Applies to: Website 7-mau.com, all subdomains *.7-mau.com, zSystems Web Dashboard, and all Counter-Strike 2 game servers of 7-Mau Community.",
-        "intro": "By logging into the website through Steam or connecting to any 7-Mau Community game server, you automatically acknowledge that you have read, understood, and unconditionally agree to all the terms below. If you do not agree, your only right is to immediately stop using the service.",
+        "title": "Acordo dos Termos de Serviço",
+        "subtitle": "Termos de Serviço · Última atualização: 01/03/2026",
+        "scope": "Aplica-se a: Website 7-mau.com, todos os subdomínios *.7-mau.com, zSystems Web Dashboard e todos os servidores de Counter-Strike 2 da 7-Mau Community.",
+        "intro": "Ao fazer login no site via Steam ou conectar-se a qualquer servidor da 7-Mau Community, você reconhece automaticamente que leu, entendeu e concorda incondicionalmente com todos os termos abaixo. Se você não concorda, sua única opção é parar imediatamente de usar o serviço.",
         "section1": {
-            "title": "1. Accounts and System Identification",
-            "steamAuthTitle": "Steam Authentication",
-            "steamAuthContent": "Our system uses Valve's official API for Steam OpenID authentication. We do not request or store your Steam password. You are responsible for the security of your Steam account.",
-            "identityTitle": "User Identification",
-            "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
+            "title": "1. Contas e Identificação do Sistema",
+            "steamAuthTitle": "Autenticação Steam",
+            "steamAuthContent": "Nosso sistema utiliza a API oficial da Valve para autenticação Steam OpenID. Não solicitamos nem armazenamos sua senha Steam. Você é responsável pela segurança da sua conta Steam.",
+            "identityTitle": "Identificação do usuário",
+            "identityContent": "Cada usuário é identificado por 7ID (código interno no zSystems), SteamID64 e endereço IP. Se sua conta for usada por outra pessoa para violar as regras da 7-Mau, essa conta ainda será penalizada sem exceções."
         },
         "section2": {
-            "title": "2. Zero-Tolerance Anti-Cheat Policy",
-            "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
-            "permBanTitle": "Permanent Ban",
-            "permBanContent": "Using third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) that interferes with the game will result in your SteamID and IP being permanently banned from the entire system (Web & Game Server).",
-            "demoTitle": "Demo Parsing",
-            "demoContent": "Our system automatically stores and analyzes Replay/Demo of every match. 7-Mau's admin team has full authority to use this data to make ban decisions without providing source code evidence or detection algorithms to violators.",
-            "evasionTitle": "Ban Evasion",
-            "evasionContent": "Any attempt to create new accounts (Smurf) to circumvent a ban will result in the system automatically banning all related accounts."
+            "title": "2. Política Anti-Cheat de Tolerância Zero",
+            "corePolicy": "Este é o núcleo da 7-Mau Community. Aplicamos uma política de TOLERÂNCIA ZERO contra todas as formas de trapaça.",
+            "permBanTitle": "Banimento permanente",
+            "permBanContent": "O uso de softwares de terceiros (hacks, cheats, aimbot, wallhack, scripts, macros) que interfiram no jogo resultará no banimento permanente do seu SteamID e IP de todo o sistema (Web & Servidor de jogo).",
+            "demoTitle": "Análise de Demo",
+            "demoContent": "Nosso sistema armazena e analisa automaticamente replays/demos de cada partida. A equipe de administradores da 7-Mau tem autoridade total para usar esses dados para decisões de banimento sem fornecer evidências de código-fonte ou algoritmos de detecção aos infratores.",
+            "evasionTitle": "Evasão de banimento",
+            "evasionContent": "Qualquer tentativa de criar novas contas (smurf) para contornar um banimento resultará no banimento automático de todas as contas relacionadas."
         },
         "section3": {
-            "title": "3. Data & Network Exploitation Rules",
-            "ownershipTitle": "7-Mau's Ownership",
-            "ownershipContent": "All processed statistical data, rankings (Rank/ELO), and display structures on *.7-mau.com are property of 7-Mau Community.",
-            "scrapingTitle": "Anti-Scraping Policy",
-            "scrapingContent": "You are NOT ALLOWED to use bots, spiders, scrapers, or any automated tools to extract bulk data from our website. Intentionally sending mass requests (API spam) that affect dashboard performance will be considered a cyber attack (DoS/DDoS) and will be blocked at the Cloudflare/Firewall level immediately."
+            "title": "3. Regras de Exploração de Dados e Rede",
+            "ownershipTitle": "Propriedade da 7-Mau",
+            "ownershipContent": "Todos os dados estatísticos processados, rankings (Rank/ELO) e estruturas de exibição em *.7-mau.com são propriedade da 7-Mau Community.",
+            "scrapingTitle": "Política anti-scraping",
+            "scrapingContent": "Você NÃO PODE usar bots, spiders, scrapers ou qualquer ferramenta automatizada para extrair dados em massa do nosso site. Enviar intencionalmente requisições em massa (API spam) que afetem o desempenho do dashboard será considerado ataque cibernético (DoS/DDoS) e será bloqueado imediatamente no nível Cloudflare/firewall."
         },
         "section4": {
-            "title": "4. VIP Benefits & Donations",
-            "donationNote": "All payments for VIP packages, skins, or in-game privileges are considered voluntary donations to maintain the servers.",
-            "noRefundTitle": "No Refunds",
-            "noRefundContent": "We do not accept refunds in any form, even if you are banned from the system for rule violations, or when the server system undergoes maintenance/shutdown.",
-            "vipRevoke": "The admin team reserves the right to change, adjust, or revoke VIP privileges at any time if abuse is detected."
+            "title": "4. Benefícios VIP & Doações",
+            "donationNote": "Todos os pagamentos de pacotes VIP, skins ou privilégios in-game são considerados doações voluntárias para manter os servidores.",
+            "noRefundTitle": "Sem reembolsos",
+            "noRefundContent": "Não aceitamos reembolsos sob nenhuma forma, mesmo se você for banido por violação de regras ou em caso de manutenção/desligamento do sistema.",
+            "vipRevoke": "A equipe administrativa reserva-se o direito de alterar, ajustar ou revogar privilégios VIP a qualquer momento se for detectado abuso."
         },
         "section5": {
-            "title": "5. Disclaimer of Warranties",
-            "availabilityTitle": "Availability",
-            "availabilityContent": "The system is operated \"AS IS\". We do not guarantee that game servers or the web dashboard will operate 100% of the time (Uptime) without errors.",
-            "resetTitle": "Data Reset",
-            "resetContent": "To ensure balance (e.g., new seasons), 7-Mau Community has full authority to wipe all statistical data (stats, rank, credit points) at any time without compensation."
+            "title": "5. Isenção de Garantias",
+            "availabilityTitle": "Disponibilidade",
+            "availabilityContent": "O sistema é operado \"NO ESTADO EM QUE SE ENCONTRA\" (AS IS). Não garantimos que os servidores de jogo ou o dashboard web funcionarão 100% do tempo sem erros.",
+            "resetTitle": "Reset de dados",
+            "resetContent": "Para garantir equilíbrio (ex: novas temporadas), a 7-Mau Community tem autoridade total para limpar todos os dados estatísticos (stats, rank, pontos) a qualquer momento sem compensação."
         }
     },
     "privacy": {
-        "title": "Privacy & Data Collection Policy",
-        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
-        "intro": "Web Dashboard zSystems — developed by zhw1nq and 7-Mau TEAM — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on 7-mau.com. Below is how we collect and operate this data repository.",
+        "title": "Política de Privacidade e Coleta de Dados",
+        "subtitle": "Política de Privacidade · Última atualização: 01/03/2026",
+        "intro": "O Web Dashboard zSystems — desenvolvido por zhw1nq e 7-Mau TEAM — é um sistema massivo de processamento de dados projetado para fornecer estatísticas detalhadas (Stats) para a comunidade CS2 em 7-mau.com. Abaixo está como coletamos e operamos esses dados.",
         "section1": {
-            "title": "1. Automatically Collected System Data",
-            "note": "As soon as you connect to a game server or log into 7-mau.com, our crawlers and plugins will immediately collect:",
-            "basicDataTitle": "Basic Identity Data",
-            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code on zSystems), Current display name, Name change history, Avatar URL, Steam Profile link.",
-            "steamStatusTitle": "Steam Account Status",
-            "steamStatusContent": "Automatic checking of VAC Ban, Game Ban, Trade Ban status and Steam account Level through Steam Web API.",
-            "serverDataTitle": "Server-side Data",
-            "serverDataContent": "Your network IP address, Ping, country/region information.",
-            "telemetryTitle": "In-game Data (Deep Telemetry Data)",
-            "telemetryContent": "All of your actions in the server are recorded. Including: Movement coordinates, K/D/A history, damage dealt, weapons used, hit-box positions (headshot, chest, etc.), and chat log data (text)."
+            "title": "1. Dados coletados automaticamente pelo sistema",
+            "note": "Assim que você se conecta a um servidor ou faz login em 7-mau.com, nossos crawlers e plugins coletam imediatamente:",
+            "basicDataTitle": "Dados básicos de identidade",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (código interno no zSystems), nome exibido atual, histórico de mudanças de nome, URL do avatar, link do perfil Steam.",
+            "steamStatusTitle": "Status da conta Steam",
+            "steamStatusContent": "Verificação automática de VAC Ban, Game Ban, Trade Ban e nível da conta Steam via Steam Web API.",
+            "serverDataTitle": "Dados do servidor",
+            "serverDataContent": "Seu endereço IP de rede, ping, informações de país/região.",
+            "telemetryTitle": "Dados in-game (telemetria profunda)",
+            "telemetryContent": "Todas as suas ações no servidor são registradas. Incluindo: coordenadas de movimento, histórico de K/D/A, dano causado, armas usadas, hitboxes (headshot, peito etc.) e logs de chat (texto)."
         },
         "section2": {
-            "title": "2. Public Nature of Statistical Data",
-            "note": "This is the core foundation of Web Dashboard zSystems.",
-            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
-            "publicAccess": "Any user visiting *.7-mau.com can search for and view your detailed Player Profile on our system.",
-            "noPrivateProfile": "No anonymity exception for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the Leaderboard. We do not support \"hiding profiles\" (Private Profile) on the web dashboard to ensure transparency for the community."
+            "title": "2. Natureza pública dos dados estatísticos",
+            "note": "Esta é a base central do Web Dashboard zSystems.",
+            "publicData": "Todas as estatísticas do jogo (Stats), Rank, ELO, histórico de partidas e seu status online nos servidores 7-Mau são DADOS PÚBLICOS.",
+            "publicAccess": "Qualquer usuário que visitar *.7-mau.com pode pesquisar e visualizar seu perfil detalhado no sistema.",
+            "noPrivateProfile": "Não existe opção de perfil privado: ao jogar em nossos servidores, você aceita que seus dados (incluindo histórico de banimentos) sejam exibidos publicamente no ranking."
         },
         "section3": {
-            "title": "3. Ban Records Data Storage",
-            "banData": "Data about violating accounts (Banned/Muted/Gagged) including 7ID, SteamID, Ban reason, Ban duration, and Display name at the time of violation will be stored permanently and publicly on the zSystems Ban List.",
-            "sharing": "The system may share these Ban Lists with other CS2 communities/partners to build a clean gaming environment."
+            "title": "3. Armazenamento de registros de banimento",
+            "banData": "Dados de contas violadoras (banidas/silenciadas/gag) incluindo 7ID, SteamID, motivo, duração e nome exibido no momento da infração serão armazenados permanentemente e publicados na lista de banimentos.",
+            "sharing": "O sistema pode compartilhar essas listas com outras comunidades/parceiros de CS2 para manter um ambiente de jogo limpo."
         },
         "section4": {
-            "title": "4. Cookie & Web Session Usage",
-            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage on your browser to:",
-            "cookieLogin": "Maintain login state (Keep Logged In).",
-            "cookieUi": "Store interface preferences (Dark Mode / Light Mode, display language).",
-            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) for the admin team to evaluate website performance."
+            "title": "4. Uso de cookies e sessão web",
+            "note": "O dashboard usa cookies e local storage para:",
+            "cookieLogin": "Manter sessão de login.",
+            "cookieUi": "Salvar preferências de interface (tema/idioma).",
+            "cookieAnalytics": "Análise de tráfego e desempenho do site."
         },
         "section5": {
-            "title": "5. Internal Data Protection",
-            "content": "Although your in-game data is public on the Dashboard, sensitive system-level information such as: actual IP addresses, transaction history (VIP purchases), and account linking history (Discord/Steam) are encrypted and strictly protected. Only Senior Admin (Root Admin) has access to the original Database."
+            "title": "5. Proteção de dados internos",
+            "content": "Embora dados in-game sejam públicos, informações sensíveis como IP real, histórico de transações VIP e vínculo de contas (Discord/Steam) são criptografados e protegidos. Apenas administradores seniores têm acesso."
         },
         "section6": {
-            "title": "6. How to Contact Admin",
-            "intro": "For any issues related to account appeals, web bug reports, or terms-related matters, please contact us directly through official channels:",
-            "discordLabel": "Support Portal (Discord Ticket):",
-            "emailLabel": "Admin Email:"
+            "title": "6. Como entrar em contato com a administração",
+            "intro": "Para suporte, apelações ou problemas técnicos, entre em contato pelos canais oficiais:",
+            "discordLabel": "Portal de suporte (Discord):",
+            "emailLabel": "Email da administração:"
         }
     }
 }

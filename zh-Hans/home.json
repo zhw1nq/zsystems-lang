@@ -1,36 +1,36 @@
 {
     "hero": {
-        "explore": "Explore",
-        "store": "Store",
-        "letsPlayNow": "Let's Play Now!",
-        "wantToBeVip": "Want to be a VIP?",
-        "loginToZsystems": "Login to zSystems",
-        "weaponSkins": "Weapon Skins",
-        "ranks": "Ranks",
-        "contact": "Contact",
-        "getDemo": "Get Demo",
+        "explore": "探索",
+        "store": "商店",
+        "letsPlayNow": "现在开始游玩！",
+        "wantToBeVip": "想成为 VIP 吗？",
+        "loginToZsystems": "登录 zSystems",
+        "weaponSkins": "武器皮肤",
+        "ranks": "段位",
+        "contact": "联系",
+        "getDemo": "获取演示",
         "subbrand": "zSYSTEMS-v2",
-        "playNow": "Play Now",
-        "login": "Login",
-        "changeSkins": "Change Weapons Skin"
+        "playNow": "立即游玩",
+        "login": "登录",
+        "changeSkins": "更换武器皮肤"
     },
     "nav": {
-        "community": "Community",
-        "ranks": "Ranks",
-        "support": "Support"
+        "community": "社区",
+        "ranks": "段位",
+        "support": "支持"
     },
     "stats": {
-        "uptime": "UPTIME",
-        "ping": "PING",
-        "players6h": "PLAYERS / 6H"
+        "uptime": "运行时间",
+        "ping": "延迟",
+        "players6h": "玩家 / 6小时"
     },
     "footer": {
-        "selectLanguage": "Select language",
-        "language": "English",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service",
-        "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+        "selectLanguage": "选择语言",
+        "language": "英语",
+        "privacy": "隐私政策",
+        "terms": "服务条款",
+        "contact": "联系",
+        "poweredBy": "由 zSystems 提供支持 — 由 zhw1nq 与 7-Mau TEAM 开发"
     },
     "character": {
         "name": "7-CHAN"

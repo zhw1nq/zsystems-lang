@@ -1,81 +1,81 @@
 {
-    "title": "Skin Collections",
-    "description": "Discover and share skin collections with the community",
+    "title": "Coleções de Skins",
+    "description": "Descubra e compartilhe coleções de skins com a comunidade",
     "tabs": {
-        "community": "Community",
-        "my": "My Collections"
+        "community": "Comunidade",
+        "my": "Minhas Coleções"
     },
     "sort": {
-        "newest": "Newest",
-        "mostLiked": "Most Liked",
-        "mostUsed": "Most Used"
+        "newest": "Mais recentes",
+        "mostLiked": "Mais curtidas",
+        "mostUsed": "Mais usadas"
     },
     "card": {
-        "items": "{count} items",
-        "uses": "{count} uses",
-        "likes": "{count} likes",
-        "comments": "{count} comments",
-        "by": "by {author}",
-        "public": "Public",
-        "private": "Private"
+        "items": "{count} itens",
+        "uses": "{count} usos",
+        "likes": "{count} curtidas",
+        "comments": "{count} comentários",
+        "by": "por {author}",
+        "public": "Público",
+        "private": "Privado"
     },
     "create": {
-        "button": "Create New",
-        "title": "Create Collection",
-        "name": "Collection Name",
-        "namePlaceholder": "e.g. AWP Dragon Lore + Butterfly Fade",
-        "description": "Description",
-        "descPlaceholder": "Describe your collection...",
-        "visibility": "Public",
-        "preview": "Current Loadout",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
-        "submit": "Create Collection",
-        "success": "Collection created successfully!",
-        "error": "Failed to create collection",
-        "limitReached": "You have reached the limit of {max} collections",
-        "emptyLoadout": "Your current loadout is empty, nothing to save"
+        "button": "Criar novo",
+        "title": "Criar coleção",
+        "name": "Nome da coleção",
+        "namePlaceholder": "ex: AWP Dragon Lore + Butterfly Fade",
+        "description": "Descrição",
+        "descPlaceholder": "Descreva sua coleção...",
+        "visibility": "Público",
+        "preview": "Loadout atual",
+        "previewDesc": "{skins} skins, {knives} facas, {gloves} luvas, {agents} agentes, {music} músicas, {pins} pins",
+        "submit": "Criar coleção",
+        "success": "Coleção criada com sucesso!",
+        "error": "Falha ao criar coleção",
+        "limitReached": "Você atingiu o limite de {max} coleções",
+        "emptyLoadout": "Seu loadout atual está vazio, nada para salvar"
     },
     "detail": {
-        "apply": "Apply Collection",
-        "applyConfirmTitle": "Apply Collection?",
-        "applyConfirmDesc": "Your current loadout will be completely overwritten with items from this collection. This action cannot be undone.",
-        "applySuccess": "Collection applied successfully!",
-        "applyError": "Failed to apply collection",
-        "delete": "Delete",
-        "deleteConfirmTitle": "Delete Collection?",
-        "deleteConfirmDesc": "Are you sure you want to delete this collection? This action cannot be undone.",
-        "edit": "Edit",
+        "apply": "Aplicar coleção",
+        "applyConfirmTitle": "Aplicar coleção?",
+        "applyConfirmDesc": "Seu loadout atual será completamente substituído pelos itens desta coleção. Esta ação não pode ser desfeita.",
+        "applySuccess": "Coleção aplicada com sucesso!",
+        "applyError": "Falha ao aplicar coleção",
+        "delete": "Excluir",
+        "deleteConfirmTitle": "Excluir coleção?",
+        "deleteConfirmDesc": "Tem certeza que deseja excluir esta coleção? Esta ação não pode ser desfeita.",
+        "edit": "Editar",
         "skins": "Skins",
-        "knives": "Knives",
-        "gloves": "Gloves",
-        "agents": "Agents",
-        "music": "Music",
+        "knives": "Facas",
+        "gloves": "Luvas",
+        "agents": "Agentes",
+        "music": "Músicas",
         "pins": "Pins"
     },
     "comment": {
-        "title": "Comments",
-        "placeholder": "Write a comment...",
-        "submit": "Post",
-        "empty": "No comments yet",
-        "deleteConfirm": "Delete this comment?",
-        "error": "Failed to post comment",
-        "loginRequired": "Log in to comment"
+        "title": "Comentários",
+        "placeholder": "Escreva um comentário...",
+        "submit": "Publicar",
+        "empty": "Ainda não há comentários",
+        "deleteConfirm": "Excluir este comentário?",
+        "error": "Falha ao postar comentário",
+        "loginRequired": "Faça login para comentar"
     },
     "empty": {
-        "community": "No collections yet. Be the first to share!",
-        "my": "You haven't created any collections yet.",
-        "noItems": "Collection is empty"
+        "community": "Ainda não há coleções. Seja o primeiro a compartilhar!",
+        "my": "Você ainda não criou nenhuma coleção.",
+        "noItems": "A coleção está vazia"
     },
     "toast": {
-        "liked": "Collection liked",
-        "unliked": "Collection unliked",
-        "deleted": "Collection deleted",
-        "updated": "Collection updated",
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait before performing the next action",
-        "copiedId": "Copied ID",
-        "applied": "Collection applied!",
-        "applyError": "Failed to apply"
+        "liked": "Coleção curtida",
+        "unliked": "Curtida removida",
+        "deleted": "Coleção excluída",
+        "updated": "Coleção atualizada",
+        "tooFast": "Muito rápido!",
+        "tooFastDesc": "Aguarde antes de fazer a próxima ação",
+        "copiedId": "ID copiado",
+        "applied": "Coleção aplicada!",
+        "applyError": "Falha ao aplicar"
     },
-    "search": "Search collections..."
+    "search": "Pesquisar coleções..."
 }

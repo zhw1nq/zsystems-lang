@@ -1,81 +1,81 @@
 {
-    "title": "Skin Collections",
-    "description": "Discover and share skin collections with the community",
+    "title": "皮肤收藏",
+    "description": "发现并与社区分享皮肤收藏",
     "tabs": {
-        "community": "Community",
-        "my": "My Collections"
+        "community": "社区",
+        "my": "我的收藏"
     },
     "sort": {
-        "newest": "Newest",
-        "mostLiked": "Most Liked",
-        "mostUsed": "Most Used"
+        "newest": "最新",
+        "mostLiked": "最多点赞",
+        "mostUsed": "最多使用"
     },
     "card": {
-        "items": "{count} items",
-        "uses": "{count} uses",
-        "likes": "{count} likes",
-        "comments": "{count} comments",
-        "by": "by {author}",
-        "public": "Public",
-        "private": "Private"
+        "items": "{count} 个物品",
+        "uses": "{count} 次使用",
+        "likes": "{count} 个点赞",
+        "comments": "{count} 条评论",
+        "by": "作者：{author}",
+        "public": "公开",
+        "private": "私密"
     },
     "create": {
-        "button": "Create New",
-        "title": "Create Collection",
-        "name": "Collection Name",
-        "namePlaceholder": "e.g. AWP Dragon Lore + Butterfly Fade",
-        "description": "Description",
-        "descPlaceholder": "Describe your collection...",
-        "visibility": "Public",
-        "preview": "Current Loadout",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
-        "submit": "Create Collection",
-        "success": "Collection created successfully!",
-        "error": "Failed to create collection",
-        "limitReached": "You have reached the limit of {max} collections",
-        "emptyLoadout": "Your current loadout is empty, nothing to save"
+        "button": "创建新的收藏",
+        "title": "创建收藏",
+        "name": "收藏名称",
+        "namePlaceholder": "例如：AWP 巨龙传说 + 蝴蝶刀 渐变",
+        "description": "描述",
+        "descPlaceholder": "描述你的收藏...",
+        "visibility": "公开",
+        "preview": "当前装备",
+        "previewDesc": "{skins} 个皮肤，{knives} 把刀，{gloves} 个手套，{agents} 个探员，{music} 个音乐盒，{pins} 个徽章",
+        "submit": "创建收藏",
+        "success": "收藏创建成功！",
+        "error": "创建收藏失败",
+        "limitReached": "你已达到 {max} 个收藏的上限",
+        "emptyLoadout": "你当前的装备为空，没有可保存的内容"
     },
     "detail": {
-        "apply": "Apply Collection",
-        "applyConfirmTitle": "Apply Collection?",
-        "applyConfirmDesc": "Your current loadout will be completely overwritten with items from this collection. This action cannot be undone.",
-        "applySuccess": "Collection applied successfully!",
-        "applyError": "Failed to apply collection",
-        "delete": "Delete",
-        "deleteConfirmTitle": "Delete Collection?",
-        "deleteConfirmDesc": "Are you sure you want to delete this collection? This action cannot be undone.",
-        "edit": "Edit",
-        "skins": "Skins",
-        "knives": "Knives",
-        "gloves": "Gloves",
-        "agents": "Agents",
-        "music": "Music",
-        "pins": "Pins"
+        "apply": "应用收藏",
+        "applyConfirmTitle": "应用此收藏？",
+        "applyConfirmDesc": "你当前的装备将被此收藏中的物品完全覆盖。此操作无法撤销。",
+        "applySuccess": "收藏应用成功！",
+        "applyError": "应用收藏失败",
+        "delete": "删除",
+        "deleteConfirmTitle": "删除收藏？",
+        "deleteConfirmDesc": "确定要删除此收藏吗？此操作无法撤销。",
+        "edit": "编辑",
+        "skins": "皮肤",
+        "knives": "刀具",
+        "gloves": "手套",
+        "agents": "探员",
+        "music": "音乐",
+        "pins": "徽章"
     },
     "comment": {
-        "title": "Comments",
-        "placeholder": "Write a comment...",
-        "submit": "Post",
-        "empty": "No comments yet",
-        "deleteConfirm": "Delete this comment?",
-        "error": "Failed to post comment",
-        "loginRequired": "Log in to comment"
+        "title": "评论",
+        "placeholder": "写下评论...",
+        "submit": "发布",
+        "empty": "暂无评论",
+        "deleteConfirm": "删除这条评论？",
+        "error": "发布评论失败",
+        "loginRequired": "请登录后评论"
     },
     "empty": {
-        "community": "No collections yet. Be the first to share!",
-        "my": "You haven't created any collections yet.",
-        "noItems": "Collection is empty"
+        "community": "还没有任何收藏。快来成为第一个分享的人吧！",
+        "my": "你还没有创建任何收藏。",
+        "noItems": "收藏为空"
     },
     "toast": {
-        "liked": "Collection liked",
-        "unliked": "Collection unliked",
-        "deleted": "Collection deleted",
-        "updated": "Collection updated",
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait before performing the next action",
-        "copiedId": "Copied ID",
-        "applied": "Collection applied!",
-        "applyError": "Failed to apply"
+        "liked": "已点赞收藏",
+        "unliked": "已取消点赞",
+        "deleted": "收藏已删除",
+        "updated": "收藏已更新",
+        "tooFast": "操作太快了！",
+        "tooFastDesc": "请稍后再执行下一步操作",
+        "copiedId": "ID 已复制",
+        "applied": "收藏已应用！",
+        "applyError": "应用失败"
     },
-    "search": "Search collections..."
+    "search": "搜索收藏..."
 }

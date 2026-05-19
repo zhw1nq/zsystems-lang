@@ -1,36 +1,36 @@
 {
     "hero": {
-        "explore": "Explore",
-        "store": "Store",
-        "letsPlayNow": "Let's Play Now!",
-        "wantToBeVip": "Want to be a VIP?",
-        "loginToZsystems": "Login to zSystems",
+        "explore": "Tuklasin",
+        "store": "Tindahan",
+        "letsPlayNow": "Maglaro na tayo!",
+        "wantToBeVip": "Gusto mong maging VIP?",
+        "loginToZsystems": "Mag-login sa zSystems",
         "weaponSkins": "Weapon Skins",
-        "ranks": "Ranks",
-        "contact": "Contact",
-        "getDemo": "Get Demo",
+        "ranks": "Mga Ranggo",
+        "contact": "Kontak",
+        "getDemo": "Kumuha ng Demo",
         "subbrand": "zSYSTEMS-v2",
-        "playNow": "Play Now",
+        "playNow": "Maglaro Ngayon",
         "login": "Login",
-        "changeSkins": "Change Weapons Skin"
+        "changeSkins": "Palitan ang Weapon Skin"
     },
     "nav": {
-        "community": "Community",
-        "ranks": "Ranks",
-        "support": "Support"
+        "community": "Komunidad",
+        "ranks": "Mga Ranggo",
+        "support": "Suporta"
     },
     "stats": {
         "uptime": "UPTIME",
         "ping": "PING",
-        "players6h": "PLAYERS / 6H"
+        "players6h": "MANLALARO / 6 ORAS"
     },
     "footer": {
-        "selectLanguage": "Select language",
+        "selectLanguage": "Pumili ng wika",
         "language": "English",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service",
-        "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+        "privacy": "Patakaran sa Privacy",
+        "terms": "Mga Tuntunin ng Serbisyo",
+        "contact": "Kontak",
+        "poweredBy": "Pinapagana ng zSystems — Binuo ni zhw1nq & 7-Mau TEAM"
     },
     "character": {
         "name": "7-CHAN"

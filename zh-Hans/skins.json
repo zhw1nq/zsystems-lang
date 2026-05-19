@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "皮肤",
+    "description": "浏览并自定义你的 CS2 武器皮肤",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "武器皮肤",
+        "agents": "探员",
+        "musicKits": "音乐盒",
+        "pinsCoins": "徽章与硬币"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "手套",
+        "rifles": "步枪",
+        "knives": "刀具",
+        "smgs": "冲锋枪",
+        "pistols": "手枪",
+        "heavy": "重型武器",
+        "equipment": "装备"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "双方阵营",
+        "ct": "CT 阵营",
+        "t": "T 阵营"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "搜索皮肤...",
+    "noResults": "未找到皮肤",
+    "selectWeapon": "请选择武器以浏览皮肤",
+    "loginRequired": "请登录后使用皮肤功能",
+    "loading": "正在加载皮肤...",
+    "itemCount": "{count} 个物品",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "操作过快！",
+        "tooFastDesc": "请等待 2 秒后再试",
+        "equipped": "已装备！",
+        "equippedDesc": "{name} 装备成功",
+        "unequipped": "已卸下！",
+        "unequippedDesc": "{name} 已移除",
+        "equipFailed": "装备失败",
+        "unequipFailed": "卸下失败",
+        "unknownError": "未知错误"
     }
 }

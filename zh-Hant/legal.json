@@ -1,92 +1,92 @@
 {
     "terms": {
-        "title": "Terms of Service Agreement",
-        "subtitle": "Terms of Service · Last updated: 03/01/2026",
-        "scope": "Applies to: Website 7-mau.com, all subdomains *.7-mau.com, zSystems Web Dashboard, and all Counter-Strike 2 game servers of 7-Mau Community.",
-        "intro": "By logging into the website through Steam or connecting to any 7-Mau Community game server, you automatically acknowledge that you have read, understood, and unconditionally agree to all the terms below. If you do not agree, your only right is to immediately stop using the service.",
+        "title": "服務條款協議",
+        "subtitle": "服務條款 · 最後更新：03/01/2026",
+        "scope": "適用於：網站 7-mau.com、所有子網域 *.7-mau.com、zSystems Web Dashboard，以及 7-Mau Community 的所有 Counter-Strike 2 遊戲伺服器。",
+        "intro": "當您透過 Steam 登入網站或連接至任何 7-Mau Community 遊戲伺服器時，即表示您已閱讀、理解並無條件同意以下所有條款。若您不同意，您唯一的權利是立即停止使用本服務。",
         "section1": {
-            "title": "1. Accounts and System Identification",
-            "steamAuthTitle": "Steam Authentication",
-            "steamAuthContent": "Our system uses Valve's official API for Steam OpenID authentication. We do not request or store your Steam password. You are responsible for the security of your Steam account.",
-            "identityTitle": "User Identification",
-            "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
+            "title": "1. 帳號與系統識別",
+            "steamAuthTitle": "Steam 驗證",
+            "steamAuthContent": "本系統使用 Valve 官方 API 進行 Steam OpenID 驗證。我們不會要求或儲存您的 Steam 密碼。您需自行負責 Steam 帳號的安全性。",
+            "identityTitle": "使用者識別",
+            "identityContent": "每位使用者皆透過 7ID（zSystems 內部代碼）、SteamID64 與 IP 位址識別。若您的帳號遭他人使用並違反 7-Mau 規則，該帳號仍將毫無例外地受到處罰。"
         },
         "section2": {
-            "title": "2. Zero-Tolerance Anti-Cheat Policy",
-            "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
-            "permBanTitle": "Permanent Ban",
-            "permBanContent": "Using third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) that interferes with the game will result in your SteamID and IP being permanently banned from the entire system (Web & Game Server).",
-            "demoTitle": "Demo Parsing",
-            "demoContent": "Our system automatically stores and analyzes Replay/Demo of every match. 7-Mau's admin team has full authority to use this data to make ban decisions without providing source code evidence or detection algorithms to violators.",
-            "evasionTitle": "Ban Evasion",
-            "evasionContent": "Any attempt to create new accounts (Smurf) to circumvent a ban will result in the system automatically banning all related accounts."
+            "title": "2. 零容忍反作弊政策",
+            "corePolicy": "這是 7-Mau Community 的核心原則。我們對任何形式的作弊行為採取「零容忍（ZERO TOLERANCE）」政策。",
+            "permBanTitle": "永久封禁",
+            "permBanContent": "使用第三方軟體（外掛、作弊程式、Aimbot、自瞄、Wallhack、腳本、巨集）干擾遊戲者，其 SteamID 與 IP 將於整個系統（Web 與遊戲伺服器）中永久封禁。",
+            "demoTitle": "Demo 解析",
+            "demoContent": "系統會自動儲存並分析每場比賽的 Replay/Demo。7-Mau 管理團隊有完整權限使用此資料作為封禁依據，且無須向違規者提供原始程式碼或檢測演算法證據。",
+            "evasionTitle": "規避封禁",
+            "evasionContent": "任何試圖建立新帳號（Smurf）以規避封禁的行為，系統將自動封禁所有相關帳號。"
         },
         "section3": {
-            "title": "3. Data & Network Exploitation Rules",
-            "ownershipTitle": "7-Mau's Ownership",
-            "ownershipContent": "All processed statistical data, rankings (Rank/ELO), and display structures on *.7-mau.com are property of 7-Mau Community.",
-            "scrapingTitle": "Anti-Scraping Policy",
-            "scrapingContent": "You are NOT ALLOWED to use bots, spiders, scrapers, or any automated tools to extract bulk data from our website. Intentionally sending mass requests (API spam) that affect dashboard performance will be considered a cyber attack (DoS/DDoS) and will be blocked at the Cloudflare/Firewall level immediately."
+            "title": "3. 資料與網路濫用規範",
+            "ownershipTitle": "7-Mau 的所有權",
+            "ownershipContent": "*.7-mau.com 上所有經處理的統計資料、排行榜（Rank/ELO）與顯示結構皆屬於 7-Mau Community 財產。",
+            "scrapingTitle": "反資料爬取政策",
+            "scrapingContent": "禁止使用機器人（Bots）、爬蟲（Spiders）、Scrapers 或任何自動化工具大量擷取本網站資料。故意發送大量請求（API Spam）影響 Dashboard 效能者，將被視為網路攻擊（DoS/DDoS），並立即於 Cloudflare／防火牆層級封鎖。"
         },
         "section4": {
-            "title": "4. VIP Benefits & Donations",
-            "donationNote": "All payments for VIP packages, skins, or in-game privileges are considered voluntary donations to maintain the servers.",
-            "noRefundTitle": "No Refunds",
-            "noRefundContent": "We do not accept refunds in any form, even if you are banned from the system for rule violations, or when the server system undergoes maintenance/shutdown.",
-            "vipRevoke": "The admin team reserves the right to change, adjust, or revoke VIP privileges at any time if abuse is detected."
+            "title": "4. VIP 特權與捐款",
+            "donationNote": "所有 VIP 套餐、造型或遊戲內特權付款皆視為自願性捐款，用於維護伺服器運作。",
+            "noRefundTitle": "不提供退款",
+            "noRefundContent": "我們不接受任何形式的退款，即使您因違規而遭封禁，或伺服器進行維護／關閉時亦然。",
+            "vipRevoke": "若發現濫用行為，管理團隊保留隨時修改、調整或撤銷 VIP 權益之權利。"
         },
         "section5": {
-            "title": "5. Disclaimer of Warranties",
-            "availabilityTitle": "Availability",
-            "availabilityContent": "The system is operated \"AS IS\". We do not guarantee that game servers or the web dashboard will operate 100% of the time (Uptime) without errors.",
-            "resetTitle": "Data Reset",
-            "resetContent": "To ensure balance (e.g., new seasons), 7-Mau Community has full authority to wipe all statistical data (stats, rank, credit points) at any time without compensation."
+            "title": "5. 免責聲明",
+            "availabilityTitle": "服務可用性",
+            "availabilityContent": "本系統以「現況（AS IS）」方式提供。我們不保證遊戲伺服器或 Web Dashboard 能夠 100% 無錯誤持續運行（Uptime）。",
+            "resetTitle": "資料重置",
+            "resetContent": "為維持平衡（例如新賽季），7-Mau Community 有完整權限於任何時間清除所有統計資料（Stats、Rank、Credit 點數），且不提供任何補償。"
         }
     },
     "privacy": {
-        "title": "Privacy & Data Collection Policy",
-        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
-        "intro": "Web Dashboard zSystems — developed by zhw1nq and 7-Mau TEAM — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on 7-mau.com. Below is how we collect and operate this data repository.",
+        "title": "隱私權與資料蒐集政策",
+        "subtitle": "隱私權政策 · 最後更新：03/01/2026",
+        "intro": "zSystems Web Dashboard —— 由 zhw1nq 與 7-Mau TEAM 開發 —— 是專為 7-mau.com 的 CS2 社群打造的大型資料處理引擎，用於提供最詳細的統計數據（Stats）。以下為我們蒐集與運作資料的方式。",
         "section1": {
-            "title": "1. Automatically Collected System Data",
-            "note": "As soon as you connect to a game server or log into 7-mau.com, our crawlers and plugins will immediately collect:",
-            "basicDataTitle": "Basic Identity Data",
-            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code on zSystems), Current display name, Name change history, Avatar URL, Steam Profile link.",
-            "steamStatusTitle": "Steam Account Status",
-            "steamStatusContent": "Automatic checking of VAC Ban, Game Ban, Trade Ban status and Steam account Level through Steam Web API.",
-            "serverDataTitle": "Server-side Data",
-            "serverDataContent": "Your network IP address, Ping, country/region information.",
-            "telemetryTitle": "In-game Data (Deep Telemetry Data)",
-            "telemetryContent": "All of your actions in the server are recorded. Including: Movement coordinates, K/D/A history, damage dealt, weapons used, hit-box positions (headshot, chest, etc.), and chat log data (text)."
+            "title": "1. 自動蒐集的系統資料",
+            "note": "當您連接至遊戲伺服器或登入 7-mau.com 時，我們的爬蟲與外掛將立即蒐集：",
+            "basicDataTitle": "基本身份資料",
+            "basicDataContent": "SteamID32、SteamID64、7ID（zSystems 內部代碼）、目前顯示名稱、名稱變更紀錄、頭像 URL、Steam 個人檔案連結。",
+            "steamStatusTitle": "Steam 帳號狀態",
+            "steamStatusContent": "透過 Steam Web API 自動檢查 VAC Ban、Game Ban、Trade Ban 狀態以及 Steam 帳號等級。",
+            "serverDataTitle": "伺服器端資料",
+            "serverDataContent": "您的網路 IP 位址、Ping 值、國家／地區資訊。",
+            "telemetryTitle": "遊戲內資料（深度遙測資料）",
+            "telemetryContent": "您在伺服器中的所有行為皆會被記錄，包括：移動座標、K/D/A 紀錄、造成傷害、使用武器、命中部位（爆頭、胸部等）以及聊天紀錄（文字）。"
         },
         "section2": {
-            "title": "2. Public Nature of Statistical Data",
-            "note": "This is the core foundation of Web Dashboard zSystems.",
-            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
-            "publicAccess": "Any user visiting *.7-mau.com can search for and view your detailed Player Profile on our system.",
-            "noPrivateProfile": "No anonymity exception for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the Leaderboard. We do not support \"hiding profiles\" (Private Profile) on the web dashboard to ensure transparency for the community."
+            "title": "2. 統計資料的公開性",
+            "note": "這是 zSystems Web Dashboard 的核心基礎。",
+            "publicData": "所有遊戲內統計資料（Stats）、Rank、ELO、對戰紀錄以及您在 7-Mau 伺服器上的在線狀態皆屬公開資料。",
+            "publicAccess": "任何造訪 *.7-mau.com 的使用者皆可搜尋並查看您在本系統上的詳細玩家檔案。",
+            "noPrivateProfile": "統計資料不提供匿名模式：透過遊玩本伺服器，即表示您同意您的成就（以及封禁紀錄）公開顯示於排行榜中。我們不支援於 Web Dashboard 隱藏個人檔案（Private Profile），以確保社群透明度。"
         },
         "section3": {
-            "title": "3. Ban Records Data Storage",
-            "banData": "Data about violating accounts (Banned/Muted/Gagged) including 7ID, SteamID, Ban reason, Ban duration, and Display name at the time of violation will be stored permanently and publicly on the zSystems Ban List.",
-            "sharing": "The system may share these Ban Lists with other CS2 communities/partners to build a clean gaming environment."
+            "title": "3. 封禁紀錄資料儲存",
+            "banData": "違規帳號資料（封禁／禁言／Gag）包含 7ID、SteamID、封禁原因、封禁時長以及違規當下的顯示名稱，將永久且公開儲存於 zSystems 封禁列表。",
+            "sharing": "系統可能與其他 CS2 社群／合作夥伴共享封禁列表，以建立更乾淨的遊戲環境。"
         },
         "section4": {
-            "title": "4. Cookie & Web Session Usage",
-            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage on your browser to:",
-            "cookieLogin": "Maintain login state (Keep Logged In).",
-            "cookieUi": "Store interface preferences (Dark Mode / Light Mode, display language).",
-            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) for the admin team to evaluate website performance."
+            "title": "4. Cookie 與 Web Session 使用",
+            "note": "7-mau.com Web Dashboard 使用瀏覽器中的 Cookie 與 Local Storage 以：",
+            "cookieLogin": "維持登入狀態（Keep Logged In）。",
+            "cookieUi": "儲存介面偏好設定（深色模式／淺色模式、顯示語言）。",
+            "cookieAnalytics": "透過分析工具（如 Google Analytics）追蹤流量，供管理團隊評估網站效能。"
         },
         "section5": {
-            "title": "5. Internal Data Protection",
-            "content": "Although your in-game data is public on the Dashboard, sensitive system-level information such as: actual IP addresses, transaction history (VIP purchases), and account linking history (Discord/Steam) are encrypted and strictly protected. Only Senior Admin (Root Admin) has access to the original Database."
+            "title": "5. 內部資料保護",
+            "content": "儘管您的遊戲資料於 Dashboard 中公開，但系統層級的敏感資訊，例如：真實 IP 位址、交易紀錄（VIP 購買）以及帳號綁定紀錄（Discord／Steam）皆經過加密並受到嚴格保護。僅有高級管理員（Root Admin）可存取原始資料庫。"
         },
         "section6": {
-            "title": "6. How to Contact Admin",
-            "intro": "For any issues related to account appeals, web bug reports, or terms-related matters, please contact us directly through official channels:",
-            "discordLabel": "Support Portal (Discord Ticket):",
-            "emailLabel": "Admin Email:"
+            "title": "6. 如何聯絡管理員",
+            "intro": "若有任何帳號申訴、網站錯誤回報或條款相關問題，請透過官方管道直接聯絡我們：",
+            "discordLabel": "支援入口（Discord Ticket）：",
+            "emailLabel": "管理員電子郵件："
         }
     }
 }

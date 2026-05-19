@@ -3,99 +3,99 @@
         "home": "Home",
         "dashboard": "Dashboard",
         "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
-        "skins": "Skins",
-        "skinCollections": "Collections",
+        "security": "Seguridad",
+        "settings": "Mga Setting",
+        "servers": "Mga Server",
+        "bans": "Mga Ban",
+        "mutes": "Mga Mute / Gag",
+        "skins": "Mga Skin",
+        "skinCollections": "Mga Koleksyon",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
+        "rankings": "Mga Ranggo",
         "battleMode": "Battle Mode",
         "admin": "Admin Panel",
         "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "register": "Magrehistro",
+        "logout": "Mag-logout",
+        "support": "Suporta"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "Kopyahin",
+        "connect": "Kumonekta",
+        "save": "I-save",
+        "cancel": "Kanselahin",
+        "close": "Isara",
+        "confirm": "Kumpirmahin",
+        "delete": "Tanggalin",
+        "edit": "I-edit",
+        "back": "Bumalik",
+        "retry": "Subukang muli",
+        "search": "Maghanap..."
     },
     "status": {
         "online": "Online",
         "offline": "Offline",
-        "loading": "Loading...",
+        "loading": "Naglo-load...",
         "error": "Error",
-        "success": "Success"
+        "success": "Tagumpay"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "Nakopya sa clipboard",
+        "copyFailed": "Nabigong kopyahin"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "Lahat ng karapatan ay nakalaan"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "I-collapse",
+        "expand": "I-expand",
+        "language": "Wika",
+        "theme": "Tema",
+        "terms": "Mga Tuntunin at Privacy",
+        "guest": "Bisita",
+        "settings": "Mga Setting"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "Anunsyo ng System",
+        "sourceLink": "Tingnan ang orihinal na post"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
+            "message": "Ang page na hinahanap mo ay hindi umiiral",
             "home": "Home",
-            "back": "Go back"
+            "back": "Bumalik"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
+            "message": "May naganap na hindi inaasahang error",
             "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
+            "pleaseRetry": "Subukang muli",
+            "retry": "Ulitin",
             "home": "Home"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "Kailangang Palitan ang Password",
+        "description": "Kinakailangan ng administrator na palitan mo ang iyong password para sa seguridad. Kailangan mo itong palitan bago magpatuloy.",
+        "newPassword": "Bagong Password",
+        "confirmPassword": "Kumpirmahin ang Password",
+        "submit": "Palitan ang Password",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "Hindi bababa sa 8 karakter",
+            "uppercase": "Hindi bababa sa 1 malaking letra",
+            "number": "Hindi bababa sa 1 numero",
+            "match": "Dapat magtugma ang mga password"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "Magandang gabi, {name}",
+        "greeting_morning": "Magandang umaga, {name}",
+        "greeting_noon": "Magandang tanghali, {name}",
+        "greeting_afternoon": "Magandang hapon, {name}",
+        "greeting_evening": "Magandang gabi, {name}",
+        "guest": "Bisita",
+        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan"
     }
 }

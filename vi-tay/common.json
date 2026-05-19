@@ -1,0 +1,101 @@
+{
+    "nav": {
+        "home": "Trang chính",
+        "dashboard": "Bảng điều khiển",
+        "account": "Tài khoản",
+        "security": "Giử kín",
+        "settings": "Sắp đặt",
+        "servers": "Máy chủ",
+        "bans": "Bans",
+        "mutes": "Mutes / Gags",
+        "skins": "Skins",
+        "skinCollections": "Bộ sưu tập",
+        "zmodels": "zModels",
+        "zweapons": "zWeapons",
+        "rankings": "Xếp thứ",
+        "battleMode": "Battle Mode",
+        "admin": "Admin Panel",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "logout": "Ók mạng",
+        "support": "Giúp đỡ"
+    },
+    "actions": {
+        "copy": "Chép lặp",
+        "connect": "Nối cấp",
+        "save": "Giử lăư",
+        "cancel": "Bỏ",
+        "close": "Hắp",
+        "confirm": "Nhận chắc",
+        "delete": "Mịt",
+        "edit": "Sửa",
+        "back": "Quây lặp",
+        "retry": "Thử lặp",
+        "search": "Sáo..."
+    },
+    "status": {
+        "online": "Slên mạng",
+        "offline": "Lống mạng",
+        "loading": "Tàng tải...",
+        "error": "Phít",
+        "success": "Đảy việc"
+    },
+    "toast": {
+        "copied": "Đạ chép",
+        "copyFailed": "Chép bấu đảy"
+    },
+    "footer": {
+        "rights": "Cả thảy quyền đảy giử"
+    },
+    "sidebar": {
+        "collapse": "Thu gọn",
+        "expand": "Kháư rộng",
+        "language": "Quam",
+        "theme": "Màu chính",
+        "terms": "Điều khoản & Giử kín",
+        "guest": "Khách",
+        "settings": "Sắp đặt"
+    },
+    "announcement": {
+        "title": "Báo hệ thống",
+        "sourceLink": "Chòi bài khít gốc"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "Trang pỉ sáo bấu mỉ",
+            "home": "Trang chính",
+            "back": "Quây lặp"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "Đạ xảy ra phít bấu mong muốn",
+            "errorCode": "Mã phít: {code}",
+            "pleaseRetry": "Mời thử lặp",
+            "retry": "Thử lặp",
+            "home": "Trang chính"
+        }
+    },
+    "forcePasswordChange": {
+        "title": "Đòi đổi mật khẩu",
+        "description": "Cần quản lý đạ đòi pỉ đổi mật khẩu vị giử kín. Pỉ phải đổi mật khẩu cón pửa lỉn tiếp.",
+        "newPassword": "Mật khẩu mấư",
+        "confirmPassword": "Nhận chắc mật khẩu",
+        "submit": "Đổi mật khẩu",
+        "rules": {
+            "minLength": "Ít nhất 8 ký tự",
+            "uppercase": "Ít nhất 1 chử luông",
+            "number": "Ít nhất 1 số",
+            "match": "Mật khẩu khớp cạu"
+        }
+    },
+    "welcomePopup": {
+        "greeting_night": "Chào hăm cắp, {name}",
+        "greeting_morning": "Chào chạu lủc, {name}",
+        "greeting_noon": "Chào vằn trưa, {name}",
+        "greeting_afternoon": "Chào lăng vằn, {name}",
+        "greeting_evening": "Chào vằn hăm, {name}",
+        "guest": "Khách",
+        "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe"
+    }
+}

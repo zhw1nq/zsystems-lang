@@ -1,45 +1,45 @@
 {
     "hero": {
-        "badge": "Version 2.0 - Now Available",
-        "title": "Comprehensive management system for",
-        "titleHighlight": "CS2 servers",
-        "subtitle": "From SSH, RCON, player management, web UI, Discord bot API and many more features - all in one platform.",
-        "getStarted": "Get Started",
-        "viewDocs": "View Documentation"
+        "badge": "Versão 2.0 - Já disponível",
+        "title": "Sistema de gerenciamento completo para",
+        "titleHighlight": "servidores CS2",
+        "subtitle": "De SSH, RCON, gerenciamento de jogadores, interface web, API de bot do Discord e muito mais - tudo em uma única plataforma.",
+        "getStarted": "Começar",
+        "viewDocs": "Ver documentação"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
-        "uptime": "Uptime",
-        "features": "Features"
+        "servers": "Servidores",
+        "players": "Jogadores",
+        "uptime": "Tempo de atividade",
+        "features": "Recursos"
     },
     "features": {
-        "badge": "Features",
-        "title": "Everything you need",
-        "subtitle": "Powerful tools to manage your CS2 servers",
+        "badge": "Recursos",
+        "title": "Tudo o que você precisa",
+        "subtitle": "Ferramentas poderosas para gerenciar seus servidores CS2",
         "sshRcon": "SSH & RCON",
-        "sshRconDesc": "Manage servers remotely with built-in SSH and RCON.",
-        "playerManagement": "Player Management",
-        "playerManagementDesc": "Track, ban, mute and manage players comprehensively.",
-        "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Client interface for server list changer.",
-        "webUI": "Web UI",
-        "webUIDesc": "Modern, responsive web interface for users.",
-        "discordBot": "Discord Bot API",
-        "discordBotDesc": "Free, easy-to-configure Discord bot API integration.",
-        "dataManagement": "Data Management",
-        "dataManagementDesc": "Centralized, secure, and efficient data management.",
-        "multiServer": "Multi-Server",
-        "multiServerDesc": "Support managing multiple servers simultaneously.",
-        "customize": "Customize",
-        "customizeDesc": "Customize everything to your needs."
+        "sshRconDesc": "Gerencie servidores remotamente com SSH e RCON integrados.",
+        "playerManagement": "Gerenciamento de jogadores",
+        "playerManagementDesc": "Monitore, banir, silenciar e gerenciar jogadores de forma completa.",
+        "serverListChanger": "Alterador de lista de servidores",
+        "serverListChangerDesc": "Interface do cliente para alterar a lista de servidores.",
+        "webUI": "Interface Web",
+        "webUIDesc": "Interface web moderna e responsiva para usuários.",
+        "discordBot": "API de Bot do Discord",
+        "discordBotDesc": "Integração gratuita e fácil de configurar com bot do Discord.",
+        "dataManagement": "Gerenciamento de dados",
+        "dataManagementDesc": "Gerenciamento de dados centralizado, seguro e eficiente.",
+        "multiServer": "Multi-servidor",
+        "multiServerDesc": "Suporte para gerenciar múltiplos servidores simultaneamente.",
+        "customize": "Personalizar",
+        "customizeDesc": "Personalize tudo conforme suas necessidades."
     },
     "cta": {
-        "title": "Ready to get started?",
-        "subtitle": "Register for free and try it today.",
-        "register": "Register for Free",
-        "free": "Free",
-        "noCard": "No card required",
-        "support247": "24/7 Support"
+        "title": "Pronto para começar?",
+        "subtitle": "Registre-se gratuitamente e teste hoje mesmo.",
+        "register": "Registrar grátis",
+        "free": "Grátis",
+        "noCard": "Não requer cartão",
+        "support247": "Suporte 24/7"
     }
 }

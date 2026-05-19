@@ -1,0 +1,144 @@
+{
+    "title": "Battle Mode",
+    "subtitle": "Hệ thống thi đấu 5v5 xếp thứ",
+    "party": {
+        "title": "Đội cúa pỉ",
+        "solo": "Tàng lỉn solo",
+        "create": "Chế đội",
+        "invite": "Mời bặng 7ID",
+        "invitePlaceholder": "Khít #7ID...",
+        "inviteButton": "Sửng lời mời",
+        "leave": "Ók khỏi đội",
+        "disband": "Giải tán đội",
+        "full": "Đội đạ đỉ 5 cần",
+        "members": "{count}/5 thành viên",
+        "leader": "Đội trưởng",
+        "member": "Thành viên",
+        "disbanded": "Đội đạ giải tán"
+    },
+    "queue": {
+        "find": "SÁO TRẬN",
+        "cancel": "BỎ SÁO",
+        "searching": "Tàng sáo trận...",
+        "estimatedWait": "Thời gian chả khoảng: {time}",
+        "playersInQueue": "{count} cần lỉn tàng sáo trận",
+        "partiesInQueue": "{count} đội tàng sáo trận",
+        "cooldown": "Pỉ tàng bỉ cooldown. Thử lặp lăng {time}",
+        "memberCooldown": "{name} tàng bỉ cooldown",
+        "emailRequired": "Cả thảy thành viên phải nhận chắc email",
+        "leaderOnly": "Chỉ đội trưởng chắng tể sáo trận"
+    },
+    "match": {
+        "found": "ĐẠ HĂN TRẬN!",
+        "accept": "CHẤP NHẬN",
+        "decline": "TỪ CHỐI",
+        "accepted": "{count}/{total} đạ chấp nhận",
+        "timeRemaining": "{seconds}s",
+        "cancelled": "Trận đạ bỉ bỏ",
+        "cancelReason": {
+            "decline": "Mốc cần lỉn đạ từ chối",
+            "timeout": "Mết thời gian chấp nhận"
+        },
+        "teamA": "Đội A",
+        "teamB": "Đội B",
+        "myTeam": "ĐỘI CÚA PỈ",
+        "enemyTeam": "ĐỘI ĐỊCH",
+        "accepted_status": "Đạ sẵn sàng",
+        "vs": "VS",
+        "captain": "Đội trưởng",
+        "configuring": "Tàng cấu hình máy chủ...",
+        "live": "TÀNG THI ĐẤU",
+        "finished": "ĐẠ MẾT",
+        "won": "THẮNG",
+        "lost": "THUA",
+        "draw": "HÒA",
+        "starting": "TRẬN ĐẤU BẮT ĐẦU!!!"
+    },
+    "mapBan": {
+        "title": "BAN MAP",
+        "yourTurn": "Lượt cúa pỉ — Chọn map pửa BAN",
+        "enemyTurn": "Phe bên tàng chọn...",
+        "waiting": "Tàng chả...",
+        "banned": "Đạ ban",
+        "remaining": "Còn lặp: {count} maps",
+        "decided": "Map thi đấu",
+        "timePerBan": "{seconds}s",
+        "pickSide": "Chọn Side",
+        "pickSideDesc": "Đội B chọn side bắt đầu",
+        "ct": "Counter-Terrorist",
+        "t": "Terrorist"
+    },
+    "stats": {
+        "title": "Thống kê",
+        "matches": "Số trận",
+        "wins": "Thắng",
+        "losses": "Thua",
+        "draws": "Hòa",
+        "winRate": "Tỉ lệ thắng",
+        "kd": "K/D",
+        "kills": "Kills",
+        "deaths": "Deaths",
+        "assists": "Assists",
+        "mvps": "MVPs",
+        "winStreak": "Chuỗi thắng",
+        "bestStreak": "Chuỗi thắng đỉ nhất",
+        "recentMatches": "Trận mấư nẩy",
+        "noMatches": "Chửa mỉ trận đấu lừ"
+    },
+    "leaderboard": {
+        "title": "Bảng xếp thứ",
+        "rank": "#",
+        "player": "Cần lỉn",
+        "matches": "Trận",
+        "wins": "Thắng",
+        "winRate": "Thắng %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "Lời mời chạu đội",
+        "from": "{name} mời pỉ chạu đội",
+        "accept": "Chấp nhận",
+        "decline": "Từ chối",
+        "expired": "Lời mời đạ mết hạn",
+        "notFound": "Bấu sáo hăn cần lỉn",
+        "sent": "Đạ sửng lời mời",
+        "alreadySent": "Đạ sửng lời mời hẩu cần lỉn nẩy"
+    },
+    "cooldown": {
+        "active": "Cooldown tàng lồng",
+        "remaining": "Còn lặp: {time}",
+        "reason": {
+            "decline": "Từ chối trận đấu",
+            "timeout": "Mết thời gian chấp nhận",
+            "abandon": "Bỏ trận",
+            "toxic": "Hành vi bấu đỉ"
+        }
+    },
+    "history": {
+        "title": "Lịch sử trận đấu",
+        "noHistory": "Chửa mỉ lịch sử trận đấu lừ",
+        "map": "Map",
+        "score": "Tỉ số",
+        "result": "Kết quả",
+        "date": "Vằn"
+    },
+    "errors": {
+        "matchNotFound": "Trận đấu bấu mỉ",
+        "invalidState": "Trận đấu đạ đổi trạng thái",
+        "notYourTurn": "Chửa thâng lượt đội cúa pỉ",
+        "notCaptain": "Chỉ đội trưởng chắng tể lồng",
+        "mapAlreadyBanned": "Map nẩy đạ bỉ ban",
+        "notInMatch": "Pỉ bấu nẳm trong trận đấu nẩy",
+        "notAuthorized": "Pỉ bấu mỉ quyền lồng",
+        "validationError": "Dữ liệu bấu đúng",
+        "networkError": "Phít nối cấp, mời thử lặp",
+        "unknown": "Đạ mỉ phít",
+        "matchDeclined": "Mốc cần lỉn đạ từ chối trận đấu",
+        "matchTimeout": "Mết thời gian chấp nhận trận đấu",
+        "matchCancelled": "Trận đấu đạ bỉ bỏ"
+    },
+    "experimental": {
+        "title": "Tính năng thử lồng",
+        "description": "Nẩy lẩn tính năng tàng trong lủc chế. Lủc nẩy chỉ mỉ giao diện (UI) cạ bấu tể lồng bất kỳ thao tác lừ slên môi trường nẩy."
+    }
+}

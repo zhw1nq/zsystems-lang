@@ -1,0 +1,73 @@
+{
+    "models": {
+        "title": "zModels",
+        "description": "Mang đồ cần lỉn slêng hẩu SVIP",
+        "equipped": "Tàng mang",
+        "equip": "Mang",
+        "unequip": "Gỡ",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "Private",
+        "search": "Sáo cần lỉn...",
+        "noResults": "Bấu sáo hăn cần lỉn lừ",
+        "accessDenied": "Pỉ cần quyền SVIP pửa dùng tính năng nẩy",
+        "notLoggedIn": "Mời pỉ đăng nhập pửa dùng",
+        "selectCategory": "Chọn danh mục"
+    },
+    "weapons": {
+        "title": "zWeapons",
+        "description": "Mang đồ mạc súng slêng hẩu SVIP",
+        "equipped": "Tàng mang",
+        "equip": "Mang",
+        "unequip": "Gỡ",
+        "search": "Sáo mạc súng...",
+        "noResults": "Bấu sáo hăn mạc súng lừ",
+        "selectPack": "Chọn bộ skin",
+        "selectWeapon": "Chọn loại mạc súng",
+        "viewByType": "Chòi theo loại súng",
+        "viewByPack": "Chòi theo bộ skin",
+        "accessDenied": "Pỉ cần quyền SVIP pửa dùng tính năng nẩy",
+        "notLoggedIn": "Mời pỉ đăng nhập pửa dùng",
+        "categories": {
+            "rifles": "Súng Trường",
+            "pistols": "Súng ngẳn",
+            "smgs": "Tiểu Liên",
+            "heavy": "Súng nặc",
+            "knives": "Mạc",
+            "grenades": "Lựu đạn"
+        }
+    },
+    "common": {
+        "locked": "Đòi SVIP",
+        "lockedDesc": "Tính năng nẩy chỉ hẩu cần dùng SVIP. Nâng cấp pửa kháư khóa.",
+        "loading": "Tàng tải...",
+        "equipSuccess": "Đạ mang đảy việc",
+        "equipSuccessDesc": "Đạ mang {name}",
+        "unequipSuccess": "Đạ gỡ",
+        "unequipSuccessDesc": "Đạ gỡ {name}",
+        "equipFailed": "Mang bấu đảy",
+        "unequipFailed": "Gỡ bấu đảy",
+        "tooFast": "Lồng quá nhanh",
+        "tooFastDesc": "Mời pỉ chả cón pửa lồng tiếp",
+        "allWeapons": "Cả thảy"
+    },
+    "mvp": {
+        "title": "zMVP",
+        "description": "Mang nhạc MVP slêng",
+        "search": "Sáo MVP...",
+        "noResults": "Bấu sáo hăn MVP lừ",
+        "free": "FREE",
+        "vip": "VIP",
+        "svip": "SVIP",
+        "admin": "ADMIN",
+        "preview": "Nghỉn thử",
+        "stop": "Chặng",
+        "apply": "Áp dụng",
+        "unequip": "Gỡ",
+        "equipped": "Tàng dùng",
+        "lockedVip": "Đòi VIP",
+        "lockedVipDesc": "Tính năng nẩy chỉ hẩu cần dùng VIP trở slên.",
+        "lockedSvip": "Đòi SVIP",
+        "lockedSvipDesc": "Tính năng nẩy chỉ hẩu cần dùng SVIP. Nâng cấp pửa kháư khóa."
+    }
+}

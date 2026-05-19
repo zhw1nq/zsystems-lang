@@ -1,0 +1,41 @@
+{
+    "title": "Skins",
+    "description": "Chòi cạ tùy chỉnh skin mạc súng CS2 cúa pỉ",
+    "tabs": {
+        "weaponSkins": "Skin Mạc Súng",
+        "agents": "Agents",
+        "musicKits": "Nhạc",
+        "pinsCoins": "Huy Hiệu"
+    },
+    "categories": {
+        "gloves": "Găng tay",
+        "rifles": "Súng Trường",
+        "knives": "Mạc",
+        "smgs": "Tiểu Liên",
+        "pistols": "Súng ngẳn",
+        "heavy": "Súng nặc",
+        "equipment": "Đồ lồng"
+    },
+    "team": {
+        "both": "Cả Slong Đội",
+        "ct": "Phe CT",
+        "t": "Phe T"
+    },
+    "search": "Sáo skin...",
+    "noResults": "Bấu sáo hăn skin lừ",
+    "selectWeapon": "Chọn mốc mạc súng pửa chòi skin",
+    "loginRequired": "Mời pỉ đăng nhập pửa dùng Skins",
+    "loading": "Tàng tải skin...",
+    "itemCount": "{count} mục",
+    "toast": {
+        "tooFast": "Lồng quá nhanh",
+        "tooFastDesc": "Mời pỉ chả 2s cón pửa lồng lặp",
+        "equipped": "Đạ mang!",
+        "equippedDesc": "Đạ mang {name} đảy việc",
+        "unequipped": "Đạ gỡ!",
+        "unequippedDesc": "Đạ gỡ {name}",
+        "equipFailed": "Mang bấu đảy",
+        "unequipFailed": "Gỡ bấu đảy",
+        "unknownError": "Phít bấu chắc"
+    }
+}

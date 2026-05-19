@@ -1,0 +1,38 @@
+{
+    "hero": {
+        "explore": "Sáo chòi",
+        "store": "Quán hàng",
+        "letsPlayNow": "Lỉn ngây nớ!",
+        "wantToBeVip": "Thành VIP bấu?",
+        "loginToZsystems": "Đăng nhập zSystems",
+        "weaponSkins": "Skin mạc súng",
+        "ranks": "Bảng xếp thứ",
+        "contact": "Liên hệ",
+        "getDemo": "Chòi Demo",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "Lỉn ngây",
+        "login": "Đăng nhập",
+        "changeSkins": "Đổi skin mạc súng"
+    },
+    "nav": {
+        "community": "Cộng đồng",
+        "ranks": "Xếp thứ",
+        "support": "Giúp đỡ"
+    },
+    "stats": {
+        "uptime": "THỜI GIAN MỞ",
+        "ping": "ĐỘ CHẢ",
+        "players6h": "CẦN LỈN / 6H"
+    },
+    "footer": {
+        "selectLanguage": "Chọn quam",
+        "language": "Quam Việt",
+        "privacy": "Quy định giử kín",
+        "terms": "Điều khoản dịch vụ",
+        "contact": "Liên hệ",
+        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+    },
+    "character": {
+        "name": "7-CHAN"
+    }
+}
