@@ -1,50 +1,50 @@
 {
     "title": "Skin Collections",
-    "description": "Discover and share skin collections with the community",
+    "description": "အသိုင်းအဝိုင်းနှင့် skin collection များကို ရှာဖွေနှင့် မျှဝေပါ",
     "tabs": {
-        "community": "Community",
-        "my": "My Collections"
+        "community": "အသိုင်းအဝိုင်း",
+        "my": "ကျွန်ုပ်၏ Collections"
     },
     "sort": {
-        "newest": "Newest",
-        "mostLiked": "Most Liked",
-        "mostUsed": "Most Used"
+        "newest": "အသစ်ဆုံး",
+        "mostLiked": "လိုက်ခ်အများဆုံး",
+        "mostUsed": "အသုံးပြုမှု အများဆုံး"
     },
     "card": {
-        "items": "{count} items",
-        "uses": "{count} uses",
-        "likes": "{count} likes",
-        "comments": "{count} comments",
-        "by": "by {author}",
-        "public": "Public",
-        "private": "Private"
+        "items": "{count} ခု",
+        "uses": "{count} ကြိမ် အသုံးပြု",
+        "likes": "{count} လိုက်ခ်",
+        "comments": "{count} မှတ်ချက်",
+        "by": "{author} မှ",
+        "public": "အများမြင်",
+        "private": "ကိုယ်ပိုင်"
     },
     "create": {
-        "button": "Create New",
-        "title": "Create Collection",
-        "name": "Collection Name",
-        "namePlaceholder": "e.g. AWP Dragon Lore + Butterfly Fade",
-        "description": "Description",
-        "descPlaceholder": "Describe your collection...",
-        "visibility": "Public",
-        "preview": "Current Loadout",
+        "button": "အသစ် ဖန်တီး",
+        "title": "Collection ဖန်တီး",
+        "name": "Collection အမည်",
+        "namePlaceholder": "ဥပမာ AWP Dragon Lore + Butterfly Fade",
+        "description": "ဖော်ပြချက်",
+        "descPlaceholder": "သင့် collection ကို ဖော်ပြပါ...",
+        "visibility": "အများမြင်",
+        "preview": "လက်ရှိ Loadout",
         "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
-        "submit": "Create Collection",
-        "success": "Collection created successfully!",
-        "error": "Failed to create collection",
-        "limitReached": "You have reached the limit of {max} collections",
-        "emptyLoadout": "Your current loadout is empty, nothing to save"
+        "submit": "Collection ဖန်တီး",
+        "success": "Collection အောင်မြင်စွာ ဖန်တီးပြီး!",
+        "error": "Collection ဖန်တီး၍ မရပါ",
+        "limitReached": "သင် {max} collections ကန့်သတ်ချက်သို့ ရောက်ရှိပြီး",
+        "emptyLoadout": "လက်ရှိ loadout ဗလာဖြစ်နေသည်၊ သိမ်းဆည်းရန် မရှိပါ"
     },
     "detail": {
-        "apply": "Apply Collection",
-        "applyConfirmTitle": "Apply Collection?",
-        "applyConfirmDesc": "Your current loadout will be completely overwritten with items from this collection. This action cannot be undone.",
-        "applySuccess": "Collection applied successfully!",
-        "applyError": "Failed to apply collection",
-        "delete": "Delete",
-        "deleteConfirmTitle": "Delete Collection?",
-        "deleteConfirmDesc": "Are you sure you want to delete this collection? This action cannot be undone.",
-        "edit": "Edit",
+        "apply": "Collection အသုံးပြု",
+        "applyConfirmTitle": "Collection အသုံးပြုမလား?",
+        "applyConfirmDesc": "လက်ရှိ loadout ကို ဤ collection ရှိ ပစ္စည်းများဖြင့် လုံးဝ အစားထိုးမည်။ ဤလုပ်ဆောင်ချက်ကို ပြန်လည် မပြုလုပ်နိုင်ပါ။",
+        "applySuccess": "Collection အောင်မြင်စွာ အသုံးပြုပြီး!",
+        "applyError": "Collection အသုံးပြု၍ မရပါ",
+        "delete": "ဖျက်",
+        "deleteConfirmTitle": "Collection ဖျက်မလား?",
+        "deleteConfirmDesc": "ဤ collection ကို ဖျက်ရန် သေချာပါသလား? ဤလုပ်ဆောင်ချက်ကို ပြန်လည် မပြုလုပ်နိုင်ပါ။",
+        "edit": "တည်းဖြတ်",
         "skins": "Skins",
         "knives": "Knives",
         "gloves": "Gloves",
@@ -53,29 +53,29 @@
         "pins": "Pins"
     },
     "comment": {
-        "title": "Comments",
-        "placeholder": "Write a comment...",
-        "submit": "Post",
-        "empty": "No comments yet",
-        "deleteConfirm": "Delete this comment?",
-        "error": "Failed to post comment",
-        "loginRequired": "Log in to comment"
+        "title": "မှတ်ချက်များ",
+        "placeholder": "မှတ်ချက် ရေးပါ...",
+        "submit": "တင်ပါ",
+        "empty": "မှတ်ချက် မရှိသေးပါ",
+        "deleteConfirm": "ဤမှတ်ချက်ကို ဖျက်မလား?",
+        "error": "မှတ်ချက် တင်၍ မရပါ",
+        "loginRequired": "မှတ်ချက်ရေးရန် ဝင်ရောက်ပါ"
     },
     "empty": {
-        "community": "No collections yet. Be the first to share!",
-        "my": "You haven't created any collections yet.",
-        "noItems": "Collection is empty"
+        "community": "Collection မရှိသေးပါ။ ပထမဆုံး မျှဝေသူ ဖြစ်ပါ!",
+        "my": "သင် collection မဖန်တီးရသေးပါ။",
+        "noItems": "Collection ဗလာဖြစ်နေသည်"
     },
     "toast": {
-        "liked": "Collection liked",
-        "unliked": "Collection unliked",
-        "deleted": "Collection deleted",
-        "updated": "Collection updated",
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait before performing the next action",
-        "copiedId": "Copied ID",
-        "applied": "Collection applied!",
-        "applyError": "Failed to apply"
+        "liked": "Collection ကို လိုက်ခ်လုပ်ပြီး",
+        "unliked": "Collection လိုက်ခ် ပယ်ဖျက်ပြီး",
+        "deleted": "Collection ဖျက်ပြီး",
+        "updated": "Collection အပ်ဒိတ်ပြီး",
+        "tooFast": "အလွန်မြန်သည်!",
+        "tooFastDesc": "နောက်လုပ်ဆောင်ချက်မလုပ်မီ ခဏစောင့်ပါ",
+        "copiedId": "ID ကူးယူပြီး",
+        "applied": "Collection အသုံးပြုပြီး!",
+        "applyError": "အသုံးပြု၍ မရပါ"
     },
-    "search": "Search collections..."
+    "search": "Collection ရှာဖွေ..."
 }

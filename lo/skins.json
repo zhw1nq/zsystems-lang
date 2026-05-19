@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "ສະກິນ",
+    "description": "ຄົ້ນຫາ ແລະ ປັບແຕ່ງສະກິນອາວຸດ CS2 ຂອງທ່ານ",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
+        "weaponSkins": "ສະກິນອາວຸດ",
+        "agents": "ຕົວລະຄອນ",
+        "musicKits": "ຊຸດເພງ",
         "pinsCoins": "Pins & Coins"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "ຖົງມື",
+        "rifles": "ປືນໄຮ້",
+        "knives": "ມີດ",
+        "smgs": "SMG",
+        "pistols": "ປືນສັ້ນ",
+        "heavy": "ອາວຸດໜັກ",
+        "equipment": "ອຸປະກອນ"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "ທັງສອງທີມ",
+        "ct": "ຝ່າຍ CT",
+        "t": "ຝ່າຍ T"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "ຄົ້ນຫາສະກິນ...",
+    "noResults": "ບໍ່ພົບສະກິນ",
+    "selectWeapon": "ເລືອກອາວຸດເພື່ອເບິ່ງສະກິນ",
+    "loginRequired": "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອໃຊ້ສະກິນ",
+    "loading": "ກຳລັງໂຫຼດສະກິນ...",
+    "itemCount": "{count} ລາຍການ",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "ໄວເກີນໄປ!",
+        "tooFastDesc": "ກະລຸນາລໍຖ້າ 2 ວິນາທີກ່ອນລອງໃໝ່",
+        "equipped": "ສວມໃສ່ແລ້ວ!",
+        "equippedDesc": "ສວມໃສ່ {name} ສຳເລັດ",
+        "unequipped": "ຖອດອອກແລ້ວ!",
+        "unequippedDesc": "ຖອດ {name} ອອກແລ້ວ",
+        "equipFailed": "ສວມໃສ່ບໍ່ສຳເລັດ",
+        "unequipFailed": "ຖອດອອກບໍ່ສຳເລັດ",
+        "unknownError": "ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
     }
 }

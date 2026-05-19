@@ -1,41 +1,41 @@
 {
     "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "description": "រុករក និងប្តូរ skin អាវុធ CS2 របស់អ្នក",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
+        "weaponSkins": "Skin អាវុធ",
         "agents": "Agents",
         "musicKits": "Music Kits",
         "pinsCoins": "Pins & Coins"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "កងដៃ",
+        "rifles": "កាំភ្លើងវែង",
+        "knives": "កាំបិត",
+        "smgs": "SMG",
+        "pistols": "កាំភ្លើងខ្លី",
+        "heavy": "ធ្ងន់",
+        "equipment": "ឧបករណ៍"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "ទាំងពីរក្រុម",
+        "ct": "ខាង CT",
+        "t": "ខាង T"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "ស្វែងរក skins...",
+    "noResults": "រកមិនឃើញ skin",
+    "selectWeapon": "ជ្រើសរើសអាវុធដើម្បីរុករក skins",
+    "loginRequired": "សូមចូលដើម្បីប្រើ Skins",
+    "loading": "កំពុងផ្ទុក skins...",
+    "itemCount": "{count} ធាតុ",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "លឿនពេក!",
+        "tooFastDesc": "សូមរង់ចាំ ២វិនាទីមុនព្យាយាមម្តងទៀត",
+        "equipped": "បានដាក់!",
+        "equippedDesc": "បានដាក់ {name} ដោយជោគជ័យ",
+        "unequipped": "បានដកចេញ!",
+        "unequippedDesc": "បានដក {name} ចេញ",
+        "equipFailed": "ដាក់មិនបាន",
+        "unequipFailed": "ដកចេញមិនបាន",
+        "unknownError": "កំហុសមិនស្គាល់"
     }
 }

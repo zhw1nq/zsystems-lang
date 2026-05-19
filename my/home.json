@@ -1,36 +1,36 @@
 {
     "hero": {
-        "explore": "Explore",
-        "store": "Store",
-        "letsPlayNow": "Let's Play Now!",
-        "wantToBeVip": "Want to be a VIP?",
-        "loginToZsystems": "Login to zSystems",
-        "weaponSkins": "Weapon Skins",
-        "ranks": "Ranks",
-        "contact": "Contact",
-        "getDemo": "Get Demo",
+        "explore": "လေ့လာရန်",
+        "store": "စတိုး",
+        "letsPlayNow": "ယခုပဲ ကစားကြရအောင်!",
+        "wantToBeVip": "VIP ဖြစ်ချင်ပါသလား?",
+        "loginToZsystems": "zSystems သို့ ဝင်ရောက်ရန်",
+        "weaponSkins": "လက်နက်အရောင်",
+        "ranks": "အဆင့်",
+        "contact": "ဆက်သွယ်ရန်",
+        "getDemo": "Demo ရယူ",
         "subbrand": "zSYSTEMS-v2",
-        "playNow": "Play Now",
-        "login": "Login",
-        "changeSkins": "Change Weapons Skin"
+        "playNow": "ယခုကစားရန်",
+        "login": "ဝင်ရောက်ရန်",
+        "changeSkins": "လက်နက်အရောင် ပြောင်းလဲ"
     },
     "nav": {
-        "community": "Community",
-        "ranks": "Ranks",
-        "support": "Support"
+        "community": "အသိုင်းအဝိုင်း",
+        "ranks": "အဆင့်",
+        "support": "အကူအညီ"
     },
     "stats": {
         "uptime": "UPTIME",
         "ping": "PING",
-        "players6h": "PLAYERS / 6H"
+        "players6h": "ကစားသမား / ၆နာရီ"
     },
     "footer": {
-        "selectLanguage": "Select language",
-        "language": "English",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service",
-        "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM"
+        "selectLanguage": "ဘာသာစကား ရွေးချယ်",
+        "language": "မြန်မာ",
+        "privacy": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ",
+        "terms": "ဝန်ဆောင်မှုစည်းမျဉ်း",
+        "contact": "ဆက်သွယ်ရန်",
+        "poweredBy": "zSystems မှ ပံ့ပိုးထား — zhw1nq နှင့် 7-Mau TEAM မှ ဖန်တီးထား"
     },
     "character": {
         "name": "7-CHAN"

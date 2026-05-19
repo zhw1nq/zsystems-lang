@@ -1,41 +1,41 @@
 {
     "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "description": "CS2 လက်နက်အရောင် များကို ရှာဖွေနှင့် စိတ်ကြိုက်ပြင်ဆင်ပါ",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
+        "weaponSkins": "လက်နက်အရောင်",
         "agents": "Agents",
         "musicKits": "Music Kits",
         "pinsCoins": "Pins & Coins"
     },
     "categories": {
-        "gloves": "Gloves",
+        "gloves": "လက်အိတ်",
         "rifles": "Rifles",
-        "knives": "Knives",
+        "knives": "ဓားများ",
         "smgs": "SMGs",
         "pistols": "Pistols",
         "heavy": "Heavy",
-        "equipment": "Equipment"
+        "equipment": "ပစ္စည်းကိရိယာ"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "အသင်းနှစ်ဖက်",
+        "ct": "CT ဘက်",
+        "t": "T ဘက်"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "Skin ရှာဖွေ...",
+    "noResults": "Skin မတွေ့ပါ",
+    "selectWeapon": "Skin များကြည့်ရန် လက်နက် ရွေးချယ်ပါ",
+    "loginRequired": "Skins အသုံးပြုရန် ဝင်ရောက်ပါ",
+    "loading": "Skin များ ဖွင့်နေသည်...",
+    "itemCount": "{count} ခု",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "အလွန်မြန်သည်!",
+        "tooFastDesc": "ထပ်စမ်းကြည့်မီ ၂ စက္ကန့် စောင့်ပါ",
+        "equipped": "တပ်ဆင်ပြီး!",
+        "equippedDesc": "{name} အောင်မြင်စွာ တပ်ဆင်ပြီး",
+        "unequipped": "ဖြုတ်ပြီး!",
+        "unequippedDesc": "{name} ဖယ်ရှားပြီး",
+        "equipFailed": "တပ်ဆင်၍ မရပါ",
+        "unequipFailed": "ဖြုတ်၍ မရပါ",
+        "unknownError": "မသိသော အမှား"
     }
 }

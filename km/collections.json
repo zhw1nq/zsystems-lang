@@ -1,81 +1,81 @@
 {
-    "title": "Skin Collections",
-    "description": "Discover and share skin collections with the community",
+    "title": "ការប្រមូល Skin",
+    "description": "ស្វែងរក និងចែករំលែកការប្រមូល skin ជាមួយសហគមន៍",
     "tabs": {
-        "community": "Community",
-        "my": "My Collections"
+        "community": "សហគមន៍",
+        "my": "ការប្រមូលរបស់ខ្ញុំ"
     },
     "sort": {
-        "newest": "Newest",
-        "mostLiked": "Most Liked",
-        "mostUsed": "Most Used"
+        "newest": "ថ្មីបំផុត",
+        "mostLiked": "ចូលចិត្តច្រើនបំផុត",
+        "mostUsed": "ប្រើច្រើនបំផុត"
     },
     "card": {
-        "items": "{count} items",
-        "uses": "{count} uses",
-        "likes": "{count} likes",
-        "comments": "{count} comments",
-        "by": "by {author}",
-        "public": "Public",
-        "private": "Private"
+        "items": "{count} ធាតុ",
+        "uses": "{count} ដងប្រើ",
+        "likes": "{count} ចូលចិត្ត",
+        "comments": "{count} មតិ",
+        "by": "ដោយ {author}",
+        "public": "សាធារណៈ",
+        "private": "ឯកជន"
     },
     "create": {
-        "button": "Create New",
-        "title": "Create Collection",
-        "name": "Collection Name",
-        "namePlaceholder": "e.g. AWP Dragon Lore + Butterfly Fade",
-        "description": "Description",
-        "descPlaceholder": "Describe your collection...",
-        "visibility": "Public",
-        "preview": "Current Loadout",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
-        "submit": "Create Collection",
-        "success": "Collection created successfully!",
-        "error": "Failed to create collection",
-        "limitReached": "You have reached the limit of {max} collections",
-        "emptyLoadout": "Your current loadout is empty, nothing to save"
+        "button": "បង្កើតថ្មី",
+        "title": "បង្កើតការប្រមូល",
+        "name": "ឈ្មោះការប្រមូល",
+        "namePlaceholder": "ឧ. AWP Dragon Lore + Butterfly Fade",
+        "description": "ការពិពណ៌នា",
+        "descPlaceholder": "ពិពណ៌នាការប្រមូលរបស់អ្នក...",
+        "visibility": "សាធារណៈ",
+        "preview": "Loadout បច្ចុប្បន្ន",
+        "previewDesc": "{skins} skins, {knives} កាំបិត, {gloves} កងដៃ, {agents} agents, {music} តន្ត្រី, {pins} pins",
+        "submit": "បង្កើតការប្រមូល",
+        "success": "បានបង្កើតការប្រមូលដោយជោគជ័យ!",
+        "error": "បង្កើតការប្រមូលមិនបាន",
+        "limitReached": "អ្នកឈានដល់ដែនកំណត់ {max} ការប្រមូល",
+        "emptyLoadout": "Loadout បច្ចុប្បន្នទទេ មិនមានអ្វីរក្សាទុក"
     },
     "detail": {
-        "apply": "Apply Collection",
-        "applyConfirmTitle": "Apply Collection?",
-        "applyConfirmDesc": "Your current loadout will be completely overwritten with items from this collection. This action cannot be undone.",
-        "applySuccess": "Collection applied successfully!",
-        "applyError": "Failed to apply collection",
-        "delete": "Delete",
-        "deleteConfirmTitle": "Delete Collection?",
-        "deleteConfirmDesc": "Are you sure you want to delete this collection? This action cannot be undone.",
-        "edit": "Edit",
+        "apply": "អនុវត្តការប្រមូល",
+        "applyConfirmTitle": "អនុវត្តការប្រមូល?",
+        "applyConfirmDesc": "Loadout បច្ចុប្បន្នរបស់អ្នកនឹងត្រូវបំពេញជាមួយធាតុពីការប្រមូលនេះ។ មិនអាចមិនធ្វើវិញបានទេ។",
+        "applySuccess": "បានអនុវត្តការប្រមូលដោយជោគជ័យ!",
+        "applyError": "អនុវត្តការប្រមូលមិនបាន",
+        "delete": "លុប",
+        "deleteConfirmTitle": "លុបការប្រមូល?",
+        "deleteConfirmDesc": "តើអ្នកប្រាកដថាចង់លុបការប្រមូលនេះ? មិនអាចមិនធ្វើវិញបានទេ។",
+        "edit": "កែសម្រួល",
         "skins": "Skins",
-        "knives": "Knives",
-        "gloves": "Gloves",
+        "knives": "កាំបិត",
+        "gloves": "កងដៃ",
         "agents": "Agents",
-        "music": "Music",
+        "music": "តន្ត្រី",
         "pins": "Pins"
     },
     "comment": {
-        "title": "Comments",
-        "placeholder": "Write a comment...",
-        "submit": "Post",
-        "empty": "No comments yet",
-        "deleteConfirm": "Delete this comment?",
-        "error": "Failed to post comment",
-        "loginRequired": "Log in to comment"
+        "title": "មតិ",
+        "placeholder": "សរសេរមតិ...",
+        "submit": "បង្ហោះ",
+        "empty": "មិនទាន់មានមតិ",
+        "deleteConfirm": "លុបមតិនេះ?",
+        "error": "បង្ហោះមតិមិនបាន",
+        "loginRequired": "ចូលដើម្បីមតិ"
     },
     "empty": {
-        "community": "No collections yet. Be the first to share!",
-        "my": "You haven't created any collections yet.",
-        "noItems": "Collection is empty"
+        "community": "មិនទាន់មានការប្រមូល។ ជាអ្នកដំបូងចែករំលែក!",
+        "my": "អ្នកមិនទាន់បង្កើតការប្រមូលណាមួយទេ។",
+        "noItems": "ការប្រមូលទទេ"
     },
     "toast": {
-        "liked": "Collection liked",
-        "unliked": "Collection unliked",
-        "deleted": "Collection deleted",
-        "updated": "Collection updated",
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait before performing the next action",
-        "copiedId": "Copied ID",
-        "applied": "Collection applied!",
-        "applyError": "Failed to apply"
+        "liked": "បានចូលចិត្តការប្រមូល",
+        "unliked": "បានឈប់ចូលចិត្តការប្រមូល",
+        "deleted": "បានលុបការប្រមូល",
+        "updated": "បានធ្វើបច្ចុប្បន្នភាពការប្រមូល",
+        "tooFast": "លឿនពេក!",
+        "tooFastDesc": "សូមរង់ចាំមុនធ្វើសកម្មភាពបន្ទាប់",
+        "copiedId": "បានចម្លង ID",
+        "applied": "បានអនុវត្តការប្រមូល!",
+        "applyError": "អនុវត្តមិនបាន"
     },
-    "search": "Search collections..."
+    "search": "ស្វែងរកការប្រមូល..."
 }

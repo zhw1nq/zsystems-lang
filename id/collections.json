@@ -1,81 +1,81 @@
 {
-    "title": "Skin Collections",
-    "description": "Discover and share skin collections with the community",
+    "title": "Koleksi Skin",
+    "description": "Temukan dan bagikan koleksi skin dengan komunitas",
     "tabs": {
-        "community": "Community",
-        "my": "My Collections"
+        "community": "Komunitas",
+        "my": "Koleksi Saya"
     },
     "sort": {
-        "newest": "Newest",
-        "mostLiked": "Most Liked",
-        "mostUsed": "Most Used"
+        "newest": "Terbaru",
+        "mostLiked": "Paling Disukai",
+        "mostUsed": "Paling Digunakan"
     },
     "card": {
-        "items": "{count} items",
-        "uses": "{count} uses",
-        "likes": "{count} likes",
-        "comments": "{count} comments",
-        "by": "by {author}",
-        "public": "Public",
-        "private": "Private"
+        "items": "{count} item",
+        "uses": "{count} penggunaan",
+        "likes": "{count} suka",
+        "comments": "{count} komentar",
+        "by": "oleh {author}",
+        "public": "Publik",
+        "private": "Privat"
     },
     "create": {
-        "button": "Create New",
-        "title": "Create Collection",
-        "name": "Collection Name",
-        "namePlaceholder": "e.g. AWP Dragon Lore + Butterfly Fade",
-        "description": "Description",
-        "descPlaceholder": "Describe your collection...",
-        "visibility": "Public",
-        "preview": "Current Loadout",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
-        "submit": "Create Collection",
-        "success": "Collection created successfully!",
-        "error": "Failed to create collection",
-        "limitReached": "You have reached the limit of {max} collections",
-        "emptyLoadout": "Your current loadout is empty, nothing to save"
+        "button": "Buat Baru",
+        "title": "Buat Koleksi",
+        "name": "Nama Koleksi",
+        "namePlaceholder": "mis. AWP Dragon Lore + Butterfly Fade",
+        "description": "Deskripsi",
+        "descPlaceholder": "Jelaskan koleksi Anda...",
+        "visibility": "Publik",
+        "preview": "Loadout Saat Ini",
+        "previewDesc": "{skins} skin, {knives} pisau, {gloves} sarung tangan, {agents} agen, {music} musik, {pins} pin",
+        "submit": "Buat Koleksi",
+        "success": "Koleksi berhasil dibuat!",
+        "error": "Gagal membuat koleksi",
+        "limitReached": "Anda telah mencapai batas {max} koleksi",
+        "emptyLoadout": "Loadout Anda saat ini kosong, tidak ada yang disimpan"
     },
     "detail": {
-        "apply": "Apply Collection",
-        "applyConfirmTitle": "Apply Collection?",
-        "applyConfirmDesc": "Your current loadout will be completely overwritten with items from this collection. This action cannot be undone.",
-        "applySuccess": "Collection applied successfully!",
-        "applyError": "Failed to apply collection",
-        "delete": "Delete",
-        "deleteConfirmTitle": "Delete Collection?",
-        "deleteConfirmDesc": "Are you sure you want to delete this collection? This action cannot be undone.",
+        "apply": "Terapkan Koleksi",
+        "applyConfirmTitle": "Terapkan Koleksi?",
+        "applyConfirmDesc": "Loadout Anda saat ini akan sepenuhnya diganti dengan item dari koleksi ini. Tindakan ini tidak dapat dibatalkan.",
+        "applySuccess": "Koleksi berhasil diterapkan!",
+        "applyError": "Gagal menerapkan koleksi",
+        "delete": "Hapus",
+        "deleteConfirmTitle": "Hapus Koleksi?",
+        "deleteConfirmDesc": "Yakin ingin menghapus koleksi ini? Tindakan ini tidak dapat dibatalkan.",
         "edit": "Edit",
-        "skins": "Skins",
-        "knives": "Knives",
-        "gloves": "Gloves",
-        "agents": "Agents",
-        "music": "Music",
-        "pins": "Pins"
+        "skins": "Skin",
+        "knives": "Pisau",
+        "gloves": "Sarung Tangan",
+        "agents": "Agen",
+        "music": "Musik",
+        "pins": "Pin"
     },
     "comment": {
-        "title": "Comments",
-        "placeholder": "Write a comment...",
-        "submit": "Post",
-        "empty": "No comments yet",
-        "deleteConfirm": "Delete this comment?",
-        "error": "Failed to post comment",
-        "loginRequired": "Log in to comment"
+        "title": "Komentar",
+        "placeholder": "Tulis komentar...",
+        "submit": "Kirim",
+        "empty": "Belum ada komentar",
+        "deleteConfirm": "Hapus komentar ini?",
+        "error": "Gagal mengirim komentar",
+        "loginRequired": "Masuk untuk berkomentar"
     },
     "empty": {
-        "community": "No collections yet. Be the first to share!",
-        "my": "You haven't created any collections yet.",
-        "noItems": "Collection is empty"
+        "community": "Belum ada koleksi. Jadilah yang pertama berbagi!",
+        "my": "Anda belum membuat koleksi.",
+        "noItems": "Koleksi kosong"
     },
     "toast": {
-        "liked": "Collection liked",
-        "unliked": "Collection unliked",
-        "deleted": "Collection deleted",
-        "updated": "Collection updated",
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait before performing the next action",
-        "copiedId": "Copied ID",
-        "applied": "Collection applied!",
-        "applyError": "Failed to apply"
+        "liked": "Koleksi disukai",
+        "unliked": "Suka koleksi dibatalkan",
+        "deleted": "Koleksi dihapus",
+        "updated": "Koleksi diperbarui",
+        "tooFast": "Terlalu cepat!",
+        "tooFastDesc": "Tunggu sebelum melakukan tindakan berikutnya",
+        "copiedId": "ID disalin",
+        "applied": "Koleksi diterapkan!",
+        "applyError": "Gagal menerapkan"
     },
-    "search": "Search collections..."
+    "search": "Cari koleksi..."
 }

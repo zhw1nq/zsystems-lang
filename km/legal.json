@@ -1,92 +1,92 @@
 {
     "terms": {
-        "title": "Terms of Service Agreement",
-        "subtitle": "Terms of Service · Last updated: 03/01/2026",
-        "scope": "Applies to: Website 7-mau.com, all subdomains *.7-mau.com, zSystems Web Dashboard, and all Counter-Strike 2 game servers of 7-Mau Community.",
-        "intro": "By logging into the website through Steam or connecting to any 7-Mau Community game server, you automatically acknowledge that you have read, understood, and unconditionally agree to all the terms below. If you do not agree, your only right is to immediately stop using the service.",
+        "title": "កិច្ចព្រមព្រៀងលក្ខខណ្ឌសេវាកម្ម",
+        "subtitle": "លក្ខខណ្ឌសេវាកម្ម · ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ: 03/01/2026",
+        "scope": "អនុវត្តចំពោះ: វេបសាយ 7-mau.com, subdomain ទាំងអស់ *.7-mau.com, zSystems Web Dashboard, និងម៉ាស៊ីនមេហ្គេម Counter-Strike 2 ទាំងអស់របស់ 7-Mau Community។",
+        "intro": "ដោយចូលវេបសាយតាម Steam ឬភ្ជាប់ម៉ាស៊ីនមេហ្គេម 7-Mau Community ណាមួយ អ្នកស្ម័គ្រចិត្តថាបានអាន យល់ និងយល់ព្រមលក្ខខណ្ឌខាងក្រោមទាំងអស់។ បើមិនយល់ព្រម សិទ្ធិតែមួយរបស់អ្នកគឺបញ្ឈប់ប្រើប្រាស់សេវាភ្លាមៗ។",
         "section1": {
-            "title": "1. Accounts and System Identification",
-            "steamAuthTitle": "Steam Authentication",
-            "steamAuthContent": "Our system uses Valve's official API for Steam OpenID authentication. We do not request or store your Steam password. You are responsible for the security of your Steam account.",
-            "identityTitle": "User Identification",
-            "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
+            "title": "១. គណនី និងការកំណត់អត្តសញ្ញាណប្រព័ន្ធ",
+            "steamAuthTitle": "ការផ្ទៀងផ្ទាត់ Steam",
+            "steamAuthContent": "ប្រព័ន្ធយើងប្រើ API ផ្លូវការរបស់ Valve សម្រាប់ Steam OpenID។ យើងមិនស្នើ ឬរក្សាទុកពាក្យសម្ងាត់ Steam របស់អ្នកទេ។ អ្នកទទួលខុសត្រូវសុវត្ថិភាពគណនី Steam។",
+            "identityTitle": "ការកំណត់អត្តសញ្ញាណអ្នកប្រើ",
+            "identityContent": "អ្នកប្រើម្នាក់ៗត្រូវកំណត់ដោយ 7ID (កូដខាងក្នុងលើ zSystems), SteamID64 និងអាសយដ្ឋាន IP។ បើគណនីត្រូវបានប្រើដោយអ្នកផ្សេងរំលោភលក្ខខណ្ឌ 7-Mau គណនីនោះនឹងត្រូវទណ្ឌកម្មដោយគ្មានលើកលើង។"
         },
         "section2": {
-            "title": "2. Zero-Tolerance Anti-Cheat Policy",
-            "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
-            "permBanTitle": "Permanent Ban",
-            "permBanContent": "Using third-party software (hacks, cheats, aimbot, wallhack, scripts, macros) that interferes with the game will result in your SteamID and IP being permanently banned from the entire system (Web & Game Server).",
-            "demoTitle": "Demo Parsing",
-            "demoContent": "Our system automatically stores and analyzes Replay/Demo of every match. 7-Mau's admin team has full authority to use this data to make ban decisions without providing source code evidence or detection algorithms to violators.",
-            "evasionTitle": "Ban Evasion",
-            "evasionContent": "Any attempt to create new accounts (Smurf) to circumvent a ban will result in the system automatically banning all related accounts."
+            "title": "២. គោលការណ៍ Anti-Cheat សូន្យ",
+            "corePolicy": "នេះគឺជាស្នូល 7-Mau Community។ យើងអនុវត្តគោលការណ៍ ZERO TOLERANCE ចំពោះការក្បត់គ្រប់ទម្រង់។",
+            "permBanTitle": "ហាមឃាត់អចិន្ត្រៃយ៍",
+            "permBanContent": "ប្រើកម្មវិធីភាគទីទី៣ (hack, cheat, aimbot, wallhack, script, macro) ដែលរំខានហ្គេម នឹងធ្វើឱ្យ SteamID និង IP ត្រូវហាមឃាត់អចិន្ត្រៃយ៍ពីប្រព័ន្ធទាំងមូល (Web & Game Server)។",
+            "demoTitle": "ការវិភាគ Demo",
+            "demoContent": "ប្រព័ន្ធយើងរក្សា និងវិភាគ Replay/Demo រាល់ផ្គូផ្គងដោយស្វ័យប្រវត្តិ។ ក្រុម admin 7-Mau មានសិទ្ធិពេញលេញប្រើទិន្នន័យនេះសម្រេចហាមឃាត់ ដោយមិនផ្តល់កូដប្រភព ឬក្បួនរកឃើញដល់អ្នកល្មើស។",
+            "evasionTitle": "គេចហាមឃាត់",
+            "evasionContent": "ព្យាយាមបង្កើតគណនីថ្មី (Smurf) ដើម្បីគេចហាមឃាត់ នឹងធ្វើឱ្យប្រព័ន្ធហាមឃាត់គណនីពាក់ព័ន្ធទាំងអស់ដោយស្វ័យប្រវត្តិ។"
         },
         "section3": {
-            "title": "3. Data & Network Exploitation Rules",
-            "ownershipTitle": "7-Mau's Ownership",
-            "ownershipContent": "All processed statistical data, rankings (Rank/ELO), and display structures on *.7-mau.com are property of 7-Mau Community.",
-            "scrapingTitle": "Anti-Scraping Policy",
-            "scrapingContent": "You are NOT ALLOWED to use bots, spiders, scrapers, or any automated tools to extract bulk data from our website. Intentionally sending mass requests (API spam) that affect dashboard performance will be considered a cyber attack (DoS/DDoS) and will be blocked at the Cloudflare/Firewall level immediately."
+            "title": "៣. ច្បាប់ការប្រើប្រាស់ទិន្នន័យ & បណ្តាញ",
+            "ownershipTitle": "កម្មសិទ្ធិ 7-Mau",
+            "ownershipContent": "ទិន្នន័យស្ថិតិ ចំណាត់ថ្នាក់ (Rank/ELO) និងរចនាសម្ព័ន្ធបង្ហាញលើ *.7-mau.com ទាំងអស់ជាកម្មសិទ្ធិ 7-Mau Community។",
+            "scrapingTitle": "គោលការណ៍ Anti-Scraping",
+            "scrapingContent": "អ្នកមិនត្រូវប្រើ bot, spider, scraper ឬឧបករណ៍ស្វ័យប្រវត្តិដើម្បីទាញទិន្នន័យច្រើនពីវេបសាយយើងទេ។ ការផ្ញើសំណើច្រើន (API spam) ដែលប៉ះពាល់ដំណើរការ dashboard ត្រូវចាត់ទុកជាការវាយប្រហារបណ្តាញ (DoS/DDoS) និងត្រូវបានបិទភ្លាមនៅកម្រិត Cloudflare/Firewall។"
         },
         "section4": {
-            "title": "4. VIP Benefits & Donations",
-            "donationNote": "All payments for VIP packages, skins, or in-game privileges are considered voluntary donations to maintain the servers.",
-            "noRefundTitle": "No Refunds",
-            "noRefundContent": "We do not accept refunds in any form, even if you are banned from the system for rule violations, or when the server system undergoes maintenance/shutdown.",
-            "vipRevoke": "The admin team reserves the right to change, adjust, or revoke VIP privileges at any time if abuse is detected."
+            "title": "៤. អត្ថប្រយោជន៍ VIP & ការបរិច្ចាគ",
+            "donationNote": "ការទូទាត់សម្រាប់កញ្ចប់ VIP, skins ឬសិទ្ធិក្នុងហ្គេម ត្រូវចាត់ទុកជាការបរិច្ចាគស្ម័គ្រចិត្តដើម្បីថែរក្សាម៉ាស៊ីនមេ។",
+            "noRefundTitle": "មិនមានការសងប្រាក់",
+            "noRefundContent": "យើងមិនទទួលសងប្រាក់ទម្រង់ណាមួយ ទោះអ្នកត្រូវហាមឃាត់ ឬប្រព័ន្ធថែទាំ/បិទក៏ដោយ។",
+            "vipRevoke": "ក្រុម admin រក្សាសិទ្ធិផ្លាស់ប្តូរ ឬដកសិទ្ធិ VIP គ្រប់ពេលបើរកឃើញការប្រើប្រាស់ខុស។"
         },
         "section5": {
-            "title": "5. Disclaimer of Warranties",
-            "availabilityTitle": "Availability",
-            "availabilityContent": "The system is operated \"AS IS\". We do not guarantee that game servers or the web dashboard will operate 100% of the time (Uptime) without errors.",
-            "resetTitle": "Data Reset",
-            "resetContent": "To ensure balance (e.g., new seasons), 7-Mau Community has full authority to wipe all statistical data (stats, rank, credit points) at any time without compensation."
+            "title": "៥. ការបដិសេធការធានា",
+            "availabilityTitle": "ភាពអាចប្រើបាន",
+            "availabilityContent": "ប្រព័ន្ធដំណើរការ \"AS IS\"។ យើងមិនធានាថាម៉ាស៊ីនមេ ឬ web dashboard ដំណើរការ ១០០% (Uptime) គ្មានកំហុស។",
+            "resetTitle": "ការលុបទិន្នន័យ",
+            "resetContent": "ដើម្បីធានាតុល្យភាព (ឧ. រដូវថ្មី) 7-Mau Community មានសិទ្ធិលុបទិន្នន័យស្ថិតិទាំងអស់ (stats, rank, credit) គ្រប់ពេលដោយគ្មានសំណង។"
         }
     },
     "privacy": {
-        "title": "Privacy & Data Collection Policy",
-        "subtitle": "Privacy Policy · Last updated: 03/01/2026",
-        "intro": "Web Dashboard zSystems — developed by zhw1nq and 7-Mau TEAM — is a massive data processing engine designed to provide the most detailed statistics (Stats) for the CS2 community on 7-mau.com. Below is how we collect and operate this data repository.",
+        "title": "គោលការណ៍ភាពឯកជន & ការប្រមូលទិន្នន័យ",
+        "subtitle": "គោលការណ៍ភាពឯកជន · ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ: 03/01/2026",
+        "intro": "Web Dashboard zSystems — អភិវឌ្ឍដោយ zhw1nq និង 7-Mau TEAM — ជាម៉ាស៊ីនដំណើរការទិន្នន័យធំ ដើម្បីផ្តល់ស្ថិតិ (Stats) លម្អិតបំផុតសម្រាប់សហគមន៍ CS2 នៅ 7-mau.com។ ខាងក្រោមគឺរបៀបយើងប្រមូល និងដំណើរការឃ្លាំងទិន្នន័យនេះ។",
         "section1": {
-            "title": "1. Automatically Collected System Data",
-            "note": "As soon as you connect to a game server or log into 7-mau.com, our crawlers and plugins will immediately collect:",
-            "basicDataTitle": "Basic Identity Data",
-            "basicDataContent": "SteamID32, SteamID64, 7ID (internal code on zSystems), Current display name, Name change history, Avatar URL, Steam Profile link.",
-            "steamStatusTitle": "Steam Account Status",
-            "steamStatusContent": "Automatic checking of VAC Ban, Game Ban, Trade Ban status and Steam account Level through Steam Web API.",
-            "serverDataTitle": "Server-side Data",
-            "serverDataContent": "Your network IP address, Ping, country/region information.",
-            "telemetryTitle": "In-game Data (Deep Telemetry Data)",
-            "telemetryContent": "All of your actions in the server are recorded. Including: Movement coordinates, K/D/A history, damage dealt, weapons used, hit-box positions (headshot, chest, etc.), and chat log data (text)."
+            "title": "១. ទិន្នន័យប្រព័ន្ធដែលប្រមូលដោយស្វ័យប្រវត្តិ",
+            "note": "ភ្លាមពេលអ្នកភ្ជាប់ម៉ាស៊ីនមេ ឬចូល 7-mau.com ឧបករណ៍ crawl និង plugin របស់យើងនឹងប្រមូល:",
+            "basicDataTitle": "ទិន្នន័យអត្តសញ្ញាណមូលដ្ឋាន",
+            "basicDataContent": "SteamID32, SteamID64, 7ID (កូដខាងក្នុងលើ zSystems), ឈ្មោះបង្ហាញបច្ចុប្បន្ន, ប្រវត្តិប្តូរឈ្មោះ, URL Avatar, តំណ Steam Profile។",
+            "steamStatusTitle": "ស្ថានភាពគណនី Steam",
+            "steamStatusContent": "ពិនិត្យស្វ័យប្រវត្តិ VAC Ban, Game Ban, Trade Ban និង Level គណនី Steam តាម Steam Web API។",
+            "serverDataTitle": "ទិន្នន័យខាងម៉ាស៊ីនមេ",
+            "serverDataContent": "អាសយដ្ឋាន IP, Ping, ព័ត៌មានប្រទេស/តំបន់។",
+            "telemetryTitle": "ទិន្នន័យក្នុងហ្គេម (Deep Telemetry Data)",
+            "telemetryContent": "សកម្មភាពទាំងអស់របស់អ្នកត្រូវបានកត់ត្រា។ រួមមាន: កូអរដោនេចលនា, ប្រវត្តិ K/D/A, កំហុស, អាវុធប្រើ, ទីតាំង hit-box (headshot, chest, ជាដើម) និងការជជែក (អត្ថបទ)។"
         },
         "section2": {
-            "title": "2. Public Nature of Statistical Data",
-            "note": "This is the core foundation of Web Dashboard zSystems.",
-            "publicData": "All in-game statistics (Stats), Rank, ELO, Match History, and your online status on 7-Mau servers are PUBLIC DATA.",
-            "publicAccess": "Any user visiting *.7-mau.com can search for and view your detailed Player Profile on our system.",
-            "noPrivateProfile": "No anonymity exception for Stats: By playing on our servers, you accept that your achievements (and ban history) will be displayed publicly on the Leaderboard. We do not support \"hiding profiles\" (Private Profile) on the web dashboard to ensure transparency for the community."
+            "title": "២. លក្ខណៈសាធារណៈនៃទិន្នន័យស្ថិតិ",
+            "note": "នេះគឺគ្រឹត្ធវិទ្យាស្ថាន Web Dashboard zSystems។",
+            "publicData": "ស្ថិតិក្នុងហ្គេម (Stats), Rank, ELO, Match History និងស្ថានភាពអនឡាញលើម៉ាស៊ីនមេ 7-Mau គឺទិន្នន័យសាធារណៈ។",
+            "publicAccess": "អ្នកប្រើណាមួយដែលចូល *.7-mau.com អាចស្វែងរក និងមើល Player Profile លម្អិតរបស់អ្នក។",
+            "noPrivateProfile": "គ្មានលើកលើងសម្រាប់ Stats: ដោយលេងលើម៉ាស៊ីនមេយើង អ្នកយល់ព្រមឱ្យសមិទ្ធផល (និងប្រវត្តិហាមឃាត់) បង្ហាញសាធារណៈលើ Leaderboard។ យើងមិនគាំទ្រ \"លាក់ប្រវត្តិ\" (Private Profile) លើ web dashboard ដើម្បីភាពថ្លរថ្លែងសហគមន៍។"
         },
         "section3": {
-            "title": "3. Ban Records Data Storage",
-            "banData": "Data about violating accounts (Banned/Muted/Gagged) including 7ID, SteamID, Ban reason, Ban duration, and Display name at the time of violation will be stored permanently and publicly on the zSystems Ban List.",
-            "sharing": "The system may share these Ban Lists with other CS2 communities/partners to build a clean gaming environment."
+            "title": "៣. ការរក្សាទុកទិន្នន័យកំណត់ត្រាហាមឃាត់",
+            "banData": "ទិន្នន័យគណនីរំលោភ (Banned/Muted/Gagged) រួម 7ID, SteamID, មូលហេតុ, រយៈពេល និងឈ្មោះពេលរំលោភ ត្រូវរក្សាជាអចិន្ត្រៃយ៍ និងសាធារណៈលើ zSystems Ban List។",
+            "sharing": "ប្រព័ន្ធអាចចែករំលែកបញ្ជីហាមឃាត់ជាមួយសហគមន៍/ដៃគូ CS2 ដើម្បីបរិស្ថានលេងស្អាត។"
         },
         "section4": {
-            "title": "4. Cookie & Web Session Usage",
-            "note": "The 7-mau.com web dashboard uses Cookies and Local Storage on your browser to:",
-            "cookieLogin": "Maintain login state (Keep Logged In).",
-            "cookieUi": "Store interface preferences (Dark Mode / Light Mode, display language).",
-            "cookieAnalytics": "Track traffic through analytics tools (such as Google Analytics) for the admin team to evaluate website performance."
+            "title": "៤. ការប្រើ Cookie & Web Session",
+            "note": "web dashboard 7-mau.com ប្រើ Cookies និង Local Storage លើកម្មវិធីរុករកដើម្បី:",
+            "cookieLogin": "រក្សាស្ថានភាពចូល (Keep Logged In)។",
+            "cookieUi": "រក្សាចំណូលចិត្តចំណុចប្រទាក់ (Dark Mode / Light Mode, ភាសាបង្ហាញ)។",
+            "cookieAnalytics": "តាមដានចរាចរណ៍តាមឧបករណ៍ analytics (ដូច Google Analytics) ដើម្បីវាយតម្លៃដំណើរការវេប។"
         },
         "section5": {
-            "title": "5. Internal Data Protection",
-            "content": "Although your in-game data is public on the Dashboard, sensitive system-level information such as: actual IP addresses, transaction history (VIP purchases), and account linking history (Discord/Steam) are encrypted and strictly protected. Only Senior Admin (Root Admin) has access to the original Database."
+            "title": "៥. ការការពារទិន្នន័យខាងក្នុង",
+            "content": "ទោះទិន្នន័យក្នុងហ្គេមសាធារណៈលើ Dashboard ក៏ដោយ ព័ត៌មានរសើបខាងប្រព័ន្ធ ដូច: IP ពិត, ប្រវត្តិប្រតិបត្តិការ (ទិញ VIP) និងប្រវត្តិភ្ជាប់គណនី (Discord/Steam) ត្រូវបានអ៊ិនគ្រីប និងការពារយ៉ាងតឹងរ៉ឹង។ មានតែ Senior Admin (Root Admin) ទេដែលចូល Database ដើម។"
         },
         "section6": {
-            "title": "6. How to Contact Admin",
-            "intro": "For any issues related to account appeals, web bug reports, or terms-related matters, please contact us directly through official channels:",
-            "discordLabel": "Support Portal (Discord Ticket):",
-            "emailLabel": "Admin Email:"
+            "title": "៦. របៀបទាក់ទង Admin",
+            "intro": "សម្រាប់បណ្តឹងគណនី របាយការណ៍កំហុសវេប ឬបញ្ហាទាក់ទងលក្ខខណ្ឌ សូមទាក់ទងតាមឆានែលផ្លូវការ:",
+            "discordLabel": "ច្រកជំនួយ (Discord Ticket):",
+            "emailLabel": "អ៊ីមែល Admin:"
         }
     }
 }

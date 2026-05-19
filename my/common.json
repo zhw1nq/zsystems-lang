@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
+        "home": "ပင်မစာမျက်နှာ",
+        "dashboard": "ဒက်ရှ်ဘုတ်",
+        "account": "အကောင့်",
+        "security": "လုံခြုံရေး",
+        "settings": "ဆက်တင်များ",
+        "servers": "ဆာဗာများ",
+        "bans": "ပိတ်ပင်မှုများ",
+        "mutes": "Mute / Gag",
         "skins": "Skins",
-        "skinCollections": "Collections",
+        "skinCollections": "စုစည်းမှုများ",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
+        "rankings": "အဆင့်သတ်မှတ်ချက်များ",
         "battleMode": "Battle Mode",
         "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "login": "ဝင်ရောက်ရန်",
+        "register": "စာရင်းသွင်းရန်",
+        "logout": "ထွက်ရန်",
+        "support": "အကူအညီ"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "ကူးယူ",
+        "connect": "ချိတ်ဆက်",
+        "save": "သိမ်းဆည်း",
+        "cancel": "ပယ်ဖျက်",
+        "close": "ပိတ်",
+        "confirm": "အတည်ပြု",
+        "delete": "ဖျက်",
+        "edit": "တည်းဖြတ်",
+        "back": "နောက်သို့",
+        "retry": "ထပ်စမ်းကြည့်",
+        "search": "ရှာဖွေ..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "အွန်လိုင်း",
+        "offline": "အော့ဖ်လိုင်း",
+        "loading": "ဖွင့်နေသည်...",
+        "error": "အမှား",
+        "success": "အောင်မြင်"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "ကလစ်ဘုတ်သို့ ကူးယူပြီး",
+        "copyFailed": "ကူးယူ၍ မရပါ"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "မူပိုင်ခွင့်အားလုံး လက်ဝယ်ထားသည်"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "ခေါက်သိမ်း",
+        "expand": "ဖြန့်",
+        "language": "ဘာသာစကား",
+        "theme": "အပြင်အဆင်",
+        "terms": "စည်းမျဉ်းနှင့် ကိုယ်ရေးကိုယ်တာ",
+        "guest": "ဧည့်သည်",
+        "settings": "ဆက်တင်များ"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "စနစ်ကြေညာချက်",
+        "sourceLink": "မူရင်းပို့စ်ကို ကြည့်ရန်"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "သင်ရှာနေသော စာမျက်နှာ မရှိပါ",
+            "home": "ပင်မစာမျက်နှာ",
+            "back": "နောက်သို့ ပြန်သွား"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "မမျှော်လင့်ထားသော အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်",
+            "errorCode": "အမှားကုဒ်: {code}",
+            "pleaseRetry": "ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ",
+            "retry": "ထပ်စမ်းကြည့်",
+            "home": "ပင်မစာမျက်နှာ"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "စကားဝှက် ပြောင်းလဲရန် လိုအပ်သည်",
+        "description": "လုံခြုံရေးအတွက် စီမံခန့်ခွဲသူက သင့်စကားဝှက်ကို ပြောင်းလဲရန် တောင်းဆိုထားသည်။ ဆက်လက်မလုပ်ဆောင်မီ စကားဝှက်ကို ပြောင်းလဲရပါမည်။",
+        "newPassword": "စကားဝှက်အသစ်",
+        "confirmPassword": "စကားဝှက် အတည်ပြု",
+        "submit": "စကားဝှက် ပြောင်းလဲ",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "အနည်းဆုံး ၈ လုံး",
+            "uppercase": "အနည်းဆုံး အင်္ဂလိပ်စာလုံးကြီး ၁ လုံး",
+            "number": "အနည်းဆုံး ဂဏန်း ၁ လုံး",
+            "match": "စကားဝှက်များ ကိုက်ညီသည်"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "ညကောင်းပါ၊ {name}",
+        "greeting_morning": "မနက်ခင်းပါ၊ {name}",
+        "greeting_noon": "နေ့လယ်ခင်းပါ၊ {name}",
+        "greeting_afternoon": "နေ့ခင်းပါ၊ {name}",
+        "greeting_evening": "ညနေခင်းပါ၊ {name}",
+        "guest": "ဧည့်သည်",
+        "warning": "တစ်နေ့ ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်"
     }
 }

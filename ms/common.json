@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
-        "skins": "Skins",
-        "skinCollections": "Collections",
+        "home": "Utama",
+        "dashboard": "Papan Pemuka",
+        "account": "Akaun",
+        "security": "Keselamatan",
+        "settings": "Tetapan",
+        "servers": "Pelayan",
+        "bans": "Sekatan",
+        "mutes": "Senyap / Gag",
+        "skins": "Kulit",
+        "skinCollections": "Koleksi",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
-        "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "rankings": "Kedudukan",
+        "battleMode": "Mod Pertempuran",
+        "admin": "Panel Admin",
+        "login": "Log Masuk",
+        "register": "Daftar",
+        "logout": "Log Keluar",
+        "support": "Sokongan"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "Salin",
+        "connect": "Sambung",
+        "save": "Simpan",
+        "cancel": "Batal",
+        "close": "Tutup",
+        "confirm": "Sahkan",
+        "delete": "Padam",
+        "edit": "Sunting",
+        "back": "Kembali",
+        "retry": "Cuba Lagi",
+        "search": "Cari..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "Dalam Talian",
+        "offline": "Luar Talian",
+        "loading": "Memuatkan...",
+        "error": "Ralat",
+        "success": "Berjaya"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "Disalin ke papan keratan",
+        "copyFailed": "Gagal menyalin"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "Hak cipta terpelihara"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "Runtuhkan",
+        "expand": "Kembangkan",
+        "language": "Bahasa",
+        "theme": "Tema",
+        "terms": "Terma & Privasi",
+        "guest": "Tetamu",
+        "settings": "Tetapan"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "Pengumuman Sistem",
+        "sourceLink": "Lihat siaran asal"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "Halaman yang anda cari tidak wujud",
+            "home": "Utama",
+            "back": "Kembali"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "Ralat tidak dijangka berlaku",
+            "errorCode": "Kod ralat: {code}",
+            "pleaseRetry": "Sila cuba lagi",
+            "retry": "Cuba Lagi",
+            "home": "Utama"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "Pertukaran Kata Laluan Diperlukan",
+        "description": "Pentadbir memerlukan anda menukar kata laluan atas sebab keselamatan. Anda mesti menukar kata laluan sebelum meneruskan.",
+        "newPassword": "Kata Laluan Baharu",
+        "confirmPassword": "Sahkan Kata Laluan",
+        "submit": "Tukar Kata Laluan",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "Sekurang-kurangnya 8 aksara",
+            "uppercase": "Sekurang-kurangnya 1 huruf besar",
+            "number": "Sekurang-kurangnya 1 nombor",
+            "match": "Kata laluan sepadan"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "Selamat malam, {name}",
+        "greeting_morning": "Selamat pagi, {name}",
+        "greeting_noon": "Selamat tengah hari, {name}",
+        "greeting_afternoon": "Selamat petang, {name}",
+        "greeting_evening": "Selamat petang, {name}",
+        "guest": "Tetamu",
+        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan"
     }
 }

@@ -1,45 +1,45 @@
 {
     "hero": {
-        "badge": "Version 2.0 - Now Available",
-        "title": "Comprehensive management system for",
-        "titleHighlight": "CS2 servers",
-        "subtitle": "From SSH, RCON, player management, web UI, Discord bot API and many more features - all in one platform.",
-        "getStarted": "Get Started",
-        "viewDocs": "View Documentation"
+        "badge": "Versi 2.0 - Tersedia Sekarang",
+        "title": "Sistem manajemen komprehensif untuk",
+        "titleHighlight": "server CS2",
+        "subtitle": "Dari SSH, RCON, manajemen pemain, UI web, API bot Discord, dan banyak fitur lainnya — semuanya dalam satu platform.",
+        "getStarted": "Mulai",
+        "viewDocs": "Lihat Dokumentasi"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
+        "servers": "Server",
+        "players": "Pemain",
         "uptime": "Uptime",
-        "features": "Features"
+        "features": "Fitur"
     },
     "features": {
-        "badge": "Features",
-        "title": "Everything you need",
-        "subtitle": "Powerful tools to manage your CS2 servers",
+        "badge": "Fitur",
+        "title": "Semua yang Anda butuhkan",
+        "subtitle": "Alat canggih untuk mengelola server CS2 Anda",
         "sshRcon": "SSH & RCON",
-        "sshRconDesc": "Manage servers remotely with built-in SSH and RCON.",
-        "playerManagement": "Player Management",
-        "playerManagementDesc": "Track, ban, mute and manage players comprehensively.",
-        "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Client interface for server list changer.",
-        "webUI": "Web UI",
-        "webUIDesc": "Modern, responsive web interface for users.",
-        "discordBot": "Discord Bot API",
-        "discordBotDesc": "Free, easy-to-configure Discord bot API integration.",
-        "dataManagement": "Data Management",
-        "dataManagementDesc": "Centralized, secure, and efficient data management.",
+        "sshRconDesc": "Kelola server dari jarak jauh dengan SSH dan RCON bawaan.",
+        "playerManagement": "Manajemen Pemain",
+        "playerManagementDesc": "Lacak, ban, mute, dan kelola pemain secara menyeluruh.",
+        "serverListChanger": "Pengubah Daftar Server",
+        "serverListChangerDesc": "Antarmuka klien untuk pengubah daftar server.",
+        "webUI": "UI Web",
+        "webUIDesc": "Antarmuka web modern dan responsif untuk pengguna.",
+        "discordBot": "API Bot Discord",
+        "discordBotDesc": "Integrasi API bot Discord gratis dan mudah dikonfigurasi.",
+        "dataManagement": "Manajemen Data",
+        "dataManagementDesc": "Manajemen data terpusat, aman, dan efisien.",
         "multiServer": "Multi-Server",
-        "multiServerDesc": "Support managing multiple servers simultaneously.",
-        "customize": "Customize",
-        "customizeDesc": "Customize everything to your needs."
+        "multiServerDesc": "Dukungan mengelola banyak server secara bersamaan.",
+        "customize": "Kustomisasi",
+        "customizeDesc": "Sesuaikan semuanya dengan kebutuhan Anda."
     },
     "cta": {
-        "title": "Ready to get started?",
-        "subtitle": "Register for free and try it today.",
-        "register": "Register for Free",
-        "free": "Free",
-        "noCard": "No card required",
-        "support247": "24/7 Support"
+        "title": "Siap memulai?",
+        "subtitle": "Daftar gratis dan coba hari ini.",
+        "register": "Daftar Gratis",
+        "free": "Gratis",
+        "noCard": "Tanpa kartu kredit",
+        "support247": "Dukungan 24/7"
     }
 }

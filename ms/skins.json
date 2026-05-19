@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "Kulit",
+    "description": "Layari dan sesuaikan kulit senjata CS2 anda",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "Kulit Senjata",
+        "agents": "Ejen",
+        "musicKits": "Kit Muzik",
+        "pinsCoins": "Pin & Syiling"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "Sarung Tangan",
+        "rifles": "Raifal",
+        "knives": "Pisau",
+        "smgs": "SMG",
+        "pistols": "Pistol",
+        "heavy": "Berat",
+        "equipment": "Peralatan"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "Kedua-dua Pasukan",
+        "ct": "Pasukan CT",
+        "t": "Pasukan T"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "Cari kulit...",
+    "noResults": "Tiada kulit dijumpai",
+    "selectWeapon": "Pilih senjata untuk layari kulit",
+    "loginRequired": "Sila log masuk untuk menggunakan Kulit",
+    "loading": "Memuatkan kulit...",
+    "itemCount": "{count} item",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "Terlalu pantas!",
+        "tooFastDesc": "Sila tunggu 2s sebelum mencuba lagi",
+        "equipped": "Dipakai!",
+        "equippedDesc": "{name} berjaya dipakai",
+        "unequipped": "Ditanggalkan!",
+        "unequippedDesc": "{name} dialih keluar",
+        "equipFailed": "Gagal memakai",
+        "unequipFailed": "Gagal menanggalkan",
+        "unknownError": "Ralat tidak diketahui"
     }
 }

@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
+        "home": "ទំព័រដើម",
+        "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+        "account": "គណនី",
+        "security": "សុវត្ថិភាព",
+        "settings": "ការកំណត់",
+        "servers": "ម៉ាស៊ីនមេ",
+        "bans": "ការហាមឃាត់",
+        "mutes": "Mute / Gag",
         "skins": "Skins",
-        "skinCollections": "Collections",
+        "skinCollections": "ការប្រមូល",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
+        "rankings": "ចំណាត់ថ្នាក់",
         "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "admin": "ផ្ទាំង Admin",
+        "login": "ចូល",
+        "register": "ចុះឈ្មោះ",
+        "logout": "ចេញ",
+        "support": "ជំនួយ"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "ចម្លង",
+        "connect": "ភ្ជាប់",
+        "save": "រក្សាទុក",
+        "cancel": "បោះបង់",
+        "close": "បិទ",
+        "confirm": "បញ្ជាក់",
+        "delete": "លុប",
+        "edit": "កែសម្រួល",
+        "back": "ត្រឡប់",
+        "retry": "ព្យាយាមម្តងទៀត",
+        "search": "ស្វែងរក..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "អនឡាញ",
+        "offline": "ក្រៅបណ្តាញ",
+        "loading": "កំពុងផ្ទុក...",
+        "error": "កំហុស",
+        "success": "ជោគជ័យ"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "បានចម្លងទៅ clipboard",
+        "copyFailed": "ចម្លងមិនបាន"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "រក្សាសិទ្ធិទាំងអស់"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "បង្រួម",
+        "expand": "ពង្រីក",
+        "language": "ភាសា",
+        "theme": "រូបរាង",
+        "terms": "លក្ខខណ្ឌ & ភាពឯកជន",
+        "guest": "ភ្ញៀវ",
+        "settings": "ការកំណត់"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "ប្រកាសប្រព័ន្ធ",
+        "sourceLink": "មើលប្រកាសដើម"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "ទំព័រដែលអ្នកស្វែងរកមិនមានទេ",
+            "home": "ទំព័រដើម",
+            "back": "ត្រឡប់ក្រោយ"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "មានកំហុសមិនរំពឹងទុក",
+            "errorCode": "លេខកំហុស: {code}",
+            "pleaseRetry": "សូមព្យាយាមម្តងទៀត",
+            "retry": "ព្យាយាមម្តងទៀត",
+            "home": "ទំព័រដើម"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "ត្រូវប្តូរពាក្យសម្ងាត់",
+        "description": "អ្នកគ្រប់គ្រងតម្រូវឱ្យអ្នកប្តូរពាក្យសម្ងាត់សម្រាប់សុវត្ថិភាព។ អ្នកត្រូវប្តូរពាក្យសម្ងាត់មុនពេលបន្ត។",
+        "newPassword": "ពាក្យសម្ងាត់ថ្មី",
+        "confirmPassword": "បញ្ជាក់ពាក្យសម្ងាត់",
+        "submit": "ប្តូរពាក្យសម្ងាត់",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "យ៉ាងហោចណាស់ ៨ តួអក្សរ",
+            "uppercase": "យ៉ាងហោចណាស់ ១ អក្សរធំ",
+            "number": "យ៉ាងហោចណាស់ ១ លេខ",
+            "match": "ពាក្យសម្ងាត់ត្រូវគ្នា"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "រាត្រីសួស្តី, {name}",
+        "greeting_morning": "អរុណសួស្តី, {name}",
+        "greeting_noon": "ថ្ងៃត្រង់សួស្តី, {name}",
+        "greeting_afternoon": "រសៀលសួស្តី, {name}",
+        "greeting_evening": "ល្ងាចសួស្តី, {name}",
+        "guest": "ភ្ញៀវ",
+        "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព"
     }
 }

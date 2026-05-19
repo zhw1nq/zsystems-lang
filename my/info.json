@@ -1,45 +1,45 @@
 {
     "hero": {
-        "badge": "Version 2.0 - Now Available",
-        "title": "Comprehensive management system for",
-        "titleHighlight": "CS2 servers",
-        "subtitle": "From SSH, RCON, player management, web UI, Discord bot API and many more features - all in one platform.",
-        "getStarted": "Get Started",
-        "viewDocs": "View Documentation"
+        "badge": "ဗားရှင်း 2.0 - ယခု ရရှိနိုင်ပါသည်",
+        "title": "စီမံခန့်ခွဲမှု စနစ်အပြည့်အစုံ",
+        "titleHighlight": "CS2 ဆာဗာများ",
+        "subtitle": "SSH, RCON, ကစားသမား စီမံခန့်ခွဲမှု၊ ဝဘ် UI, Discord bot API နှင့် အခြားအင်္ဂါရပ်များစွာ — ပလက်ဖောင်းတစ်ခုတည်းတွင်။",
+        "getStarted": "စတင်ရန်",
+        "viewDocs": "စာရွက်စာတမ်း ကြည့်ရန်"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
+        "servers": "ဆာဗာများ",
+        "players": "ကစားသမားများ",
         "uptime": "Uptime",
-        "features": "Features"
+        "features": "အင်္ဂါရပ်များ"
     },
     "features": {
-        "badge": "Features",
-        "title": "Everything you need",
-        "subtitle": "Powerful tools to manage your CS2 servers",
+        "badge": "အင်္ဂါရပ်များ",
+        "title": "လိုအပ်သမျှ အားလုံး",
+        "subtitle": "CS2 ဆာဗာများကို စီမံခန့်ခွဲရန် အစွမ်းထက်သော ကိရိယာများ",
         "sshRcon": "SSH & RCON",
-        "sshRconDesc": "Manage servers remotely with built-in SSH and RCON.",
-        "playerManagement": "Player Management",
-        "playerManagementDesc": "Track, ban, mute and manage players comprehensively.",
+        "sshRconDesc": "တည်ဆောက်ထားသော SSH နှင့် RCON ဖြင့် ဆာဗာများကို အဝေးမှ စီမံခန့်ခွဲပါ။",
+        "playerManagement": "ကစားသမား စီမံခန့်ခွဲမှု",
+        "playerManagementDesc": "ကစားသမားများကို ခြေရာခံ၊ ပိတ်ပင်၊ mute နှင့် စနစ်တကျ စီမံခန့်ခွဲပါ။",
         "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Client interface for server list changer.",
+        "serverListChangerDesc": "ဆာဗာစာရင်း ပြောင်းလဲရန် client အင်တာဖေ့စ်။",
         "webUI": "Web UI",
-        "webUIDesc": "Modern, responsive web interface for users.",
+        "webUIDesc": "အသုံးပြုသူများအတွက် ခေတ်မီနှင့် တုံ့ပြန်မှု ကောင်းသော ဝဘ်အင်တာဖေ့စ်။",
         "discordBot": "Discord Bot API",
-        "discordBotDesc": "Free, easy-to-configure Discord bot API integration.",
-        "dataManagement": "Data Management",
-        "dataManagementDesc": "Centralized, secure, and efficient data management.",
-        "multiServer": "Multi-Server",
-        "multiServerDesc": "Support managing multiple servers simultaneously.",
-        "customize": "Customize",
-        "customizeDesc": "Customize everything to your needs."
+        "discordBotDesc": "အခမဲ့၊ ပြင်ဆင်ရလွယ်သော Discord bot API ပေါင်းစပ်မှု။",
+        "dataManagement": "ဒေတာ စီမံခန့်ခွဲမှု",
+        "dataManagementDesc": "ဗဟိုချုပ်ကိုင်ထားသော၊ လုံခြုံသော၊ ထိရောက်သော ဒေတာ စီမံခန့်ခွဲမှု။",
+        "multiServer": "ဆာဗာများစွာ",
+        "multiServerDesc": "ဆာဗာများစွာကို တစ်ပြိုင်နက် စီမံခန့်ခွဲခြင်းကို ပံ့ပိုးသည်။",
+        "customize": "စိတ်ကြိုက်ပြင်ဆင်",
+        "customizeDesc": "လိုအပ်ချက်အလိုက် အားလုံးကို စိတ်ကြိုက်ပြင်ဆင်ပါ။"
     },
     "cta": {
-        "title": "Ready to get started?",
-        "subtitle": "Register for free and try it today.",
-        "register": "Register for Free",
-        "free": "Free",
-        "noCard": "No card required",
-        "support247": "24/7 Support"
+        "title": "စတင်ရန် အဆင်သင့်လား?",
+        "subtitle": "အခမဲ့ စာရင်းသွင်းပြီး ယနေ့ စမ်းကြည့်ပါ။",
+        "register": "အခမဲ့ စာရင်းသွင်း",
+        "free": "အခမဲ့",
+        "noCard": "ကတ်မလိုအပ်",
+        "support247": "၂၄/၇ အကူအညီ"
     }
 }

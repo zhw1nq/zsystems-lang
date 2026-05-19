@@ -1,101 +1,101 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
-        "skins": "Skins",
-        "skinCollections": "Collections",
+        "home": "ໜ້າຫຼັກ",
+        "dashboard": "ແຜງຄວບຄຸມ",
+        "account": "ບັນຊີ",
+        "security": "ຄວາມປອດໄພ",
+        "settings": "ການຕັ້ງຄ່າ",
+        "servers": "ເຊີບເວີ",
+        "bans": "ແບນ",
+        "mutes": "Mute / Gag",
+        "skins": "ສະກິນ",
+        "skinCollections": "ຄໍເລັກຊັນ",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
-        "rankings": "Rankings",
-        "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support"
+        "rankings": "ອັນດັບ",
+        "battleMode": "ໂໝດ Battle",
+        "admin": "ແຜງ Admin",
+        "login": "ເຂົ້າສູ່ລະບົບ",
+        "register": "ລົງທະບຽນ",
+        "logout": "ອອກຈາກລະບົບ",
+        "support": "ຊ່ວຍເຫຼືອ"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "ສຳເນົາ",
+        "connect": "ເຊື່ອມຕໍ່",
+        "save": "ບັນທຶກ",
+        "cancel": "ຍົກເລີກ",
+        "close": "ປິດ",
+        "confirm": "ຢືນຢັນ",
+        "delete": "ລຶບ",
+        "edit": "ແກ້ໄຂ",
+        "back": "ກັບຄືນ",
+        "retry": "ລອງໃໝ່",
+        "search": "ຄົ້ນຫາ..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "ອອນລາຍ",
+        "offline": "ອອບລາຍ",
+        "loading": "ກຳລັງໂຫຼດ...",
+        "error": "ຜິດພາດ",
+        "success": "ສຳເລັດ"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "ສຳເນົາໄປຄລິບບອດແລ້ວ",
+        "copyFailed": "ສຳເນົາບໍ່ສຳເລັດ"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "ສະຫງວນລິຂະສິດ"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "ຫຍໍ້",
+        "expand": "ຂະຫຍາຍ",
+        "language": "ພາສາ",
+        "theme": "ຮູບແບບ",
+        "terms": "ເງື່ອນໄຂ & ຄວາມເປັນສ່ວນຕົວ",
+        "guest": "ແຂກ",
+        "settings": "ການຕັ້ງຄ່າ"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "ປະກາດລະບົບ",
+        "sourceLink": "ເບິ່ງໂພສຕົ້ນສະບັບ"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "ບໍ່ພົບໜ້າທີ່ທ່ານຊອກຫາ",
+            "home": "ໜ້າຫຼັກ",
+            "back": "ກັບຄືນ"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "ເກີດຂໍ້ຜິດພາດທີ່ບໍ່ຄາດຄິດ",
+            "errorCode": "ລະຫັດຜິດພາດ: {code}",
+            "pleaseRetry": "ກະລຸນາລອງໃໝ່",
+            "retry": "ລອງໃໝ່",
+            "home": "ໜ້າຫຼັກ"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "ຕ້ອງປ່ຽນລະຫັດຜ່ານ",
+        "description": "ຜູ້ດູແລລະບົບກຳນົດໃຫ້ທ່ານປ່ຽນລະຫັດຜ່ານເພື່ອຄວາມປອດໄພ. ທ່ານຕ້ອງປ່ຽນກ່ອນຈຶ່ງຈະດຳເນີນການຕໍ່ໄດ້.",
+        "newPassword": "ລະຫັດຜ່ານໃໝ່",
+        "confirmPassword": "ຢືນຢັນລະຫັດຜ່ານ",
+        "submit": "ປ່ຽນລະຫັດຜ່ານ",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "ຢ່າງໜ້ອຍ 8 ຕົວອັກສອນ",
+            "uppercase": "ຢ່າງໜ້ອຍ 1 ຕົວພິມໃຫຍ່",
+            "number": "ຢ່າງໜ້ອຍ 1 ຕົວເລກ",
+            "match": "ລະຫັດຜ່ານກົງກັນ"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health"
+        "greeting_night": "ສະບາຍດີກາງຄືນ, {name}",
+        "greeting_morning": "ສະບາຍດີຕອນເຊົ້າ, {name}",
+        "greeting_noon": "ສະບາຍດີຕອນທ່ຽງ, {name}",
+        "greeting_afternoon": "ສະບາຍດີຕອນບ່າຍ, {name}",
+        "greeting_evening": "ສະບາຍດີຕອນແລງ, {name}",
+        "guest": "ແຂກ",
+        "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ"
     }
 }
