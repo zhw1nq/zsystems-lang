@@ -17,6 +17,7 @@
     "weapons": {
         "title": "zWeapons",
         "description": "SVIP 專屬武器造型",
+        
         "equipped": "已裝備",
         "equip": "裝備",
         "unequip": "卸下",
