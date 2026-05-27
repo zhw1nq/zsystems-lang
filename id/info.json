@@ -8,7 +8,7 @@
         "viewDocs": "Lihat Dokumentasi"
     },
     "stats": {
-        "servers": "Server",
+        "servers": "Server", 
         "players": "Pemain",
         "uptime": "Uptime",
         "features": "Fitur"

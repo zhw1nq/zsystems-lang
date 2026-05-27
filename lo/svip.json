@@ -14,7 +14,7 @@
         "notLoggedIn": "ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອໃຊ້ຟີເຈີນີ້",
         "selectCategory": "ເລືອກປະເພດ"
     },
-    "weapons": {
+    "weapons": { 
         "title": "zWeapons",
         "description": "ສະກິນອາວຸດພິເສດສຳລັບ SVIP",
         "equipped": "ສວມໃສ່ແລ້ວ",

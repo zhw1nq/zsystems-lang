@@ -4,7 +4,7 @@
     "tabs": {
         "statistics": "Statistik",
         "admins": "Urus Admin",
-        "accounts": "Pengurusan Akaun",
+        "accounts": "Pengurusan Akaun", 
         "servers": "Urus Pelayan",
         "bans": "Urus Sekatan",
         "mutes": "Urus Senyap",
@@ -168,7 +168,7 @@
         "active": "Aktif",
         "unbanned": "Dibuka Sekatan",
         "expired": "Tamat Tempoh",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan."
     },
     "mutes": {
         "title": "Senarai Senyap",
@@ -195,7 +195,7 @@
         "active": "Aktif",
         "unmuted": "Dibuka Senyap",
         "expired": "Tamat Tempoh",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan."
     },
     "logs": {
         "title": "Log Aktiviti",

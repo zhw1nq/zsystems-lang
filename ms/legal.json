@@ -11,7 +11,7 @@
             "identityTitle": "Pengenalan Pengguna",
             "identityContent": "Setiap pengguna dikenal pasti melalui 7ID (kod dalaman pada zSystems), SteamID64, dan Alamat IP. Jika akaun anda digunakan oleh orang lain untuk melanggar peraturan 7-Mau, akaun tersebut tetap dikenakan penalti tanpa pengecualian."
         },
-        "section2": {
+        "section2": { 
             "title": "2. Dasar Anti-Cheat Sifar Toleransi",
             "corePolicy": "Ini adalah teras Komuniti 7-Mau. Kami mengamalkan dasar SIFAR TOLERANSI terhadap semua bentuk penipuan.",
             "permBanTitle": "Sekatan Kekal",

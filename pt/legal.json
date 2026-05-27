@@ -10,8 +10,8 @@
             "steamAuthContent": "Nosso sistema utiliza a API oficial da Valve para autenticação Steam OpenID. Não solicitamos nem armazenamos sua senha Steam. Você é responsável pela segurança da sua conta Steam.",
             "identityTitle": "Identificação do usuário",
             "identityContent": "Cada usuário é identificado por 7ID (código interno no zSystems), SteamID64 e endereço IP. Se sua conta for usada por outra pessoa para violar as regras da 7-Mau, essa conta ainda será penalizada sem exceções."
-        },
-        "section2": {
+        }, 
+        "section2": { 
             "title": "2. Política Anti-Cheat de Tolerância Zero",
             "corePolicy": "Este é o núcleo da 7-Mau Community. Aplicamos uma política de TOLERÂNCIA ZERO contra todas as formas de trapaça.",
             "permBanTitle": "Banimento permanente",

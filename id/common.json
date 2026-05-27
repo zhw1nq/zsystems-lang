@@ -6,7 +6,7 @@
         "security": "Keamanan",
         "settings": "Pengaturan",
         "servers": "Server",
-        "bans": "Ban",
+        "bans": "Ban", 
         "mutes": "Mute / Gag",
         "skins": "Skin",
         "skinCollections": "Koleksi",
@@ -19,7 +19,7 @@
         "register": "Daftar",
         "logout": "Keluar",
         "support": "Dukungan",
-        "matches": "Trận đấu"
+        "matches": "Pertandingan"
     },
     "actions": {
         "copy": "Salin",
@@ -98,6 +98,6 @@
         "greeting_evening": "Selamat malam, {name}",
         "guest": "Tamu",
         "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "Bermain game lebih dari 180 menit setiap hari dapat berdampak pada kesehatan."
     }
 }

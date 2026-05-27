@@ -10,6 +10,7 @@
         "mostLiked": "最多点赞",
         "mostUsed": "最多使用"
     },
+    
     "card": {
         "items": "{count} 个物品",
         "uses": "{count} 次使用",

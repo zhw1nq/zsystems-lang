@@ -6,7 +6,7 @@
         "security": "សុវត្ថិភាព",
         "settings": "ការកំណត់",
         "servers": "ម៉ាស៊ីនមេ",
-        "bans": "ការហាមឃាត់",
+        "bans": "ការហាមឃាត់", 
         "mutes": "Mute / Gag",
         "skins": "Skins",
         "skinCollections": "ការប្រមូល",
@@ -19,7 +19,7 @@
         "register": "ចុះឈ្មោះ",
         "logout": "ចេញ",
         "support": "ជំនួយ",
-        "matches": "Trận đấu"
+        "matches": "ការប្រកួត"
     },
     "actions": {
         "copy": "ចម្លង",
@@ -98,6 +98,6 @@
         "greeting_evening": "ល្ងាចសួស្តី, {name}",
         "guest": "ភ្ញៀវ",
         "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "ការលេងហ្គេមលើសពី 180 នាទីក្នុងមួយថ្ងៃ អាចប៉ះពាល់ដល់សុខភាព។."
     }
 }

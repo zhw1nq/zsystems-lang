@@ -12,7 +12,7 @@
         "noResults": "Bấu sáo hăn cần lỉn lừ",
         "accessDenied": "Pỉ cần quyền SVIP pửa dùng tính năng nẩy",
         "notLoggedIn": "Mời pỉ đăng nhập pửa dùng",
-        "selectCategory": "Chọn danh mục"
+        "selectCategory": "Chọn danh mục" 
     },
     "weapons": {
         "title": "zWeapons",

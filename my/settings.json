@@ -10,7 +10,7 @@
     "nav": {
         "colorMode": "အရောင်မုဒ်",
         "themeColor": "အပြင်အဆင် အရောင်",
-        "language": "ဘာသာစကား",
+        "language": "ဘာသာစကား", 
         "changePassword": "စကားဝှက် ပြောင်းလဲ",
         "twoFactor": "နှစ်ဆင့် အတည်ပြုမှု",
         "sessions": "ဝင်ရောက်မှု Session များ",

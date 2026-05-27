@@ -11,7 +11,7 @@
             "identityTitle": "Pagkakakilanlan ng User",
             "identityContent": "Bawat user ay kinikilala sa pamamagitan ng 7ID (internal code sa zSystems), SteamID64, at IP Address. Kung ang iyong account ay ginamit ng iba upang lumabag sa mga patakaran ng 7-Mau, mananatili pa ring mapapatawan ng parusa ang account na iyon nang walang eksepsyon."
         },
-        "section2": {
+        "section2": { 
             "title": "2. Zero-Tolerance Anti-Cheat Policy",
             "corePolicy": "Ito ang pangunahing patakaran ng 7-Mau Community. Ipinapatupad namin ang ZERO TOLERANCE laban sa lahat ng uri ng pandaraya.",
             "permBanTitle": "Permanente na Ban",

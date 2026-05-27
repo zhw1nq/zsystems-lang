@@ -11,7 +11,7 @@
         "mostUsed": "Pinakamaraming Ginamit"
     },
     "card": {
-        "items": "{count} item",
+        "items": "{count} item", 
         "uses": "{count} gamit",
         "likes": "{count} like",
         "comments": "{count} komento",

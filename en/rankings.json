@@ -9,7 +9,7 @@
     "refreshIn": "Refresh in {seconds}s",
     "table": {
         "position": "#",
-        "player": "Player",
+        "player": "Player", 
         "points": "Points",
         "rank": "Rank",
         "kd": "K/D",

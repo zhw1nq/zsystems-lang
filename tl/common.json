@@ -1,6 +1,6 @@
 {
     "nav": {
-        "home": "Home",
+        "home": "Pangunahing Pahina",
         "dashboard": "Dashboard",
         "account": "Account",
         "security": "Seguridad",
@@ -9,17 +9,17 @@
         "bans": "Mga Ban",
         "mutes": "Mga Mute / Gag",
         "skins": "Mga Skin",
-        "skinCollections": "Mga Koleksyon",
-        "zmodels": "zModels",
+        "skinCollections": "Mga Koleksyon ng Skin",
+        "zmodels": "zModels", 
         "zweapons": "zWeapons",
         "rankings": "Mga Ranggo",
         "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
+        "admin": "Panel ng Admin",
+        "login": "Mag-login",
         "register": "Magrehistro",
         "logout": "Mag-logout",
         "support": "Suporta",
-        "matches": "Trận đấu"
+        "matches": "Mga Laban"
     },
     "actions": {
         "copy": "Kopyahin",
@@ -58,23 +58,23 @@
         "settings": "Mga Setting"
     },
     "announcement": {
-        "title": "Anunsyo ng System",
+        "title": "Anunsyo ng Sistema",
         "sourceLink": "Tingnan ang orihinal na post"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "Ang page na hinahanap mo ay hindi umiiral",
-            "home": "Home",
+            "message": "Ang pahinang hinahanap mo ay hindi umiiral",
+            "home": "Pangunahing Pahina",
             "back": "Bumalik"
         },
         "serverError": {
             "title": "500",
             "message": "May naganap na hindi inaasahang error",
             "errorCode": "Error code: {code}",
-            "pleaseRetry": "Subukang muli",
+            "pleaseRetry": "Pakisubukang muli",
             "retry": "Ulitin",
-            "home": "Home"
+            "home": "Pangunahing Pahina"
         }
     },
     "forcePasswordChange": {
@@ -85,7 +85,7 @@
         "submit": "Palitan ang Password",
         "rules": {
             "minLength": "Hindi bababa sa 8 karakter",
-            "uppercase": "Hindi bababa sa 1 malaking letra",
+            "uppercase": "Hindi bababa sa 1 malaking titik",
             "number": "Hindi bababa sa 1 numero",
             "match": "Dapat magtugma ang mga password"
         }
@@ -98,6 +98,6 @@
         "greeting_evening": "Magandang gabi, {name}",
         "guest": "Bisita",
         "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "Ang paglalaro ng higit sa 180 minuto bawat araw ay maaaring makaapekto sa kalusugan."
     }
 }

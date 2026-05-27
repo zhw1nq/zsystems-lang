@@ -6,7 +6,7 @@
         "admins": "ຈັດການ Admin",
         "accounts": "ຈັດການບັນຊີ",
         "servers": "ຈັດການເຊີບເວີ",
-        "bans": "ຈັດການແບນ",
+        "bans": "ຈັດການແບນ", 
         "mutes": "ຈັດການ Mute",
         "logs": "ບັນທຶກ",
         "settings": "ການຕັ້ງຄ່າ"
@@ -168,7 +168,7 @@
         "active": "ກຳລັງໃຊ້",
         "unbanned": "ຖອນແບນແລ້ວ",
         "expired": "ໝົດອາຍຸ",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "ສ້າງຄຳສັ່ງຫ້າມຫຼິ້ນ (ban) ໃໝ່ ໃນລະບົບເຊີບເວີ."
     },
     "mutes": {
         "title": "ລາຍການ Mute",
@@ -195,7 +195,7 @@
         "active": "ກຳລັງໃຊ້",
         "unmuted": "ຖອນ Mute ແລ້ວ",
         "expired": "ໝົດອາຍຸ",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "ສ້າງຄຳສັ່ງປິດການແຊັດ/ໄມໂຄຣໂຟນ (mute) ໃໝ່ ໃນລະບົບເຊີບເວີ."
     },
     "logs": {
         "title": "ບັນທຶກກິດຈະກຳ",

@@ -6,7 +6,7 @@
         "security": "လုံခြုံရေး",
         "settings": "ဆက်တင်များ",
         "servers": "ဆာဗာများ",
-        "bans": "ပိတ်ပင်မှုများ",
+        "bans": "ပိတ်ပင်မှုများ", 
         "mutes": "Mute / Gag",
         "skins": "Skins",
         "skinCollections": "စုစည်းမှုများ",
@@ -19,7 +19,7 @@
         "register": "စာရင်းသွင်းရန်",
         "logout": "ထွက်ရန်",
         "support": "အကူအညီ",
-        "matches": "Trận đấu"
+        "matches": "ပွဲစဉ်"
     },
     "actions": {
         "copy": "ကူးယူ",
@@ -98,6 +98,6 @@
         "greeting_evening": "ညနေခင်းပါ၊ {name}",
         "guest": "ဧည့်သည်",
         "warning": "တစ်နေ့ ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "နေ့စဉ် ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်။."
     }
 }

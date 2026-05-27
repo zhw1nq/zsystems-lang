@@ -9,11 +9,11 @@
     },
     "stats": {
         "servers": "Servidores",
-        "players": "Jogadores",
+        "players": "Jogadores", 
         "uptime": "Tempo de atividade",
         "features": "Recursos"
     },
-    "features": {
+    "features": { 
         "badge": "Recursos",
         "title": "Tudo o que você precisa",
         "subtitle": "Ferramentas poderosas para gerenciar seus servidores CS2",

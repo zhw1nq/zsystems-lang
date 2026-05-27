@@ -83,6 +83,7 @@
             "content": "虽然你的游戏数据会公开显示在 Dashboard 上，但诸如真实 IP 地址、交易记录（VIP 购买）以及账户绑定历史（Discord / Steam）等敏感系统级信息都会被加密并严格保护。只有高级管理员（Root Admin）才能访问原始数据库。"
         },
         "section6": {
+            
             "title": "6. 如何联系管理员",
             "intro": "如有账户申诉、网页 Bug 报告或与条款相关的问题，请通过官方渠道直接联系我们：",
             "discordLabel": "支持入口（Discord Ticket）：",

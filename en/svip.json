@@ -12,7 +12,7 @@
         "noResults": "No models found",
         "accessDenied": "SVIP access required to use this feature",
         "notLoggedIn": "Please log in to use this feature",
-        "selectCategory": "Select category"
+        "selectCategory": "Select category" 
     },
     "weapons": {
         "title": "zWeapons",

@@ -11,7 +11,7 @@
             "identityTitle": "User Identification",
             "identityContent": "Each user is identified by 7ID (internal code on zSystems), SteamID64, and IP Address. If your account is used by someone else to violate 7-Mau's rules, that account will still be penalized without exception."
         },
-        "section2": {
+        "section2": { 
             "title": "2. Zero-Tolerance Anti-Cheat Policy",
             "corePolicy": "This is the core of 7-Mau Community. We apply a ZERO TOLERANCE policy against all forms of cheating.",
             "permBanTitle": "Permanent Ban",

@@ -1,103 +1,102 @@
 {
     "nav": {
-        "home": "Home",
-        "dashboard": "Dashboard",
-        "account": "Account",
-        "security": "Security",
-        "settings": "Settings",
-        "servers": "Servers",
-        "bans": "Bans",
-        "mutes": "Mutes / Gags",
-        "skins": "Skins",
-        "skinCollections": "Collections",
+        "home": "หน้าหลัก",
+        "dashboard": "แดชบอร์ด",
+        "account": "บัญชี",
+        "security": "ความปลอดภัย",
+        "settings": "การตั้งค่า",
+        "servers": "เซิร์ฟเวอร์",
+        "bans": "แบน",
+        "mutes": "มิวท์ / แบนแชท",
+        "skins": "สกิน",
+        "skinCollections": "คอลเลกชัน",
         "zmodels": "zModels",
-        "zweapons": "zWeapons",
-        "rankings": "Rankings",
-        "battleMode": "Battle Mode",
-        "admin": "Admin Panel",
-        "login": "Login",
-        "register": "Register",
-        "logout": "Logout",
-        "support": "Support",
-        "matches": "Trận đấu"
+        "zweapons": "zWeapons", 
+        "rankings": "อันดับ",
+        "battleMode": "โหมดแบทเทิล",
+        "admin": "แผงผู้ดูแล",
+        "login": "เข้าสู่ระบบ",
+        "register": "สมัครสมาชิก",
+        "logout": "ออกจากระบบ",
+        "support": "ช่วยเหลือ",
+        "matches": "การแข่งขัน"
     },
     "actions": {
-        "copy": "Copy",
-        "connect": "Connect",
-        "save": "Save",
-        "cancel": "Cancel",
-        "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
-        "back": "Back",
-        "retry": "Retry",
-        "search": "Search..."
+        "copy": "คัดลอก",
+        "connect": "เชื่อมต่อ",
+        "save": "บันทึก",
+        "cancel": "ยกเลิก",
+        "close": "ปิด",
+        "confirm": "ยืนยัน",
+        "delete": "ลบ",
+        "edit": "แก้ไข",
+        "back": "ย้อนกลับ",
+        "retry": "ลองใหม่",
+        "search": "ค้นหา..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "online": "ออนไลน์",
+        "offline": "ออฟไลน์",
+        "loading": "กำลังโหลด...",
+        "error": "ข้อผิดพลาด",
+        "success": "สำเร็จ"
     },
     "toast": {
-        "copied": "Copied to clipboard",
-        "copyFailed": "Failed to copy"
+        "copied": "คัดลอกไปยังคลิปบอร์ดแล้ว",
+        "copyFailed": "คัดลอกไม่สำเร็จ"
     },
     "footer": {
-        "rights": "All rights reserved"
+        "rights": "สงวนลิขสิทธิ์ทั้งหมด"
     },
     "sidebar": {
-        "collapse": "Collapse",
-        "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
-        "terms": "Terms & Privacy",
-        "guest": "Guest",
-        "settings": "Settings"
+        "collapse": "ย่อเมนู",
+        "expand": "ขยายเมนู",
+        "language": "ภาษา",
+        "theme": "ธีม",
+        "terms": "ข้อกำหนดและความเป็นส่วนตัว",
+        "guest": "ผู้เยี่ยมชม",
+        "settings": "การตั้งค่า"
     },
     "announcement": {
-        "title": "System Announcement",
-        "sourceLink": "View original post"
+        "title": "ประกาศระบบ",
+        "sourceLink": "ดูโพสต์ต้นฉบับ"
     },
     "errors": {
         "notFound": {
             "title": "404",
-            "message": "The page you are looking for does not exist",
-            "home": "Home",
-            "back": "Go back"
+            "message": "ไม่พบหน้าที่คุณกำลังค้นหา",
+            "home": "หน้าหลัก",
+            "back": "ย้อนกลับ"
         },
         "serverError": {
             "title": "500",
-            "message": "An unexpected error occurred",
-            "errorCode": "Error code: {code}",
-            "pleaseRetry": "Please try again",
-            "retry": "Retry",
-            "home": "Home"
+            "message": "เกิดข้อผิดพลาดที่ไม่คาดคิด",
+            "errorCode": "รหัสข้อผิดพลาด: {code}",
+            "pleaseRetry": "กรุณาลองอีกครั้ง",
+            "retry": "ลองใหม่",
+            "home": "หน้าหลัก"
         }
     },
     "forcePasswordChange": {
-        "title": "Password Change Required",
-        "description": "An administrator has required you to change your password for security reasons. You must change your password before continuing.",
-        "newPassword": "New Password",
-        "confirmPassword": "Confirm Password",
-        "submit": "Change Password",
+        "title": "ต้องเปลี่ยนรหัสผ่าน",
+        "description": "ผู้ดูแลระบบกำหนดให้คุณต้องเปลี่ยนรหัสผ่านเพื่อความปลอดภัย คุณต้องเปลี่ยนก่อนดำเนินการต่อ",
+        "newPassword": "รหัสผ่านใหม่",
+        "confirmPassword": "ยืนยันรหัสผ่าน",
+        "submit": "เปลี่ยนรหัสผ่าน",
         "rules": {
-            "minLength": "At least 8 characters",
-            "uppercase": "At least 1 uppercase letter",
-            "number": "At least 1 number",
-            "match": "Passwords match"
+            "minLength": "อย่างน้อย 8 ตัวอักษร",
+            "uppercase": "อย่างน้อย 1 ตัวพิมพ์ใหญ่",
+            "number": "อย่างน้อย 1 ตัวเลข",
+            "match": "รหัสผ่านต้องตรงกัน"
         }
     },
     "welcomePopup": {
-        "greeting_night": "Good night, {name}",
-        "greeting_morning": "Good morning, {name}",
-        "greeting_noon": "Good noon, {name}",
-        "greeting_afternoon": "Good afternoon, {name}",
-        "greeting_evening": "Good evening, {name}",
-        "guest": "Guest",
-        "warning": "Playing games over 180 mins/day affects health",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
-    }
+        "greeting_night": "ราตรีสวัสดิ์, {name}",
+        "greeting_morning": "อรุณสวัสดิ์, {name}",
+        "greeting_noon": "สวัสดีตอนเที่ยง, {name}",
+        "greeting_afternoon": "สวัสดีตอนบ่าย, {name}",
+        "greeting_evening": "สวัสดีตอนเย็น, {name}",
+        "guest": "ผู้เยี่ยมชม",
+        "warning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ",
+        "loadingWarning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ"    }
 }

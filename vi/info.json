@@ -14,7 +14,7 @@
         "features": "Features"
     },
     "features": {
-        "badge": "Tính năng",
+        "badge": "Tính năng", 
         "title": "Mọi thứ bạn cần",
         "subtitle": "Công cụ mạnh mẽ để quản lý máy chủ CS2 của bạn",
         "sshRcon": "SSH & RCON",

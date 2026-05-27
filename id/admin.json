@@ -5,7 +5,7 @@
         "statistics": "Statistik",
         "admins": "Kelola Admin",
         "accounts": "Manajemen Akun",
-        "servers": "Kelola Server",
+        "servers": "Kelola Server", 
         "bans": "Kelola Blokir",
         "mutes": "Kelola Mute",
         "logs": "Log",
@@ -168,7 +168,7 @@
         "active": "Aktif",
         "unbanned": "Blokir Dicabut",
         "expired": "Kedaluwarsa",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "Membuat perintah larangan bermain (ban) baru di sistem server."
     },
     "mutes": {
         "title": "Daftar Mute",
@@ -195,7 +195,7 @@
         "active": "Aktif",
         "unmuted": "Mute Dicabut",
         "expired": "Kedaluwarsa",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "Membuat perintah pembisuan chat/mikrofon (mute) baru di sistem server."
     },
     "logs": {
         "title": "Log Aktivitas",

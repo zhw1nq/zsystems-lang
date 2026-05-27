@@ -14,7 +14,7 @@
         "notLoggedIn": "Sila log masuk untuk menggunakan ciri ini",
         "selectCategory": "Pilih kategori"
     },
-    "weapons": {
+    "weapons": { 
         "title": "zWeapons",
         "description": "Kulit senjata eksklusif untuk SVIP",
         "equipped": "Dipakai",

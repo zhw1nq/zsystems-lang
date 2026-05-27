@@ -6,7 +6,7 @@
         "count": "{count} servers",
         "allServers": "All servers",
         "noServers": "No servers in this group"
-    },
+    }, 
     "serverCard": {
         "connect": "Connect",
         "noMap": "No map",

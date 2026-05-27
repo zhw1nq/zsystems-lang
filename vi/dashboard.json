@@ -14,7 +14,7 @@
         "offline": "Ngoại tuyến",
         "noInfo": "Chưa có thông tin máy chủ."
     },
-    "serverDetail": {
+    "serverDetail": { 
         "players": "Người chơi",
         "noPlayers": "Không có người chơi",
         "teamCT": "Chống Khủng bố",

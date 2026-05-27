@@ -9,7 +9,7 @@
     "refreshIn": "{seconds}စက္ကန အကြာတွင် ပြန်လည်ဖွင့်",
     "table": {
         "position": "#",
-        "player": "ကစားသမား",
+        "player": "ကစားသမား", 
         "points": "အမှတ်",
         "rank": "အဆင့်",
         "kd": "K/D",

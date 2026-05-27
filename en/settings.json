@@ -11,7 +11,7 @@
         "colorMode": "Color Mode",
         "themeColor": "Theme Color",
         "language": "Language",
-        "changePassword": "Change Password",
+        "changePassword": "Change Password", 
         "twoFactor": "Two-Factor Auth",
         "sessions": "Login Sessions",
         "loginHistory": "Login History",

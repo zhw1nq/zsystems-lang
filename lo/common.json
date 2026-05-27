@@ -8,7 +8,7 @@
         "servers": "ເຊີບເວີ",
         "bans": "ແບນ",
         "mutes": "Mute / Gag",
-        "skins": "ສະກິນ",
+        "skins": "ສະກິນ", 
         "skinCollections": "ຄໍເລັກຊັນ",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
@@ -19,7 +19,7 @@
         "register": "ລົງທະບຽນ",
         "logout": "ອອກຈາກລະບົບ",
         "support": "ຊ່ວຍເຫຼືອ",
-        "matches": "Trận đấu"
+        "matches": "ແມັດການແຂ່ງຂັນ"
     },
     "actions": {
         "copy": "ສຳເນົາ",
@@ -98,6 +98,6 @@
         "greeting_evening": "ສະບາຍດີຕອນແລງ, {name}",
         "guest": "ແຂກ",
         "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "ຫຼິ້ນເກມເກີນ 180 ນາທີຕໍ່ມື້ ອາດສົ່ງຜົນກະທົບຕໍ່ສຸຂະພາບ."
     }
 }

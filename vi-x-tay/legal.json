@@ -11,7 +11,7 @@
             "identityTitle": "Định danh cần dùng",
             "identityContent": "Mỗi cần dùng đảy định danh bặng 7ID (mã nội bộ slên zSystems), SteamID64 cạ Địa chỉ IP. Nếu tài khoản cúa pỉ bỉ cần khác lồng pửa phít quy định cúa 7-Màu, tài khoản đó lẩn slẽ bỉ phạt mà bấu mỉ ngoại lệ."
         },
-        "section2": {
+        "section2": { 
             "title": "2. Quy Định Chống Lừa (Zero-Tolerance Anti-Cheat)",
             "corePolicy": "Nẩy lẩn cốt lõi cúa 7-Màu Community. Khỏi lồng quy định BẤU THA cắp mọi cách lỉn lừa.",
             "permBanTitle": "Cấm mãi mãi (Permanent Ban)",

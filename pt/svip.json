@@ -13,9 +13,9 @@
         "accessDenied": "Acesso SVIP necessário para usar esta função",
         "notLoggedIn": "Faça login para usar esta função",
         "selectCategory": "Selecionar categoria"
-    },
+    }, 
     "weapons": {
-        "title": "zWeapons",
+        "title": "zWeapons", 
         "description": "Skins de armas exclusivas para SVIP",
         "equipped": "Equipado",
         "equip": "Equipar",

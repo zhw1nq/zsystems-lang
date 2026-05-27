@@ -31,78 +31,32 @@
         "terms": "服务条款",
         "contact": "联系",
         "poweredBy": "由 zSystems 提供支持 — 由 zhw1nq 与 7-Mau TEAM 开发",
-        "authLogin": "Đăng Nhập",
-        "authRegister": "Đăng Ký",
-        "authAccount": "Tài Khoản",
-        "brandDescription": "Cộng đồng CS2 lớn nhất Việt Nam. Hệ thống máy chủ ổn định, hiệu năng cao và độ trễ cực thấp.",
-        "navigation": "Điều hướng",
-        "servers": "Máy chủ",
-        "support": "Hỗ trợ",
-        "serverTip": "Mở console CS2, gõ connect [IP] để tham gia",
-        "copyConnect": "Click để copy lệnh connect",
-        "dmca": "Bản quyền & DMCA Protected: zSystems và 7-Mau Community tôn trọng luật sở hữu trí tuệ. Counter-Strike 2 là thương hiệu đã đăng ký của Valve Corporation.",
+        "authLogin": "登录",
+        "authRegister": "注册",
+        "authAccount": "账号",
+        
+        "brandDescription": "越南最大的 CS2 社区。稳定的服务器系统，高性能与极低延迟。",
+        "navigation": "导航",
+        "servers": "服务器",
+        "support": "支持",
+        "serverTip": "打开 CS2 控制台，输入 connect [IP] 加入服务器",
+        "copyConnect": "点击复制 connect 命令",
+        "dmca": "版权与 DMCA 保护：zSystems 与 7-Mau 社区尊重知识产权。Counter-Strike 2 是 Valve Corporation 的注册商标。",
         "quickLinks": {
-            "leaderboard": "Bảng xếp hạng",
-            "stats": "Thống kê cá nhân",
-            "matches": "Lịch sử trận đấu",
-            "register": "Đăng ký tài khoản",
-            "guide": "Hướng dẫn tham gia",
-            "configs": "Tải về config"
+        "leaderboard": "排行榜",
+        "stats": "个人统计",
+        "matches": "比赛历史",
+        "register": "注册账号",
+        "guide": "加入指南",
+        "configs": "下载配置"
         },
         "supportLinks": {
-            "terms": "Điều khoản sử dụng",
-            "privacy": "Chính sách bảo mật",
-            "rules": "Quy tắc cộng đồng",
-            "report": "Báo cáo vi phạm",
-            "contact": "Liên hệ hỗ trợ",
-            "faq": "FAQ"
+        "terms": "使用条款",
+        "privacy": "隐私政策",
+        "rules": "社区规则",
+        "report": "举报违规",
+        "contact": "联系支持",
+        "faq": "常见问题"
         }
-    },
-    "character": {
-        "name": "7-CHAN"
-    },
-    "preloader": {
-        "restricted18": "Giới hạn 18+",
-        "warningInitial": "Chơi game quá 180 phút mỗi ngày sẽ ảnh hưởng xấu đến sức khỏe.",
-        "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
-        "warningStuck": "Nếu màn hình chờ bị kẹt hoặc tải quá lâu, hãy tải lại trang để tiếp tục.",
-        "loading": "ĐANG TẢI"
-    },
-    "zsystems": {
-        "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
-        "backHome": "QUAY LẠI TRANG CHỦ",
-        "heroTag": "zSystems & vhming Core Platform",
-        "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",
-        "legalTitle": "Thông Tin Hệ Thống & Pháp Lý",
-        "features": {
-            "engineTitle": "Động Cơ Hiệu Năng Cao",
-            "engineDesc": "Được vận hành bởi các mô-đun xử lý thế hệ mới cung cấp khả năng thực thi luồng mili-giây và quản lý hiệu suất mạnh mẽ.",
-            "cacheTitle": "Phân Lớp Bộ Nhớ Đệm L2 Tập Trung",
-            "cacheDesc": "Lưu trữ bền vững và đồng bộ hóa qua các cụm bộ nhớ đệm Redis hiệu năng cao để phục vụ lượng người dùng khổng lồ ngay lập tức.",
-            "architectureTitle": "Kiến Trúc Hệ Thống Cinematic",
-            "architectureDesc": "Bảo vệ mạnh mẽ chống lại các mối đe dọa không gian mạng, giao thức liên kết an toàn và kiểm tra phiên tự động được xây dựng trực tiếp vào lõi.",
-            "pipelineTitle": "Đường Truyền Trễ Siêu Thấp",
-            "pipelineDesc": "Tối ưu hóa quy trình thực thi được thiết kế dành riêng cho cộng đồng game thủ đòi hỏi khắt khe và các hệ thống nhiều người chơi."
-        },
-        "owner": {
-            "label": "CHỦ SỞ HỮU",
-            "name": "luxiie",
-            "desc": "Đại diện pháp lý, nhà sáng lập kiêm sở hữu bản quyền chính thức hệ thống zSystems.",
-            "linkText": "Ghé thăm luxiie"
-        },
-        "developer": {
-            "label": "LẬP TRÌNH VIÊN",
-            "name": "vhming",
-            "desc": "Nhà phát triển chính kiêm kiến trúc sư trưởng xây dựng và vận hành hệ thống zSystems.",
-            "linkText": "Ghé thăm vhming.com"
-        },
-        "dmca": {
-            "label": "BẢO VỆ BẢN QUYỀN",
-            "name": "DMCA Protected",
-            "desc": "Nội dung, thiết kế và mã nguồn được đăng ký bảo hộ bản quyền kỹ thuật số toàn cầu.",
-            "linkText": "Xác minh DMCA"
-        },
-        "footerText": "Được xây dựng bởi vhming với sự xuất sắc tuyệt đối."
     }
 }

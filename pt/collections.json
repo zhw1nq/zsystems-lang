@@ -9,7 +9,7 @@
         "newest": "Mais recentes",
         "mostLiked": "Mais curtidas",
         "mostUsed": "Mais usadas"
-    },
+    },  
     "card": {
         "items": "{count} itens",
         "uses": "{count} usos",

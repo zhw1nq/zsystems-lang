@@ -4,7 +4,7 @@
     "tabs": {
         "statistics": "စာရင်းအင်း",
         "admins": "Admin စီမံခန့်ခွဲ",
-        "accounts": "အကောင့် စီမံခန့်ခွဲ",
+        "accounts": "အကောင့် စီမံခန့်ခွဲ", 
         "servers": "ဆာဗာ စီမံခန့်ခွဲ",
         "bans": "ပိတ်ပင် စီမံခန့်ခွဲ",
         "mutes": "Mute စီမံခန့်ခွဲ",
@@ -168,7 +168,7 @@
         "active": "တက်ကြွ",
         "unbanned": "ပိတ်ပင် ဖြေလွှတ်",
         "expired": "သက်တမ်းကုန်",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "ဆာဗာစနစ်တွင် ကစားခွင့်ပိတ်ပင်မှု (ban) အသစ်တစ်ခု ဖန်တီးပါ။."
     },
     "mutes": {
         "title": "Mute စာရင်း",
@@ -195,7 +195,7 @@
         "active": "တက်ကြွ",
         "unmuted": "Mute ဖြေလွှတ်",
         "expired": "သက်တမ်းကုန်",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "ဆာဗာစနစ်တွင် စကားပြော/မိုက်ခရိုဖုန်း (chat/mic) ပိတ်ပင်မှု (mute) အသစ်တစ်ခု ဖန်တီးပါ။."
     },
     "logs": {
         "title": "လုပ်ဆောင်ချက် မှတ်တမ်းများ",

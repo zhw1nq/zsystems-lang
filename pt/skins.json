@@ -13,8 +13,8 @@
         "knives": "Facas",
         "smgs": "SMGs",
         "pistols": "Pistolas",
-        "heavy": "Pesadas",
-        "equipment": "Equipamentos"
+        "heavy": "Pesadas", 
+        "equipment": "Equipamentos" 
     },
     "team": {
         "both": "Ambos os Times",

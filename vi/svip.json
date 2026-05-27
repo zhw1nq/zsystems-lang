@@ -5,7 +5,7 @@
         "equipped": "Đang trang bị",
         "equip": "Trang bị",
         "unequip": "Gỡ bỏ",
-        "ct": "Counter Terrorist",
+        "ct": "Counter Terrorist", 
         "t": "Terrorist",
         "private": "Private",
         "search": "Tìm kiếm nhân vật...",
@@ -14,7 +14,7 @@
         "notLoggedIn": "Vui lòng đăng nhập để sử dụng",
         "selectCategory": "Chọn danh mục"
     },
-    "weapons": {
+    "weapons": { 
         "title": "zWeapons",
         "description": "Trang bị vũ khí riêng cho SVIP",
         "equipped": "Đang trang bị",

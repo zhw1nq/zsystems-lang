@@ -14,7 +14,7 @@
         "notLoggedIn": "Silakan masuk untuk menggunakan fitur ini",
         "selectCategory": "Pilih kategori"
     },
-    "weapons": {
+    "weapons": { 
         "title": "zWeapons",
         "description": "Skin senjata eksklusif untuk SVIP",
         "equipped": "Dipasang",

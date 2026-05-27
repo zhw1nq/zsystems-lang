@@ -13,7 +13,7 @@
     "card": {
         "items": "{count} items",
         "uses": "{count} lượt dùng",
-        "likes": "{count} thích",
+        "likes": "{count} thích", 
         "comments": "{count} bình luận",
         "by": "bởi {author}",
         "public": "Công khai",

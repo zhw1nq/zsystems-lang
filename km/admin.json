@@ -5,7 +5,7 @@
         "statistics": "ស្ថិតិ",
         "admins": "គ្រប់គ្រង Admin",
         "accounts": "គ្រប់គ្រងគណនី",
-        "servers": "គ្រប់គ្រងម៉ាស៊ីនមេ",
+        "servers": "គ្រប់គ្រងម៉ាស៊ីនមេ", 
         "bans": "គ្រប់គ្រងការហាមឃាត់",
         "mutes": "គ្រប់គ្រង Mute",
         "logs": "កំណត់ហេតុ",
@@ -168,7 +168,7 @@
         "active": "សកម្ម",
         "unbanned": "បានដោះហាមឃាត់",
         "expired": "ផុតកំណត់",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "បង្កើតការហាមលេង (ban) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។."
     },
     "mutes": {
         "title": "បញ្ជី Mute",
@@ -195,7 +195,7 @@
         "active": "សកម្ម",
         "unmuted": "បានដោះ Mute",
         "expired": "ផុតកំណត់",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "បង្កើតការហាមជជែក/មីក្រូហ្វូន (mute) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។."
     },
     "logs": {
         "title": "កំណត់ហេតុសកម្មភាព",

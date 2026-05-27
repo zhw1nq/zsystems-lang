@@ -16,6 +16,7 @@
         "member": "成员",
         "disbanded": "队伍已解散"
     },
+    
     "queue": {
         "find": "开始匹配",
         "cancel": "取消",

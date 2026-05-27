@@ -8,7 +8,7 @@
         "servers": "Pelayan",
         "bans": "Sekatan",
         "mutes": "Senyap / Gag",
-        "skins": "Kulit",
+        "skins": "Kulit", 
         "skinCollections": "Koleksi",
         "zmodels": "zModels",
         "zweapons": "zWeapons",
@@ -19,7 +19,7 @@
         "register": "Daftar",
         "logout": "Log Keluar",
         "support": "Sokongan",
-        "matches": "Trận đấu"
+        "matches": "Perlawanan"
     },
     "actions": {
         "copy": "Salin",
@@ -98,6 +98,6 @@
         "greeting_evening": "Selamat petang, {name}",
         "guest": "Tetamu",
         "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "Bermain permainan lebih daripada 180 minit setiap hari boleh menjejaskan kesihatan."
     }
 }

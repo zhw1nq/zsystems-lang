@@ -4,7 +4,7 @@
     "party": {
         "title": "Your Party",
         "solo": "Playing solo",
-        "create": "Create Party",
+        "create": "Create Party", 
         "invite": "Invite by 7ID",
         "invitePlaceholder": "Enter #7ID...",
         "inviteButton": "Send Invite",

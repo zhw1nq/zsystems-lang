@@ -10,7 +10,7 @@
             "steamAuthContent": "Sistem kami menggunakan API resmi Valve untuk autentikasi Steam OpenID. Kami tidak meminta atau menyimpan kata sandi Steam Anda. Anda bertanggung jawab atas keamanan akun Steam Anda.",
             "identityTitle": "Identifikasi Pengguna",
             "identityContent": "Setiap pengguna diidentifikasi oleh 7ID (kode internal di zSystems), SteamID64, dan Alamat IP. Jika akun Anda digunakan oleh orang lain untuk melanggar aturan 7-Mau, akun tersebut tetap akan dikenakan sanksi tanpa pengecualian."
-        },
+        }, 
         "section2": {
             "title": "2. Kebijakan Anti-Cheat Tanpa Toleransi",
             "corePolicy": "Ini adalah inti dari 7-Mau Community. Kami menerapkan kebijakan TOLERANSI NOL terhadap segala bentuk kecurangan.",

@@ -1,41 +1,41 @@
 {
-    "title": "Skins",
-    "description": "Browse and customize your CS2 weapon skins",
+    "title": "สกิน",
+    "description": "เรียกดูและปรับแต่งสกินอาวุธ CS2 ของคุณ",
     "tabs": {
-        "weaponSkins": "Weapon Skins",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "weaponSkins": "สกินอาวุธ",
+        "agents": "เอเจนต์",
+        "musicKits": "ชุดเพลง",
+        "pinsCoins": "เข็มกลัด & เหรียญ"
     },
     "categories": {
-        "gloves": "Gloves",
-        "rifles": "Rifles",
-        "knives": "Knives",
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
-        "equipment": "Equipment"
+        "gloves": "ถุงมือ",
+        "rifles": "ปืนไรเฟิล",
+        "knives": "มีด",
+        "smgs": "SMG",
+        "pistols": "ปืนพก", 
+        "heavy": "อาวุธหนัก",
+        "equipment": "อุปกรณ์"
     },
     "team": {
-        "both": "Both Teams",
-        "ct": "CT Side",
-        "t": "T Side"
+        "both": "ทั้งสองทีม",
+        "ct": "ฝั่ง CT",
+        "t": "ฝั่ง T"
     },
-    "search": "Search skins...",
-    "noResults": "No skins found",
-    "selectWeapon": "Select a weapon to browse skins",
-    "loginRequired": "Please log in to use Skins",
-    "loading": "Loading skins...",
-    "itemCount": "{count} items",
+    "search": "ค้นหาสกิน...",
+    "noResults": "ไม่พบสกิน",
+    "selectWeapon": "เลือกอาวุธเพื่อดูสกิน",
+    "loginRequired": "กรุณาเข้าสู่ระบบเพื่อใช้งานสกิน",
+    "loading": "กำลังโหลดสกิน...",
+    "itemCount": "{count} รายการ",
     "toast": {
-        "tooFast": "Too fast!",
-        "tooFastDesc": "Please wait 2s before trying again",
-        "equipped": "Equipped!",
-        "equippedDesc": "{name} equipped successfully",
-        "unequipped": "Unequipped!",
-        "unequippedDesc": "{name} removed",
-        "equipFailed": "Failed to equip",
-        "unequipFailed": "Failed to unequip",
-        "unknownError": "Unknown error"
+        "tooFast": "เร็วเกินไป!",
+        "tooFastDesc": "กรุณารอ 2 วินาทีก่อนลองใหม่",
+        "equipped": "ติดตั้งแล้ว!",
+        "equippedDesc": "ติดตั้ง {name} เรียบร้อยแล้ว",
+        "unequipped": "ถอดออกแล้ว!",
+        "unequippedDesc": "ลบ {name} ออกแล้ว",
+        "equipFailed": "ติดตั้งไม่สำเร็จ",
+        "unequipFailed": "ถอดออกไม่สำเร็จ",
+        "unknownError": "ข้อผิดพลาดที่ไม่ทราบสาเหตุ"
     }
 }

@@ -6,8 +6,8 @@
         "admins": "Gerenciar Administradores",
         "accounts": "Gerenciamento de Contas",
         "servers": "Gerenciar Servidores",
-        "bans": "Gerenciar Banimentos",
-        "mutes": "Gerenciar Mutes",
+        "bans": "Gerenciar Banimentos", 
+        "mutes": "Gerenciar Mutes", 
         "logs": "Logs",
         "settings": "Configurações"
     },
@@ -168,7 +168,7 @@
         "active": "Ativo",
         "unbanned": "Desbanido",
         "expired": "Expirado",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "Criar uma nova punição de banimento (ban) no sistema de servidores."
     },
     "mutes": {
         "title": "Lista de Mutes",
@@ -195,7 +195,7 @@
         "active": "Ativo",
         "unmuted": "Desmutado",
         "expired": "Expirado",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "Criar uma nova punição de silenciamento de chat/microfone (mute) no sistema de servidores."
     },
     "logs": {
         "title": "Logs de Atividade",

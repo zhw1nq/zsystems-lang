@@ -1,108 +1,108 @@
 {
     "hero": {
-        "explore": "Explore",
-        "store": "Store",
-        "letsPlayNow": "Let's Play Now!",
-        "wantToBeVip": "Want to be a VIP?",
-        "loginToZsystems": "Login to zSystems",
-        "weaponSkins": "Weapon Skins",
-        "ranks": "Ranks",
-        "contact": "Contact",
-        "getDemo": "Get Demo",
+        "explore": "สำรวจ",
+        "store": "ร้านค้า",
+        "letsPlayNow": "มาเล่นกันเลย!",
+        "wantToBeVip": "อยากเป็น VIP ไหม?",
+        "loginToZsystems": "เข้าสู่ระบบ zSystems",
+        "weaponSkins": "สกินอาวุธ",
+        "ranks": "แรงก์",
+        "contact": "ติดต่อ",
+        "getDemo": "รับเดโม",
         "subbrand": "zSYSTEMS-v2",
-        "playNow": "Play Now",
-        "login": "Login",
-        "changeSkins": "Change Weapons Skin"
-    },
+        "playNow": "เล่นเลย",
+        "login": "เข้าสู่ระบบ",
+        "changeSkins": "เปลี่ยนสกินอาวุธ"
+    }, 
     "nav": {
-        "community": "Community",
-        "ranks": "Ranks",
-        "support": "Support"
+        "community": "ชุมชน",
+        "ranks": "แรงก์",
+        "support": "ช่วยเหลือ"
     },
     "stats": {
         "uptime": "UPTIME",
         "ping": "PING",
-        "players6h": "PLAYERS / 6H"
+        "players6h": "ผู้เล่น / 6 ชม."
     },
     "footer": {
-        "selectLanguage": "Select language",
-        "language": "English",
-        "privacy": "Privacy Policy",
-        "terms": "Terms of Service",
-        "contact": "Contact",
-        "poweredBy": "Powered by zSystems — Developed by zhw1nq & 7-Mau TEAM",
-        "authLogin": "Đăng Nhập",
-        "authRegister": "Đăng Ký",
-        "authAccount": "Tài Khoản",
-        "brandDescription": "Cộng đồng CS2 lớn nhất Việt Nam. Hệ thống máy chủ ổn định, hiệu năng cao và độ trễ cực thấp.",
-        "navigation": "Điều hướng",
-        "servers": "Máy chủ",
-        "support": "Hỗ trợ",
-        "serverTip": "Mở console CS2, gõ connect [IP] để tham gia",
-        "copyConnect": "Click để copy lệnh connect",
-        "dmca": "Bản quyền & DMCA Protected: zSystems và 7-Mau Community tôn trọng luật sở hữu trí tuệ. Counter-Strike 2 là thương hiệu đã đăng ký của Valve Corporation.",
+        "selectLanguage": "เลือกภาษา",
+        "language": "ภาษาอังกฤษ",
+        "privacy": "นโยบายความเป็นส่วนตัว",
+        "terms": "เงื่อนไขการใช้งาน",
+        "contact": "ติดต่อ",
+        "poweredBy": "ขับเคลื่อนโดย zSystems — พัฒนาโดย zhw1nq & 7-Mau TEAM",
+        "authLogin": "เข้าสู่ระบบ",
+        "authRegister": "สมัครสมาชิก",
+        "authAccount": "บัญชี",
+        "brandDescription": "ชุมชน CS2 ที่ใหญ่ที่สุดในเวียดนาม ระบบเซิร์ฟเวอร์เสถียร ประสิทธิภาพสูง และความหน่วงต่ำมาก",
+        "navigation": "การนำทาง",
+        "servers": "เซิร์ฟเวอร์",
+        "support": "ช่วยเหลือ",
+        "serverTip": "เปิดคอนโซล CS2 แล้วพิมพ์ connect [IP] เพื่อเข้าร่วม",
+        "copyConnect": "คลิกเพื่อคัดลอกคำสั่ง connect",
+        "dmca": "ลิขสิทธิ์ & DMCA Protected: zSystems และ 7-Mau Community เคารพกฎหมายทรัพย์สินทางปัญญา Counter-Strike 2 เป็นเครื่องหมายการค้าของ Valve Corporation",
         "quickLinks": {
-            "leaderboard": "Bảng xếp hạng",
-            "stats": "Thống kê cá nhân",
-            "matches": "Lịch sử trận đấu",
-            "register": "Đăng ký tài khoản",
-            "guide": "Hướng dẫn tham gia",
-            "configs": "Tải về config"
+            "leaderboard": "กระดานคะแนน",
+            "stats": "สถิติส่วนตัว",
+            "matches": "ประวัติการแข่งขัน",
+            "register": "สมัครสมาชิก",
+            "guide": "คู่มือการเข้าร่วม",
+            "configs": "ดาวน์โหลด config"
         },
         "supportLinks": {
-            "terms": "Điều khoản sử dụng",
-            "privacy": "Chính sách bảo mật",
-            "rules": "Quy tắc cộng đồng",
-            "report": "Báo cáo vi phạm",
-            "contact": "Liên hệ hỗ trợ",
-            "faq": "FAQ"
+            "terms": "เงื่อนไขการใช้งาน",
+            "privacy": "นโยบายความเป็นส่วนตัว",
+            "rules": "กฎชุมชน",
+            "report": "รายงานการละเมิด",
+            "contact": "ติดต่อซัพพอร์ต",
+            "faq": "คำถามที่พบบ่อย"
         }
     },
     "character": {
         "name": "7-CHAN"
     },
     "preloader": {
-        "restricted18": "Giới hạn 18+",
-        "warningInitial": "Chơi game quá 180 phút mỗi ngày sẽ ảnh hưởng xấu đến sức khỏe.",
-        "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
-        "warningStuck": "Nếu màn hình chờ bị kẹt hoặc tải quá lâu, hãy tải lại trang để tiếp tục.",
-        "loading": "ĐANG TẢI"
+        "restricted18": "จำกัดอายุ 18+",
+        "warningInitial": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลเสียต่อสุขภาพ",
+        "warningFun": "ขอให้ทุกคนสนุกกับการเล่นเกมที่ 7-mau.com!",
+        "warningStuck": "หากหน้าจอโหลดค้างหรือใช้เวลานาน กรุณารีเฟรชหน้า",
+        "loading": "กำลังโหลด"
     },
     "zsystems": {
         "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
-        "backHome": "QUAY LẠI TRANG CHỦ",
+        "subtitle": "สถาปัตยกรรมระบบ zSystems",
+        "backHome": "กลับหน้าหลัก",
         "heroTag": "zSystems & vhming Core Platform",
-        "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",
-        "legalTitle": "Thông Tin Hệ Thống & Pháp Lý",
+        "description": "zSystems และ vhming เป็นระบบจัดการขั้นสูงและแดชบอร์ดแบบ All-In-One (AIO) ที่ช่วยให้การทำงานราบรื่น ประสิทธิภาพสูง และจัดการฐานข้อมูลแบบเรียลไทม์",
+        "legalTitle": "ข้อมูลระบบและกฎหมาย",
         "features": {
-            "engineTitle": "Động Cơ Hiệu Năng Cao",
-            "engineDesc": "Được vận hành bởi các mô-đun xử lý thế hệ mới cung cấp khả năng thực thi luồng mili-giây và quản lý hiệu suất mạnh mẽ.",
-            "cacheTitle": "Phân Lớp Bộ Nhớ Đệm L2 Tập Trung",
-            "cacheDesc": "Lưu trữ bền vững và đồng bộ hóa qua các cụm bộ nhớ đệm Redis hiệu năng cao để phục vụ lượng người dùng khổng lồ ngay lập tức.",
-            "architectureTitle": "Kiến Trúc Hệ Thống Cinematic",
-            "architectureDesc": "Bảo vệ mạnh mẽ chống lại các mối đe dọa không gian mạng, giao thức liên kết an toàn và kiểm tra phiên tự động được xây dựng trực tiếp vào lõi.",
-            "pipelineTitle": "Đường Truyền Trễ Siêu Thấp",
-            "pipelineDesc": "Tối ưu hóa quy trình thực thi được thiết kế dành riêng cho cộng đồng game thủ đòi hỏi khắt khe và các hệ thống nhiều người chơi."
+            "engineTitle": "เอนจินประสิทธิภาพสูง",
+            "engineDesc": "ขับเคลื่อนด้วยโมดูลยุคใหม่ รองรับการประมวลผลระดับมิลลิวินาทีและการจัดการประสิทธิภาพสูง",
+            "cacheTitle": "ระบบแคช L2 แบบรวมศูนย์",
+            "cacheDesc": "จัดเก็บและซิงค์ผ่านคลัสเตอร์ Redis ประสิทธิภาพสูง รองรับผู้ใช้จำนวนมากได้ทันที",
+            "architectureTitle": "สถาปัตยกรรมระบบแบบ Cinematic",
+            "architectureDesc": "ระบบป้องกันภัยไซเบอร์ขั้นสูง โปรโตคอลเชื่อมต่อปลอดภัย และการตรวจสอบเซสชันอัตโนมัติในแกนหลัก",
+            "pipelineTitle": "Pipeline ความหน่วงต่ำพิเศษ",
+            "pipelineDesc": "ปรับแต่งการประมวลผลสำหรับเกมเมอร์และระบบผู้เล่นหลายคน"
         },
         "owner": {
-            "label": "CHỦ SỞ HỮU",
+            "label": "เจ้าของ",
             "name": "luxiie",
-            "desc": "Đại diện pháp lý, nhà sáng lập kiêm sở hữu bản quyền chính thức hệ thống zSystems.",
-            "linkText": "Ghé thăm luxiie"
+            "desc": "ตัวแทนทางกฎหมาย ผู้ก่อตั้ง และเจ้าของลิขสิทธิ์ระบบ zSystems",
+            "linkText": "เยี่ยมชม luxiie"
         },
         "developer": {
-            "label": "LẬP TRÌNH VIÊN",
+            "label": "นักพัฒนา",
             "name": "vhming",
-            "desc": "Nhà phát triển chính kiêm kiến trúc sư trưởng xây dựng và vận hành hệ thống zSystems.",
-            "linkText": "Ghé thăm vhming.com"
+            "desc": "นักพัฒนาหลักและสถาปนิกระบบ zSystems",
+            "linkText": "เยี่ยมชม vhming.com"
         },
         "dmca": {
-            "label": "BẢO VỆ BẢN QUYỀN",
+            "label": "การคุ้มครองลิขสิทธิ์",
             "name": "DMCA Protected",
-            "desc": "Nội dung, thiết kế và mã nguồn được đăng ký bảo hộ bản quyền kỹ thuật số toàn cầu.",
-            "linkText": "Xác minh DMCA"
+            "desc": "เนื้อหา การออกแบบ และซอร์สโค้ดได้รับการคุ้มครองลิขสิทธิ์ดิจิทัลทั่วโลก",
+            "linkText": "ตรวจสอบ DMCA"
         },
-        "footerText": "Được xây dựng bởi vhming với sự xuất sắc tuyệt đối."
+        "footerText": "สร้างโดย vhming ด้วยความเป็นเลิศสูงสุด"
     }
 }

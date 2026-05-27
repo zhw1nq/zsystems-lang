@@ -1,45 +1,45 @@
 {
     "hero": {
-        "badge": "Version 2.0 - Now Available",
-        "title": "Comprehensive management system for",
-        "titleHighlight": "CS2 servers",
-        "subtitle": "From SSH, RCON, player management, web UI, Discord bot API and many more features - all in one platform.",
-        "getStarted": "Get Started",
-        "viewDocs": "View Documentation"
+        "badge": "เวอร์ชัน 2.0 - พร้อมใช้งานแล้ว",
+        "title": "ระบบจัดการแบบครบวงจรสำหรับ",
+        "titleHighlight": "เซิร์ฟเวอร์ CS2",
+        "subtitle": "ตั้งแต่ SSH, RCON, การจัดการผู้เล่น, เว็บ UI, API Discord bot และฟีเจอร์อื่น ๆ อีกมากมาย - ทั้งหมดในแพลตฟอร์มเดียว",
+        "getStarted": "เริ่มต้นใช้งาน",
+        "viewDocs": "ดูเอกสาร"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
+        "servers": "เซิร์ฟเวอร์",
+        "players": "ผู้เล่น",
         "uptime": "Uptime",
-        "features": "Features"
+        "features": "ฟีเจอร์"
     },
     "features": {
-        "badge": "Features",
-        "title": "Everything you need",
-        "subtitle": "Powerful tools to manage your CS2 servers",
+        "badge": "ฟีเจอร์", 
+        "title": "ทุกสิ่งที่คุณต้องการ",
+        "subtitle": "เครื่องมือทรงพลังสำหรับจัดการเซิร์ฟเวอร์ CS2 ของคุณ",
         "sshRcon": "SSH & RCON",
-        "sshRconDesc": "Manage servers remotely with built-in SSH and RCON.",
-        "playerManagement": "Player Management",
-        "playerManagementDesc": "Track, ban, mute and manage players comprehensively.",
-        "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Client interface for server list changer.",
-        "webUI": "Web UI",
-        "webUIDesc": "Modern, responsive web interface for users.",
-        "discordBot": "Discord Bot API",
-        "discordBotDesc": "Free, easy-to-configure Discord bot API integration.",
-        "dataManagement": "Data Management",
-        "dataManagementDesc": "Centralized, secure, and efficient data management.",
-        "multiServer": "Multi-Server",
-        "multiServerDesc": "Support managing multiple servers simultaneously.",
-        "customize": "Customize",
-        "customizeDesc": "Customize everything to your needs."
+        "sshRconDesc": "จัดการเซิร์ฟเวอร์ระยะไกลด้วย SSH และ RCON ในตัว",
+        "playerManagement": "การจัดการผู้เล่น",
+        "playerManagementDesc": "ติดตาม แบน มิวท์ และจัดการผู้เล่นอย่างครบถ้วน",
+        "serverListChanger": "ตัวเปลี่ยนรายชื่อเซิร์ฟเวอร์",
+        "serverListChangerDesc": "อินเทอร์เฟซสำหรับฝั่งไคลเอนต์ในการเปลี่ยนรายชื่อเซิร์ฟเวอร์",
+        "webUI": "เว็บ UI",
+        "webUIDesc": "อินเทอร์เฟซเว็บที่ทันสมัยและรองรับทุกอุปกรณ์",
+        "discordBot": "API Discord Bot",
+        "discordBotDesc": "การเชื่อมต่อ Discord bot API ที่ใช้งานง่ายและฟรี",
+        "dataManagement": "การจัดการข้อมูล",
+        "dataManagementDesc": "ระบบจัดการข้อมูลแบบรวมศูนย์ ปลอดภัย และมีประสิทธิภาพ",
+        "multiServer": "หลายเซิร์ฟเวอร์",
+        "multiServerDesc": "รองรับการจัดการหลายเซิร์ฟเวอร์พร้อมกัน",
+        "customize": "ปรับแต่ง",
+        "customizeDesc": "ปรับแต่งทุกอย่างได้ตามความต้องการของคุณ"
     },
     "cta": {
-        "title": "Ready to get started?",
-        "subtitle": "Register for free and try it today.",
-        "register": "Register for Free",
-        "free": "Free",
-        "noCard": "No card required",
-        "support247": "24/7 Support"
+        "title": "พร้อมเริ่มต้นหรือยัง?",
+        "subtitle": "สมัครฟรีและลองใช้งานได้ทันที",
+        "register": "สมัครฟรี",
+        "free": "ฟรี",
+        "noCard": "ไม่ต้องใช้บัตรเครดิต",
+        "support247": "สนับสนุน 24/7"
     }
 }

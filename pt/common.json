@@ -10,7 +10,7 @@
         "mutes": "Silenciamentos / Gags",
         "skins": "Skins",
         "skinCollections": "Coleções",
-        "zmodels": "zModels",
+        "zmodels": "zModels",  
         "zweapons": "zWeapons",
         "rankings": "Classificações",
         "battleMode": "Modo de Batalha",
@@ -19,7 +19,7 @@
         "register": "Registrar",
         "logout": "Sair",
         "support": "Suporte",
-        "matches": "Trận đấu"
+        "matches": "Partida"
     },
     "actions": {
         "copy": "Copiar",
@@ -98,6 +98,6 @@
         "greeting_evening": "Boa noite, {name}",
         "guest": "Convidado",
         "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "loadingWarning": "Jogar mais de 180 minutos por dia afeta a saúde."
     }
 }

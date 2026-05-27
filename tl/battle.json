@@ -14,7 +14,7 @@
         "members": "{count}/5 miyembro",
         "leader": "Leader",
         "member": "Miyembro",
-        "disbanded": "Na-disband ang party"
+        "disbanded": "Na-disband ang party" 
     },
     "queue": {
         "find": "MAGHANAP NG MATCH",

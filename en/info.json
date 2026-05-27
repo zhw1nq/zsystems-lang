@@ -10,7 +10,7 @@
     "stats": {
         "servers": "Servers",
         "players": "Players",
-        "uptime": "Uptime",
+        "uptime": "Uptime", 
         "features": "Features"
     },
     "features": {

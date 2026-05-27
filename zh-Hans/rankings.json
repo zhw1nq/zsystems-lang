@@ -85,6 +85,7 @@
         "copySteamId": "复制 Steam ID",
         "copied": "已复制！"
     },
+    
     "aiWarning": {
         "title": "此页面由 AI Claude Opus 4.7 生成",
         "desc1": "由于 AI 性能极差，如果你遇到卡顿，请启用硬件加速。避免打开 F12，否则网页可能会卡死并需要重启，请注意。",

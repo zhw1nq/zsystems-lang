@@ -168,7 +168,7 @@
         "active": "有效",
         "unbanned": "已解除封禁",
         "expired": "已過期",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ."
+        "addBanDescription": "在伺服器系統中新增封禁（ban）指令."
     },
     "mutes": {
         "title": "禁言列表",
@@ -195,7 +195,7 @@
         "active": "有效",
         "unmuted": "已解除禁言",
         "expired": "已過期",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ."
+        "addMuteDescription": "在伺服器系統中新增禁止聊天/麥克風（mute）指令."
     },
     "logs": {
         "title": "活動日誌",

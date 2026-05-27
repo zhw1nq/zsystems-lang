@@ -10,7 +10,7 @@
             "steamAuthContent": "Hệ thống của chúng tôi sử dụng API chính thức của Valve để xác thực qua Steam OpenID. Chúng tôi không yêu cầu và không lưu trữ mật khẩu Steam của bạn. Bạn tự chịu trách nhiệm về an toàn bảo mật của tài khoản Steam.",
             "identityTitle": "Định danh người dùng",
             "identityContent": "Mỗi người dùng được định danh bằng 7ID (mã nội bộ trên zSystems), SteamID64 và Địa chỉ IP. Nếu tài khoản của bạn bị sử dụng bởi người khác để vi phạm quy định của 7-Màu, tài khoản đó vẫn sẽ phải chịu phạt mà không có ngoại lệ."
-        },
+        }, 
         "section2": {
             "title": "2. Chính Sách Chống Gian Lận (Zero-Tolerance Anti-Cheat)",
             "corePolicy": "Đây là cốt lõi của 7-Màu Community. Chúng tôi áp dụng chính sách KHÔNG KHOAN NHƯỢNG với mọi hình thức gian lận.",

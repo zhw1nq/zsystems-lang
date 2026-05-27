@@ -2,36 +2,36 @@
     "hero": {
         "badge": "Phiên bản 2.0 - Đạ ók",
         "title": "Hệ thống quản lý tàng thảy hẩu",
-        "titleHighlight": "máy chủ CS2",
+        "titleHighlight": "pò máy CS2",
         "subtitle": "Tự SSH, RCON, quản lý cần lỉn, web UI, Discord bot API cạ lai tính năng khác - cả thảy nẳm chung búng nẩy.",
         "getStarted": "Bắt đầu ngây",
         "viewDocs": "Chòi tài liệu"
     },
     "stats": {
-        "servers": "Servers",
-        "players": "Players",
-        "uptime": "Uptime",
-        "features": "Features"
+        "servers": "Pò máy",
+        "players": "Cần lỉn",
+        "uptime": "Thời gian chạu",
+        "features": "Tính năng"
     },
     "features": {
         "badge": "Tính năng",
-        "title": "Cả thảy lừ pỉ cần",
+        "title": "Cả thảy lừ pỉ cần", 
         "subtitle": "Công cụ mạn pửa quản lý máy chủ CS2 cúa pỉ",
         "sshRcon": "SSH & RCON",
         "sshRconDesc": "Quản lý máy chủ tự xa cắp SSH cạ RCON mỉ cón.",
         "playerManagement": "Quản lý cần lỉn",
         "playerManagementDesc": "Theo dõi, ban, mute cạ quản lý cần lỉn tàng thảy.",
-        "serverListChanger": "Server List Changer",
-        "serverListChangerDesc": "Giao diện hẩu client dùng server list changer.",
+        "serverListChanger": "Đổi danh sách server",
+        "serverListChangerDesc": "Giao diện hẩu client dùng đổi danh sách server.",
         "webUI": "Web UI",
         "webUIDesc": "Giao diện web mấư, responsive hẩu cần dùng.",
         "discordBot": "Discord Bot API",
         "discordBotDesc": "Lồng Discord bot API bấu mết tiền, ngải cấu hình.",
-        "dataManagement": "Data Management",
+        "dataManagement": "Quản lý dữ liệu",
         "dataManagementDesc": "Quản lý dữ liệu tụ lặp, an toàn cạ đảy việc.",
-        "multiServer": "Multi-Server",
+        "multiServer": "Nhiều máy chủ",
         "multiServerDesc": "Giúp đỡ quản lý lai máy chủ cùng lủc.",
-        "customize": "Customize",
+        "customize": "Tùy chỉnh",
         "customizeDesc": "Tùy chỉnh cả thảy theo ý cúa pỉ."
     },
     "cta": {

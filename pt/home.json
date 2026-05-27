@@ -11,7 +11,7 @@
         "getDemo": "Obter demonstração",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "Jogar agora",
-        "login": "Entrar",
+        "login": "Entrar",  
         "changeSkins": "Trocar skins de armas"
     },
     "nav": {
@@ -31,78 +31,78 @@
         "terms": "Termos de serviço",
         "contact": "Contato",
         "poweredBy": "Desenvolvido por zSystems — Desenvolvido por zhw1nq & 7-Mau TEAM",
-        "authLogin": "Đăng Nhập",
-        "authRegister": "Đăng Ký",
-        "authAccount": "Tài Khoản",
-        "brandDescription": "Cộng đồng CS2 lớn nhất Việt Nam. Hệ thống máy chủ ổn định, hiệu năng cao và độ trễ cực thấp.",
-        "navigation": "Điều hướng",
-        "servers": "Máy chủ",
-        "support": "Hỗ trợ",
-        "serverTip": "Mở console CS2, gõ connect [IP] để tham gia",
-        "copyConnect": "Click để copy lệnh connect",
-        "dmca": "Bản quyền & DMCA Protected: zSystems và 7-Mau Community tôn trọng luật sở hữu trí tuệ. Counter-Strike 2 là thương hiệu đã đăng ký của Valve Corporation.",
-        "quickLinks": {
-            "leaderboard": "Bảng xếp hạng",
-            "stats": "Thống kê cá nhân",
-            "matches": "Lịch sử trận đấu",
-            "register": "Đăng ký tài khoản",
-            "guide": "Hướng dẫn tham gia",
-            "configs": "Tải về config"
-        },
-        "supportLinks": {
-            "terms": "Điều khoản sử dụng",
-            "privacy": "Chính sách bảo mật",
-            "rules": "Quy tắc cộng đồng",
-            "report": "Báo cáo vi phạm",
-            "contact": "Liên hệ hỗ trợ",
-            "faq": "FAQ"
-        }
+        "authLogin": "Entrar",
+"authRegister": "Registrar",
+"authAccount": "Conta",
+"brandDescription": "A maior comunidade CS2 do Vietnã. Sistema de servidores estável, alto desempenho e latência extremamente baixa.",
+"navigation": "Navegação",
+"servers": "Servidores",
+"support": "Suporte",
+"serverTip": "Abra o console do CS2, digite connect [IP] para entrar",
+"copyConnect": "Clique para copiar o comando connect",
+"dmca": "Direitos Autorais & Proteção DMCA: zSystems e 7-Mau Community respeitam as leis de propriedade intelectual. Counter-Strike 2 é uma marca registrada da Valve Corporation.",
+"quickLinks": {
+    "leaderboard": "Classificação",
+    "stats": "Estatísticas pessoais",
+    "matches": "Histórico de partidas",
+    "register": "Registrar conta",
+    "guide": "Guia de participação",
+    "configs": "Baixar configs"
+},
+"supportLinks": {
+    "terms": "Termos de uso",
+    "privacy": "Política de privacidade",
+    "rules": "Regras da comunidade",
+    "report": "Reportar violação",
+    "contact": "Contato de suporte",
+    "faq": "FAQ"
+},
+"character": {
+    "name": "7-CHAN"
+},
+"preloader": {
+    "restricted18": "Restrito para 18+",
+    "warningInitial": "Jogar mais de 180 minutos por dia afeta negativamente a saúde.",
+    "warningFun": "Desejamos a todos uma ótima experiência de jogo no 7-mau.com!",
+    "warningStuck": "Se a tela de carregamento travar ou demorar muito, recarregue a página para continuar.",
+    "loading": "CARREGANDO"
+},
+"zsystems": {
+    "title": "zSystems",
+    "subtitle": "Arquitetura do sistema zSystems",
+    "backHome": "VOLTAR PARA A PÁGINA INICIAL",
+    "heroTag": "zSystems & Plataforma Central vhming",
+    "description": "zSystems e vhming são sistemas avançados de gerenciamento e painel All-In-One (AIO), oferecendo operação contínua, desempenho excepcional e gerenciamento de banco de dados em tempo real.",
+    "legalTitle": "Informações do Sistema & Jurídicas",
+    "features": {
+        "engineTitle": "Motor de Alto Desempenho",
+        "engineDesc": "Executado por módulos de processamento de nova geração que oferecem execução em milissegundos e gerenciamento robusto de desempenho.",
+        "cacheTitle": "Camada de Cache L2 Centralizada",
+        "cacheDesc": "Armazenamento persistente e sincronização através de clusters Redis de alto desempenho para atender instantaneamente grandes volumes de usuários.",
+        "architectureTitle": "Arquitetura de Sistema Cinemática",
+        "architectureDesc": "Proteção avançada contra ameaças cibernéticas, protocolos seguros de conexão e verificação automática de sessão integrados diretamente ao núcleo.",
+        "pipelineTitle": "Pipeline de Ultra Baixa Latência",
+        "pipelineDesc": "Fluxo de execução otimizado projetado especialmente para comunidades gamers exigentes e sistemas multiplayer."
     },
-    "character": {
-        "name": "7-CHAN"
+    "owner": {
+        "label": "PROPRIETÁRIO",
+        "name": "luxiie",
+        "desc": "Representante legal, fundador e proprietário oficial dos direitos autorais do sistema zSystems.",
+        "linkText": "Visitar luxiie"
     },
-    "preloader": {
-        "restricted18": "Giới hạn 18+",
-        "warningInitial": "Chơi game quá 180 phút mỗi ngày sẽ ảnh hưởng xấu đến sức khỏe.",
-        "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
-        "warningStuck": "Nếu màn hình chờ bị kẹt hoặc tải quá lâu, hãy tải lại trang để tiếp tục.",
-        "loading": "ĐANG TẢI"
+    "developer": {
+        "label": "DESENVOLVEDOR",
+        "name": "vhming",
+        "desc": "Desenvolvedor principal e arquiteto-chefe responsável pela criação e operação do sistema zSystems.",
+        "linkText": "Visitar vhming.com"
     },
-    "zsystems": {
-        "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
-        "backHome": "QUAY LẠI TRANG CHỦ",
-        "heroTag": "zSystems & vhming Core Platform",
-        "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",
-        "legalTitle": "Thông Tin Hệ Thống & Pháp Lý",
-        "features": {
-            "engineTitle": "Động Cơ Hiệu Năng Cao",
-            "engineDesc": "Được vận hành bởi các mô-đun xử lý thế hệ mới cung cấp khả năng thực thi luồng mili-giây và quản lý hiệu suất mạnh mẽ.",
-            "cacheTitle": "Phân Lớp Bộ Nhớ Đệm L2 Tập Trung",
-            "cacheDesc": "Lưu trữ bền vững và đồng bộ hóa qua các cụm bộ nhớ đệm Redis hiệu năng cao để phục vụ lượng người dùng khổng lồ ngay lập tức.",
-            "architectureTitle": "Kiến Trúc Hệ Thống Cinematic",
-            "architectureDesc": "Bảo vệ mạnh mẽ chống lại các mối đe dọa không gian mạng, giao thức liên kết an toàn và kiểm tra phiên tự động được xây dựng trực tiếp vào lõi.",
-            "pipelineTitle": "Đường Truyền Trễ Siêu Thấp",
-            "pipelineDesc": "Tối ưu hóa quy trình thực thi được thiết kế dành riêng cho cộng đồng game thủ đòi hỏi khắt khe và các hệ thống nhiều người chơi."
-        },
-        "owner": {
-            "label": "CHỦ SỞ HỮU",
-            "name": "luxiie",
-            "desc": "Đại diện pháp lý, nhà sáng lập kiêm sở hữu bản quyền chính thức hệ thống zSystems.",
-            "linkText": "Ghé thăm luxiie"
-        },
-        "developer": {
-            "label": "LẬP TRÌNH VIÊN",
-            "name": "vhming",
-            "desc": "Nhà phát triển chính kiêm kiến trúc sư trưởng xây dựng và vận hành hệ thống zSystems.",
-            "linkText": "Ghé thăm vhming.com"
-        },
-        "dmca": {
-            "label": "BẢO VỆ BẢN QUYỀN",
-            "name": "DMCA Protected",
-            "desc": "Nội dung, thiết kế và mã nguồn được đăng ký bảo hộ bản quyền kỹ thuật số toàn cầu.",
-            "linkText": "Xác minh DMCA"
-        },
-        "footerText": "Được xây dựng bởi vhming với sự xuất sắc tuyệt đối."
+    "dmca": {
+        "label": "PROTEÇÃO DE DIREITOS AUTORAIS",
+        "name": "DMCA Protected",
+        "desc": "Conteúdo, design e código-fonte registrados sob proteção global de direitos autorais digitais.",
+        "linkText": "Verificar DMCA"
+    },
+    "footerText": "Construído por vhming com excelência absoluta."
+}
     }
 }
