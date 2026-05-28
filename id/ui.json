@@ -22,8 +22,8 @@
     "deleteStopTip": "Hapus titik warna yang dipilih",
     "pipetteTip": "Gunakan pipet untuk mengambil warna di layar",
     "saveToPresetsTip": "Klik untuk menyimpan ke palet kustom!",
-    "monochromatic": "Đơn sắc",
-    "analogous": "Tương đồng",
-    "complementary": "Bổ túc",
-    "triadic": "Tam hợp"
+    "monochromatic": "Monokrom",
+    "analogous": "Analog",
+    "complementary": "Komplementer",
+    "triadic": "Triadik"
 }

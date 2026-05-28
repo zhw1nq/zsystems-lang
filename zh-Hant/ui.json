@@ -22,8 +22,8 @@
     "deleteStopTip": "刪除已選取的顏色節點",
     "pipetteTip": "使用滴管從螢幕擷取顏色",
     "saveToPresetsTip": "點擊以儲存到自訂調色盤！",
-    "monochromatic": "Đơn sắc",
-    "analogous": "Tương đồng",
-    "complementary": "Bổ túc",
-    "triadic": "Tam hợp"
+    "monochromatic": "單色",
+    "analogous": "類似色",
+    "complementary": "互補色",
+    "triadic": "三角色"
 }

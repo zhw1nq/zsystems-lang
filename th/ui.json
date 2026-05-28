@@ -22,8 +22,8 @@
     "deleteStopTip": "ลบจุดสีที่เลือก",
     "pipetteTip": "ใช้หลอดดูดสีเพื่อเลือกสีจากหน้าจอ",
     "saveToPresetsTip": "คลิกเพื่อบันทึกลงในพาเลตแบบกำหนดเอง!",
-    "monochromatic": "Đơn sắc",
-    "analogous": "Tương đồng",
-    "complementary": "Bổ túc",
-    "triadic": "Tam hợp"
+    "monochromatic": "สีเดียว",
+    "analogous": "สีใกล้เคียง",
+    "complementary": "สีคู่ตรงข้าม",
+    "triadic": "สีสามเส้า"
 }

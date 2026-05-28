@@ -22,8 +22,8 @@
     "deleteStopTip": "删除所选颜色节点",
     "pipetteTip": "使用吸管从屏幕取色",
     "saveToPresetsTip": "点击保存到自定义调色板！",
-    "monochromatic": "Đơn sắc",
-    "analogous": "Tương đồng",
-    "complementary": "Bổ túc",
-    "triadic": "Tam hợp"
+    "monochromatic": "单色",
+    "analogous": "类似色",
+    "complementary": "互补色",
+    "triadic": "三角色"
 }

@@ -169,7 +169,7 @@
         "unbanned": "Đạ pỏ ban",
         "expired": "Đạ mết hạn",
         "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ.",
-        "noBans": "Chưa có lượt ban nào"
+        "noMutes": "Boóc mị lượt ban nào"
     },
     "mutes": {
         "title": "Danh sách Mute",
@@ -197,7 +197,7 @@
         "unmuted": "Đạ pỏ mute",
         "expired": "Đạ mết hạn",
         "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "Boóc mị lượt mute nào"
     },
     "logs": {
         "title": "Sổ ghi hoạt động",

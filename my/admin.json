@@ -169,7 +169,7 @@
         "unbanned": "ပိတ်ပင် ဖြေလွှတ်",
         "expired": "သက်တမ်းကုန်",
         "addBanDescription": "ဆာဗာစနစ်တွင် ကစားခွင့်ပိတ်ပင်မှု (ban) အသစ်တစ်ခု ဖန်တီးပါ။.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "Ban လုပ်ထားမှု မရှိသေးပါ"
     },
     "mutes": {
         "title": "Mute စာရင်း",
@@ -197,7 +197,7 @@
         "unmuted": "Mute ဖြေလွှတ်",
         "expired": "သက်တမ်းကုန်",
         "addMuteDescription": "ဆာဗာစနစ်တွင် စကားပြော/မိုက်ခရိုဖုန်း (chat/mic) ပိတ်ပင်မှု (mute) အသစ်တစ်ခု ဖန်တီးပါ။.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "Mute လုပ်ထားမှု မရှိသေးပါ"    
     },
     "logs": {
         "title": "လုပ်ဆောင်ချက် မှတ်တမ်းများ",

@@ -102,11 +102,11 @@
         "failed": "ດຳເນີນການບໍ່ສຳເລັດ",
         "socialLink": "SOCIAL LINK",
         "statsChecker": "STATS CHECKER",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "ຍັງບໍ່ໄດ້ໃສ່ຂໍ້ມູນ SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ຫຼື ລິ້ງໂປຣໄຟລ໌...",
+        "autoResolveHint": "ດຶງຂໍ້ມູນອັດຕະໂນມັດຈາກ SteamID64, ລິ້ງໂປຣໄຟລ໌ ຫຼື vanity URL ເມື່ອວາງໃສ່",
+        "selectDuration": "ເລືອກໄລຍະເວລາ",
+        "selectReason": "ເລືອກເຫດຜົນ"
     },
     "privilege": {
         "title": "ສິດທິພິເສດເຊີບເວີ",

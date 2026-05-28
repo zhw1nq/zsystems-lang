@@ -102,11 +102,11 @@
         "failed": "Nabigo ang aksyon",
         "socialLink": "SOCIAL LINK",
         "statsChecker": "STATS CHECKER",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "Hindi pa nailalagay ang impormasyon ng SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX o link ng profile...",
+        "autoResolveHint": "Awtomatikong kunin ang impormasyon mula sa SteamID64, link ng profile, o vanity URL kapag idinikit",
+        "selectDuration": "Pumili ng tagal",
+        "selectReason": "Pumili ng dahilan"
     },
     "privilege": {
         "title": "Mga Pribilehiyo ng Server",

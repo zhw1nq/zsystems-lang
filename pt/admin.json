@@ -169,7 +169,7 @@
         "unbanned": "Desbanido",
         "expired": "Expirado",
         "addBanDescription": "Criar uma nova punição de banimento (ban) no sistema de servidores.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "Ainda não há banimentos"
     },
     "mutes": {
         "title": "Lista de Mutes",
@@ -197,7 +197,7 @@
         "unmuted": "Desmutado",
         "expired": "Expirado",
         "addMuteDescription": "Criar uma nova punição de silenciamento de chat/microfone (mute) no sistema de servidores.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "Ainda não há silenciamentos"
     },
     "logs": {
         "title": "Logs de Atividade",

@@ -102,11 +102,11 @@
         "failed": "Falha na ação",
         "socialLink": "LINK SOCIAL",
         "statsChecker": "VERIFICADOR DE ESTATÍSTICAS",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "Informações do SteamID ainda não inseridas",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ou link do perfil...",
+        "autoResolveHint": "Obter informações automaticamente a partir do SteamID64, link do perfil ou vanity URL ao colar",
+        "selectDuration": "Selecionar duração",
+        "selectReason": "Selecionar motivo"
     },
     "privilege": {
         "title": "Privilégios do servidor",

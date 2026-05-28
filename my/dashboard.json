@@ -102,11 +102,11 @@
         "failed": "လုပ်ဆောင်ချက် မအောင်မြင်",
         "socialLink": "SOCIAL LINK",
         "statsChecker": "STATS CHECKER",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "SteamID အချက်အလက် မထည့်ရသေးပါ",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX သို့မဟုတ် profile link...",
+        "autoResolveHint": "SteamID64၊ profile link သို့မဟုတ် vanity URL ကို paste လုပ်သောအခါ အချက်အလက်ကို အလိုအလျောက် ရယူမည်",
+        "selectDuration": "ကြာချိန်ရွေးချယ်ပါ",
+        "selectReason": "အကြောင်းပြချက်ရွေးချယ်ပါ"
     },
     "privilege": {
         "title": "ဆာဗာ အခွင့်အရေးများ",

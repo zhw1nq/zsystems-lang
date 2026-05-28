@@ -102,11 +102,11 @@
         "failed": "Aksi gagal",
         "socialLink": "TAUTAN SOSIAL",
         "statsChecker": "PEMERIKSA STATISTIK",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "Belum memasukkan informasi SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX atau tautan profil...",
+        "autoResolveHint": "Secara otomatis mengambil informasi dari SteamID64, tautan profil, atau vanity URL saat ditempel",
+        "selectDuration": "Pilih durasi",
+        "selectReason": "Pilih alasan"
     },
     "privilege": {
         "title": "Hak Istimewa Server",

@@ -169,7 +169,7 @@
         "unbanned": "Dibuka Sekatan",
         "expired": "Tamat Tempoh",
         "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "Belum ada larangan"
     },
     "mutes": {
         "title": "Senarai Senyap",
@@ -197,8 +197,7 @@
         "unmuted": "Dibuka Senyap",
         "expired": "Tamat Tempoh",
         "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan.",
-        "noMutes": "Chưa có lượt mute nào"
-    },
+        "noMutes": "Belum ada mute"    },
     "logs": {
         "title": "Log Aktiviti",
         "search": "Cari...",

@@ -102,11 +102,11 @@
         "failed": "操作失败",
         "socialLink": "社交链接",
         "statsChecker": "数据查询",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "尚未输入 SteamID 信息",
+        "steamInputHint": "STEAM_1:X:XXXXX、7656XXXXXXXXXXXXX 或个人资料链接...",
+        "autoResolveHint": "粘贴时自动从 SteamID64、个人资料链接或自定义 URL 获取信息",
+        "selectDuration": "选择时长",
+        "selectReason": "选择原因"
     },
     "privilege": {
         "title": "服务器特权",

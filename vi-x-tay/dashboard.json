@@ -102,11 +102,11 @@
         "failed": "Bấu lồng đảy",
         "socialLink": "Mạng xã hội",
         "statsChecker": "Xem chỉ lỉn",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "Boóc nhập thông tin SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX lùa link hồ sơ...",
+        "autoResolveHint": "Tự động lẩy thông tin từ SteamID64, link hồ sơ lùa vanity URL khi dán vào",
+        "selectDuration": "Lựa thời hạn",
+        "selectReason": "Lựa lý do"
     },
     "privilege": {
         "title": "Quyền trong pò máy",

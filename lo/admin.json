@@ -169,7 +169,7 @@
         "unbanned": "ຖອນແບນແລ້ວ",
         "expired": "ໝົດອາຍຸ",
         "addBanDescription": "ສ້າງຄຳສັ່ງຫ້າມຫຼິ້ນ (ban) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "ຍັງບໍ່ມີການແບນເທື່ອ"
     },
     "mutes": {
         "title": "ລາຍການ Mute",
@@ -197,7 +197,7 @@
         "unmuted": "ຖອນ Mute ແລ້ວ",
         "expired": "ໝົດອາຍຸ",
         "addMuteDescription": "ສ້າງຄຳສັ່ງປິດການແຊັດ/ໄມໂຄຣໂຟນ (mute) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "ຍັງບໍ່ມີການປິດສຽງເທື່ອ"
     },
     "logs": {
         "title": "ບັນທຶກກິດຈະກຳ",

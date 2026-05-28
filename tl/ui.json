@@ -22,8 +22,8 @@
     "deleteStopTip": "Tanggalin ang napiling color stop",
     "pipetteTip": "Gamitin ang eyedropper upang kumuha ng kulay mula sa screen",
     "saveToPresetsTip": "I-click upang i-save sa custom na paleta!",
-    "monochromatic": "Đơn sắc",
-    "analogous": "Tương đồng",
-    "complementary": "Bổ túc",
-    "triadic": "Tam hợp"
+    "monochromatic": "Monokromatiko",
+    "analogous": "Magkakatulad",
+    "complementary": "Komplementaryo",
+    "triadic": "Triadic"
 }

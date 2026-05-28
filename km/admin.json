@@ -169,7 +169,7 @@
         "unbanned": "បានដោះហាមឃាត់",
         "expired": "ផុតកំណត់",
         "addBanDescription": "បង្កើតការហាមលេង (ban) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "មិនទាន់មានការហាមឃាត់ណាមួយទេ"
     },
     "mutes": {
         "title": "បញ្ជី Mute",
@@ -197,7 +197,7 @@
         "unmuted": "បានដោះ Mute",
         "expired": "ផុតកំណត់",
         "addMuteDescription": "បង្កើតការហាមជជែក/មីក្រូហ្វូន (mute) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "មិនទាន់មានការបិទសំឡេងណាមួយទេ"
     },
     "logs": {
         "title": "កំណត់ហេតុសកម្មភាព",

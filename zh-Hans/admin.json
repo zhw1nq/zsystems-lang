@@ -169,7 +169,7 @@
         "unbanned": "已解除封禁",
         "expired": "已过期",
         "addBanDescription": "在服务器系统中创建新的游戏封禁（ban）命令.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "暂无封禁记录"
     },
     "mutes": {
         "title": "禁言列表",
@@ -197,7 +197,7 @@
         "unmuted": "已解除禁言",
         "expired": "已过期",
         "addMuteDescription": "在服务器系统中创建新的聊天/语音禁言（mute）命令.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "暂无禁言记录"
     },
     "logs": {
         "title": "活动日志",

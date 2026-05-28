@@ -102,11 +102,11 @@
         "failed": "Tindakan gagal",
         "socialLink": "PAUTAN SOSIAL",
         "statsChecker": "PEMERIKSA STATISTIK",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "Maklumat SteamID belum dimasukkan",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX atau pautan profil...",
+        "autoResolveHint": "Dapatkan maklumat secara automatik daripada SteamID64, pautan profil, atau vanity URL apabila ditampal",
+        "selectDuration": "Pilih tempoh",
+        "selectReason": "Pilih sebab"
     },
     "privilege": {
         "title": "Keistimewaan Pelayan",

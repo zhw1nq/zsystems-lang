@@ -102,11 +102,11 @@
         "failed": "សកម្មភាពមិនបាន",
         "socialLink": "តំណភ្ជាប់សង្គម",
         "statsChecker": "STATS CHECKER",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "មិនទាន់បញ្ចូលព័ត៌មាន SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ឬតំណប្រវត្តិរូប...",
+        "autoResolveHint": "ទាញយកព័ត៌មានដោយស្វ័យប្រវត្តិពី SteamID64, តំណប្រវត្តិរូប ឬ vanity URL នៅពេលបិទភ្ជាប់",
+        "selectDuration": "ជ្រើសរើសរយៈពេល",
+        "selectReason": "ជ្រើសរើសមូលហេតុ"
     },
     "privilege": {
         "title": "សិទ្ធិម៉ាស៊ីនមេ",

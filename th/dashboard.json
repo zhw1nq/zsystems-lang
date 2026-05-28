@@ -102,11 +102,11 @@
         "failed": "การดำเนินการล้มเหลว",
         "socialLink": "ลิงก์โซเชียล",
         "statsChecker": "ตรวจสอบสถิติ",
-        "noSteamInfo": "Chưa nhập thông tin SteamID",
-        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX hoặc link hồ sơ...",
-        "autoResolveHint": "Tự động lấy thông tin từ SteamID64, link hồ sơ, hoặc vanity URL khi dán vào",
-        "selectDuration": "Chọn thời hạn",
-        "selectReason": "Chọn lý do"
+        "noSteamInfo": "ยังไม่ได้กรอกข้อมูล SteamID",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX หรือลิงก์โปรไฟล์...",
+        "autoResolveHint": "ดึงข้อมูลอัตโนมัติจาก SteamID64, ลิงก์โปรไฟล์ หรือ vanity URL เมื่อวาง",
+        "selectDuration": "เลือกระยะเวลา",
+        "selectReason": "เลือกเหตุผล"
     },
     "privilege": {
         "title": "สิทธิพิเศษเซิร์ฟเวอร์",

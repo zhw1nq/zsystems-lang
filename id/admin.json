@@ -169,7 +169,7 @@
         "unbanned": "Blokir Dicabut",
         "expired": "Kedaluwarsa",
         "addBanDescription": "Membuat perintah larangan bermain (ban) baru di sistem server.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "Belum ada ban"
     },
     "mutes": {
         "title": "Daftar Mute",
@@ -197,7 +197,7 @@
         "unmuted": "Mute Dicabut",
         "expired": "Kedaluwarsa",
         "addMuteDescription": "Membuat perintah pembisuan chat/mikrofon (mute) baru di sistem server.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "Belum ada mute"
     },
     "logs": {
         "title": "Log Aktivitas",

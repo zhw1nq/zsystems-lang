@@ -169,7 +169,7 @@
         "unbanned": "Na-unban",
         "expired": "Expired",
         "addBanDescription": "Gumawa ng bagong ban sa sistema ng server.",
-        "noBans": "Chưa có lượt ban nào"
+        "noBans": "Wala pang ban"
     },
     "mutes": {
         "title": "Listahan ng Mute",
@@ -197,7 +197,7 @@
         "unmuted": "Na-unmute",
         "expired": "Expired",
         "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system.",
-        "noMutes": "Chưa có lượt mute nào"
+        "noMutes": "Wala pang mute"
     },
     "logs": {
         "title": "Mga Log ng Aktibidad",
