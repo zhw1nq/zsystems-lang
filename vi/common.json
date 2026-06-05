@@ -13,7 +13,7 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "Xếp hạng",
-        "matches": "Trận đấu", 
+        "matches": "Trận đấu",
         "battleMode": "Battle Mode",
         "admin": "Admin Panel",
         "login": "Đăng nhập",
@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Sao chép",
         "connect": "Kết nối",
-        "save": "Lưu",
         "cancel": "Hủy",
         "close": "Đóng",
-        "confirm": "Xác nhận",
-        "delete": "Xóa",
-        "edit": "Sửa",
         "back": "Quay lại",
         "retry": "Thử lại",
         "search": "Tìm kiếm..."
     },
     "status": {
-        "online": "Trực tuyến",
-        "offline": "Ngoại tuyến",
-        "loading": "Đang tải...",
-        "error": "Lỗi",
-        "success": "Thành công"
+        "loading": "Đang tải..."
     },
     "toast": {
         "copied": "Đã sao chép",
         "copyFailed": "Sao chép thất bại"
     },
-    "footer": {
-        "rights": "Mọi quyền được bảo lưu"
-    },
     "sidebar": {
         "collapse": "Thu gọn",
         "expand": "Mở rộng",
-        "language": "Ngôn ngữ",
-        "theme": "Màu chủ đề",
         "terms": "Điều khoản & Bảo mật",
         "guest": "Khách",
         "settings": "Cài đặt"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "Chào buổi đêm, {name}",
-        "greeting_morning": "Chào buổi sáng, {name}",
-        "greeting_noon": "Chào buổi trưa, {name}",
-        "greeting_afternoon": "Chào buổi chiều, {name}",
-        "greeting_evening": "Chào buổi tối, {name}",
         "guest": "Khách",
-        "warning": "Chơi game quá 180 phút/ngày ảnh hưởng sức khỏe",
-        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
+        "warning": "Chơi game quá 180 phút/ngày ảnh hưởng sức khỏe"
     },
     "optional": "Tùy chọn"
 }

@@ -1,28 +1,13 @@
 {
     "hero": {
-        "explore": "လေ့လာရန်",
-        "store": "စတိုး",
-        "letsPlayNow": "ယခုပဲ ကစားကြရအောင်!",
-        "wantToBeVip": "VIP ဖြစ်ချင်ပါသလား?",
-        "loginToZsystems": "zSystems သို့ ဝင်ရောက်ရန်",
-        "weaponSkins": "လက်နက်အရောင်",
-        "ranks": "အဆင့်",
         "contact": "ဆက်သွယ်ရန်",
-        "getDemo": "Demo ရယူ",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "ယခုကစားရန်",
         "login": "ဝင်ရောက်ရန်",
         "changeSkins": "လက်နက်အရောင် ပြောင်းလဲ"
     },
     "nav": {
-        "community": "အသိုင်းအဝိုင်း",
-        "ranks": "အဆင့်",
         "support": "အကူအညီ"
-    },
-    "stats": {
-        "uptime": "UPTIME",
-        "ping": "PING",
-        "players6h": "ကစားသမား / ၆နာရီ"
     },
     "footer": {
         "selectLanguage": "ဘာသာစကား ရွေးချယ်",
@@ -40,11 +25,9 @@
         "support": "အကူအညီ",
         "serverTip": "CS2 console ကိုဖွင့်ပြီး connect [IP] ဟုရိုက်ကာ ချိတ်ဆက်ပါ",
         "copyConnect": "connect command ကို copy ကူးရန် နှိပ်ပါ",
-        "dmca": "မူပိုင်ခွင့် & DMCA ကာကွယ်မှု - zSystems နှင့် 7-Mau Community သည် ဉာဏပစ္စည်းပိုင်ဆိုင်မှု ဥပဒေများကို လေးစားလိုက်နာပါသည်။ Counter-Strike 2 သည် Valve Corporation ၏ မှတ်ပုံတင်ထားသော ကုန်အမှတ်တံဆိပ်ဖြစ်သည်။",
         "quickLinks": {
             "leaderboard": "အဆင့်ဇယား",
             "stats": "ကိုယ်ပိုင်အချက်အလက်များ",
-            "matches": "ပွဲစဉ်မှတ်တမ်း",
             "register": "အကောင့်ဖွင့်ရန်",
             "guide": "ပါဝင်နည်းလမ်းညွှန်",
             "configs": "config ဒေါင်းလုဒ်"
@@ -117,7 +100,6 @@
     },
     "zsystems": {
         "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
         "backHome": "QUAY LẠI TRANG CHỦ",
         "heroTag": "zSystems & vhming Core Platform",
         "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",

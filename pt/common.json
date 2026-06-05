@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Copiar",
         "connect": "Conectar",
-        "save": "Salvar",
         "cancel": "Cancelar",
         "close": "Fechar",
-        "confirm": "Confirmar",
-        "delete": "Excluir",
-        "edit": "Editar",
         "back": "Voltar",
         "retry": "Tentar novamente",
         "search": "Pesquisar..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Carregando...",
-        "error": "Erro",
-        "success": "Sucesso"
+        "loading": "Carregando..."
     },
     "toast": {
         "copied": "Copiado para a área de transferência",
         "copyFailed": "Falha ao copiar"
     },
-    "footer": {
-        "rights": "Todos os direitos reservados"
-    },
     "sidebar": {
         "collapse": "Recolher",
         "expand": "Expandir",
-        "language": "Idioma",
-        "theme": "Tema",
         "terms": "Termos e Privacidade",
         "guest": "Convidado",
         "settings": "Configurações"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "Boa noite, {name}",
-        "greeting_morning": "Bom dia, {name}",
-        "greeting_noon": "Boa tarde, {name}",
-        "greeting_afternoon": "Boa tarde, {name}",
-        "greeting_evening": "Boa noite, {name}",
         "guest": "Convidado",
-        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
-        "loadingWarning": "Jogar mais de 180 minutos por dia afeta a saúde."
+        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde"
     },
     "optional": "Opcional"
 }

@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Total Admin",
-        "totalServers": "Total Server",
-        "activeBans": "Blokir Aktif",
-        "activeMutes": "Mute Aktif",
-        "totalLogs": "Total Log",
         "overview": "Ringkasan Sistem",
-        "description": "Metrik dan tren aktivitas di seluruh sistem",
         "total": "total",
         "recentActivity": "Aktivitas Terbaru",
         "last7Days": "Blokir & mute dalam 7 hari terakhir",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Admin paling aktif berdasarkan tindakan yang dikeluarkan",
         "noData": "Tidak ada data tersedia",
         "errorLoading": "Gagal memuat statistik",
-        "totalWarns": "Total Peringatan",
-        "totalChatMessages": "Pesan Obrolan",
         "uniquePlayers": "Pemain Unik",
-        "totalPlaytimeHours": "Total Waktu Bermain",
-        "totalSessions": "Total Sesi",
         "playerActivity": "Aktivitas Pemain",
         "last30Days": "Pemain unik & sesi dalam 30 hari terakhir",
         "topMaps": "Peta Teratas",
         "topMapsDesc": "Peta paling sering dimainkan berdasarkan jumlah sesi",
         "serverStats": "Statistik Server",
-        "serverStatsDesc": "Rincian aktivitas pemain per server",
         "hours": "jam",
         "sessions": "sesi",
         "players": "pemain",
@@ -59,8 +49,7 @@
         "showAll": "Tampilkan semua {count} server",
         "showLess": "Tampilkan lebih sedikit",
         "allServers": "Semua Server",
-        "last3Months": "3 bulan terakhir",
-        "last14Days": "14 hari terakhir"
+        "last3Months": "3 bulan terakhir"
     },
     "admins": {
         "title": "Daftar Admin",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "Konfigurasi admin baru dengan template atau pengaturan kustom",
         "templates": "Template Cepat",
-        "information": "Informasi Admin",
         "preview": "Pratinjau",
         "steamInput": "Steam ID / URL Profil",
         "steamPlaceholder": "SteamID64, URL profil, atau vanity...",
         "steamHelp": "Masukkan SteamID64, tautan profil, atau vanity URL lalu tekan Enter",
-        "resolved": "Terselesaikan",
         "namePlaceholder": "Nama tampilan admin",
         "group": "Grup Admin",
         "selectGroup": "Pilih grup...",
         "noGroup": "Tanpa Grup (Kustom)",
         "flagsFromGroup": "Flags diwarisi dari grup yang dipilih",
-        "daysFromNow": "hari dari sekarang",
-        "alreadyExpired": "Sudah kedaluwarsa",
-        "previewName": "Nama Admin",
-        "noFlags": "Tidak ada flags yang diatur",
-        "noServer": "Tidak ada server yang dipilih"
+        "alreadyExpired": "Sudah kedaluwarsa"
     },
     "gift": {
         "title": "Klaim Hadiah Anda",
-        "loading": "Memuat...",
-        "redeemed": "Hadiah Diklaim!",
-        "unavailable": "Hadiah Tidak Tersedia",
-        "notFound": "Hadiah Tidak Ditemukan",
-        "package": "Paket",
         "duration": "Durasi",
-        "days": "hari",
-        "expiresIn": "Tautan berakhir dalam",
-        "claim": "Klaim Hadiah",
-        "loginRequired": "Anda harus masuk dengan akun Steam yang ditautkan",
-        "redeemSuccess": "Hadiah berhasil diklaim! Anda sekarang menjadi admin.",
-        "redeemSuccessMessage": "Hak istimewa admin Anda telah diaktifkan.",
-        "redeemFailed": "Gagal mengklaim hadiah",
-        "alreadyUsed": "Tautan hadiah ini sudah digunakan.",
-        "expired": "Tautan hadiah ini sudah kedaluwarsa.",
-        "notFoundMessage": "Tautan hadiah ini tidak ada atau telah dihapus."
+        "days": "hari"
     },
     "servers": {
         "title": "Daftar Server",
@@ -140,9 +109,7 @@
         "rconConsole": "Konsol RCON",
         "sendCommand": "Kirim Perintah",
         "command": "Perintah",
-        "response": "Respons",
-        "noRcon": "RCON belum dikonfigurasi",
-        "cannotDelete": "Tidak dapat menghapus server dengan admin terlampir"
+        "noRcon": "RCON belum dikonfigurasi"
     },
     "bans": {
         "title": "Daftar Blokir",
@@ -160,14 +127,10 @@
         "actions": "Tindakan",
         "unban": "Cabut Blokir",
         "reban": "Blokir Lagi",
-        "edit": "Edit",
-        "addComment": "Tambah Komentar",
         "delete": "Hapus",
         "minutes": "menit",
         "permanent": "Permanen",
         "active": "Aktif",
-        "unbanned": "Blokir Dicabut",
-        "expired": "Kedaluwarsa",
         "addBanDescription": "Membuat perintah larangan bermain (ban) baru di sistem server.",
         "noBans": "Belum ada ban"
     },
@@ -187,15 +150,11 @@
         "actions": "Tindakan",
         "unmute": "Cabut Mute",
         "remute": "Mute Lagi",
-        "edit": "Edit",
-        "addComment": "Tambah Komentar",
         "delete": "Hapus",
         "gag": "GAG (Obrolan)",
         "mute": "MUTE (Suara)",
         "silence": "SILENCE (Keduanya)",
         "active": "Aktif",
-        "unmuted": "Mute Dicabut",
-        "expired": "Kedaluwarsa",
         "addMuteDescription": "Membuat perintah pembisuan chat/mikrofon (mute) baru di sistem server.",
         "noMutes": "Belum ada mute"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "Memuat...",
         "error": "Terjadi kesalahan",
         "noAccess": "Akses Ditolak",
         "noAccessDesc": "Anda tidak memiliki izin untuk mengakses halaman ini.",
@@ -293,8 +251,6 @@
             "kill": "Apakah Anda yakin ingin memaksa mematikan server ini?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disk",
             "network": "Jaringan",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "Detail Akun",
-            "tabInfo": "Info",
-            "tabSessions": "Sesi",
-            "tabLogs": "Log Keamanan",
             "basicInfo": "Info Dasar",
             "statistics": "Statistik",
             "linkedAccounts": "Akun Terhubung",
             "adminActions": "Tindakan Admin",
-            "uuid": "UUID",
             "loginCount": "Jumlah Masuk",
             "lastLoginAt": "Masuk Terakhir",
             "lastLoginIp": "IP Terakhir",
@@ -372,13 +324,10 @@
             "twoFactor": "Autentikasi Dua Faktor",
             "passkey": "Passkey",
             "locale": "Bahasa",
-            "tosAccepted": "ToS Diterima",
-            "marketing": "Email Pemasaran",
             "verified": "Terverifikasi",
             "notVerified": "Belum Terverifikasi",
             "enabled": "Aktif",
             "disabled": "Nonaktif",
-            "never": "Tidak pernah",
             "noData": "Tidak ada data",
             "notLinked": "Belum ditautkan",
             "createdAt": "Dibuat",
@@ -387,20 +336,11 @@
             "failedAttempts": "Percobaan gagal"
         },
         "sessions": {
-            "device": "Perangkat",
-            "ip": "Alamat IP",
-            "lastActive": "Terakhir Aktif",
             "revoke": "Cabut",
             "revokeAll": "Keluar Semua",
-            "noSessions": "Tidak ada sesi aktif",
-            "revokeConfirm": "Cabut sesi ini?",
-            "revokeAllConfirm": "Keluar dari semua sesi pengguna ini?"
+            "noSessions": "Tidak ada sesi aktif"
         },
         "logs": {
-            "event": "Peristiwa",
-            "ip": "IP",
-            "time": "Waktu",
-            "details": "Detail",
             "noLogs": "Belum ada log",
             "loadMore": "Muat lebih banyak"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "Putus Steam? Pengguna mungkin kehilangan opsi pemulihan akun.",
             "displayName": "Nama Tampilan",
             "email": "Email"
-        },
-        "toast": {
-            "actionSuccess": "Tindakan berhasil diselesaikan",
-            "actionFailed": "Tindakan gagal"
         },
         "editProfile": {
             "emailWarning": "Mengubah email akan mereset status verifikasi",

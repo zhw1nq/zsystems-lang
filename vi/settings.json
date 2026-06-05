@@ -10,18 +10,7 @@
     "nav": {
         "colorMode": "Chế độ màu",
         "themeColor": "Màu chủ đề",
-        "language": "Ngôn ngữ",
-        "changePassword": "Đổi mật khẩu",
-        "twoFactor": "Xác thực 2 yếu tố", 
-        "sessions": "Phiên đăng nhập",
-        "loginHistory": "Lịch sử đăng nhập",
-        "profile": "Thông tin cá nhân",
-        "email": "Email",
-        "linkedAccounts": "Tài khoản liên kết",
-        "dangerZone": "Vùng nguy hiểm",
-        "securityAlerts": "Cảnh báo bảo mật",
-        "activityAlerts": "Hoạt động tài khoản",
-        "marketing": "Tiếp thị"
+        "language": "Ngôn ngữ"
     },
     "general": {
         "title": "Cài đặt chung",
@@ -29,14 +18,11 @@
         "appearanceHint": "Tùy chỉnh màu sắc và chế độ hiển thị.",
         "preferences": "Tùy chọn hiển thị",
         "preferencesHint": "Cài đặt ngôn ngữ và trải nghiệm web.",
-        "customColor": "Tùy chọn màu",
         "colorMode": "Chế độ màu",
-        "colorModeHint": "Chọn chế độ hiển thị giao diện.",
         "light": "Sáng",
         "auto": "Tự động",
         "dark": "Tối",
         "themeColor": "Màu chủ đề",
-        "themeColorHint": "Chọn màu nhấn cho giao diện.",
         "language": "Ngôn ngữ",
         "languageHint": "Chọn ngôn ngữ hiển thị trên trang web.",
         "reduceMotion": "Giảm chuyển động",
@@ -58,9 +44,7 @@
             "success": "Đổi mật khẩu thành công",
             "successDetail": "Mật khẩu của bạn đã được cập nhật. Các phiên đăng nhập khác đã bị đăng xuất.",
             "error": "Không thể đổi mật khẩu",
-            "mismatch": "Mật khẩu xác nhận không khớp",
-            "lastChanged": "Đổi lần cuối: {date}",
-            "neverChanged": "Chưa từng đổi mật khẩu"
+            "mismatch": "Mật khẩu xác nhận không khớp"
         },
         "twoFactor": {
             "title": "Xác thực 2 yếu tố (2FA)",
@@ -69,24 +53,19 @@
             "disabled": "Đã tắt",
             "enable": "Bật 2FA",
             "disable": "Tắt 2FA",
-            "setupTitle": "Thiết lập 2FA",
             "setupStep1": "Quét mã QR bên dưới bằng ứng dụng xác thực (Google Authenticator, Authy, v.v.)",
             "setupStep2": "Nhập mã 6 số từ ứng dụng để xác nhận",
-            "manualEntry": "Nhập thủ công",
             "manualEntryHint": "Nếu không thể quét mã QR, hãy nhập mã bên dưới vào ứng dụng xác thực.",
-            "verificationCode": "Mã xác thực",
             "verificationCodeHint": "Nhập mã 6 số từ ứng dụng xác thực",
             "verify": "Xác nhận",
             "verifying": "Đang xác nhận...",
             "setupSuccess": "Bật 2FA thành công!",
             "setupSuccessDetail": "Tài khoản của bạn đã được bảo vệ bằng xác thực 2 yếu tố.",
             "setupError": "Không thể bật 2FA",
-            "disableConfirm": "Xác nhận tắt 2FA",
             "disableWarning": "Tắt 2FA sẽ giảm bảo mật tài khoản. Bạn cần nhập mật khẩu để xác nhận.",
             "disablePassword": "Nhập mật khẩu để xác nhận",
             "disableSuccess": "Đã tắt 2FA",
             "disableError": "Không thể tắt 2FA",
-            "recoveryCodes": "Mã khôi phục",
             "recoveryCodesHint": "Lưu các mã này ở nơi an toàn. Mỗi mã chỉ sử dụng được một lần khi bạn không có ứng dụng xác thực.",
             "recoveryCodesSaved": "Tôi đã lưu các mã khôi phục",
             "copyAll": "Sao chép tất cả"
@@ -96,14 +75,11 @@
             "description": "Quản lý các thiết bị đang đăng nhập vào tài khoản của bạn.",
             "currentSession": "Phiên hiện tại",
             "revokeAll": "Đăng xuất tất cả thiết bị khác",
-            "revokeAllConfirm": "Bạn có chắc muốn đăng xuất khỏi tất cả các thiết bị khác?",
             "revokeAllSuccess": "Đã đăng xuất {count} phiên",
             "revoke": "Đăng xuất",
-            "revokeConfirm": "Bạn có chắc muốn đăng xuất phiên này?",
             "revokeSuccess": "Đã đăng xuất phiên",
             "revokeError": "Không thể đăng xuất phiên",
             "noSessions": "Không có phiên đăng nhập nào",
-            "lastActive": "Hoạt động lần cuối: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "Di động",
@@ -114,43 +90,11 @@
         "loginHistory": {
             "title": "Lịch sử đăng nhập",
             "description": "Xem lịch sử hoạt động bảo mật gần đây.",
-            "noLogs": "Chưa có hoạt động nào",
-            "showMore": "Xem thêm",
-            "events": {
-                "login_success": "Đăng nhập thành công",
-                "login_failed": "Đăng nhập thất bại",
-                "login_passkey": "Đăng nhập bằng Passkey",
-                "register": "Đăng ký tài khoản",
-                "logout": "Đăng xuất",
-                "password_change": "Đổi mật khẩu",
-                "password_reset_request": "Yêu cầu đặt lại mật khẩu",
-                "password_reset_complete": "Đặt lại mật khẩu",
-                "two_factor_enable": "Bật 2FA",
-                "two_factor_disable": "Tắt 2FA",
-                "two_factor_verify": "Xác thực 2FA",
-                "passkey_register": "Thêm Passkey",
-                "passkey_remove": "Xóa Passkey",
-                "account_lock": "Khóa tài khoản",
-                "account_unlock": "Mở khóa tài khoản",
-                "account_suspend": "Đình chỉ tài khoản",
-                "account_ban": "Cấm tài khoản",
-                "account_reactivate": "Kích hoạt lại",
-                "oauth_link": "Liên kết OAuth",
-                "oauth_unlink": "Hủy liên kết OAuth",
-                "session_revoke": "Thu hồi phiên",
-                "session_revoke_all": "Thu hồi tất cả phiên",
-                "email_change": "Đổi email",
-                "profile_update": "Cập nhật hồ sơ",
-                "suspicious_activity": "Hoạt động đáng ngờ"
-            }
+            "noLogs": "Chưa có hoạt động nào"
         },
         "alerts": {
             "title": "Cảnh báo bảo mật",
-            "description": "Nhận thông báo khi có hoạt động đáng ngờ trên tài khoản.",
-            "emailOnNewLogin": "Email khi có đăng nhập mới",
-            "emailOnNewLoginHint": "Nhận email khi có đăng nhập từ thiết bị hoặc vị trí mới.",
-            "emailOnPasswordChange": "Email khi đổi mật khẩu",
-            "emailOnPasswordChangeHint": "Nhận email xác nhận khi mật khẩu được thay đổi."
+            "description": "Nhận thông báo khi có hoạt động đáng ngờ trên tài khoản."
         }
     },
     "account": {
@@ -161,7 +105,6 @@
             "description": "Thông tin tài khoản của bạn. Một số thông tin được đồng bộ từ Discord.",
             "username": "Tên người dùng",
             "sevenId": "7ID",
-            "email": "Email",
             "displayName": "Tên hiển thị",
             "registeredAt": "Ngày đăng ký",
             "status": "Trạng thái",
@@ -173,15 +116,11 @@
             "updating": "Đang cập nhật...",
             "updateSuccess": "Cập nhật hồ sơ thành công!",
             "updateSuccessDetail": "Avatar và tên hiển thị đã được đồng bộ.",
-            "updateError": "Không thể cập nhật hồ sơ",
-            "updateErrorDetail": "Vui lòng thử lại sau.",
-            "discordSynced": "Discord đã đồng bộ",
-            "steamSynced": "Steam đã đồng bộ"
+            "updateError": "Không thể cập nhật hồ sơ"
         },
         "avatar": {
             "title": "Ảnh đại diện",
-            "description": "Ảnh đại diện hiện tại được đồng bộ từ Discord.",
-            "comingSoon": "Tải ảnh đại diện tùy chỉnh — sắp ra mắt"
+            "description": "Ảnh đại diện hiện tại được đồng bộ từ Discord."
         },
         "email": {
             "title": "Email",
@@ -235,9 +174,7 @@
             "title": "Thông báo bảo mật",
             "description": "Nhận email khi có hoạt động bảo mật trên tài khoản.",
             "loginAlert": "Cảnh báo đăng nhập",
-            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới.",
-            "passwordChange": "Thay đổi mật khẩu",
-            "passwordChangeHint": "Email khi mật khẩu được thay đổi."
+            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới."
         },
         "activity": {
             "title": "Hoạt động tài khoản",
@@ -261,10 +198,6 @@
         "updating": "Đang cập nhật...",
         "success": "Cập nhật hồ sơ thành công!",
         "successDetail": "Avatar và tên hiển thị đã được đồng bộ.",
-        "error": "Không thể cập nhật hồ sơ",
-        "errorDetail": "Vui lòng thử lại sau.",
-        "discordSynced": "Discord đã đồng bộ",
-        "steamSynced": "Steam đã đồng bộ",
-        "hint": "Nhấn nút bên dưới để cập nhật avatar và tên hiển thị mới nhất từ Discord và Steam."
+        "error": "Không thể cập nhật hồ sơ"
     }
 }

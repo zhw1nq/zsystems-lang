@@ -1,28 +1,13 @@
 {
     "hero": {
-        "explore": "探索",
-        "store": "商店",
-        "letsPlayNow": "現在就開始遊玩！",
-        "wantToBeVip": "想成為 VIP 嗎？",
-        "loginToZsystems": "登入 zSystems",
-        "weaponSkins": "武器造型",
-        "ranks": "階級",
         "contact": "聯絡",
-        "getDemo": "取得示範",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "立即遊玩",
         "login": "登入",
         "changeSkins": "更換武器造型"
     },
     "nav": {
-        "community": "社群",
-        "ranks": "階級",
         "support": "支援"
-    },
-    "stats": {
-        "uptime": "運行時間",
-        "ping": "延遲",
-        "players6h": "玩家數 / 6 小時"
     },
     "footer": {
         "selectLanguage": "選擇語言",
@@ -31,78 +16,75 @@
         "terms": "服務條款",
         "contact": "聯絡",
         "poweredBy": "由 zSystems 提供技術支援 — 由 zhw1nq 與 7-Mau 團隊開發",
-       "authLogin": "登入",
-"authRegister": "註冊",
-"authAccount": "帳號",
-"brandDescription": "越南最大的 CS2 社群。穩定的伺服器系統，高效能與極低延遲。",
-"navigation": "導覽",
-"servers": "伺服器",
-"support": "支援",
-"serverTip": "打開 CS2 控制台，輸入 connect [IP] 加入遊戲",
-"copyConnect": "點擊複製 connect 指令",
-"dmca": "版權與 DMCA 保護：zSystems 與 7-Mau 社群尊重智慧財產權。Counter-Strike 2 是 Valve Corporation 的註冊商標。",
-"quickLinks": {
-    "leaderboard": "排行榜",
-    "stats": "個人統計",
-    "matches": "比賽紀錄",
-    "register": "註冊帳號",
-    "guide": "加入指南",
-    "configs": "下載設定檔"
-},
-"supportLinks": {
-    "terms": "使用條款",
-    "privacy": "隱私政策",
-    "rules": "社群規則",
-    "report": "回報違規",
-    "contact": "聯絡支援",
-    "faq": "常見問題"
-}
-},
-"character": {
-    "name": "7-CHAN"
-},
-"preloader": {
-    "restricted18": "18+ 限制",
-    "warningInitial": "每天遊戲超過 180 分鐘可能會對健康造成不良影響。",
-    "warningFun": "祝大家在 7-mau.com 玩得愉快！",
-    "warningStuck": "如果載入畫面卡住或過久，請重新整理頁面繼續。",
-    "loading": "載入中"
-},
-"zsystems": {
-    "title": "zSystems",
-    "subtitle": "zSystems 系統架構",
-    "backHome": "返回首頁",
-    "heroTag": "zSystems & vhming 核心平台",
-    "description": "zSystems 與 vhming 是一個進階管理與 All-In-One (AIO) 使用者控制台系統，提供無縫運行、卓越效能與即時資料庫管理能力。",
-    "legalTitle": "系統與法律資訊",
-    "features": {
-        "engineTitle": "高效能引擎",
-        "engineDesc": "由新一代處理模組驅動，提供毫秒級執行與強大效能管理能力。",
-        "cacheTitle": "集中式 L2 快取層",
-        "cacheDesc": "透過高效能 Redis 快取叢集進行持久化與同步，支援大量用戶即時存取。",
-        "architectureTitle": "電影級系統架構",
-        "architectureDesc": "內建強大網路安全防護、安全連線協議與自動會話檢查機制。",
-        "pipelineTitle": "超低延遲管線",
-        "pipelineDesc": "專為高要求玩家社群與多人系統設計的最佳化執行流程。"
+        "authLogin": "登入",
+        "authRegister": "註冊",
+        "authAccount": "帳號",
+        "brandDescription": "越南最大的 CS2 社群。穩定的伺服器系統，高效能與極低延遲。",
+        "navigation": "導覽",
+        "servers": "伺服器",
+        "support": "支援",
+        "serverTip": "打開 CS2 控制台，輸入 connect [IP] 加入遊戲",
+        "copyConnect": "點擊複製 connect 指令",
+        "quickLinks": {
+            "leaderboard": "排行榜",
+            "stats": "個人統計",
+            "register": "註冊帳號",
+            "guide": "加入指南",
+            "configs": "下載設定檔"
+        },
+        "supportLinks": {
+            "terms": "使用條款",
+            "privacy": "隱私政策",
+            "rules": "社群規則",
+            "report": "回報違規",
+            "contact": "聯絡支援",
+            "faq": "常見問題"
+        }
     },
-    "owner": {
-        "label": "擁有者",
-        "name": "luxiie",
-        "desc": "法律代表、創辦人暨 zSystems 系統正式版權持有人。",
-        "linkText": "造訪 luxiie"
+    "character": {
+        "name": "7-CHAN"
     },
-    "developer": {
-        "label": "開發者",
-        "name": "vhming",
-        "desc": "zSystems 的主要開發者與系統架構設計師。",
-        "linkText": "造訪 vhming.com"
+    "preloader": {
+        "restricted18": "18+ 限制",
+        "warningInitial": "每天遊戲超過 180 分鐘可能會對健康造成不良影響。",
+        "warningFun": "祝大家在 7-mau.com 玩得愉快！",
+        "warningStuck": "如果載入畫面卡住或過久，請重新整理頁面繼續。",
+        "loading": "載入中"
     },
-    "dmca": {
-        "label": "版權保護",
-        "name": "DMCA Protected",
-        "desc": "內容、設計與原始碼均受全球數位版權保護。",
-        "linkText": "驗證 DMCA"
-    },
-    "footerText": "由 vhming 以極致工藝打造。"
+    "zsystems": {
+        "title": "zSystems",
+        "backHome": "返回首頁",
+        "heroTag": "zSystems & vhming 核心平台",
+        "description": "zSystems 與 vhming 是一個進階管理與 All-In-One (AIO) 使用者控制台系統，提供無縫運行、卓越效能與即時資料庫管理能力。",
+        "legalTitle": "系統與法律資訊",
+        "features": {
+            "engineTitle": "高效能引擎",
+            "engineDesc": "由新一代處理模組驅動，提供毫秒級執行與強大效能管理能力。",
+            "cacheTitle": "集中式 L2 快取層",
+            "cacheDesc": "透過高效能 Redis 快取叢集進行持久化與同步，支援大量用戶即時存取。",
+            "architectureTitle": "電影級系統架構",
+            "architectureDesc": "內建強大網路安全防護、安全連線協議與自動會話檢查機制。",
+            "pipelineTitle": "超低延遲管線",
+            "pipelineDesc": "專為高要求玩家社群與多人系統設計的最佳化執行流程。"
+        },
+        "owner": {
+            "label": "擁有者",
+            "name": "luxiie",
+            "desc": "法律代表、創辦人暨 zSystems 系統正式版權持有人。",
+            "linkText": "造訪 luxiie"
+        },
+        "developer": {
+            "label": "開發者",
+            "name": "vhming",
+            "desc": "zSystems 的主要開發者與系統架構設計師。",
+            "linkText": "造訪 vhming.com"
+        },
+        "dmca": {
+            "label": "版權保護",
+            "name": "DMCA Protected",
+            "desc": "內容、設計與原始碼均受全球數位版權保護。",
+            "linkText": "驗證 DMCA"
+        },
+        "footerText": "由 vhming 以極致工藝打造。"
     }
 }

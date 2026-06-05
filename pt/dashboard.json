@@ -3,27 +3,20 @@
     "subtitle": "Visão geral e gerenciamento do servidor",
     "servers": {
         "title": "Servidores",
-        "count": "{count} servidores",
         "allServers": "Todos os servidores",
         "noServers": "Nenhum servidor neste grupo"
     },
     "serverCard": {
-        "connect": "Conectar",
         "noMap": "Sem mapa",
         "players": "{current}/{max} Jogadores",
-        "offline": "Offline",
         "noInfo": "Nenhuma informação do servidor disponível."
     },
     "serverDetail": {
         "players": "Jogadores",
-        "noPlayers": "Sem jogadores",
         "teamCT": "Contra-Terroristas",
         "teamT": "Terroristas",
-        "teamUnassigned": "Não atribuído",
-        "serverInfo": "Informações do servidor",
         "chat": "Chat",
         "contextMenu": {
-            "viewSteamProfile": "Ver conta",
             "copySteamId": "Copiar SteamID",
             "copyPlayerName": "Copiar nome do jogador",
             "copyStats": "Copiar estatísticas",
@@ -31,7 +24,6 @@
         },
         "spectators": "Espectadores",
         "noSpectators": "Sem espectadores",
-        "copied": "Copiado {label}",
         "unknown": "Desconhecido"
     },
     "stats": {
@@ -80,7 +72,18 @@
             "removeBan": "Remover banimento",
             "removeMute": "Remover mute",
             "deleteBan": "Excluir banimento",
-            "deleteMute": "Excluir mute"
+            "deleteMute": "Excluir mute",
+            "confirmDeleteTitle": "Xác nhận xóa",
+            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
+            "removeReasonPlaceholder": "Nhập lý do gỡ...",
+            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
+            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
+            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
+            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
+            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
+            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
         }
     },
     "playerAction": {
@@ -111,48 +114,16 @@
     "privilege": {
         "title": "Privilégios do servidor",
         "description": "Faça upgrade da sua conta para desbloquear cosméticos exclusivos e acesso prioritário.",
-        "discount": "Economize",
-        "month1": "1 mês",
-        "months3": "3 meses",
-        "mostPopular": "MAIS POPULAR",
-        "periodMonthly": "/ 31 dias",
-        "periodQuarterly": "/ 90 dias",
-        "currentPlan": "PLANO ATUAL",
         "tiers": {
             "member": {
-                "name": "GRÁTIS",
-                "priceMonthly": "GRÁTIS",
-                "priceQuarterly": "GRÁTIS",
-                "description": "Experiência básica",
-                "button": "JOGAR AGORA"
+                "description": "Experiência básica"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
-                "description": "Prestígio máximo",
-                "button": "FAZER UPGRADE"
+                "description": "Prestígio máximo"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
-                "description": "Experiência aprimorada",
-                "button": "FAZER UPGRADE"
+                "description": "Experiência aprimorada"
             }
-        },
-        "features": {
-            "customSkins": "Personalizar facas, luvas e armas",
-            "createCollections": "Criar coleções de skins",
-            "mvpPackFree": "Usar pacote MVP grátis",
-            "publicServers": "Entrar em servidores da comunidade",
-            "prioritySlot": "Acesso prioritário ao servidor",
-            "fastSupport": "Suporte prioritário de admins",
-            "mvpPackVip": "Desbloquear pacote MVP VIP",
-            "customLoadout": "Configuração personalizada de loadout",
-            "agentWibu3D": "Agentes Wibu 3D exclusivos",
-            "weaponWibu3D": "Armas Wibu 3D supremas",
-            "adminPrivileges": "Privilégios de administrador supremos"
         }
     },
     "support": {
@@ -160,124 +131,5 @@
         "description": "Pessoas sempre prontas para te ajudar na comunidade 7-Mau",
         "admin": "Administrador",
         "staff": "Equipe de suporte"
-    },
-    "match": {
-        "title": "Partidas",
-        "subtitle": "Histórico de partidas no sistema",
-        "searchPlaceholder": "Pesquisar pelo nome da equipe...",
-        "noMatches": "Nenhuma partida encontrada",
-        "live": "AO VIVO",
-        "finished": "ENCERRADA",
-        "win": "VITÓRIA",
-        "lose": "DERROTA",
-        "draw": "EMPATE",
-        "duration": "{minutes} min",
-        "server": "Servidor",
-        "downloadDemo": "Baixar Demo",
-        "noDemo": "Sem Demo",
-        "viewDetail": "Detalhes",
-        "backToList": "Voltar",
-        "matchNumber": "Partida #{id}",
-        "map": "Mapa",
-        "records": "{count} partidas",
-        "page": "Página {page}/{total}",
-        "previous": "Anterior",
-        "next": "Próxima",
-        "tabs": {
-            "scoreboard": "Placar",
-            "rounds": "Rodadas",
-            "kills": "Abates",
-            "roundStats": "Stats por Round",
-            "economy": "Economia"
-        },
-        "scoreboard": {
-            "player": "Jogador",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "adr": "ADR",
-            "hsPercent": "HS%",
-            "kd": "K/D",
-            "damage": "DMG",
-            "entry": "Entry",
-            "entryWins": "Entry W",
-            "utilityDmg": "DMG Util",
-            "flash": "Flash",
-            "clutch1v1": "1v1",
-            "clutch1v2": "1v2",
-            "firstKills": "FK",
-            "accuracy": "Precisão",
-            "ace": "Ace",
-            "quadKill": "4K",
-            "tripleKill": "3K",
-            "doubleKill": "2K",
-            "liveTime": "Tempo vivo",
-            "cashEarned": "Dinheiro ganho"
-        },
-        "rounds": {
-            "round": "R{number}",
-            "half1": "1º Tempo",
-            "half2": "2º Tempo",
-            "overtime": "Prorrogação",
-            "bombExploded": "Bomba explodiu",
-            "bombDefused": "Bomba desarmada",
-            "elimination": "Eliminação",
-            "timeout": "Tempo esgotado",
-            "drawRound": "Empate",
-            "mvp": "MVP",
-            "planted": "Bomba plantada",
-            "defused": "Bomba desarmada"
-        },
-        "kills": {
-            "round": "Round",
-            "killer": "Abateu",
-            "victim": "Vítima",
-            "weapon": "Arma",
-            "distance": "Distância",
-            "assister": "Assistência",
-            "headshot": "HS",
-            "wallbang": "WB",
-            "noscope": "NS",
-            "thrusmoke": "Smoke",
-            "blind": "Cego",
-            "inAir": "Ar",
-            "flashAssist": "Flash",
-            "allRounds": "Todos",
-            "filterByRound": "Filtrar por round",
-            "entry": "Entry"
-        },
-        "roundStats": {
-            "round": "Round",
-            "player": "Jogador",
-            "side": "Lado",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "damage": "DMG",
-            "hsKills": "HS",
-            "utilDmg": "Util",
-            "flash": "Flash",
-            "trade": "Trade",
-            "alive": "Vivo",
-            "dead": "Morto",
-            "selectRound": "Selecionar round"
-        },
-        "economy": {
-            "avgEquipValue": "Média Equip.",
-            "totalMoney": "Gasto total",
-            "round": "Round",
-            "team": "Equipe",
-            "equipValue": "Equipamento",
-            "moneyLeft": "Dinheiro restante",
-            "weapon": "Arma principal",
-            "armor": "Colete",
-            "helmet": "Capacete",
-            "defuser": "Kit",
-            "grenades": "Granadas",
-            "fullBuy": "Full Buy",
-            "forceBuy": "Force Buy",
-            "eco": "Eco",
-            "pistol": "Pistola"
-        }
     }
 }

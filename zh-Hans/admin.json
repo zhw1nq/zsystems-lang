@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "管理员总数",
-        "totalServers": "服务器总数",
-        "activeBans": "当前封禁",
-        "activeMutes": "当前禁言",
-        "totalLogs": "日志总数",
         "overview": "系统概览",
-        "description": "系统范围的指标与活动趋势",
         "total": "总计",
         "recentActivity": "最近活动",
         "last7Days": "过去 7 天的封禁与禁言",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "执行操作最多的管理员",
         "noData": "暂无数据",
         "errorLoading": "加载统计数据失败",
-        "totalWarns": "警告总数",
-        "totalChatMessages": "聊天消息",
         "uniquePlayers": "独立玩家",
-        "totalPlaytimeHours": "总游戏时长",
-        "totalSessions": "总会话数",
         "playerActivity": "玩家活动",
         "last30Days": "过去 30 天的独立玩家与会话数",
         "topMaps": "热门地图",
         "topMapsDesc": "按会话数量统计的最热门地图",
         "serverStats": "服务器统计",
-        "serverStatsDesc": "各服务器的玩家活动明细",
         "hours": "小时",
         "sessions": "会话",
         "players": "玩家",
@@ -59,8 +49,7 @@
         "showAll": "显示全部 {count} 台服务器",
         "showLess": "收起",
         "allServers": "所有服务器",
-        "last3Months": "过去 3 个月",
-        "last14Days": "过去 14 天"
+        "last3Months": "过去 3 个月"
     },
     "admins": {
         "title": "管理员列表",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "使用模板或自定义设置配置新的管理员",
         "templates": "快速模板",
-        "information": "管理员信息",
         "preview": "预览",
         "steamInput": "Steam ID / 个人资料链接",
         "steamPlaceholder": "SteamID64、个人资料链接或自定义名称...",
         "steamHelp": "输入 SteamID64、个人资料链接或自定义 URL 后按 Enter",
-        "resolved": "已解析",
         "namePlaceholder": "管理员显示名称",
         "group": "管理员组",
         "selectGroup": "选择一个组...",
         "noGroup": "无组（自定义）",
         "flagsFromGroup": "权限标志继承自所选组",
-        "daysFromNow": "天后",
-        "alreadyExpired": "已过期",
-        "previewName": "管理员名称",
-        "noFlags": "未设置权限标志",
-        "noServer": "未选择服务器"
+        "alreadyExpired": "已过期"
     },
     "gift": {
         "title": "领取你的礼物",
-        "loading": "加载中...",
-        "redeemed": "礼物已领取！",
-        "unavailable": "礼物不可用",
-        "notFound": "未找到礼物",
-        "package": "套餐",
         "duration": "时长",
-        "days": "天",
-        "expiresIn": "链接将在以下时间后过期",
-        "claim": "领取礼物",
-        "loginRequired": "你必须登录并绑定 Steam 账户",
-        "redeemSuccess": "礼物领取成功！你现在是管理员。",
-        "redeemSuccessMessage": "你的管理员权限已激活。",
-        "redeemFailed": "领取礼物失败",
-        "alreadyUsed": "此礼物链接已被使用。",
-        "expired": "此礼物链接已过期。",
-        "notFoundMessage": "此礼物链接不存在或已被删除。"
+        "days": "天"
     },
     "servers": {
         "title": "服务器列表",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON 控制台",
         "sendCommand": "发送命令",
         "command": "命令",
-        "response": "响应",
-        "noRcon": "未配置 RCON",
-        "cannotDelete": "无法删除已关联管理员的服务器"
+        "noRcon": "未配置 RCON"
     },
     "bans": {
         "title": "封禁列表",
@@ -160,14 +127,10 @@
         "actions": "操作",
         "unban": "解除封禁",
         "reban": "重新封禁",
-        "edit": "编辑",
-        "addComment": "添加备注",
         "delete": "删除",
         "minutes": "分钟",
         "permanent": "永久",
         "active": "生效中",
-        "unbanned": "已解除封禁",
-        "expired": "已过期",
         "addBanDescription": "在服务器系统中创建新的游戏封禁（ban）命令.",
         "noBans": "暂无封禁记录"
     },
@@ -187,15 +150,11 @@
         "actions": "操作",
         "unmute": "解除禁言",
         "remute": "重新禁言",
-        "edit": "编辑",
-        "addComment": "添加备注",
         "delete": "删除",
         "gag": "GAG（聊天）",
         "mute": "MUTE（语音）",
         "silence": "SILENCE（全部）",
         "active": "生效中",
-        "unmuted": "已解除禁言",
-        "expired": "已过期",
         "addMuteDescription": "在服务器系统中创建新的聊天/语音禁言（mute）命令.",
         "noMutes": "暂无禁言记录"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "加载中...",
         "error": "发生错误",
         "noAccess": "访问被拒绝",
         "noAccessDesc": "你没有权限访问此页面。",
@@ -293,8 +251,6 @@
             "kill": "确定要强制终止此服务器吗？"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "内存",
             "disk": "磁盘",
             "network": "网络",
             "uptime": "运行时间",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "账户详情",
-            "tabInfo": "信息",
-            "tabSessions": "会话",
-            "tabLogs": "安全日志",
             "basicInfo": "基本信息",
             "statistics": "统计",
             "linkedAccounts": "已绑定账户",
             "adminActions": "管理员操作",
-            "uuid": "UUID",
             "loginCount": "登录次数",
             "lastLoginAt": "最后登录",
             "lastLoginIp": "最后 IP",
@@ -372,13 +324,10 @@
             "twoFactor": "双重验证",
             "passkey": "Passkey",
             "locale": "语言",
-            "tosAccepted": "已接受服务条款",
-            "marketing": "营销邮件",
             "verified": "已验证",
             "notVerified": "未验证",
             "enabled": "已启用",
             "disabled": "已禁用",
-            "never": "从未",
             "noData": "暂无数据",
             "notLinked": "未绑定",
             "createdAt": "创建时间",
@@ -387,20 +336,11 @@
             "failedAttempts": "失败尝试次数"
         },
         "sessions": {
-            "device": "设备",
-            "ip": "IP 地址",
-            "lastActive": "最后活动",
             "revoke": "撤销",
             "revokeAll": "全部登出",
-            "noSessions": "暂无活跃会话",
-            "revokeConfirm": "撤销此会话？",
-            "revokeAllConfirm": "登出该用户的所有会话？"
+            "noSessions": "暂无活跃会话"
         },
         "logs": {
-            "event": "事件",
-            "ip": "IP",
-            "time": "时间",
-            "details": "详情",
             "noLogs": "暂无日志",
             "loadMore": "加载更多"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "解绑 Steam？用户可能失去账户恢复选项。",
             "displayName": "显示名称",
             "email": "邮箱"
-        },
-        "toast": {
-            "actionSuccess": "操作成功完成",
-            "actionFailed": "操作失败"
         },
         "editProfile": {
             "emailWarning": "修改邮箱将重置验证状态",

@@ -3,27 +3,20 @@
     "subtitle": "Chòi cả thảy cạ quản pò máy",
     "servers": {
         "title": "Pò máy",
-        "count": "{count} pò máy",
         "allServers": "Cả thảy",
         "noServers": "Bấu mỉ pò máy trong nhóm nẩy"
     },
     "serverCard": {
-        "connect": "Nối",
         "noMap": "Bấu mỉ bản đồ",
         "players": "{current}/{max} cần lỉn",
-        "offline": "Lống mạng",
         "noInfo": "Bấu mỉ tin pò máy"
     },
     "serverDetail": {
         "players": "Cần lỉn",
-        "noPlayers": "Bấu mỉ cần lỉn",
         "teamCT": "Chống khủng bố",
         "teamT": "Khủng bố",
-        "teamUnassigned": "Chưa chia phe",
-        "serverInfo": "Tin pò máy",
         "chat": "Nói chuyện",
         "contextMenu": {
-            "viewSteamProfile": "Chòi tài khoản",
             "copySteamId": "Chép SteamID",
             "copyPlayerName": "Chép tên",
             "copyStats": "Chép chỉ lỉn",
@@ -31,7 +24,6 @@
         },
         "spectators": "Người chòi",
         "noSpectators": "Bấu mỉ người chòi",
-        "copied": "Đã chép {label}",
         "unknown": "Bấu chắc"
     },
     "stats": {
@@ -80,7 +72,18 @@
             "removeBan": "Gỡ cấm",
             "removeMute": "Gỡ cấm tiếng",
             "deleteBan": "Xóa cấm",
-            "deleteMute": "Xóa cấm tiếng"
+            "deleteMute": "Xóa cấm tiếng",
+            "confirmDeleteTitle": "Xác nhận xóa",
+            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
+            "removeReasonPlaceholder": "Nhập lý do gỡ...",
+            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
+            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
+            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
+            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
+            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
+            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
         }
     },
     "playerAction": {
@@ -111,48 +114,16 @@
     "privilege": {
         "title": "Quyền trong pò máy",
         "description": "Nâng cấp tài khoản để mở quyền cạ đồ mạnh trong hệ thống. Chọn gói hợp pỉ.",
-        "discount": "Giảm",
-        "month1": "1 bươn",
-        "months3": "3 bươn",
-        "mostPopular": "LAI CẦN DÙNG",
-        "periodMonthly": "/ 30 ngày",
-        "periodQuarterly": "/ 90 ngày",
-        "currentPlan": "ĐANG DÙNG",
         "tiers": {
             "member": {
-                "name": "FREE",
-                "priceMonthly": "BẤU MẤT TIỀN",
-                "priceQuarterly": "BẤU MẤT TIỀN",
-                "description": "Chơi cơ bản",
-                "button": "CHƠI NGAY"
+                "description": "Chơi cơ bản"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
-                "description": "Đẳng cấp cao nhất",
-                "button": "NÂNG"
+                "description": "Đẳng cấp cao nhất"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
-                "description": "Nâng trải nghiệm",
-                "button": "NÂNG"
+                "description": "Nâng trải nghiệm"
             }
-        },
-        "features": {
-            "customSkins": "Đổi skin cạ súng",
-            "createCollections": "Tạo bộ sưu tập",
-            "mvpPackFree": "MVP free",
-            "publicServers": "Vào pò máy thoải mái",
-            "prioritySlot": "Ưu tiên vào trước",
-            "fastSupport": "Hỗ trợ nhanh",
-            "mvpPackVip": "MVP VIP",
-            "customLoadout": "Loadout riêng",
-            "agentWibu3D": "Agent 3D",
-            "weaponWibu3D": "Vũ khí 3D",
-            "adminPrivileges": "Quyền quản cao nhất"
         }
     },
     "support": {
@@ -160,124 +131,5 @@
         "description": "Luôn sẵn sàng giúp pỉ trong cộng đồng",
         "admin": "Cần quản",
         "staff": "Cần giúp"
-    },
-    "match": {
-        "title": "Trận đấu",
-        "subtitle": "Lịch sử trận đấu trong hệ thống",
-        "searchPlaceholder": "Tìm theo tên đội...",
-        "noMatches": "Bấu mỉ trận đấu",
-        "live": "ĐANG ĐÁNH",
-        "finished": "XONG",
-        "win": "THẮNG",
-        "lose": "THUA",
-        "draw": "HÒA",
-        "duration": "{minutes} phút",
-        "server": "Pò máy",
-        "downloadDemo": "Tải demo",
-        "noDemo": "Bấu mỉ demo",
-        "viewDetail": "Xem",
-        "backToList": "Quay lại",
-        "matchNumber": "Trận #{id}",
-        "map": "Bản đồ",
-        "records": "{count} trận",
-        "page": "Trang {page}/{total}",
-        "previous": "Trước",
-        "next": "Sau",
-        "tabs": {
-            "scoreboard": "Điểm",
-            "rounds": "Diễn biến",
-            "kills": "Sát thương",
-            "roundStats": "Chỉ lỉn round",
-            "economy": "Kinh tế"
-        },
-        "scoreboard": {
-            "player": "Cần lỉn",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "adr": "ADR",
-            "hsPercent": "HS%",
-            "kd": "K/D",
-            "damage": "DMG",
-            "entry": "Entry",
-            "entryWins": "Entry W",
-            "utilityDmg": "Utility DMG",
-            "flash": "Flash",
-            "clutch1v1": "1v1",
-            "clutch1v2": "1v2",
-            "firstKills": "FK",
-            "accuracy": "Chính xác",
-            "ace": "Ace",
-            "quadKill": "4K",
-            "tripleKill": "3K",
-            "doubleKill": "2K",
-            "liveTime": "Thời gian sống",
-            "cashEarned": "Tiền kiếm"
-        },
-        "rounds": {
-            "round": "R{number}",
-            "half1": "Hiệp 1",
-            "half2": "Hiệp 2",
-            "overtime": "Hiệp phụ",
-            "bombExploded": "Bom nổ",
-            "bombDefused": "Gỡ bom",
-            "elimination": "Tiêu diệt",
-            "timeout": "Hết giờ",
-            "drawRound": "Hòa",
-            "mvp": "MVP",
-            "planted": "Đặt bom",
-            "defused": "Gỡ bom"
-        },
-        "kills": {
-            "round": "Round",
-            "killer": "Người bắn",
-            "victim": "Nạn nhân",
-            "weapon": "Vũ khí",
-            "distance": "K/C",
-            "assister": "Hỗ trợ",
-            "headshot": "HS",
-            "wallbang": "WB",
-            "noscope": "NS",
-            "thrusmoke": "Smoke",
-            "blind": "Blind",
-            "inAir": "Air",
-            "flashAssist": "Flash",
-            "allRounds": "Tất cả",
-            "filterByRound": "Lọc theo round",
-            "entry": "Entry"
-        },
-        "roundStats": {
-            "round": "Round",
-            "player": "Cần lỉn",
-            "side": "Phe",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "damage": "DMG",
-            "hsKills": "HS",
-            "utilDmg": "Util",
-            "flash": "Flash",
-            "trade": "Trade",
-            "alive": "Sống",
-            "dead": "Chết",
-            "selectRound": "Chọn round"
-        },
-        "economy": {
-            "avgEquipValue": "TB trang bị",
-            "totalMoney": "Tổng chi tiêu",
-            "round": "Round",
-            "team": "Đội",
-            "equipValue": "Trang bị",
-            "moneyLeft": "Tiền còn",
-            "weapon": "Vũ khí chính",
-            "armor": "Giáp",
-            "helmet": "Mũ",
-            "defuser": "Kit",
-            "grenades": "Lựu đạn",
-            "fullBuy": "Full Buy",
-            "forceBuy": "Force Buy",
-            "eco": "Eco",
-            "pistol": "Pistol"
-        }
     }
 }

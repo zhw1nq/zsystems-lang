@@ -2,54 +2,28 @@
     "models": {
         "title": "zModels",
         "description": "โมเดลผู้เล่นพิเศษสำหรับ SVIP",
-        "equipped": "ติดตั้งแล้ว",
-        "equip": "ติดตั้ง",
-        "unequip": "ถอดออก",
-        "ct": "Counter Terrorist",
-        "t": "Terrorist",
-        "private": "ส่วนตัว",
         "search": "ค้นหาโมเดล...",
-        "noResults": "ไม่พบโมเดล",
-        "accessDenied": "ต้องใช้สิทธิ SVIP เพื่อใช้งานฟีเจอร์นี้",
-        "notLoggedIn": "กรุณาเข้าสู่ระบบเพื่อใช้งานฟีเจอร์นี้",
-        "selectCategory": "เลือกหมวดหมู่" 
+        "noResults": "ไม่พบโมเดล"
     },
     "weapons": {
         "title": "zWeapons",
         "description": "สกินอาวุธพิเศษสำหรับ SVIP",
-        "equipped": "ติดตั้งแล้ว",
-        "equip": "ติดตั้ง",
-        "unequip": "ถอดออก",
         "search": "ค้นหาอาวุธ...",
         "noResults": "ไม่พบอาวุธ",
         "selectPack": "เลือกชุดสกิน",
         "selectWeapon": "เลือกประเภทอาวุธ",
         "viewByType": "ดูตามประเภทอาวุธ",
-        "viewByPack": "ดูตามชุดสกิน",
-        "accessDenied": "ต้องใช้สิทธิ SVIP เพื่อใช้งานฟีเจอร์นี้",
-        "notLoggedIn": "กรุณาเข้าสู่ระบบเพื่อใช้งานฟีเจอร์นี้",
-        "categories": {
-            "rifles": "ปืนไรเฟิล",
-            "pistols": "ปืนพก",
-            "smgs": "SMG",
-            "heavy": "อาวุธหนัก",
-            "knives": "มีด",
-            "grenades": "ระเบิด"
-        }
+        "viewByPack": "ดูตามชุดสกิน"
     },
     "common": {
         "locked": "ต้องใช้ SVIP",
         "lockedDesc": "ฟีเจอร์นี้สำหรับผู้ใช้ SVIP เท่านั้น อัปเกรดเพื่อปลดล็อก",
-        "loading": "กำลังโหลด...",
         "equipSuccess": "ติดตั้งสำเร็จ",
         "equipSuccessDesc": "ติดตั้ง {name} เรียบร้อยแล้ว",
         "unequipSuccess": "ถอดออกแล้ว",
         "unequipSuccessDesc": "ลบ {name} ออกแล้ว",
         "equipFailed": "ติดตั้งไม่สำเร็จ",
-        "unequipFailed": "ถอดออกไม่สำเร็จ",
-        "tooFast": "เร็วเกินไป",
-        "tooFastDesc": "กรุณารอสักครู่ก่อนทำรายการใหม่",
-        "allWeapons": "ทั้งหมด"
+        "unequipFailed": "ถอดออกไม่สำเร็จ"
     },
     "mvp": {
         "title": "zMVP",
@@ -60,11 +34,6 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "แอดมิน",
-        "preview": "ตัวอย่าง",
-        "stop": "หยุด",
-        "apply": "ใช้งาน",
-        "unequip": "ถอดออก",
-        "equipped": "ติดตั้งแล้ว",
         "lockedVip": "ต้องใช้ VIP",
         "lockedVipDesc": "ฟีเจอร์นี้สำหรับผู้ใช้ VIP เท่านั้น",
         "lockedSvip": "ต้องใช้ SVIP",

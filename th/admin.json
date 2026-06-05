@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "แอดมินทั้งหมด",
-        "totalServers": "เซิร์ฟเวอร์ทั้งหมด",
-        "activeBans": "แบนที่ใช้งานอยู่",
-        "activeMutes": "มิวต์ที่ใช้งานอยู่",
-        "totalLogs": "บันทึกทั้งหมด",
         "overview": "ภาพรวมระบบ",
-        "description": "สถิติและแนวโน้มกิจกรรมทั้งระบบ",
         "total": "ทั้งหมด",
         "recentActivity": "กิจกรรมล่าสุด",
         "last7Days": "แบนและมิวต์ใน 7 วันที่ผ่านมา",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "แอดมินที่ทำกิจกรรมมากที่สุด",
         "noData": "ไม่มีข้อมูล",
         "errorLoading": "โหลดสถิติไม่สำเร็จ",
-        "totalWarns": "คำเตือนทั้งหมด",
-        "totalChatMessages": "ข้อความแชท",
         "uniquePlayers": "ผู้เล่นไม่ซ้ำ",
-        "totalPlaytimeHours": "เวลาเล่นทั้งหมด",
-        "totalSessions": "เซสชันทั้งหมด",
         "playerActivity": "กิจกรรมผู้เล่น",
         "last30Days": "ผู้เล่นและเซสชันใน 30 วันที่ผ่านมา",
         "topMaps": "แผนที่ยอดนิยม",
         "topMapsDesc": "แผนที่ที่เล่นมากที่สุด",
         "serverStats": "สถิติเซิร์ฟเวอร์",
-        "serverStatsDesc": "สรุปกิจกรรมรายเซิร์ฟเวอร์",
         "hours": "ชั่วโมง",
         "sessions": "เซสชัน",
         "players": "ผู้เล่น",
@@ -59,11 +49,9 @@
         "showAll": "แสดงทั้งหมด {count} เซิร์ฟเวอร์",
         "showLess": "แสดงน้อยลง",
         "allServers": "ทุกเซิร์ฟเวอร์",
-        "last3Months": "3 เดือนล่าสุด",
-        "last14Days": "14 วันที่ผ่านมา"
+        "last3Months": "3 เดือนล่าสุด"
     },
     "common": {
-        "loading": "กำลังโหลด...",
         "error": "เกิดข้อผิดพลาด",
         "noAccess": "ไม่มีสิทธิ์เข้าถึง",
         "noAccessDesc": "คุณไม่มีสิทธิ์เข้าถึงหน้านี้",
@@ -106,41 +94,21 @@
     "addAdmin": {
         "subtitle": "ตั้งค่าผู้ดูแลใหม่ด้วยเทมเพลตหรือแบบกำหนดเอง",
         "templates": "เทมเพลตด่วน",
-        "information": "ข้อมูลผู้ดูแล",
         "preview": "ตัวอย่าง",
         "steamInput": "Steam ID / ลิงก์โปรไฟล์",
         "steamPlaceholder": "SteamID64, ลิงก์โปรไฟล์ หรือ vanity...",
         "steamHelp": "กรอก SteamID64, ลิงก์โปรไฟล์ หรือ vanity URL แล้วกด Enter",
-        "resolved": "ยืนยันแล้ว",
         "namePlaceholder": "ชื่อที่แสดงของผู้ดูแล",
         "group": "กลุ่มผู้ดูแล",
         "selectGroup": "เลือกกลุ่ม...",
         "noGroup": "ไม่มีกลุ่ม (กำหนดเอง)",
         "flagsFromGroup": "สิทธิ์ถูกสืบทอดจากกลุ่มที่เลือก",
-        "daysFromNow": "วันนับจากวันนี้",
-        "alreadyExpired": "หมดอายุแล้ว",
-        "previewName": "ชื่อผู้ดูแล",
-        "noFlags": "ยังไม่ได้ตั้งสิทธิ์",
-        "noServer": "ยังไม่ได้เลือกเซิร์ฟเวอร์"
+        "alreadyExpired": "หมดอายุแล้ว"
     },
     "gift": {
         "title": "รับของขวัญของคุณ",
-        "loading": "กำลังโหลด...",
-        "redeemed": "รับของขวัญแล้ว!",
-        "unavailable": "ของขวัญไม่พร้อมใช้งาน",
-        "notFound": "ไม่พบของขวัญ",
-        "package": "แพ็กเกจ",
         "duration": "ระยะเวลา",
-        "days": "วัน",
-        "expiresIn": "ลิงก์หมดอายุใน",
-        "claim": "รับของขวัญ",
-        "loginRequired": "คุณต้องเข้าสู่ระบบด้วยบัญชี Steam ที่เชื่อมแล้ว",
-        "redeemSuccess": "รับของขวัญสำเร็จ! คุณเป็นผู้ดูแลแล้ว",
-        "redeemSuccessMessage": "สิทธิ์ผู้ดูแลของคุณถูกเปิดใช้งานแล้ว",
-        "redeemFailed": "รับของขวัญล้มเหลว",
-        "alreadyUsed": "ลิงก์ของขวัญนี้ถูกใช้ไปแล้ว",
-        "expired": "ลิงก์ของขวัญนี้หมดอายุแล้ว",
-        "notFoundMessage": "ลิงก์ของขวัญนี้ไม่มีอยู่หรือถูกลบแล้ว"
+        "days": "วัน"
     },
     "servers": {
         "title": "รายการเซิร์ฟเวอร์",
@@ -154,9 +122,7 @@
         "rconConsole": "คอนโซล RCON",
         "sendCommand": "ส่งคำสั่ง",
         "command": "คำสั่ง",
-        "response": "การตอบกลับ",
-        "noRcon": "ยังไม่ได้ตั้งค่า RCON",
-        "cannotDelete": "ไม่สามารถลบเซิร์ฟเวอร์ที่มีผู้ดูแลผูกอยู่"
+        "noRcon": "ยังไม่ได้ตั้งค่า RCON"
     },
     "bans": {
         "title": "รายชื่อแบน",
@@ -175,14 +141,10 @@
         "actions": "การดำเนินการ",
         "unban": "ยกเลิกแบน",
         "reban": "แบนอีกครั้ง",
-        "edit": "แก้ไข",
-        "addComment": "เพิ่มหมายเหตุ",
         "delete": "ลบ",
         "minutes": "นาที",
         "permanent": "ถาวร",
         "active": "กำลังใช้งาน",
-        "unbanned": "ยกเลิกแบนแล้ว",
-        "expired": "หมดอายุแล้ว",
         "noBans": "ยังไม่มีการแบน"
     },
     "mutes": {
@@ -202,15 +164,11 @@
         "actions": "การดำเนินการ",
         "unmute": "ยกเลิกมิวท์",
         "remute": "มิวท์อีกครั้ง",
-        "edit": "แก้ไข",
-        "addComment": "เพิ่มหมายเหตุ",
         "delete": "ลบ",
         "gag": "GAG (แชท)",
         "mute": "MUTE (เสียง)",
         "silence": "SILENCE (ทั้งคู่)",
         "active": "กำลังใช้งาน",
-        "unmuted": "ยกเลิกมิวท์แล้ว",
-        "expired": "หมดอายุแล้ว",
         "noMutes": "ยังไม่มีการปิดเสียง"
     },
     "logs": {
@@ -293,8 +251,6 @@
             "kill": "Bạn có chắc chắn muốn buộc dừng server này?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Ổ đĩa",
             "network": "Mạng",
             "uptime": "Thoi gian hoat dong",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "Chi tiết tài khoản",
-            "tabInfo": "Thông tin",
-            "tabSessions": "Phiên đăng nhập",
-            "tabLogs": "Nhật ký bảo mật",
             "basicInfo": "Thông tin cơ bản",
             "statistics": "Thống kê",
             "linkedAccounts": "Tài khoản liên kết",
             "adminActions": "Hành động quản trị",
-            "uuid": "UUID",
             "loginCount": "Số lần đăng nhập",
             "lastLoginAt": "Login cuối",
             "lastLoginIp": "IP cuối",
@@ -372,13 +324,10 @@
             "twoFactor": "Xác thực 2 bước",
             "passkey": "Passkey",
             "locale": "Ngôn ngữ",
-            "tosAccepted": "Chấp nhận ToS",
-            "marketing": "Email marketing",
             "verified": "Đã xác minh",
             "notVerified": "Chưa xác minh",
             "enabled": "Bật",
             "disabled": "Tắt",
-            "never": "Chưa bao giờ",
             "noData": "Không có dữ liệu",
             "notLinked": "Chưa liên kết",
             "createdAt": "Ngày tạo",
@@ -387,20 +336,11 @@
             "failedAttempts": "Lần thất bại"
         },
         "sessions": {
-            "device": "Thiết bị",
-            "ip": "Địa chỉ IP",
-            "lastActive": "Hoạt động cuối",
             "revoke": "Thu hồi",
             "revokeAll": "Đăng xuất tất cả",
-            "noSessions": "Không có phiên đang hoạt động",
-            "revokeConfirm": "Thu hồi phiên này?",
-            "revokeAllConfirm": "Đăng xuất tất cả phiên của người dùng này?"
+            "noSessions": "Không có phiên đang hoạt động"
         },
         "logs": {
-            "event": "Sự kiện",
-            "ip": "IP",
-            "time": "Thời gian",
-            "details": "Chi tiết",
             "noLogs": "Chưa có nhật ký",
             "loadMore": "Tải thêm"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "Hủy liên kết Steam? Người dùng có thể mất khả năng khôi phục tài khoản.",
             "displayName": "Tên hiển thị",
             "email": "Email"
-        },
-        "toast": {
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
         },
         "editProfile": {
             "emailWarning": "Thay đổi email sẽ reset trạng thái xác minh",

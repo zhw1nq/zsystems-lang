@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Admin ທັງໝົດ",
-        "totalServers": "ເຊີບເວີທັງໝົດ",
-        "activeBans": "ແບນທີ່ໃຊ້ງານ",
-        "activeMutes": "Mute ທີ່ໃຊ້ງານ",
-        "totalLogs": "ບັນທຶກທັງໝົດ",
         "overview": "ພາບລວມລະບົບ",
-        "description": "ຕົວຊີ້ວັດ ແລະ ແນວໂນ້ມກິດຈະກຳທົ່ວລະບົບ",
         "total": "ທັງໝົດ",
         "recentActivity": "ກິດຈະກຳຫຼ້າສຸດ",
         "last7Days": "ແບນ & mute ໃນ 7 ມື້ຜ່ານມາ",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Admin ທີ່ດຳເນີນການຫຼາຍທີ່ສຸດ",
         "noData": "ບໍ່ມີຂໍ້ມູນ",
         "errorLoading": "ໂຫຼດສະຖິຕິບໍ່ສຳເລັດ",
-        "totalWarns": "ເຕືອນທັງໝົດ",
-        "totalChatMessages": "ຂໍ້ຄວາມແຊັດ",
         "uniquePlayers": "ຜູ້ຫຼິ້ນທີ່ແຕກຕ່າງ",
-        "totalPlaytimeHours": "ເວລາຫຼິ້ນທັງໝົດ",
-        "totalSessions": "ເຊດຊັນທັງໝົດ",
         "playerActivity": "ກິດຈະກຳຜູ້ຫຼິ້ນ",
         "last30Days": "ຜູ້ຫຼິ້ນ & ເຊດຊັນໃນ 30 ມື້ຜ່ານມາ",
         "topMaps": "ແຜນທີ່ຍອດນິຍົມ",
         "topMapsDesc": "ແຜນທີ່ທີ່ຫຼິ້ນຫຼາຍທີ່ສຸດຕາມຈຳນວນເຊດຊັນ",
         "serverStats": "ສະຖິຕິເຊີບເວີ",
-        "serverStatsDesc": "ສະຖິຕິແຍກຕາມເຊີບເວີ",
         "hours": "ຊົ່ວໂມງ",
         "sessions": "ເຊດຊັນ",
         "players": "ຜູ້ຫຼິ້ນ",
@@ -59,8 +49,7 @@
         "showAll": "ເບິ່ງເຊີບເວີທັງ {count} ໜ່ວຍ",
         "showLess": "ເບິ່ງໜ້ອຍລົງ",
         "allServers": "ເຊີບເວີທັງໝົດ",
-        "last3Months": "3 ເດືອນຜ່ານມາ",
-        "last14Days": "14 ມື້ຜ່ານມາ"
+        "last3Months": "3 ເດືອນຜ່ານມາ"
     },
     "admins": {
         "title": "ລາຍຊື່ Admin",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "ຕັ້ງຄ່າ admin ໃໝ່ດ້ວຍ template ຫຼື ການຕັ້ງຄ່າແບບກຳນົດເອງ",
         "templates": "Template ດ່ວນ",
-        "information": "ຂໍ້ມູນ Admin",
         "preview": "ຕົວຢ່າງ",
         "steamInput": "Steam ID / Profile URL",
         "steamPlaceholder": "SteamID64, ລິ້ງໂປຣໄຟລ໌ ຫຼື vanity...",
         "steamHelp": "ໃສ່ SteamID64, ລິ້ງໂປຣໄຟລ໌ ຫຼື vanity URL ແລ້ວກົດ Enter",
-        "resolved": "ແກ້ໄຂແລ້ວ",
         "namePlaceholder": "ຊື່ສະແດງ admin",
         "group": "ກຸ່ມ Admin",
         "selectGroup": "ເລືອກກຸ່ມ...",
         "noGroup": "ບໍ່ມີກຸ່ມ (ກຳນົດເອງ)",
         "flagsFromGroup": "Flags ສືບທອດຈາກກຸ່ມທີ່ເລືອກ",
-        "daysFromNow": "ມື້ຈາກນີ້",
-        "alreadyExpired": "ໝົດອາຍຸແລ້ວ",
-        "previewName": "ຊື່ Admin",
-        "noFlags": "ບໍ່ມີ flags",
-        "noServer": "ບໍ່ໄດ້ເລືອນເຊີບເວີ"
+        "alreadyExpired": "ໝົດອາຍຸແລ້ວ"
     },
     "gift": {
         "title": "ຮັບຂອງຂວັນ",
-        "loading": "ກຳລັງໂຫຼດ...",
-        "redeemed": "ຮັບຂອງຂວັນແລ້ວ!",
-        "unavailable": "ຂອງຂວັນບໍ່ພ້ອມໃຊ້",
-        "notFound": "ບໍ່ພົບຂອງຂວັນ",
-        "package": "ແພັກ",
         "duration": "ໄລຍະເວລາ",
-        "days": "ມື້",
-        "expiresIn": "ລິ້ງໝົດອາຍຸໃນ",
-        "claim": "ຮັບຂອງຂວັນ",
-        "loginRequired": "ຕ້ອງເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີ Steam ທີ່ເຊື່ອມແລ້ວ",
-        "redeemSuccess": "ຮັບຂອງຂວັນສຳເລັດ! ທ່ານເປັນ admin ແລ້ວ.",
-        "redeemSuccessMessage": "ສິດ admin ຂອງທ່ານເປີດໃຊ້ງານແລ້ວ.",
-        "redeemFailed": "ຮັບຂອງຂວັນບໍ່ສຳເລັດ",
-        "alreadyUsed": "ລິ້ງຂອງຂວັນນີ້ຖືກໃຊ້ແລ້ວ.",
-        "expired": "ລິ້ງຂອງຂວັນນີ້ໝົດອາຍຸແລ້ວ.",
-        "notFoundMessage": "ລິ້ງຂອງຂວັນນີ້ບໍ່ມີ ຫຼື ຖືກລຶບແລ້ວ."
+        "days": "ມື້"
     },
     "servers": {
         "title": "ລາຍຊື່ເຊີບເວີ",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON Console",
         "sendCommand": "ສົ່ງຄຳສັ່ງ",
         "command": "ຄຳສັ່ງ",
-        "response": "ຄຳຕອບ",
-        "noRcon": "ຍັງບໍ່ໄດ້ຕັ້ງ RCON",
-        "cannotDelete": "ລຶບເຊີບເວີທີ່ມີ admin ຜູກຢູ່ບໍ່ໄດ້"
+        "noRcon": "ຍັງບໍ່ໄດ້ຕັ້ງ RCON"
     },
     "bans": {
         "title": "ລາຍການແບນ",
@@ -160,14 +127,10 @@
         "actions": "ການກະທຳ",
         "unban": "ຖອນແບນ",
         "reban": "ແບນໃໝ່",
-        "edit": "ແກ້ໄຂ",
-        "addComment": "ເພີ່ມຄອມເມັນ",
         "delete": "ລຶບ",
         "minutes": "ນາທີ",
         "permanent": "ຖາວອນ",
         "active": "ກຳລັງໃຊ້",
-        "unbanned": "ຖອນແບນແລ້ວ",
-        "expired": "ໝົດອາຍຸ",
         "addBanDescription": "ສ້າງຄຳສັ່ງຫ້າມຫຼິ້ນ (ban) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "noBans": "ຍັງບໍ່ມີການແບນເທື່ອ"
     },
@@ -187,15 +150,11 @@
         "actions": "ການກະທຳ",
         "unmute": "ຖອນ Mute",
         "remute": "Mute ໃໝ່",
-        "edit": "ແກ້ໄຂ",
-        "addComment": "ເພີ່ມຄອມເມັນ",
         "delete": "ລຶບ",
         "gag": "GAG (ແຊັດ)",
         "mute": "MUTE (ສຽງ)",
         "silence": "SILENCE (ທັງສອງ)",
         "active": "ກຳລັງໃຊ້",
-        "unmuted": "ຖອນ Mute ແລ້ວ",
-        "expired": "ໝົດອາຍຸ",
         "addMuteDescription": "ສ້າງຄຳສັ່ງປິດການແຊັດ/ໄມໂຄຣໂຟນ (mute) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "noMutes": "ຍັງບໍ່ມີການປິດສຽງເທື່ອ"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "ກຳລັງໂຫຼດ...",
         "error": "ເກີດຂໍ້ຜິດພາດ",
         "noAccess": "ປະຕິເສດການເຂົ້າເຖິງ",
         "noAccessDesc": "ທ່ານບໍ່ມີສິດເຂົ້າໜ້ານີ້.",
@@ -293,8 +251,6 @@
             "kill": "ທ່ານແນ່ໃຈບໍວ່າຕ້ອງການບັງຄັບປິດເຊີບເວີນີ້?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "ດິສ",
             "network": "ເຄືອຂ່າຍ",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "ລາຍລະອຽດບັນຊີ",
-            "tabInfo": "ຂໍ້ມູນ",
-            "tabSessions": "ເຊດຊັນ",
-            "tabLogs": "ບັນທຶກຄວາມປອດໄພ",
             "basicInfo": "ຂໍ້ມູນພື້ນຖານ",
             "statistics": "ສະຖິຕິ",
             "linkedAccounts": "ບັນຊີທີ່ເຊື່ອມ",
             "adminActions": "ການກະທຳ Admin",
-            "uuid": "UUID",
             "loginCount": "ຈຳນວນເຂົ້າສູ່ລະບົບ",
             "lastLoginAt": "ເຂົ້າສູ່ລະບົບລ່າສຸດ",
             "lastLoginIp": "IP ລ່າສຸດ",
@@ -372,13 +324,10 @@
             "twoFactor": "ຢືນຢັນສອງຂັ້ນ",
             "passkey": "Passkey",
             "locale": "ພາສາ",
-            "tosAccepted": "ຍອມຮັບ ToS",
-            "marketing": "ອີເມວການຕະຫຼາດ",
             "verified": "ຢືນຢັນແລ້ວ",
             "notVerified": "ຍັງບໍ່ຢືນຢັນ",
             "enabled": "ເປີດໃຊ້",
             "disabled": "ປິດໃຊ້",
-            "never": "ບໍ່ເຄີຍ",
             "noData": "ບໍ່ມີຂໍ້ມູນ",
             "notLinked": "ຍັງບໍ່ເຊື່ອມ",
             "createdAt": "ສ້າງ",
@@ -387,20 +336,11 @@
             "failedAttempts": "ພະຍາຍາມຜິດ"
         },
         "sessions": {
-            "device": "ອຸປະກອນ",
-            "ip": "ທີ່ຢູ່ IP",
-            "lastActive": "ໃຊ້ງານລ່າສຸດ",
             "revoke": "ຍົກເຊດຊັນ",
             "revokeAll": "ອອກຈາກລະບົບທັງໝົດ",
-            "noSessions": "ບໍ່ມີເຊດຊັນທີ່ໃຊ້ງານ",
-            "revokeConfirm": "ຍົກເຊດຊັນນີ້ບໍ?",
-            "revokeAllConfirm": "ອອກຈາກລະບົບທຸກເຊດຊັນຂອງຜູ້ໃຊ້ນີ້ບໍ?"
+            "noSessions": "ບໍ່ມີເຊດຊັນທີ່ໃຊ້ງານ"
         },
         "logs": {
-            "event": "ເຫດການ",
-            "ip": "IP",
-            "time": "ເວລາ",
-            "details": "ລາຍລະອຽດ",
             "noLogs": "ຍັງບໍ່ມີບັນທຶກ",
             "loadMore": "ໂຫຼດເພີ່ມ"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "ຍົກເຊື່ອມ Steam ບໍ? ຜູ້ໃຊ້ອາດສູນເສຍທາງກູ້ຄືນບັນຊີ.",
             "displayName": "ຊື່ສະແດງ",
             "email": "ອີເມວ"
-        },
-        "toast": {
-            "actionSuccess": "ດຳເນີນການສຳເລັດ",
-            "actionFailed": "ດຳເນີນການບໍ່ສຳເລັດ"
         },
         "editProfile": {
             "emailWarning": "ການປ່ຽນອີເມວຈະຣີເຊັດສະຖານະການຢືນຢັນ",

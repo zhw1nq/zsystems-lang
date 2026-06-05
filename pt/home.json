@@ -1,28 +1,13 @@
 {
     "hero": {
-        "explore": "Explorar",
-        "store": "Loja",
-        "letsPlayNow": "Vamos jogar agora!",
-        "wantToBeVip": "Quer ser VIP?",
-        "loginToZsystems": "Entrar no zSystems",
-        "weaponSkins": "Skins de armas",
-        "ranks": "Rankings",
         "contact": "Contato",
-        "getDemo": "Obter demonstração",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "Jogar agora",
         "login": "Entrar",
         "changeSkins": "Trocar skins de armas"
     },
     "nav": {
-        "community": "Comunidade",
-        "ranks": "Rankings",
         "support": "Suporte"
-    },
-    "stats": {
-        "uptime": "TEMPO ATIVO",
-        "ping": "PING",
-        "players6h": "JOGADORES / 6H"
     },
     "footer": {
         "selectLanguage": "Selecionar idioma",
@@ -40,11 +25,9 @@
         "support": "Suporte",
         "serverTip": "Abra o console do CS2, digite connect [IP] para entrar",
         "copyConnect": "Clique para copiar o comando connect",
-        "dmca": "Direitos Autorais & Proteção DMCA: zSystems e 7-Mau Community respeitam as leis de propriedade intelectual. Counter-Strike 2 é uma marca registrada da Valve Corporation.",
         "quickLinks": {
             "leaderboard": "Classificação",
             "stats": "Estatísticas pessoais",
-            "matches": "Histórico de partidas",
             "register": "Registrar conta",
             "guide": "Guia de participação",
             "configs": "Baixar configs"
@@ -117,7 +100,6 @@
     },
     "zsystems": {
         "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
         "backHome": "QUAY LẠI TRANG CHỦ",
         "heroTag": "zSystems & vhming Core Platform",
         "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",

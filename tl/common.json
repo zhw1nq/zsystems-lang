@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Kopyahin",
         "connect": "Kumonekta",
-        "save": "I-save",
         "cancel": "Kanselahin",
         "close": "Isara",
-        "confirm": "Kumpirmahin",
-        "delete": "Tanggalin",
-        "edit": "I-edit",
         "back": "Bumalik",
         "retry": "Subukang muli",
         "search": "Maghanap..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Naglo-load...",
-        "error": "Error",
-        "success": "Tagumpay"
+        "loading": "Naglo-load..."
     },
     "toast": {
         "copied": "Nakopya sa clipboard",
         "copyFailed": "Nabigong kopyahin"
     },
-    "footer": {
-        "rights": "Lahat ng karapatan ay nakalaan"
-    },
     "sidebar": {
         "collapse": "I-collapse",
         "expand": "I-expand",
-        "language": "Wika",
-        "theme": "Tema",
         "terms": "Mga Tuntunin at Privacy",
         "guest": "Bisita",
         "settings": "Mga Setting"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "Magandang gabi, {name}",
-        "greeting_morning": "Magandang umaga, {name}",
-        "greeting_noon": "Magandang tanghali, {name}",
-        "greeting_afternoon": "Magandang hapon, {name}",
-        "greeting_evening": "Magandang gabi, {name}",
         "guest": "Bisita",
-        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan",
-        "loadingWarning": "Ang paglalaro ng higit sa 180 minuto bawat araw ay maaaring makaapekto sa kalusugan."
+        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan"
     },
     "optional": "Opsyonal"
 }

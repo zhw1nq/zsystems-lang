@@ -1,123 +1,90 @@
 {
     "hero": {
-      "explore": "Sáo chòi",
-      "store": "Quán hàng",
-      "letsPlayNow": "Lỉn ngây nớ!",
-      "wantToBeVip": "Thành VIP bấu?",
-      "loginToZsystems": "Nhập zSystems",
-      "weaponSkins": "Skin mạc súng",
-      "ranks": "Bảng xếp thứ",
-      "contact": "Liên hệ",
-      "getDemo": "Chòi Demo",
-      "subbrand": "zSYSTEMS-v2",
-      "playNow": "Lỉn ngây",
-      "login": "Nhập",
-      "changeSkins": "Đổi skin mạc súng"
+        "contact": "Liên hệ",
+        "subbrand": "zSYSTEMS-v2",
+        "playNow": "Lỉn ngây",
+        "login": "Nhập",
+        "changeSkins": "Đổi skin mạc súng"
     },
-  
     "nav": {
-      "community": "Cộng đồng", 
-      "ranks": "Xếp thứ",
-      "support": "Giúp đỡ"
+        "support": "Giúp đỡ"
     },
-  
-    "stats": {
-      "uptime": "THỜI GIAN MỞ",
-      "ping": "ĐỘ TRỄ",
-      "players6h": "CẦN LỈN / 6H"
-    },
-  
     "footer": {
-      "selectLanguage": "Chọn quam",
-      "language": "Quam Việt",
-      "privacy": "Luật giử kín",
-      "terms": "Điều khoản dùng",
-      "contact": "Liên hệ",
-      "poweredBy": "Chạy bặng zSystems — Làm bởi zhw1nq & 7-Mau TEAM",
-      "authLogin": "Nhập",
-      "authRegister": "Đăng ký",
-      "authAccount": "Tài khoản",
-      "brandDescription": "Cộng đồng CS2 to nhất Việt Nam. Hệ thống máy chủ ổn định, chạy khỏe, trễ cực ít.",
-      "navigation": "Đường dẫn",
-      "servers": "Máy chủ",
-      "support": "Hỗ trợ",
-      "serverTip": "Mở console CS2, gõ connect [IP] để vào chơi",
-      "copyConnect": "Bấm để copy lệnh connect",
-      "dmca": "Bản quyền & DMCA Protected: zSystems cạ 7-Mau Community giữ luật bản quyền. Counter-Strike 2 là thương hiệu của Valve Corporation.",
-  
-      "quickLinks": {
-        "leaderboard": "Bảng xếp",
-        "stats": "Thống kê người",
-        "matches": "Lịch sử trận",
-        "register": "Đăng ký tài khoản",
-        "guide": "Cách vào chơi",
-        "configs": "Tải config"
-      },
-  
-      "supportLinks": {
-        "terms": "Luật dùng",
+        "selectLanguage": "Chọn quam",
+        "language": "Quam Việt",
         "privacy": "Luật giử kín",
-        "rules": "Luật cộng đồng",
-        "report": "Báo lỗi",
-        "contact": "Liên hệ hỗ trợ",
-        "faq": "FAQ"
-      }
+        "terms": "Điều khoản dùng",
+        "contact": "Liên hệ",
+        "poweredBy": "Chạy bặng zSystems — Làm bởi zhw1nq & 7-Mau TEAM",
+        "authLogin": "Nhập",
+        "authRegister": "Đăng ký",
+        "authAccount": "Tài khoản",
+        "brandDescription": "Cộng đồng CS2 to nhất Việt Nam. Hệ thống máy chủ ổn định, chạy khỏe, trễ cực ít.",
+        "navigation": "Đường dẫn",
+        "servers": "Máy chủ",
+        "support": "Hỗ trợ",
+        "serverTip": "Mở console CS2, gõ connect [IP] để vào chơi",
+        "copyConnect": "Bấm để copy lệnh connect",
+        "quickLinks": {
+            "leaderboard": "Bảng xếp",
+            "stats": "Thống kê người",
+            "register": "Đăng ký tài khoản",
+            "guide": "Cách vào chơi",
+            "configs": "Tải config"
+        },
+        "supportLinks": {
+            "terms": "Luật dùng",
+            "privacy": "Luật giử kín",
+            "rules": "Luật cộng đồng",
+            "report": "Báo lỗi",
+            "contact": "Liên hệ hỗ trợ",
+            "faq": "FAQ"
+        }
     },
-  
     "character": {
-      "name": "7-CHAN"
+        "name": "7-CHAN"
     },
-  
     "preloader": {
-      "restricted18": "Giới hạn 18+",
-      "warningInitial": "Chơi game quá 180 phút mỗi ngày slẽ ảnh hưởng xấu đến sức khỏe.",
-      "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
-      "warningStuck": "Nếu màn hình bị kẹt hoặc tải lâu, hãy tải lại trang.",
-      "loading": "ĐANG TẢI"
+        "restricted18": "Giới hạn 18+",
+        "warningInitial": "Chơi game quá 180 phút mỗi ngày slẽ ảnh hưởng xấu đến sức khỏe.",
+        "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
+        "warningStuck": "Nếu màn hình bị kẹt hoặc tải lâu, hãy tải lại trang.",
+        "loading": "ĐANG TẢI"
     },
-  
     "zsystems": {
-      "title": "zSystems",
-      "subtitle": "Pây slẳm hệ thống zSystems",
-      "backHome": "QUAY LẠI TRANG CHỦ",
-      "heroTag": "zSystems & vhming Core Platform",
-  
-      "description": "zSystems cạ vhming là hệ thống pây slẳm cạ bảng điều khiển cho cần dùng All-In-One (AIO), chạy mượt, khỏe lắm, cạ quản lý dữ liệu chạy liền tức thì.",
-  
-      "legalTitle": "Tin hệ thống cạ lệ lạt",
-  
-      "features": {
-        "engineTitle": "Pò máy chạy khỏe",
-        "engineDesc": "Dùng khối chạy mấư, làm việc nhanh như chớp (mili-giây), việc nặng vẫn gánh tốt.",
-        "cacheTitle": "Kho nhớ L2 gom lại",
-        "cacheDesc": "Cất dữ liệu trong cụm Redis chạy mạnh, chia sẻ nhanh cho nhiều người cùng lúc.",
-        "architectureTitle": "Khung hệ thống to",
-        "architectureDesc": "Chống nguy mạng tốt, đường nối kín, kiểm tra phiên tự chạy trong lõi.",
-        "pipelineTitle": "Đường chạy nhanh, ít trễ",
-        "pipelineDesc": "Tối ưu đường chạy dữ liệu cho game thủ cạ hệ thống nhiều người chơi."
-      },
-  
-      "owner": {
-        "label": "CHỦ",
-        "name": "luxiie",
-        "desc": "Người đứng tên, dựng cạ giữ quyền hệ thống zSystems.",
-        "linkText": "Ghé thăm luxiie"
-      },
-  
-      "developer": {
-        "label": "NGƯỜI LÀM",
-        "name": "vhming",
-        "desc": "Người dựng cạ giữ hệ thống zSystems chạy ổn.",
-        "linkText": "Ghé thăm vhming.com"
-      },
-  
-      "dmca": {
-        "label": "GIỮ QUYỀN",
-        "name": "DMCA Protected",
-        "desc": "Nội dung cạ mã nguồn được giữ quyền toàn cầu.",
-        "linkText": "Xem DMCA"
-      },
-  
-      "footerText": "Được làm bởi vhming cạ giỏi lắm tuyệt đối."
+        "title": "zSystems",
+        "backHome": "QUAY LẠI TRANG CHỦ",
+        "heroTag": "zSystems & vhming Core Platform",
+        "description": "zSystems cạ vhming là hệ thống pây slẳm cạ bảng điều khiển cho cần dùng All-In-One (AIO), chạy mượt, khỏe lắm, cạ quản lý dữ liệu chạy liền tức thì.",
+        "legalTitle": "Tin hệ thống cạ lệ lạt",
+        "features": {
+            "engineTitle": "Pò máy chạy khỏe",
+            "engineDesc": "Dùng khối chạy mấư, làm việc nhanh như chớp (mili-giây), việc nặng vẫn gánh tốt.",
+            "cacheTitle": "Kho nhớ L2 gom lại",
+            "cacheDesc": "Cất dữ liệu trong cụm Redis chạy mạnh, chia sẻ nhanh cho nhiều người cùng lúc.",
+            "architectureTitle": "Khung hệ thống to",
+            "architectureDesc": "Chống nguy mạng tốt, đường nối kín, kiểm tra phiên tự chạy trong lõi.",
+            "pipelineTitle": "Đường chạy nhanh, ít trễ",
+            "pipelineDesc": "Tối ưu đường chạy dữ liệu cho game thủ cạ hệ thống nhiều người chơi."
+        },
+        "owner": {
+            "label": "CHỦ",
+            "name": "luxiie",
+            "desc": "Người đứng tên, dựng cạ giữ quyền hệ thống zSystems.",
+            "linkText": "Ghé thăm luxiie"
+        },
+        "developer": {
+            "label": "NGƯỜI LÀM",
+            "name": "vhming",
+            "desc": "Người dựng cạ giữ hệ thống zSystems chạy ổn.",
+            "linkText": "Ghé thăm vhming.com"
+        },
+        "dmca": {
+            "label": "GIỮ QUYỀN",
+            "name": "DMCA Protected",
+            "desc": "Nội dung cạ mã nguồn được giữ quyền toàn cầu.",
+            "linkText": "Xem DMCA"
+        },
+        "footerText": "Được làm bởi vhming cạ giỏi lắm tuyệt đối."
     }
-  }
+}

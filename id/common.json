@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Salin",
         "connect": "Hubungkan",
-        "save": "Simpan",
         "cancel": "Batal",
         "close": "Tutup",
-        "confirm": "Konfirmasi",
-        "delete": "Hapus",
-        "edit": "Edit",
         "back": "Kembali",
         "retry": "Coba lagi",
         "search": "Cari..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Memuat...",
-        "error": "Kesalahan",
-        "success": "Berhasil"
+        "loading": "Memuat..."
     },
     "toast": {
         "copied": "Disalin ke clipboard",
         "copyFailed": "Gagal menyalin"
     },
-    "footer": {
-        "rights": "Hak cipta dilindungi"
-    },
     "sidebar": {
         "collapse": "Ciutkan",
         "expand": "Perluas",
-        "language": "Bahasa",
-        "theme": "Tema",
         "terms": "Ketentuan & Privasi",
         "guest": "Tamu",
         "settings": "Pengaturan"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "Selamat malam, {name}",
-        "greeting_morning": "Selamat pagi, {name}",
-        "greeting_noon": "Selamat siang, {name}",
-        "greeting_afternoon": "Selamat sore, {name}",
-        "greeting_evening": "Selamat malam, {name}",
         "guest": "Tamu",
-        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan",
-        "loadingWarning": "Bermain game lebih dari 180 menit setiap hari dapat berdampak pada kesehatan."
+        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan"
     },
     "optional": "Opsional"
 }

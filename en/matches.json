@@ -1,0 +1,94 @@
+{
+    "title": "Matches",
+    "subtitle": "Match history on the system",
+    "searchPlaceholder": "Search by team name...",
+    "noMatches": "No matches found",
+    "live": "LIVE",
+    "finished": "FINISHED",
+    "cancelled": "CANCELLED",
+    "win": "WIN",
+    "lose": "LOSE",
+    "viewDetail": "Details",
+    "page": "Page {page}/{total}",
+    "previous": "Previous",
+    "next": "Next",
+    "showCancelled": "Cancelled Matches",
+    "showActive": "Active Matches",
+    "tabs": {
+        "overview": "Overview",
+        "details": "Match Details",
+        "rounds": "Rounds",
+        "kills": "Kills",
+        "roundStats": "Round Stats",
+        "economy": "Economy"
+    },
+    "scoreboard": {
+        "player": "Player",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "adr": "ADR",
+        "hsPercent": "HS%",
+        "kd": "K/D",
+        "damage": "DMG",
+        "entry": "Entry",
+        "accuracy": "Accuracy"
+    },
+    "rounds": {
+        "round": "R{number}",
+        "planted": "Bomb Planted",
+        "defused": "Bomb Defused",
+        "roundProgress": "Cumulative Score Progress Chart",
+        "playerStats": "Player Performance Chart"
+    },
+    "kills": {
+        "round": "Round",
+        "killer": "Killer",
+        "victim": "Victim",
+        "weapon": "Weapon",
+        "distance": "Dist",
+        "headshot": "HS",
+        "wallbang": "WB",
+        "allRounds": "All",
+        "filterByRound": "Filter by round",
+        "entry": "Entry"
+    },
+    "roundStats": {
+        "round": "Round",
+        "player": "Player",
+        "side": "Side",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "damage": "DMG",
+        "hsKills": "HS",
+        "trade": "Trade",
+        "alive": "Alive",
+        "selectRound": "Select round"
+    },
+    "economy": {
+        "round": "Round",
+        "equipValue": "Equipment",
+        "moneyLeft": "Money Left",
+        "weapon": "Primary Weapon",
+        "armor": "Armor",
+        "defuser": "Kit",
+        "grenades": "Grenades"
+    },
+    "mvp": {
+        "title": "MVP",
+        "rating": "Rating"
+    },
+    "showEarlyLeavers": "Show early leavers ({count})",
+    "hideEarlyLeavers": "Hide early leavers",
+    "subtabs": {
+        "general": "General",
+        "timeline": "Timeline",
+        "aim": "Aim",
+        "utility": "Utility",
+        "activity": "Activity",
+        "trades": "Trades",
+        "opening": "Opening Duels",
+        "clutches": "Clutches"
+    }
+}

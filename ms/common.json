@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Salin",
         "connect": "Sambung",
-        "save": "Simpan",
         "cancel": "Batal",
         "close": "Tutup",
-        "confirm": "Sahkan",
-        "delete": "Padam",
-        "edit": "Sunting",
         "back": "Kembali",
         "retry": "Cuba Lagi",
         "search": "Cari..."
     },
     "status": {
-        "online": "Dalam Talian",
-        "offline": "Luar Talian",
-        "loading": "Memuatkan...",
-        "error": "Ralat",
-        "success": "Berjaya"
+        "loading": "Memuatkan..."
     },
     "toast": {
         "copied": "Disalin ke papan keratan",
         "copyFailed": "Gagal menyalin"
     },
-    "footer": {
-        "rights": "Hak cipta terpelihara"
-    },
     "sidebar": {
         "collapse": "Runtuhkan",
         "expand": "Kembangkan",
-        "language": "Bahasa",
-        "theme": "Tema",
         "terms": "Terma & Privasi",
         "guest": "Tetamu",
         "settings": "Tetapan"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "Selamat malam, {name}",
-        "greeting_morning": "Selamat pagi, {name}",
-        "greeting_noon": "Selamat tengah hari, {name}",
-        "greeting_afternoon": "Selamat petang, {name}",
-        "greeting_evening": "Selamat petang, {name}",
         "guest": "Tetamu",
-        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan",
-        "loadingWarning": "Bermain permainan lebih daripada 180 minit setiap hari boleh menjejaskan kesihatan."
+        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan"
     },
     "optional": "Pilihan"
 }

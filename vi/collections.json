@@ -13,11 +13,8 @@
     "card": {
         "items": "{count} items",
         "uses": "{count} lượt dùng",
-        "likes": "{count} thích", 
-        "comments": "{count} bình luận",
-        "by": "bởi {author}",
-        "public": "Công khai",
-        "private": "Riêng tư"
+        "likes": "{count} thích",
+        "by": "bởi {author}"
     },
     "create": {
         "button": "Tạo mới",
@@ -27,13 +24,10 @@
         "description": "Mô tả",
         "descPlaceholder": "Mô tả về bộ sưu tập...",
         "visibility": "Công khai",
-        "preview": "Loadout hiện tại",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
         "submit": "Tạo bộ sưu tập",
         "success": "Đã tạo bộ sưu tập thành công!",
         "error": "Không thể tạo bộ sưu tập",
-        "limitReached": "Bạn đã đạt giới hạn {max} bộ sưu tập",
-        "emptyLoadout": "Loadout hiện tại trống, không có gì để lưu"
+        "limitReached": "Bạn đã đạt giới hạn {max} bộ sưu tập"
     },
     "detail": {
         "apply": "Áp dụng bộ sưu tập",
@@ -41,16 +35,7 @@
         "applyConfirmDesc": "Loadout hiện tại của bạn sẽ bị ghi đè hoàn toàn bằng các items trong bộ sưu tập này. Hành động này không thể hoàn tác.",
         "applySuccess": "Đã áp dụng bộ sưu tập thành công!",
         "applyError": "Không thể áp dụng bộ sưu tập",
-        "delete": "Xóa",
-        "deleteConfirmTitle": "Xóa bộ sưu tập?",
-        "deleteConfirmDesc": "Bạn có chắc muốn xóa bộ sưu tập này? Hành động này không thể hoàn tác.",
-        "edit": "Sửa",
-        "skins": "Skins",
-        "knives": "Dao",
-        "gloves": "Găng tay",
-        "agents": "Agents",
-        "music": "Nhạc",
-        "pins": "Huy hiệu"
+        "delete": "Xóa"
     },
     "comment": {
         "title": "Bình luận",
@@ -58,8 +43,7 @@
         "submit": "Gửi",
         "empty": "Chưa có bình luận nào",
         "deleteConfirm": "Xóa bình luận này?",
-        "error": "Không thể gửi bình luận",
-        "loginRequired": "Đăng nhập để bình luận"
+        "error": "Không thể gửi bình luận"
     },
     "empty": {
         "community": "Chưa có bộ sưu tập nào. Hãy là người đầu tiên chia sẻ!",
@@ -70,10 +54,8 @@
         "liked": "Đã thích bộ sưu tập",
         "unliked": "Đã bỏ thích",
         "deleted": "Đã xóa bộ sưu tập",
-        "updated": "Đã cập nhật bộ sưu tập",
         "tooFast": "Quá nhanh!",
         "tooFastDesc": "Vui lòng đợi trước khi thực hiện hành động tiếp theo",
-        "copiedId": "Đã sao chép ID",
         "applied": "Đã áp dụng bộ sưu tập!",
         "applyError": "Không thể áp dụng"
     },

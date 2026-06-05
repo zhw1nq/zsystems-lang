@@ -9,15 +9,12 @@
         "newest": "Mais recentes",
         "mostLiked": "Mais curtidas",
         "mostUsed": "Mais usadas"
-    },  
+    },
     "card": {
         "items": "{count} itens",
         "uses": "{count} usos",
         "likes": "{count} curtidas",
-        "comments": "{count} comentários",
-        "by": "por {author}",
-        "public": "Público",
-        "private": "Privado"
+        "by": "por {author}"
     },
     "create": {
         "button": "Criar novo",
@@ -27,13 +24,10 @@
         "description": "Descrição",
         "descPlaceholder": "Descreva sua coleção...",
         "visibility": "Público",
-        "preview": "Loadout atual",
-        "previewDesc": "{skins} skins, {knives} facas, {gloves} luvas, {agents} agentes, {music} músicas, {pins} pins",
         "submit": "Criar coleção",
         "success": "Coleção criada com sucesso!",
         "error": "Falha ao criar coleção",
-        "limitReached": "Você atingiu o limite de {max} coleções",
-        "emptyLoadout": "Seu loadout atual está vazio, nada para salvar"
+        "limitReached": "Você atingiu o limite de {max} coleções"
     },
     "detail": {
         "apply": "Aplicar coleção",
@@ -41,16 +35,7 @@
         "applyConfirmDesc": "Seu loadout atual será completamente substituído pelos itens desta coleção. Esta ação não pode ser desfeita.",
         "applySuccess": "Coleção aplicada com sucesso!",
         "applyError": "Falha ao aplicar coleção",
-        "delete": "Excluir",
-        "deleteConfirmTitle": "Excluir coleção?",
-        "deleteConfirmDesc": "Tem certeza que deseja excluir esta coleção? Esta ação não pode ser desfeita.",
-        "edit": "Editar",
-        "skins": "Skins",
-        "knives": "Facas",
-        "gloves": "Luvas",
-        "agents": "Agentes",
-        "music": "Músicas",
-        "pins": "Pins"
+        "delete": "Excluir"
     },
     "comment": {
         "title": "Comentários",
@@ -58,8 +43,7 @@
         "submit": "Publicar",
         "empty": "Ainda não há comentários",
         "deleteConfirm": "Excluir este comentário?",
-        "error": "Falha ao postar comentário",
-        "loginRequired": "Faça login para comentar"
+        "error": "Falha ao postar comentário"
     },
     "empty": {
         "community": "Ainda não há coleções. Seja o primeiro a compartilhar!",
@@ -70,10 +54,8 @@
         "liked": "Coleção curtida",
         "unliked": "Curtida removida",
         "deleted": "Coleção excluída",
-        "updated": "Coleção atualizada",
         "tooFast": "Muito rápido!",
         "tooFastDesc": "Aguarde antes de fazer a próxima ação",
-        "copiedId": "ID copiado",
         "applied": "Coleção aplicada!",
         "applyError": "Falha ao aplicar"
     },

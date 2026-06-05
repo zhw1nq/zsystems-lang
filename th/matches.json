@@ -1,0 +1,94 @@
+{
+    "title": "Trận đấu",
+    "subtitle": "Lịch sử các trận đấu trên hệ thống",
+    "searchPlaceholder": "Tìm kiếm theo tên đội...",
+    "noMatches": "Không tìm thấy trận đấu nào",
+    "live": "ĐANG THI ĐẤU",
+    "finished": "KẾT THÚC",
+    "win": "THẮNG",
+    "lose": "THUA",
+    "viewDetail": "Chi tiết",
+    "page": "Trang {page}/{total}",
+    "previous": "Trước",
+    "next": "Sau",
+    "tabs": {
+        "rounds": "Diễn biến",
+        "kills": "Sát thương",
+        "roundStats": "Stats theo Round",
+        "economy": "Kinh tế",
+        "overview": "Tổng quan",
+        "details": "Chi tiết trận đấu"
+    },
+    "scoreboard": {
+        "player": "Người chơi",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "adr": "ADR",
+        "hsPercent": "HS%",
+        "kd": "K/D",
+        "damage": "DMG",
+        "entry": "Entry",
+        "accuracy": "Chính xác"
+    },
+    "rounds": {
+        "round": "R{number}",
+        "planted": "Đặt bom",
+        "defused": "Gỡ bom",
+        "roundProgress": "Cumulative Score Progress Chart",
+        "playerStats": "Player Performance Chart"
+    },
+    "kills": {
+        "round": "Round",
+        "killer": "Người bắn",
+        "victim": "Nạn nhân",
+        "weapon": "Vũ khí",
+        "distance": "K/C",
+        "headshot": "HS",
+        "wallbang": "WB",
+        "allRounds": "Tất cả",
+        "filterByRound": "Lọc theo round",
+        "entry": "Entry"
+    },
+    "roundStats": {
+        "round": "Round",
+        "player": "Người chơi",
+        "side": "Phe",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "damage": "DMG",
+        "hsKills": "HS",
+        "trade": "Trade",
+        "alive": "Sống",
+        "selectRound": "Chọn round"
+    },
+    "economy": {
+        "round": "Round",
+        "equipValue": "Trang bị",
+        "moneyLeft": "Tiền còn",
+        "weapon": "Vũ khí chính",
+        "armor": "Giáp",
+        "defuser": "Kit",
+        "grenades": "Lựu đạn"
+    },
+    "cancelled": "BỊ HỦY",
+    "showCancelled": "Trận đấu bị hủy",
+    "showActive": "Trận đấu hợp lệ",
+    "mvp": {
+        "title": "MVP",
+        "rating": "Rating"
+    },
+    "showEarlyLeavers": "Hiện người chơi rời sớm ({count})",
+    "hideEarlyLeavers": "Ẩn người chơi rời sớm",
+    "subtabs": {
+        "general": "Tổng quan",
+        "timeline": "Timeline",
+        "aim": "Ngắm bắn",
+        "utility": "Utility",
+        "activity": "Hoạt động",
+        "trades": "Đổi mạng",
+        "opening": "Opening Duels",
+        "clutches": "Clutches"
+    }
+}

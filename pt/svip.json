@@ -2,54 +2,28 @@
     "models": {
         "title": "zModels",
         "description": "Modelos exclusivos de jogadores para SVIP",
-        "equipped": "Equipado",
-        "equip": "Equipar",
-        "unequip": "Desequipar",
-        "ct": "Contra-Terrorista",
-        "t": "Terrorista",
-        "private": "Privado",
         "search": "Pesquisar modelos...",
-        "noResults": "Nenhum modelo encontrado",
-        "accessDenied": "Acesso SVIP necessário para usar esta função",
-        "notLoggedIn": "Faça login para usar esta função",
-        "selectCategory": "Selecionar categoria"
-    }, 
+        "noResults": "Nenhum modelo encontrado"
+    },
     "weapons": {
-        "title": "zWeapons", 
+        "title": "zWeapons",
         "description": "Skins de armas exclusivas para SVIP",
-        "equipped": "Equipado",
-        "equip": "Equipar",
-        "unequip": "Desequipar",
         "search": "Pesquisar armas...",
         "noResults": "Nenhuma arma encontrada",
         "selectPack": "Selecionar pacote de skins",
         "selectWeapon": "Selecionar tipo de arma",
         "viewByType": "Ver por tipo de arma",
-        "viewByPack": "Ver por pacote de skins",
-        "accessDenied": "Acesso SVIP necessário para usar esta função",
-        "notLoggedIn": "Faça login para usar esta função",
-        "categories": {
-            "rifles": "Rifles",
-            "pistols": "Pistolas",
-            "smgs": "SMGs",
-            "heavy": "Pesadas",
-            "knives": "Facas",
-            "grenades": "Granadas"
-        }
+        "viewByPack": "Ver por pacote de skins"
     },
     "common": {
         "locked": "SVIP Necessário",
         "lockedDesc": "Esta função é exclusiva para usuários SVIP. Faça upgrade para desbloquear.",
-        "loading": "Carregando...",
         "equipSuccess": "Equipado com sucesso",
         "equipSuccessDesc": "{name} equipado",
         "unequipSuccess": "Desequipado",
         "unequipSuccessDesc": "{name} removido",
         "equipFailed": "Falha ao equipar",
-        "unequipFailed": "Falha ao desequipar",
-        "tooFast": "Muito rápido",
-        "tooFastDesc": "Aguarde antes de realizar outra ação",
-        "allWeapons": "Todos"
+        "unequipFailed": "Falha ao desequipar"
     },
     "mvp": {
         "title": "zMVP",
@@ -60,11 +34,6 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "ADMIN",
-        "preview": "Pré-visualizar",
-        "stop": "Parar",
-        "apply": "Aplicar",
-        "unequip": "Desequipar",
-        "equipped": "Equipado",
         "lockedVip": "VIP Necessário",
         "lockedVipDesc": "Esta função é exclusiva para usuários VIP.",
         "lockedSvip": "SVIP Necessário",

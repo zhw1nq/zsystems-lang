@@ -1,15 +1,13 @@
 {
     "title": "Rankings",
     "subtitle": "Player rankings by server",
-    "serverSelect": "Select server",
-    "allServers": "All servers",
     "noServers": "No servers available",
     "search": "Search name or SteamID...",
     "refreshing": "Refreshing...",
     "refreshIn": "Refresh in {seconds}s",
     "table": {
         "position": "",
-        "player": "Player", 
+        "player": "Player",
         "points": "Points",
         "rank": "Rank",
         "kd": "K/D",
@@ -31,20 +29,10 @@
     },
     "empty": "No players found",
     "error": "Failed to load rankings",
-    "hours": "{value}h",
-    "unranked": "Unranked",
-    "lastOnline": "Last online",
-    "viewProfile": "View details",
-    "podium": {
-        "first": "1st Place",
-        "second": "2nd Place",
-        "third": "3rd Place"
-    },
     "detail": {
         "title": "Player Details",
         "subtitle": "Detailed stats across each server",
         "back": "Back",
-        "steamProfile": "View Steam Profile",
         "combat": "Combat",
         "accuracy": "Accuracy",
         "rounds": "Rounds",
@@ -80,21 +68,20 @@
         "todayHours": "Today",
         "terroristHours": "T-side Hours",
         "ctHours": "CT-side Hours",
-        "spectatorHours": "Spectator Hours",
         "weaponName": "Weapon",
         "weaponKills": "Kills",
         "weaponHS": "HS",
         "weaponHSR": "HS%",
-        "weaponAccuracy": "Accuracy",
-        "close": "Close"
+        "weaponAccuracy": "Accuracy"
     },
     "context": {
-        "label": "Player",
-        "viewProfile": "View Profile",
-        "openSteam": "Open Steam Profile",
         "copySteamId": "Copy Steam ID",
         "copied": "Copied!",
         "verifiedStaff": "Official Profile: zSystems has confirmed that this is the authentic account of the official Administration / Staff of the 7-Mau Community.",
         "verifiedUser": "Verified Account: zSystems has confirmed that this account is authentic, linked with Steam, and has successfully verified their Email address."
+    },
+    "mode": {
+        "positive": "Top Positive Points",
+        "negative": "Top Negative Points"
     }
 }

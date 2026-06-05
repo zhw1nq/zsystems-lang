@@ -3,27 +3,20 @@
     "subtitle": "Ringkasan & pengelolaan server",
     "servers": {
         "title": "Server",
-        "count": "{count} server",
         "allServers": "Semua server",
         "noServers": "Tidak ada server di grup ini"
     },
     "serverCard": {
-        "connect": "Hubungkan",
         "noMap": "Tidak ada peta",
         "players": "{current}/{max} Pemain",
-        "offline": "Offline",
         "noInfo": "Tidak ada informasi server tersedia."
     },
     "serverDetail": {
         "players": "Pemain",
-        "noPlayers": "Tidak ada pemain",
         "teamCT": "Counter-Terrorist",
         "teamT": "Terrorist",
-        "teamUnassigned": "Belum ditugaskan",
-        "serverInfo": "Info Server",
         "chat": "Obrolan",
         "contextMenu": {
-            "viewSteamProfile": "Lihat Akun",
             "copySteamId": "Salin SteamID",
             "copyPlayerName": "Salin Nama Pemain",
             "copyStats": "Salin Statistik",
@@ -31,7 +24,6 @@
         },
         "spectators": "Penonton",
         "noSpectators": "Tidak ada penonton",
-        "copied": "{label} disalin",
         "unknown": "Tidak diketahui"
     },
     "stats": {
@@ -80,7 +72,18 @@
             "removeBan": "Hapus Ban",
             "removeMute": "Hapus Mute",
             "deleteBan": "Hapus Ban",
-            "deleteMute": "Hapus Mute"
+            "deleteMute": "Hapus Mute",
+            "confirmDeleteTitle": "Xác nhận xóa",
+            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
+            "removeReasonPlaceholder": "Nhập lý do gỡ...",
+            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
+            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
+            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
+            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
+            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
+            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
         }
     },
     "playerAction": {
@@ -111,48 +114,16 @@
     "privilege": {
         "title": "Hak Istimewa Server",
         "description": "Tingkatkan akun Anda untuk membuka kosmetik eksklusif dan akses prioritas. Pilih tingkat yang sesuai untuk Anda.",
-        "discount": "Hemat",
-        "month1": "1 Bulan",
-        "months3": "3 Bulan",
-        "mostPopular": "PALING POPULER",
-        "periodMonthly": "/ 31 Hari",
-        "periodQuarterly": "/ 90 Hari",
-        "currentPlan": "PAKET SAAT INI",
         "tiers": {
             "member": {
-                "name": "GRATIS",
-                "priceMonthly": "GRATIS",
-                "priceQuarterly": "GRATIS",
-                "description": "Pengalaman dasar",
-                "button": "MAIN SEKARANG"
+                "description": "Pengalaman dasar"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
-                "description": "Prestise tertinggi",
-                "button": "UPGRADE"
+                "description": "Prestise tertinggi"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
-                "description": "Pengalaman ditingkatkan",
-                "button": "UPGRADE"
+                "description": "Pengalaman ditingkatkan"
             }
-        },
-        "features": {
-            "customSkins": "Kustomisasi Pisau, Sarung Tangan, Senjata",
-            "createCollections": "Buat Koleksi Skin",
-            "mvpPackFree": "Gunakan Paket MVP Gratis",
-            "publicServers": "Bergabung ke Server Komunitas",
-            "prioritySlot": "Akses Slot Server Prioritas",
-            "fastSupport": "Dukungan Admin Prioritas",
-            "mvpPackVip": "Buka Paket MVP VIP",
-            "customLoadout": "Konfigurasi Loadout Kustom",
-            "agentWibu3D": "Agen Wibu 3D Eksklusif",
-            "weaponWibu3D": "Senjata Wibu 3D Supreme",
-            "adminPrivileges": "Hak Istimewa Admin Supreme"
         }
     },
     "support": {
@@ -160,124 +131,5 @@
         "description": "Orang-orang yang selalu siap membantu Anda di Komunitas 7-Mau",
         "admin": "Administrator",
         "staff": "Staf Dukungan"
-    },
-    "match": {
-        "title": "Pertandingan",
-        "subtitle": "Riwayat pertandingan di sistem",
-        "searchPlaceholder": "Cari berdasarkan nama tim...",
-        "noMatches": "Tidak ada pertandingan ditemukan",
-        "live": "SEDANG BERLANGSUNG",
-        "finished": "SELESAI",
-        "win": "MENANG",
-        "lose": "KALAH",
-        "draw": "SERI",
-        "duration": "{minutes} menit",
-        "server": "Server",
-        "downloadDemo": "Unduh Demo",
-        "noDemo": "Belum ada Demo",
-        "viewDetail": "Detail",
-        "backToList": "Kembali",
-        "matchNumber": "Pertandingan #{id}",
-        "map": "Map",
-        "records": "{count} pertandingan",
-        "page": "Halaman {page}/{total}",
-        "previous": "Sebelumnya",
-        "next": "Berikutnya",
-        "tabs": {
-            "scoreboard": "Papan Skor",
-            "rounds": "Jalannya Pertandingan",
-            "kills": "Kill",
-            "roundStats": "Statistik per Round",
-            "economy": "Ekonomi"
-        },
-        "scoreboard": {
-            "player": "Pemain",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "adr": "ADR",
-            "hsPercent": "HS%",
-            "kd": "K/D",
-            "damage": "DMG",
-            "entry": "Entry",
-            "entryWins": "Entry W",
-            "utilityDmg": "Utility DMG",
-            "flash": "Flash",
-            "clutch1v1": "1v1",
-            "clutch1v2": "1v2",
-            "firstKills": "FK",
-            "accuracy": "Akurasi",
-            "ace": "Ace",
-            "quadKill": "4K",
-            "tripleKill": "3K",
-            "doubleKill": "2K",
-            "liveTime": "Waktu Hidup",
-            "cashEarned": "Uang Diperoleh"
-        },
-        "rounds": {
-            "round": "R{number}",
-            "half1": "Babak 1",
-            "half2": "Babak 2",
-            "overtime": "Perpanjangan Waktu",
-            "bombExploded": "Bom Meledak",
-            "bombDefused": "Bom Dijinakkan",
-            "elimination": "Eliminasi",
-            "timeout": "Waktu Habis",
-            "drawRound": "Seri",
-            "mvp": "MVP",
-            "planted": "Pasang Bom",
-            "defused": "Jinakkan Bom"
-        },
-        "kills": {
-            "round": "Round",
-            "killer": "Pembunuh",
-            "victim": "Korban",
-            "weapon": "Senjata",
-            "distance": "Jarak",
-            "assister": "Bantuan",
-            "headshot": "HS",
-            "wallbang": "WB",
-            "noscope": "NS",
-            "thrusmoke": "Smoke",
-            "blind": "Blind",
-            "inAir": "Air",
-            "flashAssist": "Flash",
-            "allRounds": "Semua",
-            "filterByRound": "Filter berdasarkan round",
-            "entry": "Entry"
-        },
-        "roundStats": {
-            "round": "Round",
-            "player": "Pemain",
-            "side": "Tim",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "damage": "DMG",
-            "hsKills": "HS",
-            "utilDmg": "Util",
-            "flash": "Flash",
-            "trade": "Trade",
-            "alive": "Hidup",
-            "dead": "Mati",
-            "selectRound": "Pilih round"
-        },
-        "economy": {
-            "avgEquipValue": "Rata-rata Perlengkapan",
-            "totalMoney": "Total Pengeluaran",
-            "round": "Round",
-            "team": "Tim",
-            "equipValue": "Perlengkapan",
-            "moneyLeft": "Sisa Uang",
-            "weapon": "Senjata Utama",
-            "armor": "Armor",
-            "helmet": "Helm",
-            "defuser": "Kit",
-            "grenades": "Granat",
-            "fullBuy": "Full Buy",
-            "forceBuy": "Force Buy",
-            "eco": "Eco",
-            "pistol": "Pistol"
-        }
     }
 }

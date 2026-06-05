@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "စုစုပေါင်း Admin",
-        "totalServers": "စုစုပေါင်း ဆာဗာ",
-        "activeBans": "တက်ကြွ ပိတ်ပင်",
-        "activeMutes": "တက်ကြွ Mute",
-        "totalLogs": "စုစုပေါင်း မှတ်တမ်း",
         "overview": "စနစ် အနှစ်ချုပ်",
-        "description": "စနစ်တစ်ခုလုံး မက်ထရစ်နှင့် လုပ်ဆောင်ချက် လမ်းကြောင်း",
         "total": "စုစုပေါင်း",
         "recentActivity": "မကြာသေးမီ လုပ်ဆောင်ချက်",
         "last7Days": "ပြီးခဲ့သော ၇ ရက်အတွင်း ပိတ်ပင်နှင့် mute",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "လုပ်ဆောင်ချက် အများဆုံး admin များ",
         "noData": "ဒေတာ မရှိပါ",
         "errorLoading": "စာရင်းအင်း ဖွင့်၍ မရပါ",
-        "totalWarns": "စုစုပေါင်း သတိပေးချက်",
-        "totalChatMessages": "ချတ် မက်ဆေ့ချ်",
         "uniquePlayers": "ထူးခြားသော ကစားသမား",
-        "totalPlaytimeHours": "စုစုပေါင်း ကစားချိန်",
-        "totalSessions": "စုစုပေါင်း Session",
         "playerActivity": "ကစားသမား လုပ်ဆောင်ချက်",
         "last30Days": "ပြီးခဲ့သော ၃၀ ရက်အတွင်း ထူးခြားသော ကစားသမားနှင့် session",
         "topMaps": "ထိပ်တန်း မြေပုံများ",
         "topMapsDesc": "session အရေအတွက်အလိုက် အများဆုံး ကစားသော မြေပုံများ",
         "serverStats": "ဆာဗာ စာရင်းအင်း",
-        "serverStatsDesc": "ကစားသမား လုပ်ဆောင်ချက်အလိုက် ဆာဗာတစ်ခုချင်း ခွဲခြမ်းစိတ်ဖြာ",
         "hours": "နာရီ",
         "sessions": "session",
         "players": "ကစားသမား",
@@ -59,8 +49,7 @@
         "showAll": "ဆာဗာ {count} ခု အားလုံး ပြသ",
         "showLess": "လျှော့ပြသ",
         "allServers": "ဆာဗာအားလုံး",
-        "last3Months": "ပြီးခဲ့သော ၃ လ",
-        "last14Days": "ပြီးခဲ့သော ၁၄ ရက်"
+        "last3Months": "ပြီးခဲ့သော ၃ လ"
     },
     "admins": {
         "title": "Admin စာရင်း",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "နမူနာ သို့မဟုတ် စိတ်ကြိုက်ပြင်ဆင်မှုဖြင့် admin အသစ် ပြင်ဆင်",
         "templates": "အမြန်နမူနာ",
-        "information": "Admin အချက်အလက်",
         "preview": "နမူနာကြည့်",
         "steamInput": "Steam ID / Profile URL",
         "steamPlaceholder": "SteamID64, profile URL သို့မဟုတ် vanity...",
         "steamHelp": "SteamID64, profile လင့်ခ် သို့မဟုတ် vanity URL ထည့်ပြီး Enter နှိပ်ပါ",
-        "resolved": "ဖြေရှင်းပြီး",
         "namePlaceholder": "Admin ပြသအမည်",
         "group": "Admin အုပ်စု",
         "selectGroup": "အုပ်စု ရွေးချယ်...",
         "noGroup": "အုပ်စုမရှိ (စိတ်ကြိုက်)",
         "flagsFromGroup": "Flags များကို ရွေးချယ်ထားသော အုပ်စုမှ အမွေဆက်ခံ",
-        "daysFromNow": "ရက်အကြာတွင်",
-        "alreadyExpired": "သက်တမ်းကုန်ပြီး",
-        "previewName": "Admin အမည်",
-        "noFlags": "Flags မသတ်မှတ်ရ",
-        "noServer": "ဆာဗာ မရွေးချယ်ရ"
+        "alreadyExpired": "သက်တမ်းကုန်ပြီး"
     },
     "gift": {
         "title": "လက်ဆောင်ကို ရယူ",
-        "loading": "ဖွင့်နေသည်...",
-        "redeemed": "လက်ဆောင် ရယူပြီး!",
-        "unavailable": "လက်ဆောင် မရရှိနိုင်",
-        "notFound": "လက်ဆောင် မတွေ့ပါ",
-        "package": "ပက်ကေ့ချ်",
         "duration": "ကြာချိန်",
-        "days": "ရက်",
-        "expiresIn": "လင့်ခ် သက်တမ်းကုန်",
-        "claim": "လက်ဆောင် ရယူ",
-        "loginRequired": "ချိတ်ဆက်ထားသော Steam အကောင့်ဖြင့် ဝင်ရောက်ရပါမည်",
-        "redeemSuccess": "လက်ဆောင် အောင်မြင်စွာ ရယူပြီး! ယခု admin ဖြစ်ပါသည်။",
-        "redeemSuccessMessage": "Admin အခွင့်အရေးများ ဖွင့်ပြီးပါပြီ။",
-        "redeemFailed": "လက်ဆောင် ရယူ၍ မရပါ",
-        "alreadyUsed": "ဤလက်ဆောင်လင့်ခ်ကို အသုံးပြုပြီးသား။",
-        "expired": "ဤလက်ဆောင်လင့်ခ် သက်တမ်းကုန်ပြီ။",
-        "notFoundMessage": "ဤလက်ဆောင်လင့်ခ် မရှိပါ သို့မဟုတ် ဖယ်ရှားပြီးပါပြီ။"
+        "days": "ရက်"
     },
     "servers": {
         "title": "ဆာဗာ စာရင်း",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON Console",
         "sendCommand": "ကွန်မန် ပို့",
         "command": "ကွန်မန်",
-        "response": "တုံ့ပြန်ချက်",
-        "noRcon": "RCON မပြင်ဆင်ရသေး",
-        "cannotDelete": "admin ချိတ်ဆက်ထားသော ဆာဗာကို ဖျက်၍ မရပါ"
+        "noRcon": "RCON မပြင်ဆင်ရသေး"
     },
     "bans": {
         "title": "ပိတ်ပင် စာရင်း",
@@ -160,14 +127,10 @@
         "actions": "လုပ်ဆောင်ချက်",
         "unban": "ပိတ်ပင် ဖြေလွှတ်",
         "reban": "ပြန် ပိတ်ပင်",
-        "edit": "တည်းဖြတ်",
-        "addComment": "မှတ်ချက် ထည့်",
         "delete": "ဖျက်",
         "minutes": "မိနစ်",
         "permanent": "အမြဲတမ်း",
         "active": "တက်ကြွ",
-        "unbanned": "ပိတ်ပင် ဖြေလွှတ်",
-        "expired": "သက်တမ်းကုန်",
         "addBanDescription": "ဆာဗာစနစ်တွင် ကစားခွင့်ပိတ်ပင်မှု (ban) အသစ်တစ်ခု ဖန်တီးပါ။.",
         "noBans": "Ban လုပ်ထားမှု မရှိသေးပါ"
     },
@@ -187,17 +150,13 @@
         "actions": "လုပ်ဆောင်ချက်",
         "unmute": "Mute ဖြေလွှတ်",
         "remute": "ပြန် Mute",
-        "edit": "တည်းဖြတ်",
-        "addComment": "မှတ်ချက် ထည့်",
         "delete": "ဖျက်",
         "gag": "GAG (ချတ်)",
         "mute": "MUTE (အသံ)",
         "silence": "SILENCE (နှစ်ခုလုံး)",
         "active": "တက်ကြွ",
-        "unmuted": "Mute ဖြေလွှတ်",
-        "expired": "သက်တမ်းကုန်",
         "addMuteDescription": "ဆာဗာစနစ်တွင် စကားပြော/မိုက်ခရိုဖုန်း (chat/mic) ပိတ်ပင်မှု (mute) အသစ်တစ်ခု ဖန်တီးပါ။.",
-        "noMutes": "Mute လုပ်ထားမှု မရှိသေးပါ"    
+        "noMutes": "Mute လုပ်ထားမှု မရှိသေးပါ"
     },
     "logs": {
         "title": "လုပ်ဆောင်ချက် မှတ်တမ်းများ",
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "ဖွင့်နေသည်...",
         "error": "အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်",
         "noAccess": "ဝင်ရောက်ခွင့် ငြင်းပယ်",
         "noAccessDesc": "ဤစာမျက်နှာကို ဝင်ရောက်ခွင့် မရှိပါ။",
@@ -293,8 +251,6 @@
             "kill": "ဤဆာဗာကို အတင်းရပ်ရန် သေချာပါသလား?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disk",
             "network": "ကွန်ရက်",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "အကောင့် အသေးစိတ်",
-            "tabInfo": "အချက်အလက်",
-            "tabSessions": "Session များ",
-            "tabLogs": "လုံခြုံရေး မှတ်တမ်း",
             "basicInfo": "အခြေခံ အချက်အလက်",
             "statistics": "စာရင်းအင်း",
             "linkedAccounts": "ချိတ်ဆက်ထားသော အကောင့်များ",
             "adminActions": "Admin လုပ်ဆောင်ချက်များ",
-            "uuid": "UUID",
             "loginCount": "ဝင်ရောက်မှု အရေအတွက်",
             "lastLoginAt": "နောက်ဆုံး ဝင်ရောက်မှု",
             "lastLoginIp": "နောက်ဆုံး IP",
@@ -372,13 +324,10 @@
             "twoFactor": "နှစ်ဆင့် အတည်ပြုမှု",
             "passkey": "Passkey",
             "locale": "ဘာသာစကား",
-            "tosAccepted": "ToS သဘောတူ",
-            "marketing": "စျေးကွက်ရေး အီးမေးလ်",
             "verified": "အတည်ပြုပြီး",
             "notVerified": "အတည်မပြုရသေး",
             "enabled": "ဖွင့်ထား",
             "disabled": "ပိတ်ထား",
-            "never": "မရှိ",
             "noData": "ဒေတာ မရှိ",
             "notLinked": "မချိတ်ဆက်ရသေး",
             "createdAt": "ဖန်တီးရက်",
@@ -387,20 +336,11 @@
             "failedAttempts": "မအောင်မြင်သော ကြိုးပမ်းမှု"
         },
         "sessions": {
-            "device": "စက်ပစ္စည်း",
-            "ip": "IP လိပ်စာ",
-            "lastActive": "နောက်ဆုံး အသုံးပြု",
             "revoke": "ပယ်ဖျက်",
             "revokeAll": "အားလုံး ထွက်",
-            "noSessions": "တက်ကြွ session မရှိ",
-            "revokeConfirm": "ဤ session ကို ပယ်ဖျက်မလား?",
-            "revokeAllConfirm": "ဤအသုံးပြုသူ၏ session အားလုံး ထွက်မလား?"
+            "noSessions": "တက်ကြွ session မရှိ"
         },
         "logs": {
-            "event": "ဖြစ်ရပ်",
-            "ip": "IP",
-            "time": "အချိန်",
-            "details": "အသေးစိတ်",
             "noLogs": "မှတ်တမ်း မရှိသေးပါ",
             "loadMore": "ပိုဖွင့်"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "Steam ချိတ်ဆက်မှု ဖြုတ်မလား? အကောင့် ပြန်လည်ရယူမှု ရွေးချယ်စရာ ဆုံးရှုံးနိုင်သည်။",
             "displayName": "ပြသအမည်",
             "email": "အီးမေးလ်"
-        },
-        "toast": {
-            "actionSuccess": "လုပ်ဆောင်ချက် အောင်မြင်စွာ ပြီးမြောက်",
-            "actionFailed": "လုပ်ဆောင်ချက် မအောင်မြင်"
         },
         "editProfile": {
             "emailWarning": "အီးမေးလ် ပြောင်းလဲခြင်းသည် အတည်ပြုအခြေအနေကို ပြန်လည်သတ်မှတ်မည်",

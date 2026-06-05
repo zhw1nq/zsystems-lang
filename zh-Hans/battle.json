@@ -8,51 +8,26 @@
         "invite": "通过 7ID 邀请",
         "invitePlaceholder": "输入 #7ID...",
         "inviteButton": "发送邀请",
-        "leave": "离开队伍",
-        "disband": "解散队伍",
-        "full": "队伍已满（5/5）",
-        "members": "{count}/5 名成员",
-        "leader": "队长",
-        "member": "成员",
-        "disbanded": "队伍已解散"
+        "leave": "离开队伍"
     },
-    
     "queue": {
         "find": "开始匹配",
         "cancel": "取消",
         "searching": "正在搜索比赛...",
-        "estimatedWait": "预计等待时间：{time}",
         "playersInQueue": "{count} 名玩家正在搜索",
         "partiesInQueue": "{count} 支队伍正在搜索",
-        "cooldown": "你正在冷却中。请在 {time} 后重试",
-        "memberCooldown": "{name} 正在冷却中",
-        "emailRequired": "所有成员都必须验证邮箱",
         "leaderOnly": "只有队长可以开始匹配"
     },
     "match": {
         "found": "找到比赛！",
         "accept": "接受",
         "decline": "拒绝",
-        "accepted": "{count}/{total} 已接受",
-        "timeRemaining": "{seconds}s",
-        "cancelled": "比赛已取消",
         "cancelReason": {
-            "decline": "有玩家拒绝了比赛",
-            "timeout": "接受时间已过"
+            "decline": "有玩家拒绝了比赛"
         },
-        "teamA": "A 队",
-        "teamB": "B 队",
         "myTeam": "你的队伍",
         "enemyTeam": "敌方队伍",
         "accepted_status": "已准备",
-        "vs": "对战",
-        "captain": "队长",
-        "configuring": "正在配置服务器...",
-        "live": "进行中",
-        "finished": "已结束",
-        "won": "胜利",
-        "lost": "失败",
-        "draw": "平局",
         "starting": "比赛初始化中！！！"
     },
     "mapBan": {
@@ -60,12 +35,8 @@
         "yourTurn": "轮到你了 — 选择要禁用的地图",
         "enemyTurn": "对手正在选择...",
         "waiting": "等待中...",
-        "banned": "已禁用",
-        "remaining": "剩余：{count} 张地图",
         "decided": "比赛地图",
-        "timePerBan": "{seconds}s",
         "pickSide": "选择阵营",
-        "pickSideDesc": "B 队选择起始阵营",
         "ct": "反恐精英",
         "t": "恐怖分子"
     },
@@ -73,17 +44,10 @@
         "title": "统计",
         "matches": "比赛场次",
         "wins": "胜利",
-        "losses": "失败",
-        "draws": "平局",
         "winRate": "胜率",
         "kd": "K/D",
-        "kills": "击杀",
-        "deaths": "死亡",
-        "assists": "助攻",
-        "mvps": "MVP",
         "winStreak": "连胜",
         "bestStreak": "最佳连胜",
-        "recentMatches": "最近比赛",
         "noMatches": "暂无比赛记录"
     },
     "leaderboard": {
@@ -99,29 +63,16 @@
         "received": "队伍邀请",
         "from": "{name} 邀请你加入他们的队伍",
         "accept": "接受",
-        "decline": "拒绝",
-        "expired": "邀请已过期",
-        "notFound": "未找到玩家",
-        "sent": "邀请已发送",
-        "alreadySent": "已向该玩家发送邀请"
+        "decline": "拒绝"
     },
     "cooldown": {
-        "active": "冷却中",
-        "remaining": "剩余时间：{time}",
         "reason": {
-            "decline": "拒绝比赛",
-            "timeout": "接受时间已过",
-            "abandon": "中途退出比赛",
-            "toxic": "负面行为"
+            "decline": "拒绝比赛"
         }
     },
     "history": {
         "title": "比赛历史",
-        "noHistory": "暂无比赛历史",
-        "map": "地图",
-        "score": "比分",
-        "result": "结果",
-        "date": "日期"
+        "noHistory": "暂无比赛历史"
     },
     "errors": {
         "matchNotFound": "未找到比赛",

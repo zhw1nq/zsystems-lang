@@ -10,18 +10,7 @@
     "nav": {
         "colorMode": "Mode ng Kulay",
         "themeColor": "Kulay ng Tema",
-        "language": "Wika",
-        "changePassword": "Palitan ang Password",
-        "twoFactor": "Two-Factor Auth", 
-        "sessions": "Mga Login Session",
-        "loginHistory": "Kasaysayan ng Login",
-        "profile": "Personal na Impormasyon",
-        "email": "Email",
-        "linkedAccounts": "Naka-link na Accounts",
-        "dangerZone": "Danger Zone",
-        "securityAlerts": "Mga Security Alert",
-        "activityAlerts": "Aktibidad ng Account",
-        "marketing": "Marketing"
+        "language": "Wika"
     },
     "general": {
         "title": "Pangkalahatang setting",
@@ -30,13 +19,10 @@
         "preferences": "Mga Kagustuhan",
         "preferencesHint": "I-adjust ang wika at visual na karanasan.",
         "colorMode": "Mode ng Kulay",
-        "colorModeHint": "Pumili ng display mode ng interface.",
-        "customColor": "Custom na kulay",
         "light": "Maliwanag",
         "auto": "Awtomatiko",
         "dark": "Madilim",
         "themeColor": "Kulay ng Tema",
-        "themeColorHint": "Pumili ng accent color para sa interface.",
         "language": "Wika",
         "languageHint": "Pumili ng wika ng website.",
         "reduceMotion": "Bawasan ang animation",
@@ -58,9 +44,7 @@
             "success": "Matagumpay na napalitan ang password",
             "successDetail": "Na-update ang iyong password. Na-sign out ang ibang sessions.",
             "error": "Hindi nagtagumpay ang pagpapalit ng password",
-            "mismatch": "Hindi tugma ang mga password",
-            "lastChanged": "Huling binago: {date}",
-            "neverChanged": "Hindi pa kailanman napalitan ang password"
+            "mismatch": "Hindi tugma ang mga password"
         },
         "twoFactor": {
             "title": "Two-Factor Authentication (2FA)",
@@ -69,24 +53,19 @@
             "disabled": "Naka-disable",
             "enable": "I-enable ang 2FA",
             "disable": "I-disable ang 2FA",
-            "setupTitle": "I-setup ang 2FA",
             "setupStep1": "I-scan ang QR code gamit ang authenticator app (Google Authenticator, Authy, atbp.)",
             "setupStep2": "Ilagay ang 6-digit code mula sa app",
-            "manualEntry": "Manual na paglagay",
             "manualEntryHint": "Kung hindi ma-scan, ilagay ang code sa app.",
-            "verificationCode": "Verification code",
             "verificationCodeHint": "Ilagay ang 6-digit code",
             "verify": "I-verify",
             "verifying": "Bine-verify...",
             "setupSuccess": "Matagumpay na na-enable ang 2FA!",
             "setupSuccessDetail": "Protektado na ang iyong account.",
             "setupError": "Hindi na-enable ang 2FA",
-            "disableConfirm": "Kumpirmahin ang pag-disable ng 2FA",
             "disableWarning": "Mababawasan ang seguridad ng account. Ilagay ang password.",
             "disablePassword": "Ilagay ang password",
             "disableSuccess": "Na-disable ang 2FA",
             "disableError": "Hindi na-disable ang 2FA",
-            "recoveryCodes": "Recovery codes",
             "recoveryCodesHint": "I-save ang codes sa ligtas na lugar.",
             "recoveryCodesSaved": "Nai-save ko ang recovery codes",
             "copyAll": "Kopyahin lahat"
@@ -96,14 +75,11 @@
             "description": "Pamahalaan ang mga device na naka-login.",
             "currentSession": "Kasalukuyang session",
             "revokeAll": "I-sign out lahat ng ibang device",
-            "revokeAllConfirm": "Sigurado ka ba?",
             "revokeAllSuccess": "Na-sign out ang {count} sessions",
             "revoke": "I-sign out",
-            "revokeConfirm": "Sigurado ka ba?",
             "revokeSuccess": "Na-sign out ang session",
             "revokeError": "Hindi nagtagumpay",
             "noSessions": "Walang aktibong session",
-            "lastActive": "Huling aktibo: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "Mobile",
@@ -114,43 +90,11 @@
         "loginHistory": {
             "title": "Kasaysayan ng Login",
             "description": "Tingnan ang aktibidad ng seguridad.",
-            "noLogs": "Walang aktibidad",
-            "showMore": "Ipakita pa",
-            "events": {
-                "login_success": "Matagumpay na login",
-                "login_failed": "Bigong login",
-                "login_passkey": "Login gamit ang passkey",
-                "register": "Nagawa ang account",
-                "logout": "Nag-sign out",
-                "password_change": "Napaltan ang password",
-                "password_reset_request": "Humiling ng reset password",
-                "password_reset_complete": "Natapos ang password reset",
-                "two_factor_enable": "Na-enable ang 2FA",
-                "two_factor_disable": "Na-disable ang 2FA",
-                "two_factor_verify": "Na-verify ang 2FA",
-                "passkey_register": "Nagdagdag ng passkey",
-                "passkey_remove": "Tinanggal ang passkey",
-                "account_lock": "Na-lock ang account",
-                "account_unlock": "Na-unlock ang account",
-                "account_suspend": "Na-suspend ang account",
-                "account_ban": "Na-ban ang account",
-                "account_reactivate": "Na-activate muli",
-                "oauth_link": "Naka-link ang OAuth",
-                "oauth_unlink": "Tinanggal ang OAuth",
-                "session_revoke": "Na-revoke ang session",
-                "session_revoke_all": "Na-revoke lahat ng sessions",
-                "email_change": "Napaltan ang email",
-                "profile_update": "Na-update ang profile",
-                "suspicious_activity": "May kahina-hinalang aktibidad"
-            }
+            "noLogs": "Walang aktibidad"
         },
         "alerts": {
             "title": "Mga Security Alert",
-            "description": "Makakuha ng abiso sa kahina-hinalang aktibidad.",
-            "emailOnNewLogin": "Email sa bagong login",
-            "emailOnNewLoginHint": "Abiso kapag may bagong device.",
-            "emailOnPasswordChange": "Email sa password change",
-            "emailOnPasswordChangeHint": "Abiso kapag napalitan ang password."
+            "description": "Makakuha ng abiso sa kahina-hinalang aktibidad."
         }
     },
     "account": {
@@ -161,7 +105,6 @@
             "description": "Impormasyon ng account mo.",
             "username": "Username",
             "sevenId": "7ID",
-            "email": "Email",
             "displayName": "Pangalan na ipinapakita",
             "registeredAt": "Narehistro",
             "status": "Status",
@@ -173,15 +116,11 @@
             "updating": "Ina-update...",
             "updateSuccess": "Matagumpay na na-update",
             "updateSuccessDetail": "Na-sync ang avatar at pangalan.",
-            "updateError": "Hindi na-update",
-            "updateErrorDetail": "Subukan muli.",
-            "discordSynced": "Na-sync ang Discord",
-            "steamSynced": "Na-sync ang Steam"
+            "updateError": "Hindi na-update"
         },
         "avatar": {
             "title": "Avatar",
-            "description": "Mula sa Discord ang avatar.",
-            "comingSoon": "Custom avatar — paparating pa"
+            "description": "Mula sa Discord ang avatar."
         },
         "email": {
             "title": "Email",
@@ -235,9 +174,7 @@
             "title": "Security Notifications",
             "description": "Email para sa security activity.",
             "loginAlert": "Login alert",
-            "loginAlertHint": "Email kapag may bagong login.",
-            "passwordChange": "Password change",
-            "passwordChangeHint": "Email kapag napalitan password."
+            "loginAlertHint": "Email kapag may bagong login."
         },
         "activity": {
             "title": "Aktibidad ng Account",
@@ -261,10 +198,6 @@
         "updating": "Ina-update...",
         "success": "Matagumpay!",
         "successDetail": "Na-sync ang data.",
-        "error": "Hindi nagtagumpay",
-        "errorDetail": "Subukan muli.",
-        "discordSynced": "Discord synced",
-        "steamSynced": "Steam synced",
-        "hint": "I-click para i-sync ang latest data."
+        "error": "Hindi nagtagumpay"
     }
 }

@@ -2,54 +2,28 @@
     "models": {
         "title": "zModels",
         "description": "Model pemain eksklusif untuk SVIP",
-        "equipped": "Dipakai",
-        "equip": "Pakai",
-        "unequip": "Tanggalkan",
-        "ct": "Counter Terrorist",
-        "t": "Terrorist",
-        "private": "Peribadi",
         "search": "Cari model...",
-        "noResults": "Tiada model dijumpai",
-        "accessDenied": "Akses SVIP diperlukan untuk menggunakan ciri ini",
-        "notLoggedIn": "Sila log masuk untuk menggunakan ciri ini",
-        "selectCategory": "Pilih kategori"
+        "noResults": "Tiada model dijumpai"
     },
-    "weapons": { 
+    "weapons": {
         "title": "zWeapons",
         "description": "Kulit senjata eksklusif untuk SVIP",
-        "equipped": "Dipakai",
-        "equip": "Pakai",
-        "unequip": "Tanggalkan",
         "search": "Cari senjata...",
         "noResults": "Tiada senjata dijumpai",
         "selectPack": "Pilih pek kulit",
         "selectWeapon": "Pilih jenis senjata",
         "viewByType": "Lihat mengikut jenis senjata",
-        "viewByPack": "Lihat mengikut pek kulit",
-        "accessDenied": "Akses SVIP diperlukan untuk menggunakan ciri ini",
-        "notLoggedIn": "Sila log masuk untuk menggunakan ciri ini",
-        "categories": {
-            "rifles": "Raifal",
-            "pistols": "Pistol",
-            "smgs": "SMG",
-            "heavy": "Berat",
-            "knives": "Pisau",
-            "grenades": "Granat"
-        }
+        "viewByPack": "Lihat mengikut pek kulit"
     },
     "common": {
         "locked": "SVIP Diperlukan",
         "lockedDesc": "Ciri ini eksklusif untuk pengguna SVIP. Naik taraf untuk membuka kunci.",
-        "loading": "Memuatkan...",
         "equipSuccess": "Berjaya dipakai",
         "equipSuccessDesc": "{name} dipakai",
         "unequipSuccess": "Ditanggalkan",
         "unequipSuccessDesc": "{name} dialih keluar",
         "equipFailed": "Gagal memakai",
-        "unequipFailed": "Gagal menanggalkan",
-        "tooFast": "Terlalu pantas",
-        "tooFastDesc": "Sila tunggu sebelum melakukan tindakan seterusnya",
-        "allWeapons": "Semua"
+        "unequipFailed": "Gagal menanggalkan"
     },
     "mvp": {
         "title": "zMVP",
@@ -60,11 +34,6 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "ADMIN",
-        "preview": "Pratonton",
-        "stop": "Henti",
-        "apply": "Guna",
-        "unequip": "Tanggalkan",
-        "equipped": "Dipakai",
         "lockedVip": "VIP Diperlukan",
         "lockedVipDesc": "Ciri ini eksklusif untuk pengguna VIP.",
         "lockedSvip": "SVIP Diperlukan",

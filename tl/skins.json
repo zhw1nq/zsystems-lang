@@ -1,32 +1,9 @@
 {
     "title": "Mga Skin",
     "description": "Tingnan at i-customize ang iyong CS2 weapon skins",
-    "tabs": {
-        "weaponSkins": "Mga Weapon Skin",
-        "agents": "Mga Agent",
-        "musicKits": "Mga Music Kit",
-        "pinsCoins": "Mga Pin at Barya"
-    },
-    "categories": {
-        "gloves": "Guwantes",
-        "rifles": "Rifle",
-        "knives": "Kutsilyo",
-        "smgs": "SMG",
-        "pistols": "Pistola",
-        "heavy": "Mabibigat na Sandata",
-        "equipment": "Kagamitan" 
-    },
-    "team": {
-        "both": "Parehong Team",
-        "ct": "CT Side",
-        "t": "T Side"
-    },
     "search": "Maghanap ng skins...",
     "noResults": "Walang nahanap na skins",
     "selectWeapon": "Pumili ng sandata para tingnan ang skins",
-    "loginRequired": "Mag-login muna para gamitin ang Skins",
-    "loading": "Naglo-load ng skins...",
-    "itemCount": "{count} mga item",
     "toast": {
         "tooFast": "Masyadong mabilis!",
         "tooFastDesc": "Maghintay ng 2s bago subukang muli",

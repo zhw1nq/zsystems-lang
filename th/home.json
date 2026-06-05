@@ -1,28 +1,13 @@
 {
     "hero": {
-        "explore": "สำรวจ",
-        "store": "ร้านค้า",
-        "letsPlayNow": "มาเล่นกันเลย!",
-        "wantToBeVip": "อยากเป็น VIP ไหม?",
-        "loginToZsystems": "เข้าสู่ระบบ zSystems",
-        "weaponSkins": "สกินอาวุธ",
-        "ranks": "แรงก์",
         "contact": "ติดต่อ",
-        "getDemo": "รับเดโม",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "เล่นเลย",
         "login": "เข้าสู่ระบบ",
         "changeSkins": "เปลี่ยนสกินอาวุธ"
-    }, 
-    "nav": {
-        "community": "ชุมชน",
-        "ranks": "แรงก์",
-        "support": "ช่วยเหลือ"
     },
-    "stats": {
-        "uptime": "UPTIME",
-        "ping": "PING",
-        "players6h": "ผู้เล่น / 6 ชม."
+    "nav": {
+        "support": "ช่วยเหลือ"
     },
     "footer": {
         "selectLanguage": "เลือกภาษา",
@@ -40,11 +25,9 @@
         "support": "ช่วยเหลือ",
         "serverTip": "เปิดคอนโซล CS2 แล้วพิมพ์ connect [IP] เพื่อเข้าร่วม",
         "copyConnect": "คลิกเพื่อคัดลอกคำสั่ง connect",
-        "dmca": "ลิขสิทธิ์ & DMCA Protected: zSystems และ 7-Mau Community เคารพกฎหมายทรัพย์สินทางปัญญา Counter-Strike 2 เป็นเครื่องหมายการค้าของ Valve Corporation",
         "quickLinks": {
             "leaderboard": "กระดานคะแนน",
             "stats": "สถิติส่วนตัว",
-            "matches": "ประวัติการแข่งขัน",
             "register": "สมัครสมาชิก",
             "guide": "คู่มือการเข้าร่วม",
             "configs": "ดาวน์โหลด config"
@@ -70,7 +53,6 @@
     },
     "zsystems": {
         "title": "zSystems",
-        "subtitle": "สถาปัตยกรรมระบบ zSystems",
         "backHome": "กลับหน้าหลัก",
         "heroTag": "zSystems & vhming Core Platform",
         "description": "zSystems และ vhming เป็นระบบจัดการขั้นสูงและแดชบอร์ดแบบ All-In-One (AIO) ที่ช่วยให้การทำงานราบรื่น ประสิทธิภาพสูง และจัดการฐานข้อมูลแบบเรียลไทม์",

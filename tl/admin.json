@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Kabuuang Admin",
-        "totalServers": "Kabuuang Server",
-        "activeBans": "Aktibong Ban",
-        "activeMutes": "Aktibong Mute",
-        "totalLogs": "Kabuuang Log",
         "overview": "Pangkalahatang-ideya ng System",
-        "description": "Mga sukatan at trend ng aktibidad sa buong system",
         "total": "Kabuuan",
         "recentActivity": "Kamakailang Aktibidad",
         "last7Days": "Mga ban at mute sa nakaraang 7 araw",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Pinaka-aktibong admin ayon sa mga aksyon",
         "noData": "Walang data",
         "errorLoading": "Nabigong i-load ang estadistika",
-        "totalWarns": "Kabuuang Babala",
-        "totalChatMessages": "Mga Mensahe sa Chat",
         "uniquePlayers": "Iba't ibang Manlalaro",
-        "totalPlaytimeHours": "Kabuuang Oras ng Laro",
-        "totalSessions": "Kabuuang Sesyon",
         "playerActivity": "Aktibidad ng Manlalaro",
         "last30Days": "Iba't ibang manlalaro at sesyon sa nakaraang 30 araw",
         "topMaps": "Pinaka-Madalas na Map",
         "topMapsDesc": "Pinaka-nilarong mapa ayon sa bilang ng sesyon",
         "serverStats": "Estadistika ng Server",
-        "serverStatsDesc": "Pagkakahati ng aktibidad kada server",
         "hours": "oras",
         "sessions": "sesyon",
         "players": "manlalaro",
@@ -59,8 +49,7 @@
         "showAll": "Ipakita lahat ng {count} server",
         "showLess": "Ipakita nang mas kaunti",
         "allServers": "Lahat ng Server",
-        "last3Months": "Nakaraang 3 buwan",
-        "last14Days": "Nakaraang 14 araw"
+        "last3Months": "Nakaraang 3 buwan"
     },
     "admins": {
         "title": "Listahan ng Admin",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "Mag-configure ng bagong admin gamit ang templates o custom settings",
         "templates": "Mabilis na Templates",
-        "information": "Impormasyon ng Admin",
         "preview": "Preview",
         "steamInput": "Steam ID / Profile URL",
         "steamPlaceholder": "SteamID64, profile URL, o vanity...",
         "steamHelp": "Ilagay ang SteamID64, profile link, o vanity URL at pindutin Enter",
-        "resolved": "Nalutas",
         "namePlaceholder": "Pangalan ng admin",
         "group": "Grupo ng Admin",
         "selectGroup": "Pumili ng grupo...",
         "noGroup": "Walang Grupo (Custom)",
         "flagsFromGroup": "Namamana ang flags mula sa napiling grupo",
-        "daysFromNow": "araw mula ngayon",
-        "alreadyExpired": "Expired na",
-        "previewName": "Pangalan ng Admin",
-        "noFlags": "Walang flags",
-        "noServer": "Walang napiling server"
+        "alreadyExpired": "Expired na"
     },
     "gift": {
         "title": "Kunin ang Iyong Regalo",
-        "loading": "Naglo-load...",
-        "redeemed": "Nakuha na ang Regalo!",
-        "unavailable": "Hindi Magagamit ang Regalo",
-        "notFound": "Hindi Natagpuan ang Regalo",
-        "package": "Package",
         "duration": "Tagal",
-        "days": "araw",
-        "expiresIn": "Mag-e-expire sa",
-        "claim": "Kunin ang Regalo",
-        "loginRequired": "Kailangan mong naka-login gamit ang Steam account",
-        "redeemSuccess": "Matagumpay na nakuha ang regalo! Ikaw ay admin na.",
-        "redeemSuccessMessage": "Na-activate na ang iyong admin privileges.",
-        "redeemFailed": "Nabigong kunin ang regalo",
-        "alreadyUsed": "Nagamit na ang link na ito.",
-        "expired": "Expired na ang link na ito.",
-        "notFoundMessage": "Hindi umiiral o tinanggal ang link na ito."
+        "days": "araw"
     },
     "servers": {
         "title": "Listahan ng Server",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON Console",
         "sendCommand": "Magpadala ng Command",
         "command": "Command",
-        "response": "Sagot",
-        "noRcon": "Hindi naka-configure ang RCON",
-        "cannotDelete": "Hindi maaaring tanggalin ang server na may naka-attach na admin"
+        "noRcon": "Hindi naka-configure ang RCON"
     },
     "bans": {
         "title": "Listahan ng Ban",
@@ -160,14 +127,10 @@
         "actions": "Mga Aksyon",
         "unban": "I-unban",
         "reban": "I-ban muli",
-        "edit": "I-edit",
-        "addComment": "Magdagdag ng Komento",
         "delete": "Tanggalin",
         "minutes": "minuto",
         "permanent": "Permanente",
         "active": "Aktibo",
-        "unbanned": "Na-unban",
-        "expired": "Expired",
         "addBanDescription": "Gumawa ng bagong ban sa sistema ng server.",
         "noBans": "Wala pang ban"
     },
@@ -187,15 +150,11 @@
         "actions": "Mga Aksyon",
         "unmute": "I-unmute",
         "remute": "I-mute muli",
-        "edit": "I-edit",
-        "addComment": "Magdagdag ng Komento",
         "delete": "Tanggalin",
         "gag": "GAG (Chat)",
         "mute": "MUTE (Boses)",
         "silence": "SILENCE (Pareho)",
         "active": "Aktibo",
-        "unmuted": "Na-unmute",
-        "expired": "Expired",
         "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system.",
         "noMutes": "Wala pang mute"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "Naglo-load...",
         "error": "Nagkaroon ng error",
         "noAccess": "Walang Access",
         "noAccessDesc": "Wala kang pahintulot sa page na ito.",
@@ -293,8 +251,6 @@
             "kill": "Sigurado ka bang i-force kill?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disk",
             "network": "Network",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "Detalye ng Account",
-            "tabInfo": "Info",
-            "tabSessions": "Sesyon",
-            "tabLogs": "Security Logs",
             "basicInfo": "Pangunahing Info",
             "statistics": "Estadistika",
             "linkedAccounts": "Naka-link na Accounts",
             "adminActions": "Aksyon ng Admin",
-            "uuid": "UUID",
             "loginCount": "Bilang ng Login",
             "lastLoginAt": "Huling Login",
             "lastLoginIp": "Huling IP",
@@ -372,13 +324,10 @@
             "twoFactor": "Two-Factor Auth",
             "passkey": "Passkey",
             "locale": "Wika",
-            "tosAccepted": "Tinanggap ang ToS",
-            "marketing": "Marketing Email",
             "verified": "Na-verify",
             "notVerified": "Hindi na-verify",
             "enabled": "Pinagana",
             "disabled": "Hindi pinagana",
-            "never": "Kailanman",
             "noData": "Walang data",
             "notLinked": "Hindi naka-link",
             "createdAt": "Ginawa",
@@ -387,20 +336,11 @@
             "failedAttempts": "Nabigong attempts"
         },
         "sessions": {
-            "device": "Aparato",
-            "ip": "Alamat ng IP",
-            "lastActive": "Huling aktibidad",
             "revoke": "Bawiin",
             "revokeAll": "Mag-log out lahat",
-            "noSessions": "Walang aktibong sesyon",
-            "revokeConfirm": "Bawiin ang sesyong ito?",
-            "revokeAllConfirm": "Mag-log out sa lahat ng sesyon ng user na ito?"
+            "noSessions": "Walang aktibong sesyon"
         },
         "logs": {
-            "event": "Kaganapan",
-            "ip": "IP",
-            "time": "Oras",
-            "details": "Detalye",
             "noLogs": "Wala pang log",
             "loadMore": "Mag-load pa"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "I-unlink ang Steam? Maaaring maapektuhan ang recovery ng account.",
             "displayName": "Display Name",
             "email": "Email"
-        },
-        "toast": {
-            "actionSuccess": "Matagumpay ang aksyon",
-            "actionFailed": "Nabigo ang aksyon"
         },
         "editProfile": {
             "emailWarning": "Ang pagpalit ng email ay magre-reset ng verification status",

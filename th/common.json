@@ -25,35 +25,22 @@
     "actions": {
         "copy": "คัดลอก",
         "connect": "เชื่อมต่อ",
-        "save": "บันทึก",
         "cancel": "ยกเลิก",
         "close": "ปิด",
-        "confirm": "ยืนยัน",
-        "delete": "ลบ",
-        "edit": "แก้ไข",
         "back": "ย้อนกลับ",
         "retry": "ลองใหม่",
         "search": "ค้นหา..."
     },
     "status": {
-        "online": "ออนไลน์",
-        "offline": "ออฟไลน์",
-        "loading": "กำลังโหลด...",
-        "error": "ข้อผิดพลาด",
-        "success": "สำเร็จ"
+        "loading": "กำลังโหลด..."
     },
     "toast": {
         "copied": "คัดลอกไปยังคลิปบอร์ดแล้ว",
         "copyFailed": "คัดลอกไม่สำเร็จ"
     },
-    "footer": {
-        "rights": "สงวนลิขสิทธิ์ทั้งหมด"
-    },
     "sidebar": {
         "collapse": "ย่อเมนู",
         "expand": "ขยายเมนู",
-        "language": "ภาษา",
-        "theme": "ธีม",
         "terms": "ข้อกำหนดและความเป็นส่วนตัว",
         "guest": "ผู้เยี่ยมชม",
         "settings": "การตั้งค่า"
@@ -92,14 +79,8 @@
         }
     },
     "welcomePopup": {
-        "greeting_night": "ราตรีสวัสดิ์, {name}",
-        "greeting_morning": "อรุณสวัสดิ์, {name}",
-        "greeting_noon": "สวัสดีตอนเที่ยง, {name}",
-        "greeting_afternoon": "สวัสดีตอนบ่าย, {name}",
-        "greeting_evening": "สวัสดีตอนเย็น, {name}",
         "guest": "ผู้เยี่ยมชม",
-        "warning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ",
-        "loadingWarning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ"
+        "warning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ"
     },
     "optional": "ตัวเลือก"
 }

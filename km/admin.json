@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Admin សរុប",
-        "totalServers": "ម៉ាស៊ីនមេសរុប",
-        "activeBans": "ការហាមឃាត់សកម្ម",
-        "activeMutes": "Mute សកម្ម",
-        "totalLogs": "កំណត់ហេតុសរុប",
         "overview": "ទិដ្ឋភាពប្រព័ន្ធ",
-        "description": "មេត្រិក និងដំណើរការទូទាំងប្រព័ន្ធ",
         "total": "សរុប",
         "recentActivity": "សកម្មភាពថ្មីៗ",
         "last7Days": "ការហាមឃាត់ & mute ក្នុង ៧ ថ្ងៃចុងក្រោយ",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Admin សកម្មបំផុតតាមសកម្មភាពចេញ",
         "noData": "គ្មានទិន្នន័យ",
         "errorLoading": "ផ្ទុកស្ថិតិមិនបាន",
-        "totalWarns": "ការព្រមានសរុប",
-        "totalChatMessages": "សារជជែក",
         "uniquePlayers": "អ្នកលេងពិសេស",
-        "totalPlaytimeHours": "ពេលលេងសរុប",
-        "totalSessions": "សម័យសរុប",
         "playerActivity": "សកម្មភាពអ្នកលេង",
         "last30Days": "អ្នកលេងពិសេស & សម័យក្នុង ៣០ ថ្ងៃចុងក្រោយ",
         "topMaps": "ផែនទីកំពូល",
         "topMapsDesc": "ផែនទីលេងច្រើនបំផុតតាមចំនួនសម័យ",
         "serverStats": "ស្ថិតិម៉ាស៊ីនមេ",
-        "serverStatsDesc": "ស្ថិតិអ្នកលេងតាមម៉ាស៊ីនមេ",
         "hours": "ម៉ោង",
         "sessions": "សម័យ",
         "players": "អ្នកលេង",
@@ -59,8 +49,7 @@
         "showAll": "មើលម៉ាស៊ីនមេ {count} ទាំងអស់",
         "showLess": "មើលតិច",
         "allServers": "ម៉ាស៊ីនមេទាំងអស់",
-        "last3Months": "៣ ខែចុងក្រោយ",
-        "last14Days": "១៤ ថ្ងៃចុងក្រោយ"
+        "last3Months": "៣ ខែចុងក្រោយ"
     },
     "admins": {
         "title": "បញ្ជី Admin",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "កំណត់ admin ថ្មីដោយ template ឬការកំណត់តាមបំណង",
         "templates": "Template រហ័ស",
-        "information": "ព័ត៌មាន Admin",
         "preview": "មើលជាមុន",
         "steamInput": "Steam ID / URL Profile",
         "steamPlaceholder": "SteamID64, តំណ profile ឬ vanity...",
         "steamHelp": "បញ្ចូល SteamID64, តំណ profile ឬ vanity URL ហើយចុច Enter",
-        "resolved": "បានដោះស្រាយ",
         "namePlaceholder": "ឈ្មោះបង្ហាញ admin",
         "group": "ក្រុម Admin",
         "selectGroup": "ជ្រើសក្រុម...",
         "noGroup": "គ្មានក្រុម (តាមបំណង)",
         "flagsFromGroup": "Flags ទទួលពីក្រុមដែលជ្រើស",
-        "daysFromNow": "ថ្ងៃពីឥឡូវ",
-        "alreadyExpired": "ផុតកំណត់រួចហើយ",
-        "previewName": "ឈ្មោះ Admin",
-        "noFlags": "មិនបានកំណត់ flags",
-        "noServer": "មិនបានជ្រើសម៉ាស៊ីនមេ"
+        "alreadyExpired": "ផុតកំណត់រួចហើយ"
     },
     "gift": {
         "title": "ទាញយកអំណោយ",
-        "loading": "កំពុងផ្ទុក...",
-        "redeemed": "បានទាញយកអំណោយ!",
-        "unavailable": "អំណោយមិនមាន",
-        "notFound": "រកមិនឃើញអំណោយ",
-        "package": "កញ្ចប់",
         "duration": "រយៈពេល",
-        "days": "ថ្ងៃ",
-        "expiresIn": "តំណផុតកំណត់ក្នុង",
-        "claim": "ទាញយកអំណោយ",
-        "loginRequired": "ត្រូវចូលជាមួយគណនី Steam ភ្ជាប់",
-        "redeemSuccess": "ទាញយកអំណោយជោគជ័យ! អ្នកឥឡូវជា admin។",
-        "redeemSuccessMessage": "សិទ្ធិ admin របស់អ្នកត្រូវបានធ្វើឱ្យសកម្ម។",
-        "redeemFailed": "ទាញយកអំណោយមិនបាន",
-        "alreadyUsed": "តំណអំណោយនេះត្រូវបានប្រើរួចហើយ។",
-        "expired": "តំណអំណោយនេះផុតកំណត់។",
-        "notFoundMessage": "តំណអំណោយនេះមិនមាន ឬត្រូវបានលុប។"
+        "days": "ថ្ងៃ"
     },
     "servers": {
         "title": "បញ្ជីម៉ាស៊ីនមេ",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON Console",
         "sendCommand": "ផ្ញើពាក្យបញ្ជា",
         "command": "ពាក្យបញ្ជា",
-        "response": "ការឆ្លើយតប",
-        "noRcon": "មិនបានកំណត់ RCON",
-        "cannotDelete": "មិនអាចលុបម៉ាស៊ីនមេដែលមាន admin ភ្ជាប់"
+        "noRcon": "មិនបានកំណត់ RCON"
     },
     "bans": {
         "title": "បញ្ជីហាមឃាត់",
@@ -160,14 +127,10 @@
         "actions": "សកម្មភាព",
         "unban": "ដោះហាមឃាត់",
         "reban": "ហាមឃាត់ម្តងទៀត",
-        "edit": "កែ",
-        "addComment": "បន្ថែមមតិ",
         "delete": "លុប",
         "minutes": "នាទី",
         "permanent": "អចិន្ត្រៃយ៍",
         "active": "សកម្ម",
-        "unbanned": "បានដោះហាមឃាត់",
-        "expired": "ផុតកំណត់",
         "addBanDescription": "បង្កើតការហាមលេង (ban) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "noBans": "មិនទាន់មានការហាមឃាត់ណាមួយទេ"
     },
@@ -187,15 +150,11 @@
         "actions": "សកម្មភាព",
         "unmute": "ដោះ Mute",
         "remute": "Mute ម្តងទៀត",
-        "edit": "កែ",
-        "addComment": "បន្ថែមមតិ",
         "delete": "លុប",
         "gag": "GAG (ជជែក)",
         "mute": "MUTE (សំឡេង)",
         "silence": "SILENCE (ទាំងពីរ)",
         "active": "សកម្ម",
-        "unmuted": "បានដោះ Mute",
-        "expired": "ផុតកំណត់",
         "addMuteDescription": "បង្កើតការហាមជជែក/មីក្រូហ្វូន (mute) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "noMutes": "មិនទាន់មានការបិទសំឡេងណាមួយទេ"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "កំពុងផ្ទុក...",
         "error": "មានកំហុស",
         "noAccess": "បដិសេធការចូល",
         "noAccessDesc": "អ្នកមិនមានសិទ្ធិចូលទំព័រនេះ។",
@@ -293,8 +251,6 @@
             "kill": "តើអ្នកប្រាកដថាចង់បង្ខំបញ្ឈប់ម៉ាស៊ីនមេនេះ?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disk",
             "network": "បណ្តាញ",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "ព័ត៌មានគណនី",
-            "tabInfo": "ព័ត៌មាន",
-            "tabSessions": "សម័យ",
-            "tabLogs": "កំណត់ហេតុសុវត្ថិភាព",
             "basicInfo": "ព័ត៌មានមូលដ្ឋាន",
             "statistics": "ស្ថិតិ",
             "linkedAccounts": "គណនីភ្ជាប់",
             "adminActions": "សកម្មភាព Admin",
-            "uuid": "UUID",
             "loginCount": "ចំនួនចូល",
             "lastLoginAt": "ចូលចុងក្រោយ",
             "lastLoginIp": "IP ចុងក្រោយ",
@@ -372,13 +324,10 @@
             "twoFactor": "ការផ្ទៀងផ្ទាត់ពីរជាន់",
             "passkey": "Passkey",
             "locale": "ភាសា",
-            "tosAccepted": "យល់ព្រម ToS",
-            "marketing": "អ៊ីមែលទីផ្សារ",
             "verified": "បានផ្ទៀងផ្ទាត់",
             "notVerified": "មិនទាន់ផ្ទៀងផ្ទាត់",
             "enabled": "បានបើក",
             "disabled": "បានបិទ",
-            "never": "មិនដែល",
             "noData": "គ្មានទិន្នន័យ",
             "notLinked": "មិនទាន់ភ្ជាប់",
             "createdAt": "បង្កើត",
@@ -387,20 +336,11 @@
             "failedAttempts": "ព្យាយាមមិនបាន"
         },
         "sessions": {
-            "device": "ឧបករណ៍",
-            "ip": "អាសយដ្ឋាន IP",
-            "lastActive": "សកម្មចុងក្រោយ",
             "revoke": "លុប",
             "revokeAll": "ចេញទាំងអស់",
-            "noSessions": "គ្មានសម័យសកម្ម",
-            "revokeConfirm": "លុបសម័យនេះ?",
-            "revokeAllConfirm": "ចេញសម័យទាំងអស់របស់អ្នកប្រើនេះ?"
+            "noSessions": "គ្មានសម័យសកម្ម"
         },
         "logs": {
-            "event": "ព្រឹត្តិការណ៍",
-            "ip": "IP",
-            "time": "ពេល",
-            "details": "លម្អិត",
             "noLogs": "មិនទាន់មានកំណត់ហេតុ",
             "loadMore": "ផ្ទុកបន្ថែម"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "ដោះភ្ជាប់ Steam? អ្នកប្រើអាចបាត់ជម្រើសស្តារគណនី។",
             "displayName": "ឈ្មោះបង្ហាញ",
             "email": "អ៊ីមែល"
-        },
-        "toast": {
-            "actionSuccess": "សកម្មភាពបានបញ្ចប់ដោយជោគជ័យ",
-            "actionFailed": "សកម្មភាពមិនបាន"
         },
         "editProfile": {
             "emailWarning": "ប្តូរអ៊ីមែលនឹងកំណត់ស្ថានភាពផ្ទៀងផ្ទាត់ឡើងវិញ",

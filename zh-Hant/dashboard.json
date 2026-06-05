@@ -3,27 +3,20 @@
     "subtitle": "伺服器總覽與管理",
     "servers": {
         "title": "伺服器",
-        "count": "{count} 個伺服器",
         "allServers": "所有伺服器",
         "noServers": "此群組中沒有伺服器"
     },
     "serverCard": {
-        "connect": "連線",
         "noMap": "無地圖",
         "players": "{current}/{max} 名玩家",
-        "offline": "離線",
         "noInfo": "沒有可用的伺服器資訊。"
     },
     "serverDetail": {
         "players": "玩家",
-        "noPlayers": "沒有玩家",
         "teamCT": "反恐精英",
         "teamT": "恐怖分子",
-        "teamUnassigned": "未分配",
-        "serverInfo": "伺服器資訊",
         "chat": "聊天",
         "contextMenu": {
-            "viewSteamProfile": "查看帳號",
             "copySteamId": "複製 SteamID",
             "copyPlayerName": "複製玩家名稱",
             "copyStats": "複製統計資料",
@@ -31,7 +24,6 @@
         },
         "spectators": "觀戰者",
         "noSpectators": "沒有觀戰者",
-        "copied": "已複製 {label}",
         "unknown": "未知"
     },
     "stats": {
@@ -80,7 +72,18 @@
             "removeBan": "解除封禁",
             "removeMute": "解除禁言",
             "deleteBan": "刪除封禁",
-            "deleteMute": "刪除禁言"
+            "deleteMute": "刪除禁言",
+            "confirmDeleteTitle": "Xác nhận xóa",
+            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
+            "removeReasonPlaceholder": "Nhập lý do gỡ...",
+            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
+            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
+            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
+            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
+            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
+            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
         }
     },
     "playerAction": {
@@ -111,48 +114,16 @@
     "privilege": {
         "title": "伺服器特權",
         "description": "升級您的帳號以解鎖專屬外觀與優先權限。選擇最適合您的方案。",
-        "discount": "省下",
-        "month1": "1 個月",
-        "months3": "3 個月",
-        "mostPopular": "最受歡迎",
-        "periodMonthly": "/ 31 天",
-        "periodQuarterly": "/ 90 天",
-        "currentPlan": "目前方案",
         "tiers": {
             "member": {
-                "name": "免費",
-                "priceMonthly": "免費",
-                "priceQuarterly": "免費",
-                "description": "基本體驗",
-                "button": "立即遊玩"
+                "description": "基本體驗"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
-                "description": "頂級尊榮體驗",
-                "button": "升級"
+                "description": "頂級尊榮體驗"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
-                "description": "強化遊戲體驗",
-                "button": "升級"
+                "description": "強化遊戲體驗"
             }
-        },
-        "features": {
-            "customSkins": "自訂刀具、手套與武器",
-            "createCollections": "建立造型收藏",
-            "mvpPackFree": "使用免費 MVP 套件",
-            "publicServers": "加入社群伺服器",
-            "prioritySlot": "優先進入伺服器",
-            "fastSupport": "管理員優先支援",
-            "mvpPackVip": "解鎖 VIP MVP 套件",
-            "customLoadout": "自訂裝備配置",
-            "agentWibu3D": "專屬 3D Wibu 探員",
-            "weaponWibu3D": "頂級 3D Wibu 武器",
-            "adminPrivileges": "頂級管理員權限"
         }
     },
     "support": {
@@ -160,124 +131,5 @@
         "description": "7-Mau Community 隨時準備幫助您的夥伴",
         "admin": "管理員",
         "staff": "支援人員"
-    },
-    "match": {
-        "title": "比賽",
-        "subtitle": "系統中的比賽歷史",
-        "searchPlaceholder": "按隊伍名稱搜尋...",
-        "noMatches": "找不到任何比賽",
-        "live": "進行中",
-        "finished": "已結束",
-        "win": "勝利",
-        "lose": "失敗",
-        "draw": "平局",
-        "duration": "{minutes} 分鐘",
-        "server": "伺服器",
-        "downloadDemo": "下載 Demo",
-        "noDemo": "尚無 Demo",
-        "viewDetail": "詳細資料",
-        "backToList": "返回列表",
-        "matchNumber": "比賽 #{id}",
-        "map": "地圖",
-        "records": "{count} 場比賽",
-        "page": "第 {page}/{total} 頁",
-        "previous": "上一頁",
-        "next": "下一頁",
-        "tabs": {
-            "scoreboard": "記分板",
-            "rounds": "回合過程",
-            "kills": "擊殺",
-            "roundStats": "每回合數據",
-            "economy": "經濟"
-        },
-        "scoreboard": {
-            "player": "玩家",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "adr": "ADR",
-            "hsPercent": "爆頭率",
-            "kd": "K/D",
-            "damage": "傷害",
-            "entry": "首殺",
-            "entryWins": "首殺成功",
-            "utilityDmg": "道具傷害",
-            "flash": "閃光",
-            "clutch1v1": "1v1",
-            "clutch1v2": "1v2",
-            "firstKills": "首殺數",
-            "accuracy": "命中率",
-            "ace": "ACE",
-            "quadKill": "四殺",
-            "tripleKill": "三殺",
-            "doubleKill": "雙殺",
-            "liveTime": "存活時間",
-            "cashEarned": "獲得金錢"
-        },
-        "rounds": {
-            "round": "第 {number} 回合",
-            "half1": "上半場",
-            "half2": "下半場",
-            "overtime": "加時賽",
-            "bombExploded": "炸彈爆炸",
-            "bombDefused": "拆除炸彈",
-            "elimination": "全殲",
-            "timeout": "時間到",
-            "drawRound": "平局回合",
-            "mvp": "MVP",
-            "planted": "已下包",
-            "defused": "已拆包"
-        },
-        "kills": {
-            "round": "回合",
-            "killer": "擊殺者",
-            "victim": "受害者",
-            "weapon": "武器",
-            "distance": "距離",
-            "assister": "助攻",
-            "headshot": "爆頭",
-            "wallbang": "穿牆",
-            "noscope": "盲狙",
-            "thrusmoke": "穿煙",
-            "blind": "致盲",
-            "inAir": "空中擊殺",
-            "flashAssist": "閃光助攻",
-            "allRounds": "全部",
-            "filterByRound": "按回合篩選",
-            "entry": "首殺"
-        },
-        "roundStats": {
-            "round": "回合",
-            "player": "玩家",
-            "side": "陣營",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "damage": "傷害",
-            "hsKills": "爆頭擊殺",
-            "utilDmg": "道具傷害",
-            "flash": "閃光",
-            "trade": "補槍",
-            "alive": "存活",
-            "dead": "死亡",
-            "selectRound": "選擇回合"
-        },
-        "economy": {
-            "avgEquipValue": "平均裝備",
-            "totalMoney": "總花費",
-            "round": "回合",
-            "team": "隊伍",
-            "equipValue": "裝備價值",
-            "moneyLeft": "剩餘金錢",
-            "weapon": "主要武器",
-            "armor": "護甲",
-            "helmet": "頭盔",
-            "defuser": "拆彈器",
-            "grenades": "手榴彈",
-            "fullBuy": "全裝購買",
-            "forceBuy": "強制購買",
-            "eco": "經濟局",
-            "pistol": "手槍局"
-        }
     }
 }

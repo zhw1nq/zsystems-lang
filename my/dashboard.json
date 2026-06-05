@@ -3,27 +3,20 @@
     "subtitle": "ဆာဗာ အနှစ်ချုပ် နှင့် စီမံခန့်ခွဲမှု",
     "servers": {
         "title": "ဆာဗာများ",
-        "count": "ဆာဗာ {count} ခု",
         "allServers": "ဆာဗာအားလုံး",
         "noServers": "ဤအုပ်စုတွင် ဆာဗာ မရှိပါ"
     },
     "serverCard": {
-        "connect": "ချိတ်ဆက်",
         "noMap": "မြေပုံ မရှိ",
         "players": "ကစားသမား {current}/{max}",
-        "offline": "အော့ဖ်လိုင်း",
         "noInfo": "ဆာဗာ အချက်အလက် မရှိပါ။"
     },
     "serverDetail": {
         "players": "ကစားသမားများ",
-        "noPlayers": "ကစားသမား မရှိ",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
-        "teamUnassigned": "မသတ်မှတ်ရသေး",
-        "serverInfo": "ဆာဗာ အချက်အလက်",
         "chat": "ချတ်",
         "contextMenu": {
-            "viewSteamProfile": "အကောင့် ကြည့်ရန်",
             "copySteamId": "SteamID ကူးယူ",
             "copyPlayerName": "ကစားသမားအမည် ကူးယူ",
             "copyStats": "စာရင်းအင်း ကူးယူ",
@@ -31,7 +24,6 @@
         },
         "spectators": "ကြည့်ရှုသူများ",
         "noSpectators": "ကြည့်ရှုသူ မရှိ",
-        "copied": "{label} ကူးယူပြီး",
         "unknown": "မသိ"
     },
     "stats": {
@@ -80,7 +72,18 @@
             "removeBan": "ပိတ်ပင် ဖယ်ရှား",
             "removeMute": "Mute ဖယ်ရှား",
             "deleteBan": "ပိတ်ပင် ဖျက်",
-            "deleteMute": "Mute ဖျက်"
+            "deleteMute": "Mute ဖျက်",
+            "confirmDeleteTitle": "Xác nhận xóa",
+            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
+            "removeReasonPlaceholder": "Nhập lý do gỡ...",
+            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
+            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
+            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
+            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
+            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
+            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
+            "actionSuccess": "Thực hiện thành công",
+            "actionFailed": "Thực hiện thất bại"
         }
     },
     "playerAction": {
@@ -111,48 +114,16 @@
     "privilege": {
         "title": "ဆာဗာ အခွင့်အရေးများ",
         "description": "သီးသန့် အလှဆင်ပစ္စည်းများနှင့် ဦးစားပေး ဝင်ရောက်ခွင့်ကို ဖွင့်ရန် အကောင့်ကို အဆင့်မြှင့်ပါ။ သင့်နှင့် ကိုက်ညီသော အဆင့်ကို ရွေးချယ်ပါ။",
-        "discount": "ချွေတာ",
-        "month1": "၁ လ",
-        "months3": "၃ လ",
-        "mostPopular": "လူကြိုက်အများဆုံး",
-        "periodMonthly": "/ ၃၁ ရက်",
-        "periodQuarterly": "/ ၉၀ ရက်",
-        "currentPlan": "လက်ရှိ အစီအစဉ်",
         "tiers": {
             "member": {
-                "name": "FREE",
-                "priceMonthly": "FREE",
-                "priceQuarterly": "FREE",
-                "description": "အခြေခံ အတွေ့အကြုံ",
-                "button": "ယခုကစားရန်"
+                "description": "အခြေခံ အတွေ့အကြုံ"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
-                "description": "အမြင့်ဆုံး ဂုဏ်သိက္ခာ",
-                "button": "အဆင့်မြှင့်"
+                "description": "အမြင့်ဆုံး ဂုဏ်သိက္ခာ"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
-                "description": "တိုးတက်သော အတွေ့အကြုံ",
-                "button": "အဆင့်မြှင့်"
+                "description": "တိုးတက်သော အတွေ့အကြုံ"
             }
-        },
-        "features": {
-            "customSkins": "ဓား၊ လက်အိတ်၊ လက်နက် စိတ်ကြိုက်ပြင်ဆင်",
-            "createCollections": "Skin Collection ဖန်တီး",
-            "mvpPackFree": "အခမဲ့ MVP Pack အသုံးပြု",
-            "publicServers": "အသိုင်းအဝိုင်း ဆာဗာများသို့ ဝင်ရောက်",
-            "prioritySlot": "ဦးစားပေး ဆာဗာ Slot ဝင်ရောက်ခွင့်",
-            "fastSupport": "ဦးစားပေး Admin အကူအညီ",
-            "mvpPackVip": "VIP MVP Pack ဖွင့်",
-            "customLoadout": "စိတ်ကြိုက် Loadout ပြင်ဆင်မှု",
-            "agentWibu3D": "သီးသန့် 3D Wibu Agents",
-            "weaponWibu3D": "အမြင့်ဆုံး 3D Wibu လက်နက်များ",
-            "adminPrivileges": "အမြင့်ဆုံး Admin အခွင့်အရေးများ"
         }
     },
     "support": {
@@ -160,124 +131,5 @@
         "description": "7-Mau Community တွင် သင့်ကို အမြဲတမ်း ကူညီရန် အဆင်သင့် ရှိသူများ",
         "admin": "စီမံခန့်ခွဲသူ",
         "staff": "အကူအညီ ဝန်ထမ်း"
-    },
-    "match": {
-        "title": "ပွဲစဉ်",
-        "subtitle": "စနစ်အတွင်းရှိ ပွဲစဉ်မှတ်တမ်းများ",
-        "searchPlaceholder": "အသင်းနာမည်ဖြင့် ရှာဖွေပါ...",
-        "noMatches": "ပွဲစဉ်မတွေ့ပါ",
-        "live": "ယှဉ်ပြိုင်နေသည်",
-        "finished": "ပြီးဆုံးသည်",
-        "win": "အနိုင်",
-        "lose": "အရှုံး",
-        "draw": "သရေ",
-        "duration": "{minutes} မိနစ်",
-        "server": "ဆာဗာ",
-        "downloadDemo": "Demo ဒေါင်းလုဒ်",
-        "noDemo": "Demo မရှိသေးပါ",
-        "viewDetail": "အသေးစိတ်",
-        "backToList": "နောက်သို့",
-        "matchNumber": "ပွဲစဉ် #{id}",
-        "map": "မြေပုံ",
-        "records": "{count} ပွဲစဉ်",
-        "page": "စာမျက်နှာ {page}/{total}",
-        "previous": "ရှေ့",
-        "next": "နောက်",
-        "tabs": {
-            "scoreboard": "အမှတ်ဇယား",
-            "rounds": "ပွဲအခြေအနေ",
-            "kills": "သတ်ဖြတ်မှုများ",
-            "roundStats": "Round Stats",
-            "economy": "ငွေကြေး"
-        },
-        "scoreboard": {
-            "player": "ကစားသမား",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "adr": "ADR",
-            "hsPercent": "HS%",
-            "kd": "K/D",
-            "damage": "DMG",
-            "entry": "Entry",
-            "entryWins": "Entry W",
-            "utilityDmg": "Utility DMG",
-            "flash": "Flash",
-            "clutch1v1": "1v1",
-            "clutch1v2": "1v2",
-            "firstKills": "FK",
-            "accuracy": "တိကျမှု",
-            "ace": "Ace",
-            "quadKill": "4K",
-            "tripleKill": "3K",
-            "doubleKill": "2K",
-            "liveTime": "အသက်ရှင်ချိန်",
-            "cashEarned": "ရရှိငွေ"
-        },
-        "rounds": {
-            "round": "R{number}",
-            "half1": "ပိုင်း ၁",
-            "half2": "ပိုင်း ၂",
-            "overtime": "အချိန်ပို",
-            "bombExploded": "ဗုံးပေါက်ကွဲ",
-            "bombDefused": "ဗုံးဖြုတ်",
-            "elimination": "ဖယ်ရှား",
-            "timeout": "အချိန်ကုန်",
-            "drawRound": "သရေ",
-            "mvp": "MVP",
-            "planted": "ဗုံးတပ်",
-            "defused": "ဗုံးဖြုတ်"
-        },
-        "kills": {
-            "round": "Round",
-            "killer": "ပစ်သတ်သူ",
-            "victim": "သေဆုံးသူ",
-            "weapon": "လက်နက်",
-            "distance": "အကွာအဝေး",
-            "assister": "ကူညီသူ",
-            "headshot": "HS",
-            "wallbang": "WB",
-            "noscope": "NS",
-            "thrusmoke": "Smoke",
-            "blind": "Blind",
-            "inAir": "Air",
-            "flashAssist": "Flash",
-            "allRounds": "အားလုံး",
-            "filterByRound": "Round အလိုက် စစ်ထုတ်",
-            "entry": "Entry"
-        },
-        "roundStats": {
-            "round": "Round",
-            "player": "ကစားသမား",
-            "side": "ဘက်",
-            "kills": "K",
-            "deaths": "D",
-            "assists": "A",
-            "damage": "DMG",
-            "hsKills": "HS",
-            "utilDmg": "Util",
-            "flash": "Flash",
-            "trade": "Trade",
-            "alive": "အသက်ရှင်",
-            "dead": "သေဆုံး",
-            "selectRound": "Round ရွေးပါ"
-        },
-        "economy": {
-            "avgEquipValue": "ပျမ်းမျှပစ္စည်းတန်ဖိုး",
-            "totalMoney": "စုစုပေါင်းအသုံးစရိတ်",
-            "round": "Round",
-            "team": "အသင်း",
-            "equipValue": "ပစ္စည်း",
-            "moneyLeft": "ကျန်ငွေ",
-            "weapon": "အဓိကလက်နက်",
-            "armor": "ချပ်ဝတ်",
-            "helmet": "ခမောက်",
-            "defuser": "Kit",
-            "grenades": "လက်ပစ်ဗုံး",
-            "fullBuy": "Full Buy",
-            "forceBuy": "Force Buy",
-            "eco": "Eco",
-            "pistol": "Pistol"
-        }
     }
 }
