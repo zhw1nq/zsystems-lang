@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Magandang gabi, {name}",
+        "greeting_morning": "Magandang umaga, {name}",
+        "greeting_noon": "Magandang tanghali, {name}",
+        "greeting_afternoon": "Magandang hapon, {name}",
+        "greeting_evening": "Magandang gabi, {name}",
         "guest": "Bisita",
-        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan"
+        "warning": "Ang paglalaro ng higit sa 180 minuto/araw ay maaaring makaapekto sa kalusugan",
+        "loadingWarning": "Ang paglalaro ng higit sa 180 minuto bawat araw ay maaaring makaapekto sa kalusugan."
     },
     "optional": "Opsyonal"
 }

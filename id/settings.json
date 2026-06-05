@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "Mode Warna",
         "themeColor": "Warna Tema",
-        "language": "Bahasa"
+        "language": "Bahasa",
+        "changePassword": "Ubah Kata Sandi",
+        "twoFactor": "Autentikasi Dua Faktor", 
+        "sessions": "Sesi Masuk",
+        "loginHistory": "Riwayat Masuk",
+        "profile": "Info Pribadi",
+        "email": "Email",
+        "linkedAccounts": "Akun Terhubung",
+        "dangerZone": "Zona Berbahaya",
+        "securityAlerts": "Peringatan Keamanan",
+        "activityAlerts": "Aktivitas Akun",
+        "marketing": "Pemasaran"
     },
     "general": {
         "title": "Pengaturan umum",
@@ -19,10 +30,13 @@
         "preferences": "Preferensi",
         "preferencesHint": "Atur bahasa dan pengalaman visual.",
         "colorMode": "Mode warna",
+        "colorModeHint": "Pilih mode tampilan untuk antarmuka.",
+        "customColor": "Warna kustom",
         "light": "Terang",
         "auto": "Otomatis",
         "dark": "Gelap",
         "themeColor": "Warna tema",
+        "themeColorHint": "Pilih warna aksen untuk antarmuka.",
         "language": "Bahasa",
         "languageHint": "Pilih bahasa tampilan untuk situs web.",
         "reduceMotion": "Kurangi animasi",
@@ -44,7 +58,9 @@
             "success": "Kata sandi berhasil diubah",
             "successDetail": "Kata sandi Anda telah diperbarui. Sesi masuk lainnya telah dikeluarkan.",
             "error": "Gagal mengubah kata sandi",
-            "mismatch": "Kata sandi tidak cocok"
+            "mismatch": "Kata sandi tidak cocok",
+            "lastChanged": "Terakhir diubah: {date}",
+            "neverChanged": "Kata sandi belum pernah diubah"
         },
         "twoFactor": {
             "title": "Autentikasi Dua Faktor (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "Nonaktif",
             "enable": "Aktifkan 2FA",
             "disable": "Nonaktifkan 2FA",
+            "setupTitle": "Atur 2FA",
             "setupStep1": "Pindai kode QR di bawah dengan aplikasi autentikator Anda (Google Authenticator, Authy, dll.)",
             "setupStep2": "Masukkan kode 6 digit dari aplikasi Anda untuk konfirmasi",
+            "manualEntry": "Entri manual",
             "manualEntryHint": "Jika Anda tidak dapat memindai kode QR, masukkan kode ini di aplikasi autentikator Anda.",
+            "verificationCode": "Kode verifikasi",
             "verificationCodeHint": "Masukkan kode 6 digit dari aplikasi autentikator Anda",
             "verify": "Verifikasi",
             "verifying": "Memverifikasi...",
             "setupSuccess": "2FA berhasil diaktifkan!",
             "setupSuccessDetail": "Akun Anda sekarang dilindungi dengan autentikasi dua faktor.",
             "setupError": "Gagal mengaktifkan 2FA",
+            "disableConfirm": "Konfirmasi nonaktifkan 2FA",
             "disableWarning": "Menonaktifkan 2FA akan mengurangi keamanan akun Anda. Masukkan kata sandi untuk konfirmasi.",
             "disablePassword": "Masukkan kata sandi untuk konfirmasi",
             "disableSuccess": "2FA telah dinonaktifkan",
             "disableError": "Gagal menonaktifkan 2FA",
+            "recoveryCodes": "Kode pemulihan",
             "recoveryCodesHint": "Simpan kode-kode ini di tempat yang aman. Setiap kode hanya dapat digunakan sekali saat Anda tidak memiliki aplikasi autentikator.",
             "recoveryCodesSaved": "Saya telah menyimpan kode pemulihan saya",
             "copyAll": "Salin semua"
@@ -75,11 +96,14 @@
             "description": "Kelola perangkat yang saat ini masuk ke akun Anda.",
             "currentSession": "Sesi saat ini",
             "revokeAll": "Keluar dari semua perangkat lain",
+            "revokeAllConfirm": "Apakah Anda yakin ingin keluar dari semua perangkat lain?",
             "revokeAllSuccess": "Berhasil keluar dari {count} sesi",
             "revoke": "Keluar",
+            "revokeConfirm": "Apakah Anda yakin ingin keluar dari sesi ini?",
             "revokeSuccess": "Sesi berhasil dikeluarkan",
             "revokeError": "Gagal mengeluarkan sesi",
             "noSessions": "Tidak ada sesi aktif",
+            "lastActive": "Terakhir aktif: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "Ponsel",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "Riwayat Masuk",
             "description": "Lihat aktivitas keamanan terbaru.",
-            "noLogs": "Belum ada aktivitas"
+            "noLogs": "Belum ada aktivitas",
+            "showMore": "Tampilkan lebih banyak",
+            "events": {
+                "login_success": "Masuk berhasil",
+                "login_failed": "Percobaan masuk gagal",
+                "login_passkey": "Masuk dengan passkey",
+                "register": "Akun terdaftar",
+                "logout": "Keluar",
+                "password_change": "Kata sandi diubah",
+                "password_reset_request": "Reset kata sandi diminta",
+                "password_reset_complete": "Reset kata sandi selesai",
+                "two_factor_enable": "2FA diaktifkan",
+                "two_factor_disable": "2FA dinonaktifkan",
+                "two_factor_verify": "2FA diverifikasi",
+                "passkey_register": "Passkey ditambahkan",
+                "passkey_remove": "Passkey dihapus",
+                "account_lock": "Akun dikunci",
+                "account_unlock": "Akun dibuka kuncinya",
+                "account_suspend": "Akun ditangguhkan",
+                "account_ban": "Akun diblokir",
+                "account_reactivate": "Akun diaktifkan kembali",
+                "oauth_link": "OAuth ditautkan",
+                "oauth_unlink": "OAuth diputus",
+                "session_revoke": "Sesi dicabut",
+                "session_revoke_all": "Semua sesi dicabut",
+                "email_change": "Email diubah",
+                "profile_update": "Profil diperbarui",
+                "suspicious_activity": "Aktivitas mencurigakan terdeteksi"
+            }
         },
         "alerts": {
             "title": "Peringatan Keamanan",
-            "description": "Dapatkan notifikasi saat ada aktivitas mencurigakan pada akun Anda."
+            "description": "Dapatkan notifikasi saat ada aktivitas mencurigakan pada akun Anda.",
+            "emailOnNewLogin": "Email saat masuk baru",
+            "emailOnNewLoginHint": "Terima email saat seseorang masuk dari perangkat atau lokasi baru.",
+            "emailOnPasswordChange": "Email saat kata sandi diubah",
+            "emailOnPasswordChangeHint": "Terima email konfirmasi saat kata sandi Anda diubah."
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "Informasi akun Anda. Beberapa data disinkronkan dari Discord.",
             "username": "Nama pengguna",
             "sevenId": "7ID",
+            "email": "Email",
             "displayName": "Nama tampilan",
             "registeredAt": "Terdaftar",
             "status": "Status",
@@ -116,11 +173,15 @@
             "updating": "Memperbarui...",
             "updateSuccess": "Profil berhasil diperbarui!",
             "updateSuccessDetail": "Avatar dan nama tampilan telah disinkronkan.",
-            "updateError": "Gagal memperbarui profil"
+            "updateError": "Gagal memperbarui profil",
+            "updateErrorDetail": "Silakan coba lagi nanti.",
+            "discordSynced": "Discord disinkronkan",
+            "steamSynced": "Steam disinkronkan"
         },
         "avatar": {
             "title": "Avatar",
-            "description": "Avatar Anda saat ini disinkronkan dari Discord."
+            "description": "Avatar Anda saat ini disinkronkan dari Discord.",
+            "comingSoon": "Unggah avatar kustom — segera hadir"
         },
         "email": {
             "title": "Email",
@@ -174,7 +235,9 @@
             "title": "Notifikasi Keamanan",
             "description": "Terima email untuk aktivitas terkait keamanan.",
             "loginAlert": "Peringatan masuk",
-            "loginAlertHint": "Email saat ada masuk dari perangkat baru."
+            "loginAlertHint": "Email saat ada masuk dari perangkat baru.",
+            "passwordChange": "Perubahan kata sandi",
+            "passwordChangeHint": "Email saat kata sandi Anda diubah."
         },
         "activity": {
             "title": "Aktivitas Akun",
@@ -198,6 +261,10 @@
         "updating": "Memperbarui...",
         "success": "Profil berhasil diperbarui!",
         "successDetail": "Avatar dan nama tampilan Anda telah disinkronkan.",
-        "error": "Gagal memperbarui profil"
+        "error": "Gagal memperbarui profil",
+        "errorDetail": "Silakan coba lagi nanti.",
+        "discordSynced": "Discord disinkronkan",
+        "steamSynced": "Steam disinkronkan",
+        "hint": "Klik tombol di bawah untuk mengambil avatar dan nama tampilan terbaru dari Discord dan Steam."
     }
 }

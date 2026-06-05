@@ -2,28 +2,54 @@
     "models": {
         "title": "zModels",
         "description": "Eksklusibong mga modelo ng manlalaro para sa SVIP",
+        "equipped": "Naka-equip",
+        "equip": "I-equip",
+        "unequip": "Tanggalin ang equip",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "Pribado",
         "search": "Maghanap ng mga modelo...",
-        "noResults": "Walang nahanap na mga modelo"
-    },
+        "noResults": "Walang nahanap na mga modelo",
+        "accessDenied": "Kailangan ng SVIP access para gamitin ang feature na ito",
+        "notLoggedIn": "Mag-log in muna para gamitin ang feature na ito",
+        "selectCategory": "Pumili ng kategorya"
+    }, 
     "weapons": {
         "title": "zWeapons",
         "description": "Eksklusibong mga skin ng sandata para sa SVIP",
+        "equipped": "Naka-equip",
+        "equip": "I-equip",
+        "unequip": "Tanggalin ang equip",
         "search": "Maghanap ng mga sandata...",
         "noResults": "Walang nahanap na sandata",
         "selectPack": "Pumili ng skin pack",
         "selectWeapon": "Pumili ng uri ng sandata",
         "viewByType": "Tingnan ayon sa uri ng sandata",
-        "viewByPack": "Tingnan ayon sa skin pack"
+        "viewByPack": "Tingnan ayon sa skin pack",
+        "accessDenied": "Kailangan ng SVIP access para gamitin ang feature na ito",
+        "notLoggedIn": "Mag-log in muna para gamitin ang feature na ito",
+        "categories": {
+            "rifles": "Rifle",
+            "pistols": "Pistola",
+            "smgs": "SMG",
+            "heavy": "Mabibigat na sandata",
+            "knives": "Kutsilyo",
+            "grenades": "Granada"
+        }
     },
     "common": {
         "locked": "Kailangan ng SVIP",
         "lockedDesc": "Eksklusibo ang feature na ito para sa SVIP users. Mag-upgrade para ma-unlock.",
+        "loading": "Naglo-load...",
         "equipSuccess": "Matagumpay na na-equip",
         "equipSuccessDesc": "Na-equip ang {name}",
         "unequipSuccess": "Tinanggal ang equip",
         "unequipSuccessDesc": "Tinanggal ang {name}",
         "equipFailed": "Nabigo ang pag-equip",
-        "unequipFailed": "Nabigo ang pagtanggal ng equip"
+        "unequipFailed": "Nabigo ang pagtanggal ng equip",
+        "tooFast": "Masyadong mabilis",
+        "tooFastDesc": "Maghintay muna bago gumawa ng isa pang aksyon",
+        "allWeapons": "Lahat"
     },
     "mvp": {
         "title": "zMVP",
@@ -34,6 +60,11 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "ADMIN",
+        "preview": "Pakinggan",
+        "stop": "Itigil",
+        "apply": "I-apply",
+        "unequip": "Tanggalin ang equip",
+        "equipped": "Naka-equip",
         "lockedVip": "Kailangan ng VIP",
         "lockedVipDesc": "Eksklusibo ang feature na ito para sa VIP users.",
         "lockedSvip": "Kailangan ng SVIP",

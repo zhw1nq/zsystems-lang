@@ -3,20 +3,27 @@
     "subtitle": "Pangkalahatang-ideya at pamamahala ng server",
     "servers": {
         "title": "Mga Server",
+        "count": "{count} server",
         "allServers": "Lahat ng server",
         "noServers": "Walang server sa grupong ito"
     },
     "serverCard": {
+        "connect": "Kumonekta",
         "noMap": "Walang mapa",
         "players": "{current}/{max} Manlalaro",
+        "offline": "Offline",
         "noInfo": "Walang magagamit na impormasyon ng server."
     },
     "serverDetail": {
         "players": "Mga Manlalaro",
+        "noPlayers": "Walang manlalaro",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
+        "teamUnassigned": "Hindi naka-assign",
+        "serverInfo": "Impormasyon ng Server",
         "chat": "Chat",
         "contextMenu": {
+            "viewSteamProfile": "Tingnan ang Account",
             "copySteamId": "Kopyahin ang SteamID",
             "copyPlayerName": "Kopyahin ang Pangalan ng Manlalaro",
             "copyStats": "Kopyahin ang Estadistika",
@@ -24,6 +31,7 @@
         },
         "spectators": "Mga Spectator",
         "noSpectators": "Walang spectator",
+        "copied": "Nakopya ang {label}",
         "unknown": "Hindi alam"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "Mga Pribilehiyo ng Server",
         "description": "Mag-upgrade ng account para sa eksklusibong cosmetics at priority access.",
+        "discount": "Diskwento",
+        "month1": "1 Buwan",
+        "months3": "3 Buwan",
+        "mostPopular": "PINAKASIKAT",
+        "periodMonthly": "/ 31 Araw",
+        "periodQuarterly": "/ 90 Araw",
+        "currentPlan": "KASALUKUYANG PLAN",
         "tiers": {
             "member": {
-                "description": "Pangunahing karanasan"
+                "name": "LIBRE",
+                "priceMonthly": "LIBRE",
+                "priceQuarterly": "LIBRE",
+                "description": "Pangunahing karanasan",
+                "button": "MAGLARO NGAYON"
             },
             "svip": {
-                "description": "Pinakamataas na prestihiyo"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Pinakamataas na prestihiyo",
+                "button": "MAG-UPGRADE"
             },
             "vip": {
-                "description": "Mas pinahusay na karanasan"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Mas pinahusay na karanasan",
+                "button": "MAG-UPGRADE"
             }
+        },
+        "features": {
+            "customSkins": "I-customize ang Knife, Gloves, Weapons",
+            "createCollections": "Gumawa ng Skin Collections",
+            "mvpPackFree": "Gamitin ang Free MVP Pack",
+            "publicServers": "Sumali sa Community Servers",
+            "prioritySlot": "Priority Server Slot Access",
+            "fastSupport": "Priority Admin Support",
+            "mvpPackVip": "I-unlock ang VIP MVP Pack",
+            "customLoadout": "Custom Loadout Configuration",
+            "agentWibu3D": "Eksklusibong 3D Wibu Agents",
+            "weaponWibu3D": "Supreme 3D Wibu Weapons",
+            "adminPrivileges": "Supreme Admin Privileges"
         }
     },
     "support": {

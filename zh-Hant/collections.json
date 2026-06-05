@@ -14,7 +14,10 @@
         "items": "{count} 個物品",
         "uses": "{count} 次使用",
         "likes": "{count} 個讚",
-        "by": "由 {author}"
+        "comments": "{count} 則留言",
+        "by": "由 {author}",
+        "public": "公開",
+        "private": "私人"
     },
     "create": {
         "button": "建立新的收藏",
@@ -24,10 +27,13 @@
         "description": "描述",
         "descPlaceholder": "描述您的收藏...",
         "visibility": "公開",
+        "preview": "目前裝備",
+        "previewDesc": "{skins} 個造型、{knives} 把刀、{gloves} 雙手套、{agents} 位探員、{music} 個音樂包、{pins} 個徽章",
         "submit": "建立收藏",
         "success": "收藏建立成功！",
         "error": "建立收藏失敗",
-        "limitReached": "您已達到 {max} 個收藏上限"
+        "limitReached": "您已達到 {max} 個收藏上限",
+        "emptyLoadout": "您目前的裝備為空，無法儲存"
     },
     "detail": {
         "apply": "套用收藏",
@@ -35,7 +41,16 @@
         "applyConfirmDesc": "您目前的裝備將被此收藏中的物品完全覆蓋。此操作無法復原。",
         "applySuccess": "收藏已成功套用！",
         "applyError": "套用收藏失敗",
-        "delete": "刪除"
+        "delete": "刪除",
+        "deleteConfirmTitle": "要刪除此收藏嗎？",
+        "deleteConfirmDesc": "您確定要刪除此收藏嗎？此操作無法復原。",
+        "edit": "編輯",
+        "skins": "造型",
+        "knives": "刀具",
+        "gloves": "手套",
+        "agents": "探員",
+        "music": "音樂",
+        "pins": "徽章"
     },
     "comment": {
         "title": "留言",
@@ -43,7 +58,8 @@
         "submit": "發佈",
         "empty": "尚無留言",
         "deleteConfirm": "要刪除此留言嗎？",
-        "error": "發佈留言失敗"
+        "error": "發佈留言失敗",
+        "loginRequired": "請登入後留言"
     },
     "empty": {
         "community": "尚無收藏，成為第一個分享的人吧！",
@@ -54,8 +70,10 @@
         "liked": "已按讚收藏",
         "unliked": "已取消按讚",
         "deleted": "收藏已刪除",
+        "updated": "收藏已更新",
         "tooFast": "太快了！",
         "tooFastDesc": "請稍候再執行下一個操作",
+        "copiedId": "ID 已複製",
         "applied": "收藏已套用！",
         "applyError": "套用失敗"
     },

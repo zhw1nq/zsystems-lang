@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "របៀបពណ៌",
         "themeColor": "ពណ៌រូបរាង",
-        "language": "ភាសា"
+        "language": "ភាសា",
+        "changePassword": "ប្តូរពាក្យសម្ងាត់",
+        "twoFactor": "ការផ្ទៀងផ្ទាត់ពីរជាន់", 
+        "sessions": "សម័យចូល",
+        "loginHistory": "ប្រវត្តិចូល",
+        "profile": "ព័ត៌មានផ្ទាល់",
+        "email": "អ៊ីមែល",
+        "linkedAccounts": "គណនីភ្ជាប់",
+        "dangerZone": "តំបន់គ្រោះថ្នាក់",
+        "securityAlerts": "ការជូនដំណឹងសុវត្ថិភាព",
+        "activityAlerts": "សកម្មភាពគណនី",
+        "marketing": "ទីផ្សារ"
     },
     "general": {
         "title": "ការកំណត់ទូទៅ",
@@ -19,10 +30,13 @@
         "preferences": "ចំណូលចិត្ត",
         "preferencesHint": "កែភាសា និងបទពិសោធន៍រូបភាព។",
         "colorMode": "របៀបពណ៌",
+        "colorModeHint": "ជ្រើសរបៀបបង្ហាញចំណុចប្រទាក់។",
+        "customColor": "ពណ៌តាមបំណង",
         "light": "ភ្លឺ",
         "auto": "ស្វ័យប្រវត្តិ",
         "dark": "ងងឹត",
         "themeColor": "ពណ៌រូបរាង",
+        "themeColorHint": "ជ្រើសពណ៌ធ្វើឱ្យផ្តល់អារម្មណ៍។",
         "language": "ភាសា",
         "languageHint": "ជ្រើសភាសាបង្ហាញវេបសាយ។",
         "reduceMotion": "កាត់បន្ថយចលនា",
@@ -44,7 +58,9 @@
             "success": "ប្តូរពាក្យសម្ងាត់ជោគជ័យ",
             "successDetail": "ពាក្យសម្ងាត់ត្រូវបានធ្វើបច្ចុប្បន្នភាព។ សម័យចូលផ្សេងត្រូវបានចេញ។",
             "error": "ប្តូរពាក្យសម្ងាត់មិនបាន",
-            "mismatch": "ពាក្យសម្ងាត់មិនត្រូវគ្នា"
+            "mismatch": "ពាក្យសម្ងាត់មិនត្រូវគ្នា",
+            "lastChanged": "ប្តូរចុងក្រោយ: {date}",
+            "neverChanged": "មិនទាន់ប្តូរពាក្យសម្ងាត់"
         },
         "twoFactor": {
             "title": "ការផ្ទៀងផ្ទាត់ពីរជាន់ (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "បានបិទ",
             "enable": "បើក 2FA",
             "disable": "បិទ 2FA",
+            "setupTitle": "កំណត់ 2FA",
             "setupStep1": "ស្កេន QR code ខាងក្រោមដោយកម្មវិធី authenticator (Google Authenticator, Authy, ជាដើម)",
             "setupStep2": "បញ្ចូលលេខ ៦ ខ្ទង់ពីកម្មវិធីដើម្បីបញ្ជាក់",
+            "manualEntry": "បញ្ចូលដោយដៃ",
             "manualEntryHint": "បើស្កេន QR មិនបាន បញ្ចូលកូដនេះក្នុងកម្មវិធី authenticator។",
+            "verificationCode": "លេខកូដផ្ទៀងផ្ទាត់",
             "verificationCodeHint": "បញ្ចូលលេខ ៦ ខ្ទង់ពីកម្មវិធី authenticator",
             "verify": "ផ្ទៀងផ្ទាត់",
             "verifying": "កំពុងផ្ទៀងផ្ទាត់...",
             "setupSuccess": "បានបើក 2FA ដោយជោគជ័យ!",
             "setupSuccessDetail": "គណនីរបស់អ្នកត្រូវបានការពារដោយ 2FA។",
             "setupError": "បើក 2FA មិនបាន",
+            "disableConfirm": "បញ្ជាក់បិទ 2FA",
             "disableWarning": "បិទ 2FA នឹងកាត់បន្ថយសុវត្ថិភាព។ បញ្ចូលពាក្យសម្ងាត់ដើម្បីបញ្ជាក់។",
             "disablePassword": "បញ្ចូលពាក្យសម្ងាត់ដើម្បីបញ្ជាក់",
             "disableSuccess": "បានបិទ 2FA",
             "disableError": "បិទ 2FA មិនបាន",
+            "recoveryCodes": "កូដសង្គ្រោះ",
             "recoveryCodesHint": "រក្សាទុកកូដទាំងនេះឱ្យបានសុវត្ថិភាព។ កូដមួយៗប្រើបានតែម្តងដែលពេលគ្មាន authenticator។",
             "recoveryCodesSaved": "ខ្ញុំបានរក្សាទុកកូដសង្គ្រោះ",
             "copyAll": "ចម្លងទាំងអស់"
@@ -75,11 +96,14 @@
             "description": "គ្រប់គ្រងឧបករណ៍ដែលកំពុងចូលគណនី។",
             "currentSession": "សម័យបច្ចុប្បន្ន",
             "revokeAll": "ចេញឧបករណ៍ផ្សេងទាំងអស់",
+            "revokeAllConfirm": "តើអ្នកប្រាកដថាចង់ចេញឧបករណ៍ផ្សេងទាំងអស់?",
             "revokeAllSuccess": "បានចេញ {count} សម័យ",
             "revoke": "ចេញ",
+            "revokeConfirm": "តើអ្នកប្រាកដថាចង់ចេញសម័យនេះ?",
             "revokeSuccess": "បានចេញសម័យ",
             "revokeError": "ចេញសម័យមិនបាន",
             "noSessions": "គ្មានសម័យសកម្ម",
+            "lastActive": "សកម្មចុងក្រោយ: {time}",
             "device": {
                 "desktop": "កុំព្យូទ័រ",
                 "mobile": "ទូរស័ព្ទ",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "ប្រវត្តិចូល",
             "description": "មើលសកម្មភាពសុវត្ថិភាពថ្មីៗ។",
-            "noLogs": "មិនទាន់មានសកម្មភាព"
+            "noLogs": "មិនទាន់មានសកម្មភាព",
+            "showMore": "មើលបន្ថែម",
+            "events": {
+                "login_success": "ចូលជោគជ័យ",
+                "login_failed": "ចូលមិនបាន",
+                "login_passkey": "ចូលដោយ Passkey",
+                "register": "បានចុះឈ្មោះ",
+                "logout": "បានចេញ",
+                "password_change": "បានប្តូរពាក្យសម្ងាត់",
+                "password_reset_request": "ស្នើកំណត់ពាក្យសម្ងាត់ឡើងវិញ",
+                "password_reset_complete": "បានកំណត់ពាក្យសម្ងាត់ឡើងវិញ",
+                "two_factor_enable": "បានបើក 2FA",
+                "two_factor_disable": "បានបិទ 2FA",
+                "two_factor_verify": "បានផ្ទៀងផ្ទាត់ 2FA",
+                "passkey_register": "បានបន្ថែម Passkey",
+                "passkey_remove": "បានលុប Passkey",
+                "account_lock": "គណនីត្រូវបានចាក់សោ",
+                "account_unlock": "គណនីត្រូវបានដោះសោ",
+                "account_suspend": "គណនីត្រូវបានផ្អាក",
+                "account_ban": "គណនីត្រូវបានហាមឃាត់",
+                "account_reactivate": "គណនីត្រូវបានធ្វើឱ្យសកម្មវិញ",
+                "oauth_link": "បានភ្ជាប់ OAuth",
+                "oauth_unlink": "បានដោះភ្ជាប់ OAuth",
+                "session_revoke": "បានលុបសម័យ",
+                "session_revoke_all": "បានលុបសម័យទាំងអស់",
+                "email_change": "បានប្តូរអ៊ីមែល",
+                "profile_update": "បានធ្វើបច្ចុប្បន្នភាពប្រវត្តិ",
+                "suspicious_activity": "រកឃើញសកម្មភាពគួរឱ្យសង្ស័យ"
+            }
         },
         "alerts": {
             "title": "ការជូនដំណឹងសុវត្ថិភាព",
-            "description": "ទទួលការជូនដំណឹងពេលមានសកម្មភាពគួរឱ្យសង្ស័យលើគណនី។"
+            "description": "ទទួលការជូនដំណឹងពេលមានសកម្មភាពគួរឱ្យសង្ស័យលើគណនី។",
+            "emailOnNewLogin": "អ៊ីមែលពេលចូលថ្មី",
+            "emailOnNewLoginHint": "ទទួលអ៊ីមែលពេលមានចូលពីឧបករណ៍ ឬទីតាំងថ្មី។",
+            "emailOnPasswordChange": "អ៊ីមែលពេលប្តូរពាក្យសម្ងាត់",
+            "emailOnPasswordChangeHint": "ទទួលអ៊ីមែលបញ្ជាក់ពេលពាក្យសម្ងាត់ត្រូវបានប្តូរ។"
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "ព័ត៌មានគណនីរបស់អ្នក។ ទិន្នន័យខ្លះសមកាលពី Discord។",
             "username": "ឈ្មោះអ្នកប្រើ",
             "sevenId": "7ID",
+            "email": "អ៊ីមែល",
             "displayName": "ឈ្មោះបង្ហាញ",
             "registeredAt": "ចុះឈ្មោះ",
             "status": "ស្ថានភាព",
@@ -116,11 +173,15 @@
             "updating": "កំពុងធ្វើបច្ចុប្បន្នភាព...",
             "updateSuccess": "បានធ្វើបច្ចុប្បន្នភាពប្រវត្តិជោគជ័យ!",
             "updateSuccessDetail": "រូបភាព និងឈ្មោះបង្ហាញត្រូវបានសមកាល។",
-            "updateError": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិមិនបាន"
+            "updateError": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិមិនបាន",
+            "updateErrorDetail": "សូមព្យាយាមពេលក្រោយ។",
+            "discordSynced": "Discord សមកាល",
+            "steamSynced": "Steam សមកាល"
         },
         "avatar": {
             "title": "រូបភាព",
-            "description": "រូបភាពបច្ចុប្បន្នសមកាលពី Discord។"
+            "description": "រូបភាពបច្ចុប្បន្នសមកាលពី Discord។",
+            "comingSoon": "ផ្ទុករូបភាពតាមបំណង — ឆាប់មក"
         },
         "email": {
             "title": "អ៊ីមែល",
@@ -174,7 +235,9 @@
             "title": "ការជូនដំណឹងសុវត្ថិភាព",
             "description": "ទទួលអ៊ីមែលសម្រាប់សកម្មភាពសុវត្ថិភាព។",
             "loginAlert": "ការជូនដំណឹងចូល",
-            "loginAlertHint": "អ៊ីមែលពេលមានចូលពីឧបករណ៍ថ្មី។"
+            "loginAlertHint": "អ៊ីមែលពេលមានចូលពីឧបករណ៍ថ្មី។",
+            "passwordChange": "ប្តូរពាក្យសម្ងាត់",
+            "passwordChangeHint": "អ៊ីមែលពេលពាក្យសម្ងាត់ត្រូវបានប្តូរ។"
         },
         "activity": {
             "title": "សកម្មភាពគណនី",
@@ -198,6 +261,10 @@
         "updating": "កំពុងធ្វើបច្ចុប្បន្នភាព...",
         "success": "បានធ្វើបច្ចុប្បន្នភាពប្រវត្តិជោគជ័យ!",
         "successDetail": "រូបភាព និងឈ្មោះបង្ហាញត្រូវបានសមកាល។",
-        "error": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិមិនបាន"
+        "error": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិមិនបាន",
+        "errorDetail": "សូមព្យាយាមពេលក្រោយ។",
+        "discordSynced": "Discord សមកាល",
+        "steamSynced": "Steam សមកាល",
+        "hint": "ចុចប៊ូតុងខាងក្រោមដើម្បីទាញរូបភាព និងឈ្មោះបង្ហាញចុងក្រោយពី Discord និង Steam។"
     }
 }

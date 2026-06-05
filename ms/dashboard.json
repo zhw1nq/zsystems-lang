@@ -3,20 +3,27 @@
     "subtitle": "Gambaran keseluruhan & pengurusan pelayan",
     "servers": {
         "title": "Pelayan",
+        "count": "{count} pelayan",
         "allServers": "Semua pelayan",
         "noServers": "Tiada pelayan dalam kumpulan ini"
     },
     "serverCard": {
+        "connect": "Sambung",
         "noMap": "Tiada peta",
         "players": "{current}/{max} Pemain",
+        "offline": "Luar Talian",
         "noInfo": "Tiada maklumat pelayan tersedia."
     },
     "serverDetail": {
         "players": "Pemain",
+        "noPlayers": "Tiada pemain",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
+        "teamUnassigned": "Belum ditugaskan",
+        "serverInfo": "Maklumat Pelayan",
         "chat": "Sembang",
         "contextMenu": {
+            "viewSteamProfile": "Lihat Akaun",
             "copySteamId": "Salin SteamID",
             "copyPlayerName": "Salin Nama Pemain",
             "copyStats": "Salin Statistik",
@@ -24,6 +31,7 @@
         },
         "spectators": "Penonton",
         "noSpectators": "Tiada penonton",
+        "copied": "{label} disalin",
         "unknown": "Tidak diketahui"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "Keistimewaan Pelayan",
         "description": "Naik taraf akaun anda untuk membuka kunci kosmetik eksklusif dan akses keutamaan. Pilih peringkat yang sesuai untuk anda.",
+        "discount": "Jimat",
+        "month1": "1 Bulan",
+        "months3": "3 Bulan",
+        "mostPopular": "PALING POPULAR",
+        "periodMonthly": "/ 31 Hari",
+        "periodQuarterly": "/ 90 Hari",
+        "currentPlan": "PELAN SEMASA",
         "tiers": {
             "member": {
-                "description": "Pengalaman asas"
+                "name": "PERCUMA",
+                "priceMonthly": "PERCUMA",
+                "priceQuarterly": "PERCUMA",
+                "description": "Pengalaman asas",
+                "button": "MAIN SEKARANG"
             },
             "svip": {
-                "description": "Prestij tertinggi"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Prestij tertinggi",
+                "button": "NAIK TARAF"
             },
             "vip": {
-                "description": "Pengalaman dipertingkat"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Pengalaman dipertingkat",
+                "button": "NAIK TARAF"
             }
+        },
+        "features": {
+            "customSkins": "Sesuaikan Pisau, Sarung Tangan, Senjata",
+            "createCollections": "Cipta Koleksi Kulit",
+            "mvpPackFree": "Guna Pek MVP Percuma",
+            "publicServers": "Sertai Pelayan Komuniti",
+            "prioritySlot": "Akses Slot Pelayan Keutamaan",
+            "fastSupport": "Sokongan Admin Keutamaan",
+            "mvpPackVip": "Buka Kunci Pek MVP VIP",
+            "customLoadout": "Konfigurasi Loadout Tersuai",
+            "agentWibu3D": "Ejen Wibu 3D Eksklusif",
+            "weaponWibu3D": "Senjata Wibu 3D Tertinggi",
+            "adminPrivileges": "Keistimewaan Admin Tertinggi"
         }
     },
     "support": {

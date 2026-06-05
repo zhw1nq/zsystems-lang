@@ -3,20 +3,27 @@
     "subtitle": "ภาพรวมและการจัดการเซิร์ฟเวอร์",
     "servers": {
         "title": "เซิร์ฟเวอร์",
+        "count": "{count} เซิร์ฟเวอร์",
         "allServers": "เซิร์ฟเวอร์ทั้งหมด",
         "noServers": "ไม่พบเซิร์ฟเวอร์ในกลุ่มนี้"
     },
     "serverCard": {
+        "connect": "เชื่อมต่อ",
         "noMap": "ไม่มีแผนที่",
         "players": "{current}/{max} ผู้เล่น",
+        "offline": "ออฟไลน์",
         "noInfo": "ไม่มีข้อมูลเซิร์ฟเวอร์"
     },
     "serverDetail": {
         "players": "ผู้เล่น",
+        "noPlayers": "ไม่มีผู้เล่น",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
+        "teamUnassigned": "ยังไม่เข้าทีม",
+        "serverInfo": "ข้อมูลเซิร์ฟเวอร์",
         "chat": "แชท",
         "contextMenu": {
+            "viewSteamProfile": "ดูบัญชี",
             "copySteamId": "คัดลอก SteamID",
             "copyPlayerName": "คัดลอกชื่อผู้เล่น",
             "copyStats": "คัดลอกสถิติ",
@@ -24,6 +31,7 @@
         },
         "spectators": "ผู้ชม",
         "noSpectators": "ไม่มีผู้ชม",
+        "copied": "คัดลอก {label} แล้ว",
         "unknown": "ไม่ทราบ"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "สิทธิพิเศษเซิร์ฟเวอร์",
         "description": "อัปเกรดบัญชีของคุณเพื่อปลดล็อกไอเท็มพิเศษและสิทธิ์เข้าเซิร์ฟเวอร์ก่อน เลือกระดับที่เหมาะกับคุณ",
+        "discount": "ประหยัด",
+        "month1": "1 เดือน",
+        "months3": "3 เดือน",
+        "mostPopular": "ยอดนิยม",
+        "periodMonthly": "/ 31 วัน",
+        "periodQuarterly": "/ 90 วัน",
+        "currentPlan": "แผนปัจจุบัน",
         "tiers": {
             "member": {
-                "description": "ประสบการณ์พื้นฐาน"
+                "name": "ฟรี",
+                "priceMonthly": "ฟรี",
+                "priceQuarterly": "ฟรี",
+                "description": "ประสบการณ์พื้นฐาน",
+                "button": "เล่นเลย"
             },
             "svip": {
-                "description": "ความพิเศษสูงสุด"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "ความพิเศษสูงสุด",
+                "button": "อัปเกรด"
             },
             "vip": {
-                "description": "ประสบการณ์ที่ดีขึ้น"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "ประสบการณ์ที่ดีขึ้น",
+                "button": "อัปเกรด"
             }
+        },
+        "features": {
+            "customSkins": "ปรับแต่งมีด ถุงมือ อาวุธ",
+            "createCollections": "สร้างคอลเลกชันสกิน",
+            "mvpPackFree": "ใช้ MVP Pack ฟรี",
+            "publicServers": "เข้าเซิร์ฟเวอร์ชุมชน",
+            "prioritySlot": "สิทธิ์เข้าเซิร์ฟเวอร์ก่อน",
+            "fastSupport": "การสนับสนุนด่วนจากแอดมิน",
+            "mvpPackVip": "ปลดล็อก MVP Pack VIP",
+            "customLoadout": "ตั้งค่า Loadout แบบกำหนดเอง",
+            "agentWibu3D": "เอเจนต์ Wibu 3D พิเศษ",
+            "weaponWibu3D": "อาวุธ Wibu 3D ระดับสูง",
+            "adminPrivileges": "สิทธิ์ผู้ดูแลระดับสูงสุด"
         }
     },
     "support": {

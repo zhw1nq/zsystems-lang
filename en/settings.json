@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "Color Mode",
         "themeColor": "Theme Color",
-        "language": "Language"
+        "language": "Language",
+        "changePassword": "Change Password", 
+        "twoFactor": "Two-Factor Auth",
+        "sessions": "Login Sessions",
+        "loginHistory": "Login History",
+        "profile": "Personal Info",
+        "email": "Email",
+        "linkedAccounts": "Linked Accounts",
+        "dangerZone": "Danger Zone",
+        "securityAlerts": "Security Alerts",
+        "activityAlerts": "Account Activity",
+        "marketing": "Marketing"
     },
     "general": {
         "title": "General settings",
@@ -19,10 +30,13 @@
         "preferences": "Preferences",
         "preferencesHint": "Adjust language and visual experience.",
         "colorMode": "Color mode",
+        "colorModeHint": "Choose the display mode for the interface.",
+        "customColor": "Custom color",
         "light": "Light",
         "auto": "Auto",
         "dark": "Dark",
         "themeColor": "Theme color",
+        "themeColorHint": "Choose the accent color for the interface.",
         "language": "Language",
         "languageHint": "Choose the display language for the website.",
         "reduceMotion": "Reduce motion",
@@ -44,7 +58,9 @@
             "success": "Password changed successfully",
             "successDetail": "Your password has been updated. Other login sessions have been signed out.",
             "error": "Failed to change password",
-            "mismatch": "Passwords do not match"
+            "mismatch": "Passwords do not match",
+            "lastChanged": "Last changed: {date}",
+            "neverChanged": "Password has never been changed"
         },
         "twoFactor": {
             "title": "Two-Factor Authentication (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "Disabled",
             "enable": "Enable 2FA",
             "disable": "Disable 2FA",
+            "setupTitle": "Set up 2FA",
             "setupStep1": "Scan the QR code below with your authenticator app (Google Authenticator, Authy, etc.)",
             "setupStep2": "Enter the 6-digit code from your app to confirm",
+            "manualEntry": "Manual entry",
             "manualEntryHint": "If you can't scan the QR code, enter this code in your authenticator app.",
+            "verificationCode": "Verification code",
             "verificationCodeHint": "Enter the 6-digit code from your authenticator app",
             "verify": "Verify",
             "verifying": "Verifying...",
             "setupSuccess": "2FA enabled successfully!",
             "setupSuccessDetail": "Your account is now protected with two-factor authentication.",
             "setupError": "Failed to enable 2FA",
+            "disableConfirm": "Confirm disable 2FA",
             "disableWarning": "Disabling 2FA will reduce your account security. Enter your password to confirm.",
             "disablePassword": "Enter password to confirm",
             "disableSuccess": "2FA has been disabled",
             "disableError": "Failed to disable 2FA",
+            "recoveryCodes": "Recovery codes",
             "recoveryCodesHint": "Save these codes in a safe place. Each code can only be used once when you don't have your authenticator app.",
             "recoveryCodesSaved": "I have saved my recovery codes",
             "copyAll": "Copy all"
@@ -75,11 +96,14 @@
             "description": "Manage devices currently signed into your account.",
             "currentSession": "Current session",
             "revokeAll": "Sign out all other devices",
+            "revokeAllConfirm": "Are you sure you want to sign out all other devices?",
             "revokeAllSuccess": "Signed out {count} sessions",
             "revoke": "Sign out",
+            "revokeConfirm": "Are you sure you want to sign out this session?",
             "revokeSuccess": "Session signed out",
             "revokeError": "Failed to sign out session",
             "noSessions": "No active sessions",
+            "lastActive": "Last active: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "Mobile",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "Login History",
             "description": "View recent security activity.",
-            "noLogs": "No activity yet"
+            "noLogs": "No activity yet",
+            "showMore": "Show more",
+            "events": {
+                "login_success": "Successful login",
+                "login_failed": "Failed login attempt",
+                "login_passkey": "Passkey login",
+                "register": "Account registered",
+                "logout": "Signed out",
+                "password_change": "Password changed",
+                "password_reset_request": "Password reset requested",
+                "password_reset_complete": "Password reset completed",
+                "two_factor_enable": "2FA enabled",
+                "two_factor_disable": "2FA disabled",
+                "two_factor_verify": "2FA verified",
+                "passkey_register": "Passkey added",
+                "passkey_remove": "Passkey removed",
+                "account_lock": "Account locked",
+                "account_unlock": "Account unlocked",
+                "account_suspend": "Account suspended",
+                "account_ban": "Account banned",
+                "account_reactivate": "Account reactivated",
+                "oauth_link": "OAuth linked",
+                "oauth_unlink": "OAuth unlinked",
+                "session_revoke": "Session revoked",
+                "session_revoke_all": "All sessions revoked",
+                "email_change": "Email changed",
+                "profile_update": "Profile updated",
+                "suspicious_activity": "Suspicious activity detected"
+            }
         },
         "alerts": {
             "title": "Security Alerts",
-            "description": "Get notified when there's suspicious activity on your account."
+            "description": "Get notified when there's suspicious activity on your account.",
+            "emailOnNewLogin": "Email on new login",
+            "emailOnNewLoginHint": "Receive an email when someone signs in from a new device or location.",
+            "emailOnPasswordChange": "Email on password change",
+            "emailOnPasswordChangeHint": "Receive a confirmation email when your password is changed."
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "Your account information. Some data is synced from Discord.",
             "username": "Username",
             "sevenId": "7ID",
+            "email": "Email",
             "displayName": "Display name",
             "registeredAt": "Registered",
             "status": "Status",
@@ -116,11 +173,15 @@
             "updating": "Updating...",
             "updateSuccess": "Profile updated successfully!",
             "updateSuccessDetail": "Avatar and display name have been synced.",
-            "updateError": "Failed to update profile"
+            "updateError": "Failed to update profile",
+            "updateErrorDetail": "Please try again later.",
+            "discordSynced": "Discord synced",
+            "steamSynced": "Steam synced"
         },
         "avatar": {
             "title": "Avatar",
-            "description": "Your current avatar is synced from Discord."
+            "description": "Your current avatar is synced from Discord.",
+            "comingSoon": "Custom avatar upload — coming soon"
         },
         "email": {
             "title": "Email",
@@ -174,7 +235,9 @@
             "title": "Security Notifications",
             "description": "Receive emails for security-related activity.",
             "loginAlert": "Login alerts",
-            "loginAlertHint": "Email when there's a login from a new device."
+            "loginAlertHint": "Email when there's a login from a new device.",
+            "passwordChange": "Password changes",
+            "passwordChangeHint": "Email when your password is changed."
         },
         "activity": {
             "title": "Account Activity",
@@ -198,6 +261,10 @@
         "updating": "Updating...",
         "success": "Profile updated successfully!",
         "successDetail": "Your avatar and display name have been synced.",
-        "error": "Failed to update profile"
+        "error": "Failed to update profile",
+        "errorDetail": "Please try again later.",
+        "discordSynced": "Discord synced",
+        "steamSynced": "Steam synced",
+        "hint": "Click the button below to fetch the latest avatar and display name from Discord and Steam."
     }
 }

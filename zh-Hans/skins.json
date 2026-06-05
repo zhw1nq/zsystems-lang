@@ -1,9 +1,32 @@
 {
     "title": "皮肤",
     "description": "浏览并自定义你的 CS2 武器皮肤",
+    "tabs": {
+        "weaponSkins": "武器皮肤",
+        "agents": "探员",
+        "musicKits": "音乐盒",
+        "pinsCoins": "徽章与硬币"
+    },
+    "categories": {
+        "gloves": "手套",
+        "rifles": "步枪",
+        "knives": "刀具",
+        "smgs": "冲锋枪",
+        "pistols": "手枪",
+        "heavy": "重型武器",
+        "equipment": "装备"
+    },
+    "team": {
+        "both": "双方阵营",
+        "ct": "CT 阵营",
+        "t": "T 阵营"
+    },
     "search": "搜索皮肤...",
     "noResults": "未找到皮肤",
     "selectWeapon": "请选择武器以浏览皮肤",
+    "loginRequired": "请登录后使用皮肤功能",
+    "loading": "正在加载皮肤...",
+    "itemCount": "{count} 个物品",
     "toast": {
         "tooFast": "操作过快！",
         "tooFastDesc": "请等待 2 秒后再试",

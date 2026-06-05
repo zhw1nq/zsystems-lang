@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "ราตรีสวัสดิ์, {name}",
+        "greeting_morning": "อรุณสวัสดิ์, {name}",
+        "greeting_noon": "สวัสดีตอนเที่ยง, {name}",
+        "greeting_afternoon": "สวัสดีตอนบ่าย, {name}",
+        "greeting_evening": "สวัสดีตอนเย็น, {name}",
         "guest": "ผู้เยี่ยมชม",
-        "warning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ"
+        "warning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ",
+        "loadingWarning": "การเล่นเกมเกิน 180 นาทีต่อวันส่งผลต่อสุขภาพ"
     },
     "optional": "ตัวเลือก"
 }

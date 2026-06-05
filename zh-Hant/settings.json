@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "顏色模式",
         "themeColor": "主題顏色",
-        "language": "語言"
+        "language": "語言",
+        "changePassword": "變更密碼",
+        "twoFactor": "雙重驗證",
+        "sessions": "登入工作階段",
+        "loginHistory": "登入紀錄",
+        "profile": "個人資訊",
+        "email": "電子郵件",
+        "linkedAccounts": "已連結帳號",
+        "dangerZone": "危險區域",
+        "securityAlerts": "安全警示",
+        "activityAlerts": "帳號活動",
+        "marketing": "行銷通知"
     },
     "general": {
         "title": "一般設定",
@@ -19,10 +30,13 @@
         "preferences": "偏好設定",
         "preferencesHint": "調整語言與視覺體驗。",
         "colorMode": "顏色模式",
+        "colorModeHint": "選擇介面的顯示模式。",
+        "customColor": "自訂顏色",
         "light": "淺色",
         "auto": "自動",
         "dark": "深色",
         "themeColor": "主題顏色",
+        "themeColorHint": "選擇介面的強調色。",
         "language": "語言",
         "languageHint": "選擇網站顯示語言。",
         "reduceMotion": "減少動畫效果",
@@ -44,7 +58,9 @@
             "success": "密碼變更成功",
             "successDetail": "您的密碼已更新。其他登入工作階段已被登出。",
             "error": "密碼變更失敗",
-            "mismatch": "密碼不一致"
+            "mismatch": "密碼不一致",
+            "lastChanged": "上次變更：{date}",
+            "neverChanged": "密碼從未變更"
         },
         "twoFactor": {
             "title": "雙重驗證（2FA）",
@@ -53,19 +69,24 @@
             "disabled": "已停用",
             "enable": "啟用 2FA",
             "disable": "停用 2FA",
+            "setupTitle": "設定 2FA",
             "setupStep1": "使用驗證器應用程式（Google Authenticator、Authy 等）掃描下方 QR Code",
             "setupStep2": "輸入應用程式中的 6 位數驗證碼以完成確認",
+            "manualEntry": "手動輸入",
             "manualEntryHint": "若無法掃描 QR Code，請在驗證器應用程式中輸入此代碼。",
+            "verificationCode": "驗證碼",
             "verificationCodeHint": "輸入驗證器應用程式中的 6 位數驗證碼",
             "verify": "驗證",
             "verifying": "驗證中...",
             "setupSuccess": "2FA 啟用成功！",
             "setupSuccessDetail": "您的帳號現在已受到雙重驗證保護。",
             "setupError": "啟用 2FA 失敗",
+            "disableConfirm": "確認停用 2FA",
             "disableWarning": "停用 2FA 將降低帳號安全性。請輸入密碼以確認。",
             "disablePassword": "輸入密碼以確認",
             "disableSuccess": "2FA 已停用",
             "disableError": "停用 2FA 失敗",
+            "recoveryCodes": "恢復代碼",
             "recoveryCodesHint": "請妥善保存這些代碼。當您無法使用驗證器時，每個代碼僅可使用一次。",
             "recoveryCodesSaved": "我已儲存恢復代碼",
             "copyAll": "全部複製"
@@ -75,11 +96,14 @@
             "description": "管理目前登入您帳號的裝置。",
             "currentSession": "目前工作階段",
             "revokeAll": "登出所有其他裝置",
+            "revokeAllConfirm": "您確定要登出所有其他裝置嗎？",
             "revokeAllSuccess": "已登出 {count} 個工作階段",
             "revoke": "登出",
+            "revokeConfirm": "您確定要登出此工作階段嗎？",
             "revokeSuccess": "工作階段已登出",
             "revokeError": "登出工作階段失敗",
             "noSessions": "沒有有效的工作階段",
+            "lastActive": "最後活動：{time}",
             "device": {
                 "desktop": "桌面裝置",
                 "mobile": "手機",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "登入紀錄",
             "description": "查看最近的安全活動。",
-            "noLogs": "尚無活動紀錄"
+            "noLogs": "尚無活動紀錄",
+            "showMore": "顯示更多",
+            "events": {
+                "login_success": "登入成功",
+                "login_failed": "登入失敗",
+                "login_passkey": "Passkey 登入",
+                "register": "帳號已註冊",
+                "logout": "已登出",
+                "password_change": "密碼已變更",
+                "password_reset_request": "已請求重設密碼",
+                "password_reset_complete": "密碼重設完成",
+                "two_factor_enable": "已啟用 2FA",
+                "two_factor_disable": "已停用 2FA",
+                "two_factor_verify": "已驗證 2FA",
+                "passkey_register": "已新增 Passkey",
+                "passkey_remove": "已移除 Passkey",
+                "account_lock": "帳號已鎖定",
+                "account_unlock": "帳號已解鎖",
+                "account_suspend": "帳號已停權",
+                "account_ban": "帳號已封禁",
+                "account_reactivate": "帳號已重新啟用",
+                "oauth_link": "OAuth 已連結",
+                "oauth_unlink": "OAuth 已解除連結",
+                "session_revoke": "工作階段已撤銷",
+                "session_revoke_all": "所有工作階段已撤銷",
+                "email_change": "電子郵件已變更",
+                "profile_update": "個人資料已更新",
+                "suspicious_activity": "偵測到可疑活動"
+            }
         },
         "alerts": {
             "title": "安全警示",
-            "description": "當您的帳號出現可疑活動時收到通知。"
+            "description": "當您的帳號出現可疑活動時收到通知。",
+            "emailOnNewLogin": "新登入通知",
+            "emailOnNewLoginHint": "當有人從新裝置或新地點登入時收到電子郵件通知。",
+            "emailOnPasswordChange": "密碼變更通知",
+            "emailOnPasswordChangeHint": "當密碼被修改時收到確認電子郵件。"
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "您的帳號資訊。部分資料會從 Discord 同步。",
             "username": "使用者名稱",
             "sevenId": "7ID",
+            "email": "電子郵件",
             "displayName": "顯示名稱",
             "registeredAt": "註冊時間",
             "status": "狀態",
@@ -116,11 +173,15 @@
             "updating": "更新中...",
             "updateSuccess": "個人資料更新成功！",
             "updateSuccessDetail": "頭像與顯示名稱已同步。",
-            "updateError": "更新個人資料失敗"
+            "updateError": "更新個人資料失敗",
+            "updateErrorDetail": "請稍後再試。",
+            "discordSynced": "Discord 已同步",
+            "steamSynced": "Steam 已同步"
         },
         "avatar": {
             "title": "頭像",
-            "description": "您目前的頭像是從 Discord 同步而來。"
+            "description": "您目前的頭像是從 Discord 同步而來。",
+            "comingSoon": "自訂頭像上傳 —— 即將推出"
         },
         "email": {
             "title": "電子郵件",
@@ -176,7 +237,9 @@
             "title": "Thông báo bảo mật",
             "description": "Nhận email khi có hoạt động bảo mật trên tài khoản.",
             "loginAlert": "Cảnh báo đăng nhập",
-            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới."
+            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới.",
+            "passwordChange": "Thay đổi mật khẩu",
+            "passwordChangeHint": "Email khi mật khẩu được thay đổi."
         },
         "activity": {
             "title": "Hoạt động tài khoản",
@@ -198,6 +261,10 @@
         "updating": "更新中...",
         "success": "個人資料更新成功！",
         "successDetail": "您的頭像與顯示名稱已同步。",
-        "error": "更新個人資料失敗"
+        "error": "更新個人資料失敗",
+        "errorDetail": "請稍後再試。",
+        "discordSynced": "Discord 已同步",
+        "steamSynced": "Steam 已同步",
+        "hint": "點擊下方按鈕以取得 Discord 與 Steam 的最新頭像與顯示名稱。"
     }
 }

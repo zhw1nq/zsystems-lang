@@ -1,9 +1,32 @@
 {
     "title": "Skin",
     "description": "Jelajahi dan sesuaikan skin senjata CS2 Anda",
+    "tabs": {
+        "weaponSkins": "Skin Senjata",
+        "agents": "Agen",
+        "musicKits": "Kit Musik",
+        "pinsCoins": "Pin & Koin"
+    },
+    "categories": {
+        "gloves": "Sarung Tangan",
+        "rifles": "Senapan",
+        "knives": "Pisau",
+        "smgs": "SMG",
+        "pistols": "Pistol", 
+        "heavy": "Senjata Berat",
+        "equipment": "Peralatan"
+    },
+    "team": {
+        "both": "Kedua Tim",
+        "ct": "Sisi CT",
+        "t": "Sisi T"
+    },
     "search": "Cari skin...",
     "noResults": "Skin tidak ditemukan",
     "selectWeapon": "Pilih senjata untuk melihat skin",
+    "loginRequired": "Silakan masuk untuk menggunakan Skin",
+    "loading": "Memuat skin...",
+    "itemCount": "{count} item",
     "toast": {
         "tooFast": "Terlalu cepat!",
         "tooFastDesc": "Tunggu 2 detik sebelum mencoba lagi",

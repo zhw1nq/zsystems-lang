@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Boa noite, {name}",
+        "greeting_morning": "Bom dia, {name}",
+        "greeting_noon": "Boa tarde, {name}",
+        "greeting_afternoon": "Boa tarde, {name}",
+        "greeting_evening": "Boa noite, {name}",
         "guest": "Convidado",
-        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde"
+        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
+        "loadingWarning": "Jogar mais de 180 minutos por dia afeta a saúde."
     },
     "optional": "Opcional"
 }

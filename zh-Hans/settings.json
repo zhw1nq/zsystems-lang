@@ -7,10 +7,22 @@
         "account": "账户",
         "notifications": "通知"
     },
+    
     "nav": {
         "colorMode": "颜色模式",
         "themeColor": "主题颜色",
-        "language": "语言"
+        "language": "语言",
+        "changePassword": "修改密码",
+        "twoFactor": "双重验证",
+        "sessions": "登录会话",
+        "loginHistory": "登录历史",
+        "profile": "个人信息",
+        "email": "邮箱",
+        "linkedAccounts": "已绑定账户",
+        "dangerZone": "危险区域",
+        "securityAlerts": "安全提醒",
+        "activityAlerts": "账户活动",
+        "marketing": "营销通知"
     },
     "general": {
         "title": "通用设置",
@@ -19,10 +31,13 @@
         "preferences": "偏好设置",
         "preferencesHint": "调整语言与视觉体验。",
         "colorMode": "颜色模式",
+        "colorModeHint": "选择界面的显示模式。",
+        "customColor": "自定义颜色",
         "light": "浅色",
         "auto": "自动",
         "dark": "深色",
         "themeColor": "主题颜色",
+        "themeColorHint": "选择界面的强调色。",
         "language": "语言",
         "languageHint": "选择网站显示语言。",
         "reduceMotion": "减少动画",
@@ -44,7 +59,9 @@
             "success": "密码修改成功",
             "successDetail": "你的密码已更新，其他登录会话已被登出。",
             "error": "修改密码失败",
-            "mismatch": "密码不匹配"
+            "mismatch": "密码不匹配",
+            "lastChanged": "最后修改：{date}",
+            "neverChanged": "密码从未修改过"
         },
         "twoFactor": {
             "title": "双重验证 (2FA)",
@@ -53,19 +70,24 @@
             "disabled": "已禁用",
             "enable": "启用 2FA",
             "disable": "禁用 2FA",
+            "setupTitle": "设置 2FA",
             "setupStep1": "使用你的身份验证器应用扫描下方二维码（Google Authenticator、Authy 等）",
             "setupStep2": "输入应用中的 6 位验证码以确认",
+            "manualEntry": "手动输入",
             "manualEntryHint": "如果无法扫描二维码，请在验证器应用中输入此代码。",
+            "verificationCode": "验证码",
             "verificationCodeHint": "输入验证器应用中的 6 位验证码",
             "verify": "验证",
             "verifying": "验证中...",
             "setupSuccess": "2FA 启用成功！",
             "setupSuccessDetail": "你的账户现已受到双重验证保护。",
             "setupError": "启用 2FA 失败",
+            "disableConfirm": "确认禁用 2FA",
             "disableWarning": "禁用 2FA 会降低账户安全性。请输入密码确认。",
             "disablePassword": "输入密码确认",
             "disableSuccess": "2FA 已禁用",
             "disableError": "禁用 2FA 失败",
+            "recoveryCodes": "恢复代码",
             "recoveryCodesHint": "请将这些代码保存在安全的地方。当你无法访问验证器应用时，每个代码只能使用一次。",
             "recoveryCodesSaved": "我已保存恢复代码",
             "copyAll": "全部复制"
@@ -75,11 +97,14 @@
             "description": "管理当前已登录你账户的设备。",
             "currentSession": "当前会话",
             "revokeAll": "登出所有其他设备",
+            "revokeAllConfirm": "确定要登出所有其他设备吗？",
             "revokeAllSuccess": "已登出 {count} 个会话",
             "revoke": "登出",
+            "revokeConfirm": "确定要登出此会话吗？",
             "revokeSuccess": "会话已登出",
             "revokeError": "登出会话失败",
             "noSessions": "暂无活动会话",
+            "lastActive": "最后活动：{time}",
             "device": {
                 "desktop": "桌面设备",
                 "mobile": "移动设备",
@@ -90,11 +115,43 @@
         "loginHistory": {
             "title": "登录历史",
             "description": "查看最近的安全活动。",
-            "noLogs": "暂无活动记录"
+            "noLogs": "暂无活动记录",
+            "showMore": "显示更多",
+            "events": {
+                "login_success": "登录成功",
+                "login_failed": "登录失败尝试",
+                "login_passkey": "Passkey 登录",
+                "register": "账户注册",
+                "logout": "已登出",
+                "password_change": "密码已更改",
+                "password_reset_request": "请求重置密码",
+                "password_reset_complete": "密码重置完成",
+                "two_factor_enable": "启用 2FA",
+                "two_factor_disable": "禁用 2FA",
+                "two_factor_verify": "2FA 验证成功",
+                "passkey_register": "添加 Passkey",
+                "passkey_remove": "移除 Passkey",
+                "account_lock": "账户已锁定",
+                "account_unlock": "账户已解锁",
+                "account_suspend": "账户已暂停",
+                "account_ban": "账户已封禁",
+                "account_reactivate": "账户已重新激活",
+                "oauth_link": "OAuth 已绑定",
+                "oauth_unlink": "OAuth 已解绑",
+                "session_revoke": "会话已撤销",
+                "session_revoke_all": "所有会话已撤销",
+                "email_change": "邮箱已更改",
+                "profile_update": "资料已更新",
+                "suspicious_activity": "检测到可疑活动"
+            }
         },
         "alerts": {
             "title": "安全提醒",
-            "description": "当你的账户出现可疑活动时接收通知。"
+            "description": "当你的账户出现可疑活动时接收通知。",
+            "emailOnNewLogin": "新登录邮件提醒",
+            "emailOnNewLoginHint": "当有人从新设备或新地点登录时接收邮件。",
+            "emailOnPasswordChange": "密码更改邮件提醒",
+            "emailOnPasswordChangeHint": "当密码被更改时接收确认邮件。"
         }
     },
     "account": {
@@ -105,6 +162,7 @@
             "description": "你的账户信息。部分数据会从 Discord 同步。",
             "username": "用户名",
             "sevenId": "7ID",
+            "email": "邮箱",
             "displayName": "显示名称",
             "registeredAt": "注册时间",
             "status": "状态",
@@ -116,11 +174,15 @@
             "updating": "更新中...",
             "updateSuccess": "资料更新成功！",
             "updateSuccessDetail": "头像与显示名称已同步。",
-            "updateError": "更新资料失败"
+            "updateError": "更新资料失败",
+            "updateErrorDetail": "请稍后再试。",
+            "discordSynced": "Discord 已同步",
+            "steamSynced": "Steam 已同步"
         },
         "avatar": {
             "title": "头像",
-            "description": "你当前的头像已从 Discord 同步。"
+            "description": "你当前的头像已从 Discord 同步。",
+            "comingSoon": "自定义头像上传功能即将推出"
         },
         "email": {
             "title": "邮箱",
@@ -174,7 +236,10 @@
             "title": "安全通知",
             "description": "接收与安全相关活动的邮件。",
             "loginAlert": "登录提醒",
-            "loginAlertHint": "当有新设备登录时发送邮件。"
+            "loginAlertHint": "当有新设备登录时发送邮件。",
+
+            "passwordChange": "密码更改",
+            "passwordChangeHint": "当密码被更改时发送邮件。"
         },
         "activity": {
             "title": "账户活动",
@@ -198,6 +263,10 @@
         "updating": "更新中...",
         "success": "资料更新成功！",
         "successDetail": "你的头像与显示名称已同步。",
-        "error": "更新资料失败"
+        "error": "更新资料失败",
+        "errorDetail": "请稍后再试。",
+        "discordSynced": "Discord 已同步",
+        "steamSynced": "Steam 已同步",
+        "hint": "点击下方按钮以获取来自 Discord 与 Steam 的最新头像和显示名称。"
     }
 }

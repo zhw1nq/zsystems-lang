@@ -11,10 +11,13 @@
         "mostUsed": "Pinakamaraming Ginamit"
     },
     "card": {
-        "items": "{count} item",
+        "items": "{count} item", 
         "uses": "{count} gamit",
         "likes": "{count} like",
-        "by": "ni {author}"
+        "comments": "{count} komento",
+        "by": "ni {author}",
+        "public": "Pampubliko",
+        "private": "Pribado"
     },
     "create": {
         "button": "Gumawa ng Bago",
@@ -24,10 +27,13 @@
         "description": "Deskripsyon",
         "descPlaceholder": "Ilarawan ang iyong koleksyon...",
         "visibility": "Pampubliko",
+        "preview": "Kasalukuyang Loadout",
+        "previewDesc": "{skins} skin, {knives} kutsilyo, {gloves} guwantes, {agents} agent, {music} music, {pins} pin",
         "submit": "Gumawa ng Koleksyon",
         "success": "Matagumpay na nagawa ang koleksyon!",
         "error": "Nabigong gumawa ng koleksyon",
-        "limitReached": "Naabot mo na ang limit na {max} koleksyon"
+        "limitReached": "Naabot mo na ang limit na {max} koleksyon",
+        "emptyLoadout": "Walang laman ang iyong loadout, walang mase-save"
     },
     "detail": {
         "apply": "I-apply ang Koleksyon",
@@ -35,7 +41,16 @@
         "applyConfirmDesc": "Ang iyong kasalukuyang loadout ay papalitan ng mga item mula sa koleksyong ito. Hindi na ito maibabalik.",
         "applySuccess": "Matagumpay na na-apply ang koleksyon!",
         "applyError": "Nabigong i-apply ang koleksyon",
-        "delete": "Tanggalin"
+        "delete": "Tanggalin",
+        "deleteConfirmTitle": "Tanggalin ang Koleksyon?",
+        "deleteConfirmDesc": "Sigurado ka bang gusto mong tanggalin ito? Hindi na ito maibabalik.",
+        "edit": "I-edit",
+        "skins": "Skins",
+        "knives": "Kutsilyo",
+        "gloves": "Guwantes",
+        "agents": "Agents",
+        "music": "Musika",
+        "pins": "Pin"
     },
     "comment": {
         "title": "Mga Komento",
@@ -43,7 +58,8 @@
         "submit": "I-post",
         "empty": "Wala pang komento",
         "deleteConfirm": "Tanggalin ang komento?",
-        "error": "Nabigong mag-post ng komento"
+        "error": "Nabigong mag-post ng komento",
+        "loginRequired": "Mag-login muna para makapagkomento"
     },
     "empty": {
         "community": "Wala pang koleksyon. Ikaw na ang mauna!",
@@ -54,8 +70,10 @@
         "liked": "Na-like ang koleksyon",
         "unliked": "Na-unlike ang koleksyon",
         "deleted": "Natanggal ang koleksyon",
+        "updated": "Na-update ang koleksyon",
         "tooFast": "Masyadong mabilis!",
         "tooFastDesc": "Maghintay muna bago gumawa ng susunod na aksyon",
+        "copiedId": "Nakopya ang ID",
         "applied": "Na-apply ang koleksyon!",
         "applyError": "Nabigong i-apply"
     },

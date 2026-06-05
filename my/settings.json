@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "အရောင်မုဒ်",
         "themeColor": "အပြင်အဆင် အရောင်",
-        "language": "ဘာသာစကား"
+        "language": "ဘာသာစကား", 
+        "changePassword": "စကားဝှက် ပြောင်းလဲ",
+        "twoFactor": "နှစ်ဆင့် အတည်ပြုမှု",
+        "sessions": "ဝင်ရောက်မှု Session များ",
+        "loginHistory": "ဝင်ရောက်မှု မှတ်တမ်း",
+        "profile": "ကိုယ်ရေးအချက်အလက်",
+        "email": "အီးမေးလ်",
+        "linkedAccounts": "ချိတ်ဆက်ထားသော အကောင့်များ",
+        "dangerZone": "အန္တရာယ်ဇုန်",
+        "securityAlerts": "လုံခြုံရေး သတိပေးချက်များ",
+        "activityAlerts": "အကောင့် လုပ်ဆောင်ချက်",
+        "marketing": "စျေးကွက်ရေး"
     },
     "general": {
         "title": "အထွေထွေ ဆက်တင်များ",
@@ -19,10 +30,13 @@
         "preferences": "နှစ်သက်ရာများ",
         "preferencesHint": "ဘာသာစကားနှင့် မြင်ကွင်းအတွေ့အကြုံကို ညှိပါ။",
         "colorMode": "အရောင်မုဒ်",
+        "colorModeHint": "အင်တာဖေ့စ် ပြသမှုမုဒ် ရွေးချယ်ပါ။",
+        "customColor": "စိတ်ကြိုက် အရောင်",
         "light": "အလင်း",
         "auto": "အလိုအလျောက်",
         "dark": "အမှောင်",
         "themeColor": "အပြင်အဆင် အရောင်",
+        "themeColorHint": "အင်တာဖေ့စ် အလင်းရောင် ရွေးချယ်ပါ။",
         "language": "ဘာသာစကား",
         "languageHint": "ဝဘ်ဆိုက် ပြသမှုဘာသာစကား ရွေးချယ်ပါ။",
         "reduceMotion": "လှုပ်ရှားမှု လျှော့",
@@ -44,7 +58,9 @@
             "success": "စကားဝှက် အောင်မြင်စွာ ပြောင်းလဲပြီး",
             "successDetail": "စကားဝှက် အပ်ဒိတ်ပြီး။ အခြား ဝင်ရောက်မှု session များကို ထွက်ပြီးပါပြီ။",
             "error": "စကားဝှက် ပြောင်းလဲ၍ မရပါ",
-            "mismatch": "စကားဝှက်များ မကိုက်ညီပါ"
+            "mismatch": "စကားဝှက်များ မကိုက်ညီပါ",
+            "lastChanged": "နောက်ဆုံး ပြောင်းလဲချိန်: {date}",
+            "neverChanged": "စကားဝှက် မပြောင်းလဲရသေးပါ"
         },
         "twoFactor": {
             "title": "နှစ်ဆင့် အတည်ပြုမှု (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "ပိတ်ထား",
             "enable": "2FA ဖွင့်",
             "disable": "2FA ပိတ်",
+            "setupTitle": "2FA ပြင်ဆင်",
             "setupStep1": "အောက်ပါ QR ကုဒ်ကို authenticator app (Google Authenticator, Authy စသည်) ဖြင့် စကန်ဖတ်ပါ",
             "setupStep2": "အတည်ပြုရန် app မှ ဂဏန်း ၆ လုံး ထည့်ပါ",
+            "manualEntry": "လက်ဖြင့် ထည့်",
             "manualEntryHint": "QR ကုဒ် စကန်ဖတ်၍ မရပါက ဤကုဒ်ကို authenticator app တွင် ထည့်ပါ။",
+            "verificationCode": "အတည်ပြုကုဒ်",
             "verificationCodeHint": "authenticator app မှ ဂဏန်း ၆ လုံး ထည့်ပါ",
             "verify": "အတည်ပြု",
             "verifying": "အတည်ပြုနေသည်...",
             "setupSuccess": "2FA အောင်မြင်စွာ ဖွင့်ပြီး!",
             "setupSuccessDetail": "အကောင့်ကို နှစ်ဆင့် အတည်ပြုမှုဖြင့် ကာကွယ်ထားပါသည်။",
             "setupError": "2FA ဖွင့်၍ မရပါ",
+            "disableConfirm": "2FA ပိတ်ရန် အတည်ပြု",
             "disableWarning": "2FA ပိတ်ခြင်းသည် အကောင့် လုံခြုံရေးကို လျှော့စေသည်။ အတည်ပြုရန် စကားဝှက် ထည့်ပါ။",
             "disablePassword": "အတည်ပြုရန် စကားဝှက် ထည့်ပါ",
             "disableSuccess": "2FA ပိတ်ပြီး",
             "disableError": "2FA ပိတ်၍ မရပါ",
+            "recoveryCodes": "ပြန်လည်ရယူ ကုဒ်များ",
             "recoveryCodesHint": "ဤကုဒ်များကို လုံခြုံသောနေရာတွင် သိမ်းပါ။ authenticator app မရှိသောအခါ ကုဒ်တစ်ခုစီ တစ်ကြိမ်သာ အသုံးပြုနိုင်သည်။",
             "recoveryCodesSaved": "ပြန်လည်ရယူ ကုဒ်များ သိမ်းပြီး",
             "copyAll": "အားလုံး ကူးယူ"
@@ -75,11 +96,14 @@
             "description": "လက်ရှိ အကောင့်သို့ ဝင်ရောက်ထားသော စက်ပစ္စည်းများကို စီမံခန့်ခွဲပါ။",
             "currentSession": "လက်ရှိ session",
             "revokeAll": "အခြား စက်ပစ္စည်းအားလုံး ထွက်ရန်",
+            "revokeAllConfirm": "အခြား စက်ပစ္စည်းအားလုံး ထွက်ရန် သေချာပါသလား?",
             "revokeAllSuccess": "session {count} ခု ထွက်ပြီး",
             "revoke": "ထွက်ရန်",
+            "revokeConfirm": "ဤ session မှ ထွက်ရန် သေချာပါသလား?",
             "revokeSuccess": "Session ထွက်ပြီး",
             "revokeError": "Session ထွက်၍ မရပါ",
             "noSessions": "တက်ကြွ session မရှိ",
+            "lastActive": "နောက်ဆုံး အသုံးပြု: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "မိုဘိုင်း",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "ဝင်ရောက်မှု မှတ်တမ်း",
             "description": "မကြာသေးမီ လုံခြုံရေး လုပ်ဆောင်ချက်များ ကြည့်ရန်။",
-            "noLogs": "လုပ်ဆောင်ချက် မရှိသေးပါ"
+            "noLogs": "လုပ်ဆောင်ချက် မရှိသေးပါ",
+            "showMore": "ပိုကြည့်ရန်",
+            "events": {
+                "login_success": "ဝင်ရောက်မှု အောင်မြင်",
+                "login_failed": "ဝင်ရောက်မှု မအောင်မြင်",
+                "login_passkey": "Passkey ဝင်ရောက်မှု",
+                "register": "အကောင့် စာရင်းသွင်း",
+                "logout": "ထွက်ပြီး",
+                "password_change": "စကားဝှက် ပြောင်းလဲ",
+                "password_reset_request": "စကားဝှက် ပြန်လည်သတ်မှတ် တောင်းဆို",
+                "password_reset_complete": "စကားဝှက် ပြန်လည်သတ်မှတ် ပြီးမြောက်",
+                "two_factor_enable": "2FA ဖွင့်",
+                "two_factor_disable": "2FA ပိတ်",
+                "two_factor_verify": "2FA အတည်ပြု",
+                "passkey_register": "Passkey ထည့်",
+                "passkey_remove": "Passkey ဖယ်ရှား",
+                "account_lock": "အကောင့် သော့ခတ်",
+                "account_unlock": "အကောင့် သော့ဖွင့်",
+                "account_suspend": "အကောင့် ရပ်ဆိုင်း",
+                "account_ban": "အကောင့် ပိတ်ပင်",
+                "account_reactivate": "အကောင့် ပြန်ဖွင့်",
+                "oauth_link": "OAuth ချိတ်ဆက်",
+                "oauth_unlink": "OAuth ချိတ်ဆက်မှု ဖြုတ်",
+                "session_revoke": "Session ပယ်ဖျက်",
+                "session_revoke_all": "Session အားလုံး ပယ်ဖျက်",
+                "email_change": "အီးမေးလ် ပြောင်းလဲ",
+                "profile_update": "ပရိုဖိုင် အပ်ဒိတ်",
+                "suspicious_activity": "သံသယရှိ လုပ်ဆောင်ချက် တွေ့ရှိ"
+            }
         },
         "alerts": {
             "title": "လုံခြုံရေး သတိပေးချက်များ",
-            "description": "အကောင့်တွင် သံသယရှိ လုပ်ဆောင်ချက် ရှိလျှင် အကြောင်းကြားပါ။"
+            "description": "အကောင့်တွင် သံသယရှိ လုပ်ဆောင်ချက် ရှိလျှင် အကြောင်းကြားပါ။",
+            "emailOnNewLogin": "ဝင်ရောက်မှုအသစ် အီးမေးလ်",
+            "emailOnNewLoginHint": "စက်ပစ္စည်း သို့မဟုတ် တည်နေရာအသစ်မှ ဝင်ရောက်လျှင် အီးမေးလ် လက်ခံပါ။",
+            "emailOnPasswordChange": "စကားဝှက်ပြောင်းလဲမှု အီးမေးလ်",
+            "emailOnPasswordChangeHint": "စကားဝှက် ပြောင်းလဲလျှင် အတည်ပြုအီးမေးလ် လက်ခံပါ။"
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "အကောင့် အချက်အလက်။ အချို့ဒေတာကို Discord မှ sync လုပ်သည်။",
             "username": "အသုံးပြုသူအမည်",
             "sevenId": "7ID",
+            "email": "အီးမေးလ်",
             "displayName": "ပြသအမည်",
             "registeredAt": "စာရင်းသွင်းရက်",
             "status": "အခြေအနေ",
@@ -116,11 +173,15 @@
             "updating": "အပ်ဒိတ်နေသည်...",
             "updateSuccess": "ပရိုဖိုင် အောင်မြင်စွာ အပ်ဒိတ်ပြီး!",
             "updateSuccessDetail": "ပုံသဏ္ဌာန် နှင့် ပြသအမည် sync လုပ်ပြီး။",
-            "updateError": "ပရိုဖိုင် အပ်ဒိတ် မအောင်မြင်"
+            "updateError": "ပရိုဖိုင် အပ်ဒိတ် မအောင်မြင်",
+            "updateErrorDetail": "နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+            "discordSynced": "Discord sync လုပ်ပြီး",
+            "steamSynced": "Steam sync လုပ်ပြီး"
         },
         "avatar": {
             "title": "ပုံသဏ္ဌာန်",
-            "description": "လက်ရှိ ပုံသဏ္ဌာန်ကို Discord မှ sync လုပ်သည်။"
+            "description": "လက်ရှိ ပုံသဏ္ဌာန်ကို Discord မှ sync လုပ်သည်။",
+            "comingSoon": "စိတ်ကြိုက် ပုံသဏ္ဌာန် တင်ခြင်း — မကြာမီ"
         },
         "email": {
             "title": "အီးမေးလ်",
@@ -174,7 +235,9 @@
             "title": "လုံခြုံရေး အကြောင်းကြားချက်များ",
             "description": "လုံခြုံရေးဆိုင်ရာ လုပ်ဆောင်ချက်များအတွက် အီးမေးလ် လက်ခံပါ။",
             "loginAlert": "ဝင်ရောက်မှု သတိပေးချက်",
-            "loginAlertHint": "စက်ပစ္စည်းအသစ်မှ ဝင်ရောက်လျှင် အီးမေးလ် ပို့ပါ။"
+            "loginAlertHint": "စက်ပစ္စည်းအသစ်မှ ဝင်ရောက်လျှင် အီးမေးလ် ပို့ပါ။",
+            "passwordChange": "စကားဝှက် ပြောင်းလဲမှု",
+            "passwordChangeHint": "စကားဝှက် ပြောင်းလဲလျှင် အီးမေးလ် ပို့ပါ။"
         },
         "activity": {
             "title": "အကောင့် လုပ်ဆောင်ချက်",
@@ -198,6 +261,10 @@
         "updating": "အပ်ဒိတ်နေသည်...",
         "success": "ပရိုဖိုင် အောင်မြင်စွာ အပ်ဒိတ်ပြီး!",
         "successDetail": "ပုံသဏ္ဌာန် နှင့် ပြသအမည် sync လုပ်ပြီး။",
-        "error": "ပရိုဖိုင် အပ်ဒိတ် မအောင်မြင်"
+        "error": "ပရိုဖိုင် အပ်ဒိတ် မအောင်မြင်",
+        "errorDetail": "နောက်မှ ထပ်စမ်းကြည့်ပါ။",
+        "discordSynced": "Discord sync လုပ်ပြီး",
+        "steamSynced": "Steam sync လုပ်ပြီး",
+        "hint": "နောက်ဆုံး ပုံသဏ္ဌာန် နှင့်အမည်ကို Discord နှင့် Steam မှ ရယူရန် အောက်ခလုတ်ကို နှိပ်ပါ။"
     }
 }

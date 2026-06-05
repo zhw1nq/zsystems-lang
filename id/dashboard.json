@@ -3,20 +3,27 @@
     "subtitle": "Ringkasan & pengelolaan server",
     "servers": {
         "title": "Server",
+        "count": "{count} server",
         "allServers": "Semua server",
         "noServers": "Tidak ada server di grup ini"
     },
     "serverCard": {
+        "connect": "Hubungkan",
         "noMap": "Tidak ada peta",
         "players": "{current}/{max} Pemain",
+        "offline": "Offline",
         "noInfo": "Tidak ada informasi server tersedia."
     },
     "serverDetail": {
         "players": "Pemain",
+        "noPlayers": "Tidak ada pemain",
         "teamCT": "Counter-Terrorist",
         "teamT": "Terrorist",
+        "teamUnassigned": "Belum ditugaskan",
+        "serverInfo": "Info Server",
         "chat": "Obrolan",
         "contextMenu": {
+            "viewSteamProfile": "Lihat Akun",
             "copySteamId": "Salin SteamID",
             "copyPlayerName": "Salin Nama Pemain",
             "copyStats": "Salin Statistik",
@@ -24,6 +31,7 @@
         },
         "spectators": "Penonton",
         "noSpectators": "Tidak ada penonton",
+        "copied": "{label} disalin",
         "unknown": "Tidak diketahui"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "Hak Istimewa Server",
         "description": "Tingkatkan akun Anda untuk membuka kosmetik eksklusif dan akses prioritas. Pilih tingkat yang sesuai untuk Anda.",
+        "discount": "Hemat",
+        "month1": "1 Bulan",
+        "months3": "3 Bulan",
+        "mostPopular": "PALING POPULER",
+        "periodMonthly": "/ 31 Hari",
+        "periodQuarterly": "/ 90 Hari",
+        "currentPlan": "PAKET SAAT INI",
         "tiers": {
             "member": {
-                "description": "Pengalaman dasar"
+                "name": "GRATIS",
+                "priceMonthly": "GRATIS",
+                "priceQuarterly": "GRATIS",
+                "description": "Pengalaman dasar",
+                "button": "MAIN SEKARANG"
             },
             "svip": {
-                "description": "Prestise tertinggi"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Prestise tertinggi",
+                "button": "UPGRADE"
             },
             "vip": {
-                "description": "Pengalaman ditingkatkan"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Pengalaman ditingkatkan",
+                "button": "UPGRADE"
             }
+        },
+        "features": {
+            "customSkins": "Kustomisasi Pisau, Sarung Tangan, Senjata",
+            "createCollections": "Buat Koleksi Skin",
+            "mvpPackFree": "Gunakan Paket MVP Gratis",
+            "publicServers": "Bergabung ke Server Komunitas",
+            "prioritySlot": "Akses Slot Server Prioritas",
+            "fastSupport": "Dukungan Admin Prioritas",
+            "mvpPackVip": "Buka Paket MVP VIP",
+            "customLoadout": "Konfigurasi Loadout Kustom",
+            "agentWibu3D": "Agen Wibu 3D Eksklusif",
+            "weaponWibu3D": "Senjata Wibu 3D Supreme",
+            "adminPrivileges": "Hak Istimewa Admin Supreme"
         }
     },
     "support": {

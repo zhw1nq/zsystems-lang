@@ -3,20 +3,27 @@
     "subtitle": "ဆာဗာ အနှစ်ချုပ် နှင့် စီမံခန့်ခွဲမှု",
     "servers": {
         "title": "ဆာဗာများ",
+        "count": "ဆာဗာ {count} ခု",
         "allServers": "ဆာဗာအားလုံး",
         "noServers": "ဤအုပ်စုတွင် ဆာဗာ မရှိပါ"
     },
     "serverCard": {
+        "connect": "ချိတ်ဆက်",
         "noMap": "မြေပုံ မရှိ",
         "players": "ကစားသမား {current}/{max}",
+        "offline": "အော့ဖ်လိုင်း",
         "noInfo": "ဆာဗာ အချက်အလက် မရှိပါ။"
     },
     "serverDetail": {
         "players": "ကစားသမားများ",
+        "noPlayers": "ကစားသမား မရှိ",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
+        "teamUnassigned": "မသတ်မှတ်ရသေး",
+        "serverInfo": "ဆာဗာ အချက်အလက်",
         "chat": "ချတ်",
         "contextMenu": {
+            "viewSteamProfile": "အကောင့် ကြည့်ရန်",
             "copySteamId": "SteamID ကူးယူ",
             "copyPlayerName": "ကစားသမားအမည် ကူးယူ",
             "copyStats": "စာရင်းအင်း ကူးယူ",
@@ -24,6 +31,7 @@
         },
         "spectators": "ကြည့်ရှုသူများ",
         "noSpectators": "ကြည့်ရှုသူ မရှိ",
+        "copied": "{label} ကူးယူပြီး",
         "unknown": "မသိ"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "ဆာဗာ အခွင့်အရေးများ",
         "description": "သီးသန့် အလှဆင်ပစ္စည်းများနှင့် ဦးစားပေး ဝင်ရောက်ခွင့်ကို ဖွင့်ရန် အကောင့်ကို အဆင့်မြှင့်ပါ။ သင့်နှင့် ကိုက်ညီသော အဆင့်ကို ရွေးချယ်ပါ။",
+        "discount": "ချွေတာ",
+        "month1": "၁ လ",
+        "months3": "၃ လ",
+        "mostPopular": "လူကြိုက်အများဆုံး",
+        "periodMonthly": "/ ၃၁ ရက်",
+        "periodQuarterly": "/ ၉၀ ရက်",
+        "currentPlan": "လက်ရှိ အစီအစဉ်",
         "tiers": {
             "member": {
-                "description": "အခြေခံ အတွေ့အကြုံ"
+                "name": "FREE",
+                "priceMonthly": "FREE",
+                "priceQuarterly": "FREE",
+                "description": "အခြေခံ အတွေ့အကြုံ",
+                "button": "ယခုကစားရန်"
             },
             "svip": {
-                "description": "အမြင့်ဆုံး ဂုဏ်သိက္ခာ"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "အမြင့်ဆုံး ဂုဏ်သိက္ခာ",
+                "button": "အဆင့်မြှင့်"
             },
             "vip": {
-                "description": "တိုးတက်သော အတွေ့အကြုံ"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "တိုးတက်သော အတွေ့အကြုံ",
+                "button": "အဆင့်မြှင့်"
             }
+        },
+        "features": {
+            "customSkins": "ဓား၊ လက်အိတ်၊ လက်နက် စိတ်ကြိုက်ပြင်ဆင်",
+            "createCollections": "Skin Collection ဖန်တီး",
+            "mvpPackFree": "အခမဲ့ MVP Pack အသုံးပြု",
+            "publicServers": "အသိုင်းအဝိုင်း ဆာဗာများသို့ ဝင်ရောက်",
+            "prioritySlot": "ဦးစားပေး ဆာဗာ Slot ဝင်ရောက်ခွင့်",
+            "fastSupport": "ဦးစားပေး Admin အကူအညီ",
+            "mvpPackVip": "VIP MVP Pack ဖွင့်",
+            "customLoadout": "စိတ်ကြိုက် Loadout ပြင်ဆင်မှု",
+            "agentWibu3D": "သီးသန့် 3D Wibu Agents",
+            "weaponWibu3D": "အမြင့်ဆုံး 3D Wibu လက်နက်များ",
+            "adminPrivileges": "အမြင့်ဆုံး Admin အခွင့်အရေးများ"
         }
     },
     "support": {

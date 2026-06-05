@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "Modo de Cor",
         "themeColor": "Cor do Tema",
-        "language": "Idioma"
+        "language": "Idioma",
+        "changePassword": "Alterar Senha",
+        "twoFactor": "Autenticação em Dois Fatores", 
+        "sessions": "Sessões de Login", 
+        "loginHistory": "Histórico de Login",
+        "profile": "Informações Pessoais",
+        "email": "E-mail",
+        "linkedAccounts": "Contas Vinculadas",
+        "dangerZone": "Zona de Perigo",
+        "securityAlerts": "Alertas de Segurança",
+        "activityAlerts": "Atividade da Conta",
+        "marketing": "Marketing"
     },
     "general": {
         "title": "Configurações gerais",
@@ -19,10 +30,13 @@
         "preferences": "Preferências",
         "preferencesHint": "Ajuste idioma e experiência visual.",
         "colorMode": "Modo de cor",
+        "colorModeHint": "Escolha o modo de exibição da interface.",
+        "customColor": "Cor personalizada",
         "light": "Claro",
         "auto": "Automático",
         "dark": "Escuro",
         "themeColor": "Cor do tema",
+        "themeColorHint": "Escolha a cor de destaque da interface.",
         "language": "Idioma",
         "languageHint": "Escolha o idioma de exibição do site.",
         "reduceMotion": "Reduzir animações",
@@ -44,7 +58,9 @@
             "success": "Senha alterada com sucesso",
             "successDetail": "Sua senha foi atualizada. Outras sessões foram encerradas.",
             "error": "Falha ao alterar senha",
-            "mismatch": "As senhas não coincidem"
+            "mismatch": "As senhas não coincidem",
+            "lastChanged": "Última alteração: {date}",
+            "neverChanged": "A senha nunca foi alterada"
         },
         "twoFactor": {
             "title": "Autenticação em Dois Fatores (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "Desativado",
             "enable": "Ativar 2FA",
             "disable": "Desativar 2FA",
+            "setupTitle": "Configurar 2FA",
             "setupStep1": "Escaneie o código QR abaixo com seu aplicativo autenticador (Google Authenticator, Authy, etc.)",
             "setupStep2": "Digite o código de 6 dígitos do aplicativo para confirmar",
+            "manualEntry": "Entrada manual",
             "manualEntryHint": "Se não puder escanear o QR, insira este código no app autenticador.",
+            "verificationCode": "Código de verificação",
             "verificationCodeHint": "Digite o código de 6 dígitos do app autenticador",
             "verify": "Verificar",
             "verifying": "Verificando...",
             "setupSuccess": "2FA ativado com sucesso!",
             "setupSuccessDetail": "Sua conta agora está protegida com autenticação em dois fatores.",
             "setupError": "Falha ao ativar 2FA",
+            "disableConfirm": "Confirmar desativação do 2FA",
             "disableWarning": "Desativar o 2FA reduz a segurança da sua conta. Digite sua senha para confirmar.",
             "disablePassword": "Digite a senha para confirmar",
             "disableSuccess": "2FA foi desativado",
             "disableError": "Falha ao desativar 2FA",
+            "recoveryCodes": "Códigos de recuperação",
             "recoveryCodesHint": "Guarde estes códigos em local seguro. Cada código pode ser usado apenas uma vez.",
             "recoveryCodesSaved": "Eu salvei meus códigos de recuperação",
             "copyAll": "Copiar tudo"
@@ -75,11 +96,14 @@
             "description": "Gerencie dispositivos conectados à sua conta.",
             "currentSession": "Sessão atual",
             "revokeAll": "Encerrar todos os outros dispositivos",
+            "revokeAllConfirm": "Tem certeza de que deseja encerrar todos os outros dispositivos?",
             "revokeAllSuccess": "{count} sessões encerradas",
             "revoke": "Encerrar sessão",
+            "revokeConfirm": "Tem certeza de que deseja encerrar esta sessão?",
             "revokeSuccess": "Sessão encerrada",
             "revokeError": "Falha ao encerrar sessão",
             "noSessions": "Nenhuma sessão ativa",
+            "lastActive": "Última atividade: {time}",
             "device": {
                 "desktop": "Desktop",
                 "mobile": "Mobile",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "Histórico de Login",
             "description": "Veja atividades recentes de segurança.",
-            "noLogs": "Nenhuma atividade ainda"
+            "noLogs": "Nenhuma atividade ainda",
+            "showMore": "Mostrar mais",
+            "events": {
+                "login_success": "Login bem-sucedido",
+                "login_failed": "Tentativa de login falhou",
+                "login_passkey": "Login com passkey",
+                "register": "Conta registrada",
+                "logout": "Logout realizado",
+                "password_change": "Senha alterada",
+                "password_reset_request": "Solicitação de redefinição de senha",
+                "password_reset_complete": "Redefinição de senha concluída",
+                "two_factor_enable": "2FA ativado",
+                "two_factor_disable": "2FA desativado",
+                "two_factor_verify": "2FA verificado",
+                "passkey_register": "Passkey adicionada",
+                "passkey_remove": "Passkey removida",
+                "account_lock": "Conta bloqueada",
+                "account_unlock": "Conta desbloqueada",
+                "account_suspend": "Conta suspensa",
+                "account_ban": "Conta banida",
+                "account_reactivate": "Conta reativada",
+                "oauth_link": "OAuth vinculado",
+                "oauth_unlink": "OAuth desvinculado",
+                "session_revoke": "Sessão encerrada",
+                "session_revoke_all": "Todas as sessões encerradas",
+                "email_change": "E-mail alterado",
+                "profile_update": "Perfil atualizado",
+                "suspicious_activity": "Atividade suspeita detectada"
+            }
         },
         "alerts": {
             "title": "Alertas de Segurança",
-            "description": "Receba notificações sobre atividades suspeitas na sua conta."
+            "description": "Receba notificações sobre atividades suspeitas na sua conta.",
+            "emailOnNewLogin": "E-mail em novo login",
+            "emailOnNewLoginHint": "Receber e-mail quando houver login de novo dispositivo ou local.",
+            "emailOnPasswordChange": "E-mail em alteração de senha",
+            "emailOnPasswordChangeHint": "Receber confirmação quando sua senha for alterada."
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "Dados da sua conta. Algumas informações são sincronizadas do Discord.",
             "username": "Nome de usuário",
             "sevenId": "7ID",
+            "email": "E-mail",
             "displayName": "Nome de exibição",
             "registeredAt": "Registrado em",
             "status": "Status",
@@ -116,11 +173,15 @@
             "updating": "Atualizando...",
             "updateSuccess": "Perfil atualizado com sucesso!",
             "updateSuccessDetail": "Avatar e nome foram sincronizados.",
-            "updateError": "Falha ao atualizar perfil"
+            "updateError": "Falha ao atualizar perfil",
+            "updateErrorDetail": "Tente novamente mais tarde.",
+            "discordSynced": "Discord sincronizado",
+            "steamSynced": "Steam sincronizado"
         },
         "avatar": {
             "title": "Avatar",
-            "description": "Seu avatar atual é sincronizado do Discord."
+            "description": "Seu avatar atual é sincronizado do Discord.",
+            "comingSoon": "Upload de avatar personalizado — em breve"
         },
         "email": {
             "title": "E-mail",
@@ -174,7 +235,9 @@
             "title": "Notificações de segurança",
             "description": "Receber e-mails de atividades de segurança.",
             "loginAlert": "Alertas de login",
-            "loginAlertHint": "E-mail quando houver login de novo dispositivo."
+            "loginAlertHint": "E-mail quando houver login de novo dispositivo.",
+            "passwordChange": "Alteração de senha",
+            "passwordChangeHint": "E-mail quando a senha for alterada."
         },
         "activity": {
             "title": "Atividade da conta",
@@ -198,6 +261,10 @@
         "updating": "Atualizando...",
         "success": "Perfil atualizado com sucesso!",
         "successDetail": "Avatar e nome sincronizados.",
-        "error": "Falha ao atualizar perfil"
+        "error": "Falha ao atualizar perfil",
+        "errorDetail": "Tente novamente mais tarde.",
+        "discordSynced": "Discord sincronizado",
+        "steamSynced": "Steam sincronizado",
+        "hint": "Clique para buscar dados mais recentes do Discord e Steam."
     }
 }

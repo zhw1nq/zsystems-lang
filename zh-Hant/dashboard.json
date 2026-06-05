@@ -3,20 +3,27 @@
     "subtitle": "伺服器總覽與管理",
     "servers": {
         "title": "伺服器",
+        "count": "{count} 個伺服器",
         "allServers": "所有伺服器",
         "noServers": "此群組中沒有伺服器"
     },
     "serverCard": {
+        "connect": "連線",
         "noMap": "無地圖",
         "players": "{current}/{max} 名玩家",
+        "offline": "離線",
         "noInfo": "沒有可用的伺服器資訊。"
     },
     "serverDetail": {
         "players": "玩家",
+        "noPlayers": "沒有玩家",
         "teamCT": "反恐精英",
         "teamT": "恐怖分子",
+        "teamUnassigned": "未分配",
+        "serverInfo": "伺服器資訊",
         "chat": "聊天",
         "contextMenu": {
+            "viewSteamProfile": "查看帳號",
             "copySteamId": "複製 SteamID",
             "copyPlayerName": "複製玩家名稱",
             "copyStats": "複製統計資料",
@@ -24,6 +31,7 @@
         },
         "spectators": "觀戰者",
         "noSpectators": "沒有觀戰者",
+        "copied": "已複製 {label}",
         "unknown": "未知"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "伺服器特權",
         "description": "升級您的帳號以解鎖專屬外觀與優先權限。選擇最適合您的方案。",
+        "discount": "省下",
+        "month1": "1 個月",
+        "months3": "3 個月",
+        "mostPopular": "最受歡迎",
+        "periodMonthly": "/ 31 天",
+        "periodQuarterly": "/ 90 天",
+        "currentPlan": "目前方案",
         "tiers": {
             "member": {
-                "description": "基本體驗"
+                "name": "免費",
+                "priceMonthly": "免費",
+                "priceQuarterly": "免費",
+                "description": "基本體驗",
+                "button": "立即遊玩"
             },
             "svip": {
-                "description": "頂級尊榮體驗"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "頂級尊榮體驗",
+                "button": "升級"
             },
             "vip": {
-                "description": "強化遊戲體驗"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "強化遊戲體驗",
+                "button": "升級"
             }
+        },
+        "features": {
+            "customSkins": "自訂刀具、手套與武器",
+            "createCollections": "建立造型收藏",
+            "mvpPackFree": "使用免費 MVP 套件",
+            "publicServers": "加入社群伺服器",
+            "prioritySlot": "優先進入伺服器",
+            "fastSupport": "管理員優先支援",
+            "mvpPackVip": "解鎖 VIP MVP 套件",
+            "customLoadout": "自訂裝備配置",
+            "agentWibu3D": "專屬 3D Wibu 探員",
+            "weaponWibu3D": "頂級 3D Wibu 武器",
+            "adminPrivileges": "頂級管理員權限"
         }
     },
     "support": {

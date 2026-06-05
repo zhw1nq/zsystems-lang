@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "រាត្រីសួស្តី, {name}",
+        "greeting_morning": "អរុណសួស្តី, {name}",
+        "greeting_noon": "ថ្ងៃត្រង់សួស្តី, {name}",
+        "greeting_afternoon": "រសៀលសួស្តី, {name}",
+        "greeting_evening": "ល្ងាចសួស្តី, {name}",
         "guest": "ភ្ញៀវ",
-        "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព"
+        "warning": "លេងហ្គេមលើស ១៨០ នាទី/ថ្ងៃ ប៉ះពាល់សុខភាព",
+        "loadingWarning": "ការលេងហ្គេមលើសពី 180 នាទីក្នុងមួយថ្ងៃ អាចប៉ះពាល់ដល់សុខភាព។."
     },
     "optional": "ជម្រើស"
 }

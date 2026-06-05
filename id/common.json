@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Selamat malam, {name}",
+        "greeting_morning": "Selamat pagi, {name}",
+        "greeting_noon": "Selamat siang, {name}",
+        "greeting_afternoon": "Selamat sore, {name}",
+        "greeting_evening": "Selamat malam, {name}",
         "guest": "Tamu",
-        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan"
+        "warning": "Bermain game lebih dari 180 menit/hari berdampak pada kesehatan",
+        "loadingWarning": "Bermain game lebih dari 180 menit setiap hari dapat berdampak pada kesehatan."
     },
     "optional": "Opsional"
 }

@@ -3,20 +3,27 @@
     "subtitle": "服务器概览与管理",
     "servers": {
         "title": "服务器",
+        "count": "{count} 个服务器",
         "allServers": "所有服务器",
         "noServers": "此分组中没有服务器"
     },
     "serverCard": {
+        "connect": "连接",
         "noMap": "无地图",
         "players": "{current}/{max} 名玩家",
+        "offline": "离线",
         "noInfo": "暂无服务器信息。"
     },
     "serverDetail": {
         "players": "玩家",
+        "noPlayers": "没有玩家",
         "teamCT": "反恐精英",
         "teamT": "恐怖分子",
+        "teamUnassigned": "未分配",
+        "serverInfo": "服务器信息",
         "chat": "聊天",
         "contextMenu": {
+            "viewSteamProfile": "查看账户",
             "copySteamId": "复制 SteamID",
             "copyPlayerName": "复制玩家名称",
             "copyStats": "复制数据",
@@ -24,6 +31,7 @@
         },
         "spectators": "观察者",
         "noSpectators": "没有观察者",
+        "copied": "已复制 {label}",
         "unknown": "未知"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "服务器特权",
         "description": "升级你的账户以解锁专属外观和优先访问权限。选择适合你的等级。",
+        "discount": "节省",
+        "month1": "1 个月",
+        "months3": "3 个月",
+        "mostPopular": "最受欢迎",
+        "periodMonthly": "/ 31 天",
+        "periodQuarterly": "/ 90 天",
+        "currentPlan": "当前方案",
         "tiers": {
             "member": {
-                "description": "基础体验"
+                "name": "免费",
+                "priceMonthly": "免费",
+                "priceQuarterly": "免费",
+                "description": "基础体验",
+                "button": "立即游玩"
             },
             "svip": {
-                "description": "终极尊贵体验"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "终极尊贵体验",
+                "button": "升级"
             },
             "vip": {
-                "description": "增强体验"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "增强体验",
+                "button": "升级"
             }
+        },
+        "features": {
+            "customSkins": "自定义刀具、手套、武器",
+            "createCollections": "创建皮肤收藏",
+            "mvpPackFree": "使用免费 MVP 包",
+            "publicServers": "加入社区服务器",
+            "prioritySlot": "优先服务器位置访问",
+            "fastSupport": "优先管理员支持",
+            "mvpPackVip": "解锁 VIP MVP 包",
+            "customLoadout": "自定义装备配置",
+            "agentWibu3D": "专属 3D 二次元探员",
+            "weaponWibu3D": "顶级 3D 二次元武器",
+            "adminPrivileges": "高级管理员特权"
         }
     },
     "support": {

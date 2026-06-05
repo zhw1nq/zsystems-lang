@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Chào hăm cắp, {name}",
+        "greeting_morning": "Chào chạu lủc, {name}",
+        "greeting_noon": "Chào vằn trưa, {name}",
+        "greeting_afternoon": "Chào lăng vằn, {name}",
+        "greeting_evening": "Chào vằn hăm, {name}",
         "guest": "Khách",
-        "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe"
+        "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe",
+        "loadingWarning": "Lỉn game quá 180 phút mỗi vằn hại thâng sức khỏe."
     },
     "optional": "Tùy chọn"
 }

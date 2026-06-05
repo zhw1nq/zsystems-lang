@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Selamat malam, {name}",
+        "greeting_morning": "Selamat pagi, {name}",
+        "greeting_noon": "Selamat tengah hari, {name}",
+        "greeting_afternoon": "Selamat petang, {name}",
+        "greeting_evening": "Selamat petang, {name}",
         "guest": "Tetamu",
-        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan"
+        "warning": "Bermain lebih 180 minit/hari menjejaskan kesihatan",
+        "loadingWarning": "Bermain permainan lebih daripada 180 minit setiap hari boleh menjejaskan kesihatan."
     },
     "optional": "Pilihan"
 }

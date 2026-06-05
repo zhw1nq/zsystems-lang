@@ -1,13 +1,28 @@
 {
     "hero": {
+        "explore": "Terokai",
+        "store": "Kedai",
+        "letsPlayNow": "Mari Main Sekarang!",
+        "wantToBeVip": "Mahukan VIP?",
+        "loginToZsystems": "Log masuk ke zSystems",
+        "weaponSkins": "Kulit Senjata",
+        "ranks": "Pangkat",
         "contact": "Hubungi",
+        "getDemo": "Dapatkan Demo",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "Main Sekarang",
         "login": "Log Masuk",
         "changeSkins": "Tukar Kulit Senjata"
     },
     "nav": {
+        "community": "Komuniti",
+        "ranks": "Pangkat",
         "support": "Sokongan"
+    },
+    "stats": {
+        "uptime": "MASA BEROPERASI",
+        "ping": "PING",
+        "players6h": "PEMAIN / 6J"
     },
     "footer": {
         "selectLanguage": "Pilih bahasa",
@@ -25,9 +40,11 @@
         "support": "Sokongan",
         "serverTip": "Buka konsol CS2, taip connect [IP] untuk menyertai",
         "copyConnect": "Klik untuk salin arahan connect",
+        "dmca": "Hak Cipta & DMCA Protected: zSystems dan 7-Mau Community menghormati undang-undang harta intelek. Counter-Strike 2 ialah tanda dagangan berdaftar Valve Corporation.",
         "quickLinks": {
             "leaderboard": "Papan Kedudukan",
             "stats": "Statistik Peribadi",
+            "matches": "Sejarah Perlawanan",
             "register": "Daftar Akaun",
             "guide": "Panduan Penyertaan",
             "configs": "Muat Turun Config"
@@ -100,6 +117,7 @@
     },
     "zsystems": {
         "title": "zSystems",
+        "subtitle": "Kiến trúc hệ thống zSystems",
         "backHome": "QUAY LẠI TRANG CHỦ",
         "heroTag": "zSystems & vhming Core Platform",
         "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",

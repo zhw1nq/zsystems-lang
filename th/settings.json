@@ -10,7 +10,18 @@
     "nav": {
         "colorMode": "โหมดสี",
         "themeColor": "สีธีม",
-        "language": "ภาษา"
+        "language": "ภาษา",
+        "changePassword": "เปลี่ยนรหัสผ่าน",
+        "twoFactor": "ยืนยันตัวตน 2 ขั้นตอน",
+        "sessions": "เซสชันการเข้าสู่ระบบ",
+        "loginHistory": "ประวัติการเข้าสู่ระบบ",
+        "profile": "ข้อมูลส่วนตัว",
+        "email": "อีเมล",
+        "linkedAccounts": "บัญชีที่เชื่อมต่อ",
+        "dangerZone": "โซนอันตราย",
+        "securityAlerts": "การแจ้งเตือนความปลอดภัย",
+        "activityAlerts": "กิจกรรมบัญชี",
+        "marketing": "การตลาด"
     },
     "general": {
         "title": "การตั้งค่าทั่วไป",
@@ -19,10 +30,13 @@
         "preferences": "การตั้งค่า",
         "preferencesHint": "ปรับภาษาและประสบการณ์การใช้งาน",
         "colorMode": "โหมดสี",
+        "colorModeHint": "เลือกโหมดการแสดงผลของอินเทอร์เฟซ",
+        "customColor": "สีแบบกำหนดเอง",
         "light": "สว่าง",
         "auto": "อัตโนมัติ",
         "dark": "มืด",
         "themeColor": "สีธีม",
+        "themeColorHint": "เลือกสีหลักของอินเทอร์เฟซ",
         "language": "ภาษา",
         "languageHint": "เลือกภาษาที่ใช้แสดงผลบนเว็บไซต์",
         "reduceMotion": "ลดการเคลื่อนไหว",
@@ -44,7 +58,9 @@
             "success": "เปลี่ยนรหัสผ่านสำเร็จ",
             "successDetail": "รหัสผ่านถูกอัปเดตแล้ว เซสชันอื่นถูกออกจากระบบ",
             "error": "เปลี่ยนรหัสผ่านไม่สำเร็จ",
-            "mismatch": "รหัสผ่านไม่ตรงกัน"
+            "mismatch": "รหัสผ่านไม่ตรงกัน",
+            "lastChanged": "เปลี่ยนล่าสุด: {date}",
+            "neverChanged": "ยังไม่เคยเปลี่ยนรหัสผ่าน"
         },
         "twoFactor": {
             "title": "การยืนยันตัวตน 2 ขั้นตอน (2FA)",
@@ -53,19 +69,24 @@
             "disabled": "ปิดใช้งาน",
             "enable": "เปิด 2FA",
             "disable": "ปิด 2FA",
+            "setupTitle": "ตั้งค่า 2FA",
             "setupStep1": "สแกน QR Code ด้วยแอป (Google Authenticator, Authy ฯลฯ)",
             "setupStep2": "กรอกรหัส 6 หลักเพื่อยืนยัน",
+            "manualEntry": "กรอกด้วยตนเอง",
             "manualEntryHint": "หากสแกนไม่ได้ ให้ใช้รหัสนี้",
+            "verificationCode": "รหัสยืนยัน",
             "verificationCodeHint": "กรอกรหัส 6 หลักจากแอป",
             "verify": "ยืนยัน",
             "verifying": "กำลังยืนยัน...",
             "setupSuccess": "เปิดใช้งาน 2FA สำเร็จ!",
             "setupSuccessDetail": "บัญชีของคุณปลอดภัยขึ้นแล้ว",
             "setupError": "เปิด 2FA ไม่สำเร็จ",
+            "disableConfirm": "ยืนยันการปิด 2FA",
             "disableWarning": "การปิด 2FA จะลดความปลอดภัย กรุณากรอกรหัสผ่าน",
             "disablePassword": "กรอกรหัสผ่าน",
             "disableSuccess": "ปิด 2FA สำเร็จ",
             "disableError": "ปิด 2FA ไม่สำเร็จ",
+            "recoveryCodes": "รหัสกู้คืน",
             "recoveryCodesHint": "เก็บรหัสนี้ไว้ แต่ละรหัสใช้ได้ครั้งเดียว",
             "recoveryCodesSaved": "ฉันได้บันทึกรหัสแล้ว",
             "copyAll": "คัดลอกทั้งหมด"
@@ -75,11 +96,14 @@
             "description": "จัดการอุปกรณ์ที่ล็อกอินอยู่",
             "currentSession": "เซสชันปัจจุบัน",
             "revokeAll": "ออกจากระบบทุกอุปกรณ์",
+            "revokeAllConfirm": "ต้องการออกจากระบบทุกอุปกรณ์หรือไม่?",
             "revokeAllSuccess": "ออกจากระบบ {count} เซสชันแล้ว",
             "revoke": "ออกจากระบบ",
+            "revokeConfirm": "ต้องการออกจากระบบเซสชันนี้หรือไม่?",
             "revokeSuccess": "ออกจากระบบแล้ว",
             "revokeError": "ออกจากระบบไม่สำเร็จ",
             "noSessions": "ไม่มีเซสชันที่ใช้งานอยู่",
+            "lastActive": "ใช้งานล่าสุด: {time}",
             "device": {
                 "desktop": "เดสก์ท็อป",
                 "mobile": "มือถือ",
@@ -90,11 +114,43 @@
         "loginHistory": {
             "title": "ประวัติการเข้าสู่ระบบ",
             "description": "ดูความปลอดภัยย้อนหลัง",
-            "noLogs": "ยังไม่มีข้อมูล"
+            "noLogs": "ยังไม่มีข้อมูล",
+            "showMore": "ดูเพิ่มเติม",
+            "events": {
+                "login_success": "เข้าสู่ระบบสำเร็จ",
+                "login_failed": "เข้าสู่ระบบล้มเหลว",
+                "login_passkey": "เข้าสู่ระบบด้วย Passkey",
+                "register": "สมัครบัญชี",
+                "logout": "ออกจากระบบ",
+                "password_change": "เปลี่ยนรหัสผ่าน",
+                "password_reset_request": "ขอรีเซ็ตรหัสผ่าน",
+                "password_reset_complete": "รีเซ็ตรหัสผ่านสำเร็จ",
+                "two_factor_enable": "เปิด 2FA",
+                "two_factor_disable": "ปิด 2FA",
+                "two_factor_verify": "ยืนยัน 2FA",
+                "passkey_register": "เพิ่ม Passkey",
+                "passkey_remove": "ลบ Passkey",
+                "account_lock": "บัญชีถูกล็อก",
+                "account_unlock": "ปลดล็อกบัญชี",
+                "account_suspend": "ระงับบัญชี",
+                "account_ban": "แบนบัญชี",
+                "account_reactivate": "เปิดใช้งานบัญชีอีกครั้ง",
+                "oauth_link": "เชื่อมบัญชี OAuth",
+                "oauth_unlink": "ยกเลิกการเชื่อม OAuth",
+                "session_revoke": "ยกเลิกเซสชัน",
+                "session_revoke_all": "ยกเลิกทุกเซสชัน",
+                "email_change": "เปลี่ยนอีเมล",
+                "profile_update": "อัปเดตโปรไฟล์",
+                "suspicious_activity": "ตรวจพบกิจกรรมน่าสงสัย"
+            }
         },
         "alerts": {
             "title": "การแจ้งเตือนความปลอดภัย",
-            "description": "รับแจ้งเตือนเมื่อมีความผิดปกติ"
+            "description": "รับแจ้งเตือนเมื่อมีความผิดปกติ",
+            "emailOnNewLogin": "แจ้งเตือนเมื่อมีการล็อกอินใหม่",
+            "emailOnNewLoginHint": "ส่งอีเมลเมื่อมีการเข้าสู่ระบบจากอุปกรณ์ใหม่",
+            "emailOnPasswordChange": "แจ้งเตือนเมื่อเปลี่ยนรหัสผ่าน",
+            "emailOnPasswordChangeHint": "ส่งอีเมลยืนยันเมื่อมีการเปลี่ยนรหัสผ่าน"
         }
     },
     "account": {
@@ -105,6 +161,7 @@
             "description": "ข้อมูลบัญชีของคุณ (บางส่วนซิงค์จาก Discord)",
             "username": "ชื่อผู้ใช้",
             "sevenId": "7ID",
+            "email": "อีเมล",
             "displayName": "ชื่อที่แสดง",
             "registeredAt": "วันที่สมัคร",
             "status": "สถานะ",
@@ -116,11 +173,15 @@
             "updating": "กำลังอัปเดต...",
             "updateSuccess": "อัปเดตสำเร็จ!",
             "updateSuccessDetail": "อัปเดตรูปโปรไฟล์และชื่อแล้ว",
-            "updateError": "อัปเดตไม่สำเร็จ"
+            "updateError": "อัปเดตไม่สำเร็จ",
+            "updateErrorDetail": "กรุณาลองใหม่ภายหลัง",
+            "discordSynced": "ซิงค์ Discord แล้ว",
+            "steamSynced": "ซิงค์ Steam แล้ว"
         },
         "avatar": {
             "title": "รูปโปรไฟล์",
-            "description": "รูปถูกซิงค์จาก Discord"
+            "description": "รูปถูกซิงค์จาก Discord",
+            "comingSoon": "อัปโหลดรูปโปรไฟล์ — เร็ว ๆ นี้"
         },
         "email": {
             "title": "อีเมล",
@@ -174,7 +235,9 @@
             "title": "การแจ้งเตือนความปลอดภัย",
             "description": "อีเมลเกี่ยวกับความปลอดภัย",
             "loginAlert": "แจ้งเตือนการเข้าสู่ระบบ",
-            "loginAlertHint": "แจ้งเมื่อมีการล็อกอินใหม่"
+            "loginAlertHint": "แจ้งเมื่อมีการล็อกอินใหม่",
+            "passwordChange": "แจ้งเตือนเปลี่ยนรหัสผ่าน",
+            "passwordChangeHint": "แจ้งเมื่อมีการเปลี่ยนรหัสผ่าน"
         },
         "activity": {
             "title": "กิจกรรมบัญชี",
@@ -198,6 +261,10 @@
         "updating": "กำลังอัปเดต...",
         "success": "อัปเดตสำเร็จ!",
         "successDetail": "ซิงค์ข้อมูลแล้ว",
-        "error": "อัปเดตไม่สำเร็จ"
+        "error": "อัปเดตไม่สำเร็จ",
+        "errorDetail": "กรุณาลองใหม่",
+        "discordSynced": "Discord đã đồng bộ",
+        "steamSynced": "Steam đã đồng bộ",
+        "hint": "Nhấn nút bên dưới để cập nhật avatar và tên hiển thị mới nhất từ Discord và Steam."
     }
 }

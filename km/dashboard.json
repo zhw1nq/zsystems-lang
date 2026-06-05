@@ -3,20 +3,27 @@
     "subtitle": "ទិដ្ឋភាពទូទៅ និងគ្រប់គ្រងម៉ាស៊ីនមេ",
     "servers": {
         "title": "ម៉ាស៊ីនមេ",
+        "count": "{count} ម៉ាស៊ីនមេ",
         "allServers": "ម៉ាស៊ីនមេទាំងអស់",
         "noServers": "មិនមានម៉ាស៊ីនមេក្នុងក្រុមនេះ"
     },
     "serverCard": {
+        "connect": "ភ្ជាប់",
         "noMap": "គ្មានផែនទី",
         "players": "{current}/{max} អ្នកលេង",
+        "offline": "ក្រៅបណ្តាញ",
         "noInfo": "គ្មានព័ត៌មានម៉ាស៊ីនមេ។"
     },
     "serverDetail": {
         "players": "អ្នកលេង",
+        "noPlayers": "គ្មានអ្នកលេង",
         "teamCT": "Counter-Terrorists",
         "teamT": "Terrorists",
+        "teamUnassigned": "មិនទាន់កំណត់",
+        "serverInfo": "ព័ត៌មានម៉ាស៊ីនមេ",
         "chat": "ជជែក",
         "contextMenu": {
+            "viewSteamProfile": "មើលគណនី",
             "copySteamId": "ចម្លង SteamID",
             "copyPlayerName": "ចម្លងឈ្មោះអ្នកលេង",
             "copyStats": "ចម្លងស្ថិតិ",
@@ -24,6 +31,7 @@
         },
         "spectators": "អ្នកមើល",
         "noSpectators": "គ្មានអ្នកមើល",
+        "copied": "បានចម្លង {label}",
         "unknown": "មិនស្គាល់"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "សិទ្ធិម៉ាស៊ីនមេ",
         "description": "ដំឡើងគណនីដើម្បីដោះសោ cosmetics ពិសេស និងចូលប្រើអាទិភាព។ ជ្រើសថ្នាក់ដែលសមរម្យ។",
+        "discount": "សន្សំ",
+        "month1": "១ ខែ",
+        "months3": "៣ ខែ",
+        "mostPopular": "ពេញនិយមបំផុត",
+        "periodMonthly": "/ ៣១ ថ្ងៃ",
+        "periodQuarterly": "/ ៩០ ថ្ងៃ",
+        "currentPlan": "ផែនការបច្ចុប្បន្ន",
         "tiers": {
             "member": {
-                "description": "បទពិសោធន៍មូលដ្ឋាន"
+                "name": "FREE",
+                "priceMonthly": "FREE",
+                "priceQuarterly": "FREE",
+                "description": "បទពិសោធន៍មូលដ្ឋាន",
+                "button": "លេងឥឡូវ"
             },
             "svip": {
-                "description": "កិត្តិយសខ្ពស់បំផុត"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "កិត្តិយសខ្ពស់បំផុត",
+                "button": "ដំឡើង"
             },
             "vip": {
-                "description": "បទពិសោធន៍កែលម្អ"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "បទពិសោធន៍កែលម្អ",
+                "button": "ដំឡើង"
             }
+        },
+        "features": {
+            "customSkins": "ប្តូរកាំបិត កងដៃ អាវុផ",
+            "createCollections": "បង្កើតការប្រមូល Skin",
+            "mvpPackFree": "ប្រើកញ្ចប់ MVP ឥតគិតថ្លៃ",
+            "publicServers": "ចូលម៉ាស៊ីនមេសហគមន៍",
+            "prioritySlot": "ចូលមុខជាមុន",
+            "fastSupport": "ជំនួយ Admin អាទិភាព",
+            "mvpPackVip": "ដោះសោកញ្ចប់ MVP VIP",
+            "customLoadout": "កំណត់ Loadout តាមបំណង",
+            "agentWibu3D": "Agents 3D Wibu ពិសេស",
+            "weaponWibu3D": "អាវុធ 3D Wibu ពិសេស",
+            "adminPrivileges": "សិទ្ធិ Admin ពិសេស"
         }
     },
     "support": {

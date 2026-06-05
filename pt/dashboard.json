@@ -3,20 +3,27 @@
     "subtitle": "Visão geral e gerenciamento do servidor",
     "servers": {
         "title": "Servidores",
+        "count": "{count} servidores",
         "allServers": "Todos os servidores",
         "noServers": "Nenhum servidor neste grupo"
     },
     "serverCard": {
+        "connect": "Conectar",
         "noMap": "Sem mapa",
         "players": "{current}/{max} Jogadores",
+        "offline": "Offline",
         "noInfo": "Nenhuma informação do servidor disponível."
     },
     "serverDetail": {
         "players": "Jogadores",
+        "noPlayers": "Sem jogadores",
         "teamCT": "Contra-Terroristas",
         "teamT": "Terroristas",
+        "teamUnassigned": "Não atribuído",
+        "serverInfo": "Informações do servidor",
         "chat": "Chat",
         "contextMenu": {
+            "viewSteamProfile": "Ver conta",
             "copySteamId": "Copiar SteamID",
             "copyPlayerName": "Copiar nome do jogador",
             "copyStats": "Copiar estatísticas",
@@ -24,6 +31,7 @@
         },
         "spectators": "Espectadores",
         "noSpectators": "Sem espectadores",
+        "copied": "Copiado {label}",
         "unknown": "Desconhecido"
     },
     "stats": {
@@ -114,16 +122,48 @@
     "privilege": {
         "title": "Privilégios do servidor",
         "description": "Faça upgrade da sua conta para desbloquear cosméticos exclusivos e acesso prioritário.",
+        "discount": "Economize",
+        "month1": "1 mês",
+        "months3": "3 meses",
+        "mostPopular": "MAIS POPULAR",
+        "periodMonthly": "/ 31 dias",
+        "periodQuarterly": "/ 90 dias",
+        "currentPlan": "PLANO ATUAL",
         "tiers": {
             "member": {
-                "description": "Experiência básica"
+                "name": "GRÁTIS",
+                "priceMonthly": "GRÁTIS",
+                "priceQuarterly": "GRÁTIS",
+                "description": "Experiência básica",
+                "button": "JOGAR AGORA"
             },
             "svip": {
-                "description": "Prestígio máximo"
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Prestígio máximo",
+                "button": "FAZER UPGRADE"
             },
             "vip": {
-                "description": "Experiência aprimorada"
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Experiência aprimorada",
+                "button": "FAZER UPGRADE"
             }
+        },
+        "features": {
+            "customSkins": "Personalizar facas, luvas e armas",
+            "createCollections": "Criar coleções de skins",
+            "mvpPackFree": "Usar pacote MVP grátis",
+            "publicServers": "Entrar em servidores da comunidade",
+            "prioritySlot": "Acesso prioritário ao servidor",
+            "fastSupport": "Suporte prioritário de admins",
+            "mvpPackVip": "Desbloquear pacote MVP VIP",
+            "customLoadout": "Configuração personalizada de loadout",
+            "agentWibu3D": "Agentes Wibu 3D exclusivos",
+            "weaponWibu3D": "Armas Wibu 3D supremas",
+            "adminPrivileges": "Privilégios de administrador supremos"
         }
     },
     "support": {

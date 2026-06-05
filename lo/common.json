@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "ສະບາຍດີກາງຄືນ, {name}",
+        "greeting_morning": "ສະບາຍດີຕອນເຊົ້າ, {name}",
+        "greeting_noon": "ສະບາຍດີຕອນທ່ຽງ, {name}",
+        "greeting_afternoon": "ສະບາຍດີຕອນບ່າຍ, {name}",
+        "greeting_evening": "ສະບາຍດີຕອນແລງ, {name}",
         "guest": "ແຂກ",
-        "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ"
+        "warning": "ຫຼິ້ນເກມເກີນ 180 ນາທີ/ມື້ ອາດສົ່ງຜົນຕໍ່ສຸຂະພາບ",
+        "loadingWarning": "ຫຼິ້ນເກມເກີນ 180 ນາທີຕໍ່ມື້ ອາດສົ່ງຜົນກະທົບຕໍ່ສຸຂະພາບ."
     },
     "optional": "ຕົວເລືອກ"
 }

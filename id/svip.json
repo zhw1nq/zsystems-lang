@@ -2,28 +2,54 @@
     "models": {
         "title": "zModels",
         "description": "Model pemain eksklusif untuk SVIP",
+        "equipped": "Dipasang",
+        "equip": "Pasang",
+        "unequip": "Lepas",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "Privat",
         "search": "Cari model...",
-        "noResults": "Model tidak ditemukan"
+        "noResults": "Model tidak ditemukan",
+        "accessDenied": "Akses SVIP diperlukan untuk menggunakan fitur ini",
+        "notLoggedIn": "Silakan masuk untuk menggunakan fitur ini",
+        "selectCategory": "Pilih kategori"
     },
-    "weapons": {
+    "weapons": { 
         "title": "zWeapons",
         "description": "Skin senjata eksklusif untuk SVIP",
+        "equipped": "Dipasang",
+        "equip": "Pasang",
+        "unequip": "Lepas",
         "search": "Cari senjata...",
         "noResults": "Senjata tidak ditemukan",
         "selectPack": "Pilih paket skin",
         "selectWeapon": "Pilih jenis senjata",
         "viewByType": "Lihat berdasarkan jenis senjata",
-        "viewByPack": "Lihat berdasarkan paket skin"
+        "viewByPack": "Lihat berdasarkan paket skin",
+        "accessDenied": "Akses SVIP diperlukan untuk menggunakan fitur ini",
+        "notLoggedIn": "Silakan masuk untuk menggunakan fitur ini",
+        "categories": {
+            "rifles": "Senapan",
+            "pistols": "Pistol",
+            "smgs": "SMG",
+            "heavy": "Senjata Berat",
+            "knives": "Pisau",
+            "grenades": "Granat"
+        }
     },
     "common": {
         "locked": "SVIP Diperlukan",
         "lockedDesc": "Fitur ini eksklusif untuk pengguna SVIP. Upgrade untuk membuka.",
+        "loading": "Memuat...",
         "equipSuccess": "Berhasil dipasang",
         "equipSuccessDesc": "{name} dipasang",
         "unequipSuccess": "Dilepas",
         "unequipSuccessDesc": "{name} dihapus",
         "equipFailed": "Gagal memasang",
-        "unequipFailed": "Gagal melepas"
+        "unequipFailed": "Gagal melepas",
+        "tooFast": "Terlalu cepat",
+        "tooFastDesc": "Tunggu sebelum melakukan tindakan lain",
+        "allWeapons": "Semua"
     },
     "mvp": {
         "title": "zMVP",
@@ -34,6 +60,11 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "ADMIN",
+        "preview": "Pratinjau",
+        "stop": "Berhenti",
+        "apply": "Terapkan",
+        "unequip": "Lepas",
+        "equipped": "Dipasang",
         "lockedVip": "VIP Diperlukan",
         "lockedVipDesc": "Fitur ini eksklusif untuk pengguna VIP.",
         "lockedSvip": "SVIP Diperlukan",

@@ -79,8 +79,14 @@
         }
     },
     "welcomePopup": {
+        "greeting_night": "Chào buổi đêm, {name}",
+        "greeting_morning": "Chào buổi sáng, {name}",
+        "greeting_noon": "Chào buổi trưa, {name}",
+        "greeting_afternoon": "Chào buổi chiều, {name}",
+        "greeting_evening": "Chào buổi tối, {name}",
         "guest": "Khách",
-        "warning": "Chơi game quá 180 phút/ngày ảnh hưởng sức khỏe"
+        "warning": "Chơi game quá 180 phút/ngày ảnh hưởng sức khỏe",
+        "loadingWarning": "Chơi game quá 180 phút mỗi ngày ảnh hưởng sức khỏe."
     },
     "optional": "Tùy chọn"
 }

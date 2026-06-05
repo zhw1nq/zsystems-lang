@@ -6,7 +6,7 @@
         "my": "Koleksi Saya"
     },
     "sort": {
-        "newest": "Terbaharu",
+        "newest": "Terbaharu", 
         "mostLiked": "Paling Disukai",
         "mostUsed": "Paling Digunakan"
     },
@@ -14,7 +14,10 @@
         "items": "{count} item",
         "uses": "{count} penggunaan",
         "likes": "{count} suka",
-        "by": "oleh {author}"
+        "comments": "{count} komen",
+        "by": "oleh {author}",
+        "public": "Awam",
+        "private": "Peribadi"
     },
     "create": {
         "button": "Cipta Baharu",
@@ -24,10 +27,13 @@
         "description": "Penerangan",
         "descPlaceholder": "Terangkan koleksi anda...",
         "visibility": "Awam",
+        "preview": "Loadout Semasa",
+        "previewDesc": "{skins} kulit, {knives} pisau, {gloves} sarung tangan, {agents} ejen, {music} muzik, {pins} pin",
         "submit": "Cipta Koleksi",
         "success": "Koleksi berjaya dicipta!",
         "error": "Gagal mencipta koleksi",
-        "limitReached": "Anda telah mencapai had {max} koleksi"
+        "limitReached": "Anda telah mencapai had {max} koleksi",
+        "emptyLoadout": "Loadout semasa anda kosong, tiada apa untuk disimpan"
     },
     "detail": {
         "apply": "Guna Koleksi",
@@ -35,7 +41,16 @@
         "applyConfirmDesc": "Loadout semasa anda akan ditulis ganti sepenuhnya dengan item daripada koleksi ini. Tindakan ini tidak boleh dibatalkan.",
         "applySuccess": "Koleksi berjaya digunakan!",
         "applyError": "Gagal menggunakan koleksi",
-        "delete": "Padam"
+        "delete": "Padam",
+        "deleteConfirmTitle": "Padam Koleksi?",
+        "deleteConfirmDesc": "Adakah anda pasti mahu memadam koleksi ini? Tindakan ini tidak boleh dibatalkan.",
+        "edit": "Sunting",
+        "skins": "Kulit",
+        "knives": "Pisau",
+        "gloves": "Sarung Tangan",
+        "agents": "Ejen",
+        "music": "Muzik",
+        "pins": "Pin"
     },
     "comment": {
         "title": "Komen",
@@ -43,7 +58,8 @@
         "submit": "Siarkan",
         "empty": "Tiada komen lagi",
         "deleteConfirm": "Padam komen ini?",
-        "error": "Gagal menyiarkan komen"
+        "error": "Gagal menyiarkan komen",
+        "loginRequired": "Log masuk untuk memberi komen"
     },
     "empty": {
         "community": "Tiada koleksi lagi. Jadilah yang pertama berkongsi!",
@@ -54,8 +70,10 @@
         "liked": "Koleksi disukai",
         "unliked": "Koleksi tidak disukai",
         "deleted": "Koleksi dipadam",
+        "updated": "Koleksi dikemas kini",
         "tooFast": "Terlalu pantas!",
         "tooFastDesc": "Sila tunggu sebelum melakukan tindakan seterusnya",
+        "copiedId": "ID disalin",
         "applied": "Koleksi digunakan!",
         "applyError": "Gagal menggunakan"
     },

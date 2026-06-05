@@ -2,28 +2,56 @@
     "models": {
         "title": "zModels",
         "description": "SVIP 專屬玩家模型",
+        "equipped": "已裝備",
+        "equip": "裝備",
+        "unequip": "卸下",
+        "ct": "反恐精英",
+        "t": "恐怖份子",
+        "private": "私人",
         "search": "搜尋模型...",
-        "noResults": "找不到任何模型"
+        "noResults": "找不到任何模型",
+        "accessDenied": "需擁有 SVIP 權限才能使用此功能",
+        "notLoggedIn": "請先登入以使用此功能",
+        "selectCategory": "選擇分類"
     },
+    
     "weapons": {
         "title": "zWeapons",
         "description": "SVIP 專屬武器造型",
+        
+        "equipped": "已裝備",
+        "equip": "裝備",
+        "unequip": "卸下",
         "search": "搜尋武器...",
         "noResults": "找不到任何武器",
         "selectPack": "選擇造型包",
         "selectWeapon": "選擇武器類型",
         "viewByType": "依武器類型查看",
-        "viewByPack": "依造型包查看"
+        "viewByPack": "依造型包查看",
+        "accessDenied": "需擁有 SVIP 權限才能使用此功能",
+        "notLoggedIn": "請先登入以使用此功能",
+        "categories": {
+            "rifles": "步槍",
+            "pistols": "手槍",
+            "smgs": "衝鋒槍",
+            "heavy": "重型武器",
+            "knives": "刀具",
+            "grenades": "手榴彈"
+        }
     },
     "common": {
         "locked": "需要 SVIP",
         "lockedDesc": "此功能僅限 SVIP 使用者。升級即可解鎖。",
+        "loading": "載入中...",
         "equipSuccess": "裝備成功",
         "equipSuccessDesc": "已裝備 {name}",
         "unequipSuccess": "已卸下",
         "unequipSuccessDesc": "已移除 {name}",
         "equipFailed": "裝備失敗",
-        "unequipFailed": "卸下失敗"
+        "unequipFailed": "卸下失敗",
+        "tooFast": "操作過快",
+        "tooFastDesc": "請稍候再執行其他操作",
+        "allWeapons": "全部"
     },
     "mvp": {
         "title": "zMVP",
@@ -34,6 +62,11 @@
         "vip": "VIP",
         "svip": "SVIP",
         "admin": "管理員",
+        "preview": "預覽",
+        "stop": "停止",
+        "apply": "套用",
+        "unequip": "卸下",
+        "equipped": "已裝備",
         "lockedVip": "需要 VIP",
         "lockedVipDesc": "此功能僅限 VIP 使用者。",
         "lockedSvip": "需要 SVIP",
