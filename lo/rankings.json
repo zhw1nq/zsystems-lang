@@ -10,15 +10,15 @@
         "player": "ຜູ້ຫຼິ້ນ",
         "points": "ຄະແນນ",
         "rank": "Rank",
-        "kd": "K/D",
-        "hsr": "HS%",
+        "kd": "ອັດຕາຂ້າ/ຕາຍ (K/D)",
+        "hsr": "ຍິງຫົວ (HS%)",
         "winRate": "ອັດຕາຊະນະ",
         "playtime": "ເວລາຫຼິ້ນ",
         "kills": "ສັງຫານ",
         "deaths": "ຕາຍ",
         "assists": "ຊ່ວຍ",
-        "mvp": "MVP",
-        "firstBlood": "First Blood",
+        "mvp": "ຜູ້ຫຼິ້ນດີເດັ່ນ (MVP)",
+        "firstBlood": "ການຂ້າທຳອິດ (First Blood)",
         "roundsPlayed": "ຮອບ"
     },
     "pagination": {
@@ -56,22 +56,22 @@
         "hostageRescued": "ຊ່ວຍຕົວປະກັນ",
         "hostageKilled": "ຂ້າຕົວປະກັນ",
         "grenadeKills": "ສັງຫານດ້ວຍລູກລະເບີດ",
-        "noScopeKills": "No-scope Kills",
-        "smokeKills": "Smoke Kills",
-        "flashKills": "Flash Kills",
+        "noScopeKills": "ຂ້າແບບບໍ່ເປີດກ້ອງ (No-scope Kills)",
+        "smokeKills": "ຂ້າຜ່ານຄວັນ (Smoke Kills)",
+        "flashKills": "ຂ້າຂະນະຕາບອດ (Flash Kills)",
         "totalHours": "ຊົ່ວໂມງທັງໝົດ",
         "todayHours": "ມື້ນີ້",
         "terroristHours": "ຊົ່ວໂມງຝ່າຍ T",
         "ctHours": "ຊົ່ວໂມງຝ່າຍ CT",
         "subtitle": "ສະຖິຕິລະອຽດໃນແຕ່ລະເຊີບເວີ",
         "back": "ກັບຄືນ",
-        "dominationKills": "Domination",
+        "dominationKills": "ການຄອບງຳ (Domination)",
         "ctRounds": "ຮອບ CT",
         "tRounds": "ຮອບ T",
         "weaponName": "ອາວຸດ",
-        "weaponKills": "Kills",
+        "weaponKills": "ການສັງຫານ (Kills)",
         "weaponHS": "HS",
-        "weaponHSR": "HS%",
+        "weaponHSR": "ຍິງຫົວ (HS%)",
         "weaponAccuracy": "ຄວາມແມ່ນຍຳ"
     },
     "context": {
@@ -87,7 +87,7 @@
         "confirm": "ເຂົ້າໃຈແລ້ວ"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "ອັນດັບຄະແນນບວກ",
+        "negative": "ອັນດັບຄະແນນລົບ"
     }
 }

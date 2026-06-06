@@ -1,5 +1,5 @@
 {
-    "title": "Battle Mode",
+    "title": "တိုက်ပွဲမုဒ် (Battle Mode)",
     "subtitle": "5v5 ပြိုင်ဘက် Matchmaking",
     "party": {
         "title": "သင့် Party",
@@ -37,15 +37,15 @@
         "waiting": "စောင့်ဆိုင်းနေသည်...",
         "decided": "ပွဲမြေပုံ",
         "pickSide": "ဘက် ရွေးချယ်",
-        "ct": "Counter-Terrorist",
-        "t": "Terrorist"
+        "ct": "Counter-Terrorist (CT အသင်း)",
+        "t": "Terrorist (T အသင်း)"
     },
     "stats": {
         "title": "စာရင်းအင်း",
         "matches": "ပွဲများ",
         "wins": "အနိုင်ရ",
         "winRate": "အနိုင်ရ နှုန်း",
-        "kd": "K/D",
+        "kd": "သတ်မှု/သေဆုံးမှု (K/D)",
         "winStreak": "အနိုင်ရ ဆက်တိုက်",
         "bestStreak": "အကောင်းဆုံး ဆက်တိုက်",
         "noMatches": "ပွဲ မကစားရသေးပါ"
@@ -57,7 +57,7 @@
         "matches": "ပွဲများ",
         "wins": "အနိုင်ရ",
         "winRate": "အနိုင်ရ %",
-        "kd": "K/D"
+        "kd": "သတ်မှု/သေဆုံးမှု (K/D)"
     },
     "invite": {
         "received": "Party ဖိတ်ခေါ်ချက်",

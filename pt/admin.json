@@ -253,7 +253,7 @@
         "resources": {
             "disk": "Disco",
             "network": "Rede",
-            "uptime": "Uptime",
+            "uptime": "Tempo de atividade",
             "power": "Energia"
         },
         "detail": {
@@ -298,7 +298,7 @@
         "table": {
             "username": "Nome de usuário",
             "sevenId": "7ID",
-            "email": "Email",
+            "email": "E-mail",
             "status": "Status",
             "lastLogin": "Último login",
             "created": "Criado",
@@ -374,7 +374,7 @@
             "confirmUnlinkDiscord": "Desvincular Discord?",
             "confirmUnlinkSteam": "Desvincular Steam?",
             "displayName": "Nome de exibição",
-            "email": "Email"
+            "email": "E-mail"
         },
         "editProfile": {
             "emailWarning": "Alterar email redefinirá a verificação",

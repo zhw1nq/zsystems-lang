@@ -106,7 +106,7 @@
             "lastActive": "Última atividade: {time}",
             "device": {
                 "desktop": "Desktop",
-                "mobile": "Mobile",
+                "mobile": "Celular",
                 "tablet": "Tablet",
                 "unknown": "Desconhecido"
             }

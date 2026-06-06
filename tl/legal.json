@@ -211,8 +211,9 @@
                     "row4_name": "5 magkasunod na kills (Ace)",
                     "row5_name": "Milestone ng tuloy-tuloy na destructive kill streak",
                     "row5_note": "Makakatanggap ng dagdag na +55 points sa bawat susunod na kill"
-                },
-                "objectives": {
+                }
+            },
+            "objectives": {
                     "title": "6. TACTICAL MISSION POINTS",
                     "desc": "(Nalalapat lamang sa mga manlalarong aktibong kalahok sa laban; walang puntos para sa spectators).",
                     "h1": "Misyon",
@@ -255,45 +256,6 @@
                     "ai_note": "(Paalala: Lahat ng penalty points mula sa maling sagot ay direktang ibabawas sa iyong ranking points at hindi mababawasan ng anumang membership multiplier)."
                 },
                 "conclusion": "Ang dokumentong ito ang opisyal na pamantayan para sa mga manlalaro upang pag-aralan at ma-optimize ang kanilang ranking points sa zRanks system."
-            },
-            "objectives": {
-                "title": "6. ĐIỂM NHIỆM VỤ CHIẾN THUẬT",
-                "desc": "(Chỉ áp dụng cho người chơi đang tham gia trực tiếp trong trận đấu, người quan sát không được tính điểm).",
-                "h1": "Nhiệm vụ",
-                "h2": "Điểm",
-                "h3": "Ghi chú",
-                "row1_name": "Chiến thắng vòng đấu",
-                "row1_note": "Cộng cho toàn bộ thành viên trong đội.",
-                "row2_name": "Thất bại vòng đấu",
-                "row2_note": "Trừ cho toàn bộ thành viên trong đội.",
-                "row3_name": "Người chơi xuất sắc nhất vòng đấu (Danh hiệu MVP)",
-                "row3_note": "Cộng thêm cho thành viên đạt danh hiệu.",
-                "row4_name": "Kích hoạt bom C4",
-                "row5_name": "Gỡ bỏ bom C4",
-                "row5_note": "Cộng riêng cho người thực hiện thành công.",
-                "row6_name": "Bom C4 phát nổ thành công",
-                "row6_note": "Cộng cho tất cả thành viên của đội kích hoạt bom.",
-                "row7_name": "Tử trận do bom nổ",
-                "row7_note": "Bị trừ nhẹ điểm và không tính là hành vi tự sát.",
-                "row8_name": "Điểm tích lũy thời gian chơi"
-            },
-            "minigame": {
-                "title": "7. TRÒ CHƠI PHỤ TOÁN HỌC NHANH TRÍ",
-                "desc": "Mỗi <highlight>10 phút</highlight>, hệ thống sẽ hiển thị một phép tính ngẫu nhiên trên màn hình. Sử dụng lệnh !aw <param>kết quả</param> để trả lời (Không áp dụng cho người quan sát).",
-                "h1": "Kết quả",
-                "h2": "Điểm/Hình phạt",
-                "h3": "Ghi chú",
-                "row1_name": "Trả lời ĐÚNG đầu tiên",
-                "row1_note": "Được nhân theo hệ số hội viên. Câu hỏi kết thúc ngay.",
-                "row2_name": "Trả lời SAI lần 1",
-                "row2_note": "Tạm khóa khả năng trả lời trong <highlightRed>2 giây</highlightRed>.",
-                "row3_name": "Trả lời SAI lần 2",
-                "row3_note": "Tạm khóa khả năng trả lời trong <highlightRed>2 giây</highlightRed>.",
-                "row4_name": "Trả lời SAI lần 3",
-                "row4_note": "<highlightRed>Bị khóa quyền tham gia trả lời câu hỏi hiện tại</highlightRed>.",
-                "ai_note": "(Lưu ý: Mọi điểm phạt từ việc trả lời sai sẽ bị trừ thẳng vào điểm xếp hạng của bạn và không được giảm trừ bởi bất kỳ hệ số hội viên nào)."
-            },
-            "conclusion": "Tài liệu này là quy chuẩn chính thức để người chơi tham khảo và tối ưu hóa điểm số xếp hạng của mình trên hệ thống zRanks."
         }
     }
 }

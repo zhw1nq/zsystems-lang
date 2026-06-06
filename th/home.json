@@ -20,13 +20,13 @@
         "support": "ช่วยเหลือ"
     },
     "stats": {
-        "uptime": "UPTIME",
+        "uptime": "เวลาทำงานของระบบ",
         "ping": "PING",
         "players6h": "ผู้เล่น / 6 ชม."
     },
     "footer": {
         "selectLanguage": "เลือกภาษา",
-        "language": "ภาษาอังกฤษ",
+        "language": "ภาษาไทย",
         "privacy": "นโยบายความเป็นส่วนตัว",
         "terms": "เงื่อนไขการใช้งาน",
         "contact": "ติดต่อ",

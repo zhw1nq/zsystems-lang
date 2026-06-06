@@ -1,12 +1,12 @@
 {
     "models": {
-        "title": "zModels",
+        "title": "ໂມເດວ zModels",
         "description": "ໂມເດຜູ້ຫຼິ້ນພິເສດສຳລັບ SVIP",
         "equipped": "ສວມໃສ່ແລ້ວ",
         "equip": "ສວມໃສ່",
         "unequip": "ຖອດອອກ",
-        "ct": "Counter Terrorist",
-        "t": "Terrorist",
+        "ct": "ຕົວລະຄອນ CT",
+        "t": "ຕົວລະຄອນ T",
         "private": "ສ່ວນຕົວ",
         "search": "ຄົ້ນຫາໂມເດລ...",
         "noResults": "ບໍ່ພົບໂມເດລ",
@@ -15,7 +15,7 @@
         "selectCategory": "ເລືອກປະເພດ"
     },
     "weapons": { 
-        "title": "zWeapons",
+        "title": "ອາວຸດ zWeapons",
         "description": "ສະກິນອາວຸດພິເສດສຳລັບ SVIP",
         "equipped": "ສວມໃສ່ແລ້ວ",
         "equip": "ສວມໃສ່",
@@ -52,14 +52,14 @@
         "allWeapons": "ທັງໝົດ"
     },
     "mvp": {
-        "title": "zMVP",
+        "title": "ເພງ zMVP",
         "description": "ສວມໃສ່ເພງ MVP ຕາມໃຈ",
         "search": "ຄົ້ນຫາ MVP...",
         "noResults": "ບໍ່ພົບ MVP",
         "free": "ຟຣີ",
-        "vip": "VIP",
-        "svip": "SVIP",
-        "admin": "ADMIN",
+        "vip": "ສະມາຊິກ VIP",
+        "svip": "ສະມາຊິກ SVIP",
+        "admin": "ຜູ້ດູແລ (ADMIN)",
         "preview": "ຟັງຕົວຢ່າງ",
         "stop": "ຢຸດ",
         "apply": "ນຳໃຊ້",

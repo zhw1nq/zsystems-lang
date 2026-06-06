@@ -234,24 +234,24 @@
         "saved": "通知偏好已儲存",
         "saveError": "儲存偏好失敗",
         "security": {
-            "title": "Thông báo bảo mật",
-            "description": "Nhận email khi có hoạt động bảo mật trên tài khoản.",
-            "loginAlert": "Cảnh báo đăng nhập",
-            "loginAlertHint": "Email khi có đăng nhập từ thiết bị mới.",
-            "passwordChange": "Thay đổi mật khẩu",
-            "passwordChangeHint": "Email khi mật khẩu được thay đổi."
+            "title": "安全通知",
+            "description": "當帳號發生安全相關活動時收到電子郵件通知。",
+            "loginAlert": "登入警示",
+            "loginAlertHint": "當有新裝置登入時發送電子郵件。",
+            "passwordChange": "變更密碼",
+            "passwordChangeHint": "當密碼被變更時發送電子郵件。"
         },
         "activity": {
-            "title": "Hoạt động tài khoản",
-            "description": "Nhận email về các thay đổi trên tài khoản.",
-            "accountChanges": "Thay đổi tài khoản",
-            "accountChangesHint": "Email khi thông tin tài khoản được cập nhật."
+            "title": "帳號活動",
+            "description": "收到關於帳號變更的電子郵件通知。",
+            "accountChanges": "帳號變更",
+            "accountChangesHint": "當帳號資訊更新時發送電子郵件。"
         },
         "marketing": {
-            "title": "Tiếp thị",
-            "description": "Nhận email về tin tức và khuyến mãi.",
-            "promotional": "Email quảng cáo",
-            "promotionalHint": "Nhận tin tức, sự kiện và ưu đãi từ 7-Mau Community."
+            "title": "行銷訊息",
+            "description": "收到關於新訊與優惠的電子郵件通知。",
+            "promotional": "廣告郵件",
+            "promotionalHint": "接收來自 7-Mau Community 的新訊、活動與優惠資訊。"
         }
     },
     "profile": {

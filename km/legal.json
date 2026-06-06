@@ -3,127 +3,61 @@
         "title": "កិច្ចព្រមព្រៀងលក្ខខណ្ឌសេវាកម្ម",
         "subtitle": "លក្ខខណ្ឌសេវាកម្ម · ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ: 03/01/2026",
         "section1": {
-            "title": "១. គណនី និងការកំណត់អត្តសញ្ញាណប្រព័ន្ធ",
-            "section2": {
-                "title": "២. គោលការណ៍ Anti-Cheat សូន្យ",
-                "corePolicy": "នេះគឺជាស្នូល 7-Mau Community។ យើងអនុវត្តគោលការណ៍ ZERO TOLERANCE ចំពោះការក្បត់គ្រប់ទម្រង់។",
-                "permBanTitle": "ហាមឃាត់អចិន្ត្រៃយ៍",
-                "permBanContent": "ប្រើកម្មវិធីភាគទីទី៣ (hack, cheat, aimbot, wallhack, script, macro) ដែលរំខានហ្គេម នឹងធ្វើឱ្យ SteamID និង IP ត្រូវហាមឃាត់អចិន្ត្រៃយ៍ពីប្រព័ន្ធទាំងមូល (Web & Game Server)។",
-                "demoTitle": "ការវិភាគ Demo",
-                "demoContent": "ប្រព័ន្ធយើងរក្សា និងវិភាគ Replay/Demo រាល់ផ្គូផ្គងដោយស្វ័យប្រវត្តិ។ ក្រុម admin 7-Mau មានសិទ្ធិពេញលេញប្រើទិន្នន័យនេះសម្រេចហាមឃាត់ ដោយមិនផ្តល់កូដប្រភព ឬក្បួនរកឃើញដល់អ្នកល្មើស។",
-                "evasionTitle": "គេចហាមឃាត់",
-                "evasionContent": "ព្យាយាមបង្កើតគណនីថ្មី (Smurf) ដើម្បីគេចហាមឃាត់ នឹងធ្វើឱ្យប្រព័ន្ធហាមឃាត់គណនីពាក់ព័ន្ធទាំងអស់ដោយស្វ័យប្រវត្តិ។"
-            },
-            "section3": {
-                "title": "៣. ច្បាប់ការប្រើប្រាស់ទិន្នន័យ & បណ្តាញ",
-                "ownershipTitle": "កម្មសិទ្ធិ 7-Mau",
-                "ownershipContent": "ទិន្នន័យស្ថិតិ ចំណាត់ថ្នាក់ (Rank/ELO) និងរចនាសម្ព័ន្ធបង្ហាញលើ *.7-mau.com ទាំងអស់ជាកម្មសិទ្ធិ 7-Mau Community។",
-                "scrapingTitle": "គោលការណ៍ Anti-Scraping",
-                "scrapingContent": "អ្នកមិនត្រូវប្រើ bot, spider, scraper ឬឧបករណ៍ស្វ័យប្រវត្តិដើម្បីទាញទិន្នន័យច្រើនពីវេបសាយយើងទេ។ ការផ្ញើសំណើច្រើន (API spam) ដែលប៉ះពាល់ដំណើរការ dashboard ត្រូវចាត់ទុកជាការវាយប្រហារបណ្តាញ (DoS/DDoS) និងត្រូវបានបិទភ្លាមនៅកម្រិត Cloudflare/Firewall។"
-            },
-            "section4": {
-                "title": "៤. អត្ថប្រយោជន៍ VIP & ការបរិច្ចាគ",
-                "donationNote": "ការទូទាត់សម្រាប់កញ្ចប់ VIP, skins ឬសិទ្ធិក្នុងហ្គេម ត្រូវចាត់ទុកជាការបរិច្ចាគស្ម័គ្រចិត្តដើម្បីថែរក្សាម៉ាស៊ីនមេ។",
-                "noRefundTitle": "មិនមានការសងប្រាក់",
-                "noRefundContent": "យើងមិនទទួលសងប្រាក់ទម្រង់ណាមួយ ទោះអ្នកត្រូវហាមឃាត់ ឬប្រព័ន្ធថែទាំ/បិទក៏ដោយ។",
-                "vipRevoke": "ក្រុម admin រក្សាសិទ្ធិផ្លាស់ប្តូរ ឬដកសិទ្ធិ VIP គ្រប់ពេលបើរកឃើញការប្រើប្រាស់ខុស។"
-            },
-            "section5": {
-                "title": "៥. ការបដិសេធការធានា",
-                "availabilityTitle": "ភាពអាចប្រើបាន",
-                "availabilityContent": "ប្រព័ន្ធដំណើរការ \"AS IS\"។ យើងមិនធានាថាម៉ាស៊ីនមេ ឬ web dashboard ដំណើរការ ១០០% (Uptime) គ្មានកំហុស។",
-                "resetTitle": "ការលុបទិន្នន័យ",
-                "resetContent": "ដើម្បីធានាតុល្យភាព (ឧ. រដូវថ្មី) 7-Mau Community មានសិទ្ធិលុបទិន្នន័យស្ថិតិទាំងអស់ (stats, rank, credit) គ្រប់ពេលដោយគ្មានសំណង។"
-            }
+            "title": "១. គណនី និងការកំណត់អត្តសញ្ញាណប្រព័ន្ធ"
         },
-        "privacy": {
-            "title": "គោលការណ៍ភាពឯកជន & ការប្រមូលទិន្នន័យ",
-            "subtitle": "គោលការណ៍ភាពឯកជន · ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ: 03/01/2026",
-            "intro": "Web Dashboard zSystems — អភិវឌ្ឍដោយ zhw1nq និង 7-Mau TEAM — ជាម៉ាស៊ីនដំណើរការទិន្នន័យធំ ដើម្បីផ្តល់ស្ថិតិ (Stats) លម្អិតបំផុតសម្រាប់សហគមន៍ CS2 នៅ 7-mau.com។ ខាងក្រោមគឺរបៀបយើងប្រមូល និងដំណើរការឃ្លាំងទិន្នន័យនេះ។",
-            "section1": {
-                "title": "១. ទិន្នន័យប្រព័ន្ធដែលប្រមូលដោយស្វ័យប្រវត្តិ",
-                "note": "ភ្លាមពេលអ្នកភ្ជាប់ម៉ាស៊ីនមេ ឬចូល 7-mau.com ឧបករណ៍ crawl និង plugin របស់យើងនឹងប្រមូល:",
-                "basicDataTitle": "ទិន្នន័យអត្តសញ្ញាណមូលដ្ឋាន",
-                "basicDataContent": "SteamID32, SteamID64, 7ID (កូដខាងក្នុងលើ zSystems), ឈ្មោះបង្ហាញបច្ចុប្បន្ន, ប្រវត្តិប្តូរឈ្មោះ, URL Avatar, តំណ Steam Profile។",
-                "steamStatusTitle": "ស្ថានភាពគណនី Steam",
-                "steamStatusContent": "ពិនិត្យស្វ័យប្រវត្តិ VAC Ban, Game Ban, Trade Ban និង Level គណនី Steam តាម Steam Web API។",
-                "serverDataTitle": "ទិន្នន័យខាងម៉ាស៊ីនមេ",
-                "serverDataContent": "អាសយដ្ឋាន IP, Ping, ព័ត៌មានប្រទេស/តំបន់។",
-                "telemetryTitle": "ទិន្នន័យក្នុងហ្គេម (Deep Telemetry Data)",
-                "telemetryContent": "សកម្មភាពទាំងអស់របស់អ្នកត្រូវបានកត់ត្រា។ រួមមាន: កូអរដោនេចលនា, ប្រវត្តិ K/D/A, កំហុស, អាវុធប្រើ, ទីតាំង hit-box (headshot, chest, ជាដើម) និងការជជែក (អត្ថបទ)។"
-            },
-            "section2": {
-                "title": "២. លក្ខណៈសាធារណៈនៃទិន្នន័យស្ថិតិ",
-                "note": "នេះគឺគ្រឹត្ធវិទ្យាស្ថាន Web Dashboard zSystems។",
-                "publicData": "ស្ថិតិក្នុងហ្គេម (Stats), Rank, ELO, Match History និងស្ថានភាពអនឡាញលើម៉ាស៊ីនមេ 7-Mau គឺទិន្នន័យសាធារណៈ។",
-                "publicAccess": "អ្នកប្រើណាមួយដែលចូល *.7-mau.com អាចស្វែងរក និងមើល Player Profile លម្អិតរបស់អ្នក។",
-                "noPrivateProfile": "គ្មានលើកលើងសម្រាប់ Stats: ដោយលេងលើម៉ាស៊ីនមេយើង អ្នកយល់ព្រមឱ្យសមិទ្ធផល (និងប្រវត្តិហាមឃាត់) បង្ហាញសាធារណៈលើ Leaderboard។ យើងមិនគាំទ្រ \"លាក់ប្រវត្តិ\" (Private Profile) លើ web dashboard ដើម្បីភាពថ្លរថ្លែងសហគមន៍។"
-            },
-            "section3": {
-                "title": "៣. ការរក្សាទុកទិន្នន័យកំណត់ត្រាហាមឃាត់",
-                "banData": "ទិន្នន័យគណនីរំលោភ (Banned/Muted/Gagged) រួម 7ID, SteamID, មូលហេតុ, រយៈពេល និងឈ្មោះពេលរំលោភ ត្រូវរក្សាជាអចិន្ត្រៃយ៍ និងសាធារណៈលើ zSystems Ban List។",
-                "sharing": "ប្រព័ន្ធអាចចែករំលែកបញ្ជីហាមឃាត់ជាមួយសហគមន៍/ដៃគូ CS2 ដើម្បីបរិស្ថានលេងស្អាត។"
-            },
-            "section4": {
-                "title": "៤. ការប្រើ Cookie & Web Session",
-                "note": "web dashboard 7-mau.com ប្រើ Cookies និង Local Storage លើកម្មវិធីរុករកដើម្បី:",
-                "cookieLogin": "រក្សាស្ថានភាពចូល (Keep Logged In)។",
-                "cookieUi": "រក្សាចំណូលចិត្តចំណុចប្រទាក់ (Dark Mode / Light Mode, ភាសាបង្ហាញ)។",
-                "cookieAnalytics": "តាមដានចរាចរណ៍តាមឧបករណ៍ analytics (ដូច Google Analytics) ដើម្បីវាយតម្លៃដំណើរការវេប។"
-            },
-            "section5": {
-                "title": "៥. ការការពារទិន្នន័យខាងក្នុង",
-                "content": "ទោះទិន្នន័យក្នុងហ្គេមសាធារណៈលើ Dashboard ក៏ដោយ ព័ត៌មានរសើបខាងប្រព័ន្ធ ដូច: IP ពិត, ប្រវត្តិប្រតិបត្តិការ (ទិញ VIP) និងប្រវត្តិភ្ជាប់គណនី (Discord/Steam) ត្រូវបានអ៊ិនគ្រីប និងការពារយ៉ាងតឹងរ៉ឹង។ មានតែ Senior Admin (Root Admin) ទេដែលចូល Database ដើម។"
-            },
-            "section6": {
-                "title": "៦. របៀបទាក់ទង Admin",
-                "intro": "សម្រាប់បណ្តឹងគណនី របាយការណ៍កំហុសវេប ឬបញ្ហាទាក់ទងលក្ខខណ្ឌ សូមទាក់ទងតាមឆានែលផ្លូវការ:",
-                "discordLabel": "ច្រកជំនួយ (Discord Ticket):",
-                "emailLabel": "អ៊ីមែល Admin:"
-            }
+        "section2": {
+            "title": "២. គោលការណ៍ Anti-Cheat សូន្យ"
         },
-        "rules": {
-            "title": "ច្បាប់ម៉ាស៊ីនមេ & បទបញ្ជាពិន័យ",
-            "subtitle": "បទបញ្ជាម៉ាស៊ីនមេ · បានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ៖ 28/05/2026",
-            "scope": "អនុវត្តចំពោះអ្នកលេងទាំងអស់ និង អ្នកគ្រប់គ្រង / បុគ្គលិក នៅលើម៉ាស៊ីនមេ Counter-Strike 2 ទាំងអស់របស់សហគមន៍ 7-Màu។",
-            "tabRules": "បទបញ្ជាម៉ាស៊ីនមេ",
-            "tabVip": "មគ្គុទេសក៍សមាជិកអាទិភាព",
-            "portal": {
-                "title": "ប្រព័ន្ធបទបញ្ជា & មគ្គុទេសក៍",
-                "subtitle": "មជ្ឈមណ្ឌលរក្សាទុកច្បាប់អាកប្បកិរិយា លក្ខខណ្ឌសេវាកម្ម និងអត្ថប្រយោជន៍សមាជិករបស់សហគមន៍ 7-Màu។",
-                "serverTitle": "បទបញ្ជា & ច្បាប់ម៉ាស៊ីនមេ",
-                "serverDesc": "ច្បាប់អាកប្បកិរិយាសម្រាប់អ្នកគ្រប់គ្រង / បុគ្គលិក និងអ្នកលេង ព្រមទាំងកម្រិតពិន័យលម្អិត (បិទសំឡេង បណ្តេញចេញ ហាមលេង)។",
-                "vipTitle": "មគ្គុទេសក៍កញ្ចប់សមាជិកអាទិភាព",
-                "vipDesc": "ព័ត៌មានលម្អិតអំពីអត្ថប្រយោជន៍ បញ្ជីពាក្យបញ្ជាសម្រាប់សមាជិក និងការណែនាំទទួលឧបករណ៍ក្នុងរបៀបហ្វឹកហាត់។",
-                "rankTitle": "ប្រព័ន្ធពិន្ទុចំណាត់ថ្នាក់ zRanks",
-                "rankDesc": "សព្វវចនាធិប្បាយលម្អិតអំពីប្រព័ន្ធគណនាពិន្ទុ លក្ខខណ្ឌឡើង Rank មេគុណអត្ថប្រយោជន៍ VIP/SVIP និងម៉ាទ្រីសពិន្ទុចំណាត់ថ្នាក់ប្រយុទ្ធ។",
-                "termsTitle": "លក្ខខណ្ឌសេវាកម្ម",
-                "termsDesc": "កិច្ចព្រមព្រៀងផ្លូវច្បាប់អំពីគណនី ការកំណត់អត្តសញ្ញាណប្រព័ន្ធ គោលនយោបាយប្រឆាំងការក្លែងបន្លំ និងបទបញ្ជាទិន្នន័យ។",
-                "privacyTitle": "គោលនយោបាយឯកជនភាព",
-                "privacyDesc": "របៀបដែលប្រព័ន្ធ zSystems ប្រមូលទិន្នន័យក្នុងហ្គេម ឯកសារបណ្តោះអាសន្ន និងគោលនយោបាយការពារព័ត៌មានផ្ទៃក្នុង។"
-            },
-            "backToPortal": "ត្រឡប់ទៅកាន់ផតថលមគ្គុទេសក៍",
-            "forAdmins": "សម្រាប់សមាជិកពិសេស & អ្នកគ្រប់គ្រង / បុគ្គលិក",
-            "forPlayers": "សម្រាប់អ្នកលេង",
-            "permanentBanTitle": "<underlineRed>ការពិន័យអចិន្ត្រៃយ៍</underlineRed>",
-            "temporaryBanTitle": "<underlineAmber>ការពិន័យមានកំណត់ពេល</underlineAmber>",
-            "memberRulesTitle": "1. ច្បាប់សម្រាប់សមាជិក & អ្នកលេង",
-            "memberRule1": "<underlineIndigo>សមាជិកពិសេស & អ្នកគ្រប់គ្រង / បុគ្គលិក</underlineIndigo> ត្រូវតែទំនាក់ទំនងដោយសុភាពរាបសារ មានភាពរួសរាយរាក់ទាក់ និងគោរពអ្នកលេងទាំងអស់យ៉ាងពេញលេញ។ ត្រូវរក្សាភាពស្ងប់ស្ងាត់ដើម្បីស្តាប់ វិភាគ និងដោះស្រាយស្ថានភាពល្មើសឲ្យបានពេញលេញ ជៀសវាងការឈ្លោះប្រកែក ឬបង្ខូចកេរ្តិ៍ឈ្មោះដោយផ្ទាល់ក្នុងហ្គេម។ ហាមឃាត់ដាច់ខាតការប្រើសិទ្ធិអំណាចដើម្បីលេងសើច រំខាន ឬជ្រៀតជ្រែកអវិជ្ជមានដែលប៉ះពាល់ដល់ការប្រកួតរបស់អ្នកលេង។ ការសម្រេច <underlineAmber>ដាក់ពិន័យព្រមានហាម</underlineAmber> អនុវត្តតែពេលអ្នកលេងមានអាកប្បកិរិយារំខានហួសហេតុ ប្រមាថធ្ងន់ធ្ងរ ឬបំផ្លាញការប្រកួតដោយចេតនា។ នេះជាសិទ្ធិកំពូលដើម្បីការពារអ្នកគាំទ្រចំណាយថែទាំម៉ាស៊ីនមេ។",
-            "memberRule2": "<underline>អ្នកលេង</underline> ត្រូវបានហាមឃាត់ដាច់ខាតចំពោះអាកប្បកិរិយាចំអក ប្រមាថ វាយប្រហារ ឬបង្ខូចកិត្តិយសដោយផ្ទាល់/ប្រយោលចំពោះអ្នកលេង និងម៉ាស៊ីនមេ 7-Màu ឬសហគមន៍ម៉ាស៊ីនមេ Counter-Strike 2 ផ្សេងៗ។ អ្នកលេងត្រូវមានអាកប្បកិរិយាគោរព និងសមរម្យចំពោះអ្នកដែលបានចូលរួមគាំទ្រចំណាយដំណើរការម៉ាស៊ីនមេ។ រាល់សកម្មភាពញុះញង់ការរើសអើងពូជសាសន៍ បំបែកតំបន់ ប្រមាថសាសនា ស្អប់នយោបាយ ឬរំខានអ្នកលេងផ្សេងៗតាមប្រព័ន្ធសន្ទនា ឆាត និងវេទិកាផ្សេងៗរបស់ 7-Màu នឹងត្រូវពិន័យយ៉ាងតឹងរឹងដោយគ្មានការលើកលែង។"
+        "section3": {
+            "title": "៣. ច្បាប់ការប្រើប្រាស់ទិន្នន័យ & បណ្តាញ"
         },
-        "penaltyTitle": "2. កម្រិតទណ្ឌកម្មរបស់ម៉ាស៊ីនមេ",
-        "penaltyCheat": "<bold>ការកេងបន្លំ:</bold> ប្រើកម្មវិធីភាគីទីបីណាមួយដើម្បីជ្រៀតជ្រែកក្នុងហ្គេម -> <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed> (មិនទទួលយកការប្តឹងឧទ្ធរណ៍ណាមួយឡើយ)।",
-        "penaltyAdmin": "<bold>អ្នកគ្រប់គ្រង / បុគ្គលិកប្រើអំណាចខុស:</bold> ហាមលេង បណ្តេញ ឬបិទសំឡេងដោយគ្មានហេតុផល ប្រមាថអ្នកលេង ឬប្រើសិទ្ធិដើម្បីបំផ្លាញការប្រកួត -> <highlightAmber>ហាម 14 ថ្ងៃ</highlightAmber> => <highlightAmber>ហាម 1 ខែ (ដកសិទ្ធិគ្រប់គ្រង)</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed> អាស្រ័យលើកម្រិតនៃការបំពាន។",
-        "penaltyVotekick": "<bold>កាន់កាប់ម៉ាស៊ីនមេ:</bold> ប្រើមុខងារបោះឆ្នោតបណ្តេញដើម្បីដេញអ្នកលេង ឬកាន់កាប់ម៉ាស៊ីនមេសាធារណៈធ្វើជាបន្ទប់ហ្វឹកហាត់ផ្ទាល់ខ្លួនដែលប៉ះពាល់ដល់អ្នកលេងផ្សេង -> <highlightAmber>ហាម 1 ថ្ងៃ</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltyDisrespect": "<bold>ប្រមាថសមាជិក & អ្នកគ្រប់គ្រង / បុគ្គលិក:</bold> ជេរប្រមាថ គំរាមកំហែង ប្រឈមមុខ ឬបង្ខូចកិត្តិយស -> <highlightAmber>ហាម 7 ថ្ងៃ</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltySpec": "<bold>តាមដានគូប្រកួត (Ghosting):</bold> ប្រើមុខងារមើលដើម្បីតាមដានទីតាំង ឈាម ឬឧបករណ៍របស់គូប្រកួត ហើយប្រាប់ក្រុមតាមរយៈវេទិកាទំនាក់ទំនងក្រៅ -> <highlightAmber>ហាម 7 ថ្ងៃ</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltyWar": "<bold>បង្កជម្លោះ:</bold> វាយប្រហារបណ្តាញ ប្រមូលបក្ខពួក បង្កការស្អប់ខ្ពើម ឬបង្កសង្គ្រាមជាមួយម៉ាស៊ីនមេ Counter-Strike ផ្សេងៗដើម្បីបំផ្លាញសហគមន៍ -> <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltyScammer": "<bold>បោកប្រាស់វត្ថុ:</bold> ក្លែងបន្លំការជួញដូរ ផ្សព្វផ្សាយតំណភ្ជាប់ពុលដើម្បីលួចគណនី ឬក្លែងធ្វើជាអ្នកគ្រប់គ្រង / បុគ្គលិកដើម្បីរកផលប្រយោជន៍ផ្ទាល់ខ្លួន -> <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltyTroll": "<bold>បំផ្លាញការប្រកួត:</bold> ចេតនាបាញ់មិត្តរួមក្រុមឲ្យងងឹត បិទផ្លូវ មិនចុចរួចរាល់ ឬ AFK បណ្តាលឲ្យការប្រកួតមិនស្មើ -> <highlightAmber>ហាម 7 ថ្ងៃ</highlightAmber> => <highlightAmber>ហាម 1 ខែ</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "penaltyVip": "<bold>កក់កន្លែង:</bold> ប្រើសិទ្ធិសមាជិកអាទិភាពដើម្បីចូលចេញ spectator ជាបន្តបន្ទាប់ដើម្បីរក្សាកន្លែង ឬបញ្ចូលមិត្តភក្តិដោយមិនឆ្លងកាត់ជួររង់ចាំ -> <highlightAmber>ហាម 1 សប្តាហ៍</highlightAmber> => <highlightAmber>ហាម 1 ខែ</highlightAmber> => <highlightRed>ហាមលេងជាអចិន្ត្រៃយ៍</highlightRed>។",
-        "notePersonal": "<bold>ចំណាំសំខាន់:</bold> រាល់ជម្លោះផ្ទាល់ខ្លួន ឬអាកប្បកិរិយាអវិជ្ជមានតូចៗក្នុងហ្គេម សូមប្រើមុខងារ <underlineAmber>បិទសំឡេង</underlineAmber> និង <underlineAmber>បិទការជជែកអក្សរ</underlineAmber> ដើម្បីដោះស្រាយដោយខ្លួនឯង។ ប្រព័ន្ធម៉ាស៊ីនមេ និងអ្នកគ្រប់គ្រង / បុគ្គលិក នឹងមិនទទួល ឬជ្រៀតជ្រែកក្នុងជម្លោះផ្ទាល់ខ្លួនរបស់អ្នកលេងឡើយ។",
-        "noteExpiry": "<bold>រយៈពេលទទួលពាក្យបណ្តឹង:</bold> រាល់ការហាមលេង <highlightRed>អចិន្ត្រៃយ៍</highlightRed> បន្ទាប់ពី 12 ម៉ោងចាប់ពីពេលអនុវត្ត បើអ្នកលេងមិនផ្ញើការប្តឹងឧទ្ធរណ៍ត្រឹមត្រូវទៅអ្នកគ្រប់គ្រង / បុគ្គលិក នោះការហាមនឹងមានសុពលភាពជាអចិន្ត្រៃយ៍ ហើយ <underlineRed>មិនត្រូវបានដោះស្រាយ</underlineRed> បន្ទាប់ពីរយៈពេលនេះឡើយ។ <bold>សូមអរគុណ!</bold>",
-        "noteUpdate": "* ច្បាប់ខាងលើនឹងត្រូវបានធ្វើបច្ចុប្បន្នភាព កែប្រែ និងបន្ថែមជាបន្តបន្ទាប់ដោយអ្នកគ្រប់គ្រង / បុគ្គលិក ដើម្បីឲ្យសមស្របនឹងបរិយាកាសហ្គេមដែលមានសុខភាពល្អ។",
+        "section4": {
+            "title": "៤. អត្ថប្រយោជន៍ VIP & ការបរិច្ចាគ"
+        },
+        "section5": {
+            "title": "៥. ការបដិសេធការធានា"
+        }
+    },
+    "privacy": {
+        "title": "គោលការណ៍ភាពឯកជន & ការប្រមូលទិន្នន័យ",
+        "subtitle": "គោលការណ៍ភាពឯកជន · ធ្វើបច្ចុប្បន្នភាពចុងក្រោយ: 03/01/2026",
+        "section1": {
+            "title": "១. ទិន្នន័យប្រព័ន្ធដែលប្រមូលដោយស្វ័យប្រវត្តិ"
+        },
+        "section2": {
+            "title": "២. លក្ខណៈសាធារណៈនៃទិន្នន័យស្ថិតិ"
+        },
+        "section3": {
+            "title": "៣. ការរក្សាទុកទិន្នន័យកំណត់ត្រាហាមឃាត់"
+        },
+        "section4": {
+            "title": "៤. ការប្រើ Cookie & Web Session"
+        },
+        "section5": {
+            "title": "៥. ការការពារទិន្នន័យខាងក្នុង"
+        },
+        "section6": {
+            "title": "៦. របៀបទាក់ទង Admin"
+        }
+    },
+    "rules": {
+        "title": "ច្បាប់ម៉ាស៊ីនមេ & បទបញ្ញត្តិពិន័យ",
+        "subtitle": "បទបញ្ជាម៉ាស៊ីនមេ · បានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ៖ 28/05/2026",
+        "portal": {
+            "title": "ប្រព័ន្ធបទបញ្ជា & មគ្គុទេសក៍",
+            "subtitle": "មជ្ឈមណ្ឌលរក្សាទុកច្បាប់អាកប្បកិរិយា លក្ខខណ្ឌសេវាកម្ម និងអត្ថប្រយោជន៍សមាជិករបស់សហគមន៍ 7-Màu។",
+            "serverTitle": "បទបញ្ជា & ច្បាប់ម៉ាស៊ីនមេ",
+            "serverDesc": "ច្បាប់អាកប្បកិរិយាសម្រាប់អ្នកគ្រប់គ្រង / បុគ្គលិក និងអ្នកលេង ព្រមទាំងកម្រិតពិន័យលម្អិត (បិទសំឡេង បណ្តេញចេញ ហាមលេង)។",
+            "vipTitle": "មគ្គុទេសក៍កញ្ចប់សមាជិកអាទិភាព",
+            "vipDesc": "ព័ត៌មានលម្អិតអំពីអត្ថប្រយោជន៍ បញ្ជីពាក្យបញ្ជាសម្រាប់សមាជិក និងការណែនាំទទួលឧបករណ៍ក្នុងរបៀបហ្វឹកហាត់។",
+            "rankTitle": "ប្រព័ន្ធពិន្ទុចំណាត់ថ្នាក់ zRanks",
+            "rankDesc": "សព្វវចនាធិប្បាយលម្អិតអំពីប្រព័ន្ធគណនាពិន្ទុ លក្ខខណ្ឌឡើង Rank មេគុណអត្ថប្រយោជន៍ VIP/SVIP និងម៉ាទ្រីសពិន្ទុចំណាត់ថ្នាក់ប្រយុទ្ធ។",
+            "termsTitle": "លក្ខខណ្ឌសេវាកម្ម",
+            "termsDesc": "កិច្ចព្រមព្រៀងផ្លូវច្បាប់អំពីគណនី ការកំណត់អត្តសញ្ញាណប្រព័ន្ធ គោលនយោបាយប្រឆាំងការក្លែងបន្លំ និងបទបញ្ជាទិន្នន័យ。",
+            "privacyTitle": "គោលនយោបាយឯកជនភាព",
+            "privacyDesc": "របៀបដែលប្រព័ន្ធ zSystems ប្រមូលទិន្នន័យក្នុងហ្គេម ឯកសារបណ្តោះអាសន្ន និងគោលនយោបាយការពារព័ត៌មានផ្ទៃក្នុង។"
+        },
+        "backToPortal": "ត្រឡប់ទៅកាន់ផតថលមគ្គុទេសក៍",
         "vipGuide": {
             "title": "3. ការណែនាំអំពីសិទ្ធិពិសេសសម្រាប់សមាជិកអ្នកគាំទ្រ",
             "subtitle": "ព័ត៌មានលម្អិតអំពីសិទ្ធិពិសេស ការណែនាំអំពីការបើកដំណើរការ និងបញ្ជាពាក្យបញ្ជាសម្រាប់សមាជិកដែលគាំទ្រម៉ាស៊ីនមេ",
@@ -135,8 +69,8 @@
             "vipBenefit4": "ជម្រើសតន្ត្រីជ័យជម្នះពិសេស <highlightAmber>(zMVP)</highlightAmber> ចាក់បទចម្រៀងដែលអ្នកចូលចិត្តនៅពេលទទួលបាន MVP។",
             "svipTitle": "កញ្ចប់សមាជិកពិសេស (SVIP)",
             "svipBenefitExtra": "រួមបញ្ចូលសិទ្ធិទាំងអស់របស់ VIP ប៉ុន្តែទទួលបាន <underlineRed>គុណពិន្ទុចំណាត់ថ្នាក់ទ្វេដង (x2.0)</underlineRed> ជំនួស x1.5 រួមទាំងសិទ្ធិពិសេសបន្ថែម៖",
-            "svipBenefit1": "សិទ្ធិកាន់កាប់ <underlineRed>[zWeapon]</underlineRed> ផ្ទាល់ខ្លួនផ្តាច់មុខ។",
-            "svipBenefit2": "សិទ្ធិជ្រើសរើសស្គីនតួអង្គផ្ទាល់ខ្លួន <underlineRed>[zSkin]</underlineRed>។",
+            "svipBenefit1": "សិទ្ធិកាន់កាប់ <underlineRed>[zWeapons]</underlineRed> ផ្ទាល់ខ្លួនផ្តាច់មុខ។",
+            "svipBenefit2": "សិទ្ធិជ្រើសរើសស្គីនតួអង្គផ្ទាល់ខ្លួន <underlineRed>[zSkins]</underlineRed>។",
             "svipBenefit3": "ផ្តល់សិទ្ធិប្រើប្រាស់ <underlineRed>ផ្ទាំងគ្រប់គ្រងម៉ាស៊ីនមេ</underlineRed> មូលដ្ឋាន។",
             "section2Title": "2. ការណែនាំទទួលឧបករណ៍ & សាកល្បងប្រព័ន្ធ",
             "activationTitle": "III. ការណែនាំបើកដំណើរការសិទ្ធិ",
@@ -171,7 +105,7 @@
             "section5Title": "5. ប្រព័ន្ធប្តូរស្គីនអនឡាញ",
             "skinModContent": "សមាជិកទាំងអស់អាចប្តូរ និងកែសម្រួលស្គីនអាវុធដោយផ្ទាល់លើផ្ទាំងគ្រប់គ្រង ហើយធ្វើសមកាលកម្មភ្លាមៗចូលក្នុងហ្គេមតាមរយៈ៖",
             "skinModLink": "គេហទំព័រប្តូរស្គីន៖",
-            "skinModLinkText": "/dashboard/skins",
+            "skinModLinkText": "/dashboard/skins#ស្គីន",
             "tutorialTitle": "របៀបណែនាំ៖ ការគ្រប់គ្រង",
             "tutorialMoveWS": "សូមចុចគ្រាប់ចុច <bold>W</bold> ឬ <bold>S</bold> ដើម្បីផ្លាស់ទី",
             "tutorialOpenCategory": "ល្អណាស់! សូមចុច <bold>E</bold> ដើម្បីបើកប្រភេទ",
@@ -187,56 +121,33 @@
         "rank": {
             "title": "លក្ខខណ្ឌពិន្ទុចំណាត់ថ្នាក់សព្វវចនាធិប្បាយ",
             "subtitle": "ឯកសារណែនាំអំពីប្រព័ន្ធគណនាពិន្ទុ និងច្បាប់ចំណាត់ថ្នាក់ផ្លូវការ",
-            "intro": "សូមស្វាគមន៍មកកាន់ <bold>zRanks</bold> - ប្រព័ន្ធចំណាត់ថ្នាក់ប្រយុទ្ធដ៏សាហាវបំផុត។ ឯកសារនេះនឹងណែនាំលម្អិតអំពីវិធីគណនាពិន្ទុ និងច្បាប់សំខាន់ៗ ដើម្បីជួយអ្នកលេងបង្កើនចំណាត់ថ្នាក់របស់ខ្លួន។",
             "config_note": "(ចំណាំ៖ ឯកសារនេះប្រើទិន្នន័យពីការកំណត់លំនាំដើមរបស់ប្រព័ន្ធ។ មុខងារជួយសង្គ្រោះចំណាប់ខ្មាំងមិនត្រូវបានអនុវត្តនៅក្នុងកំណែបច្ចុប្បន្នទេ។)",
             "constraints": {
                 "title": "1. លក្ខខណ្ឌទូទៅចាំបាច់",
-                "desc": "ប្រព័ន្ធ zRanks នឹងផ្អាកការគណនាពិន្ទុ (មិនបូក ឬដកពិន្ទុ) ប្រសិនបើមានករណីដូចខាងក្រោម៖",
-                "c1": "<bold>ចំនួនអ្នកលេងអប្បបរមា៖</bold> ម៉ាស៊ីនមេត្រូវមានយ៉ាងហោចណាស់ <highlight>អ្នកលេងពិតប្រាកដ 5 នាក់</highlight> (Bot មិនត្រូវបានរាប់បញ្ចូលទេ)។",
-                "c2": "<bold>រយៈពេលចាប់ផ្តើម៖</bold> ការសម្លាប់ទាំងអស់ក្នុងពេលរៀបចំដើមការប្រកួត <highlightRed>នឹងមិនត្រូវបានគណនាពិន្ទុទេ</highlightRed>។",
-                "c3": "<bold>កំណត់ Bot៖</bold> ការសម្លាប់ Bot ឬត្រូវ Bot សម្លាប់ នឹងមិនប៉ះពាល់ដល់ពិន្ទុ (<highlight>0 ពិន្ទុ</highlight>)។",
-                "c4": "<bold>របៀបក្រុម៖</bold> មិនអនុញ្ញាត Friendly Fire; ការសម្លាប់មិត្តរួមក្រុមនឹងត្រូវពិន័យពិន្ទុ <highlightRed>យ៉ាងធ្ងន់ធ្ងរ</highlightRed>។"
+                "desc": "ប្រព័ន្ធ zRanks នឹងផ្អាកការគណនាពិន្ទុ (មិនបូក ឬដកពិន្ទុ) ប្រសិនបើមានករណីដូចខាងក្រោម៖"
             },
             "vipBoost": {
                 "title": "2. មេគុណអត្ថប្រយោជន៍សមាជិក",
-                "desc": "<bold>គុណតែពិន្ទុវិជ្ជមាន (ការបូក)៖</bold> ពិន្ទុបន្ថែមទាំងអស់ (សម្លាប់សត្រូវ ដោះគ្រាប់បែក ឈ្នះជុំ...) នឹងត្រូវគុណបន្ថែម៖",
-                "c1": "<bold>សមាជិក SVIP៖</bold> ពិន្ទុទទួលបានគុណ <highlightRed>2.0 ដង</highlightRed>។",
-                "c2": "<bold>សមាជិក VIP៖</bold> ពិន្ទុទទួលបានគុណ <highlightAmber>1.5 ដង</highlightAmber>។",
-                "c3": "<bold>មិនបន្ថយការដកពិន្ទុ៖</bold> នៅពេលត្រូវដកពិន្ទុ (ត្រូវសម្លាប់ អត្តឃាត ឬឆ្លើយសំណួរខុស) អ្នកលេងនឹងត្រូវដក <highlightRed>100% នៃពិន្ទុដើម</highlightRed> ដូចគ្នាទាំងសមាជិក និងអ្នកលេងធម្មតា។"
+                "desc": "<bold>គុណតែពិន្ទុវិជ្ជមាន (ការបូក)៖</bold> ពិន្ទុបន្ថែមទាំងអស់ (សម្លាប់សត្រូវ ដោះគ្រាប់បែក ឈ្នះជុំ...) នឹងត្រូវគុណបន្ថែម៖"
             },
             "dynamicElo": {
                 "title": "3. តំបន់ពិន្ទុវិជ្ជមាន៖ ប្រព័ន្ធមេគុណចល័ត",
                 "desc": "ប្រព័ន្ធគណនាពិន្ទុចល័តនេះ <highlight>នឹងដំណើរការ</highlight> តែប៉ុណ្ណោះ នៅពេលអ្នកលេងទាំងពីរមានពិន្ទុលើស <highlight>0</highlight>។",
-                "desc2": "ពិន្ទុសម្លាប់មូលដ្ឋាន (+10) និងពិន្ទុស្លាប់មូលដ្ឋាន (-50) នឹងត្រូវគុណតាមអត្រាខុសគ្នានៃពិន្ទុ៖ <underline>អត្រា = ពិន្ទុអ្នកត្រូវសម្លាប់ / ពិន្ទុអ្នកសម្លាប់</underline>។ អត្រានេះត្រូវបានកំណត់ពី <highlight>x3.0</highlight> ដល់ <highlight>x6.0</highlight>។",
-                "formula": "អត្រា = ពិន្ទុអ្នកត្រូវសម្លាប់ / ពិន្ទុអ្នកសម្លាប់ (កំណត់ពី x3.0 ដល់ x6.0)",
                 "matrixTitle": "តារាងប្រយុទ្ធ៖ អ្នកលេងពិន្ទុវិជ្ជមាន vs អ្នកលេងពិន្ទុវិជ្ជមាន",
                 "h1": "ស្ថានភាពប្រយុទ្ធ",
                 "h2": "អត្រាមូលដ្ឋាន",
                 "h3": "ពិន្ទុអ្នកសម្លាប់ (+10)",
                 "h4": "ពិន្ទុអ្នកត្រូវសម្លាប់ (-50)",
                 "row1_name": "ការប្រយុទ្ធរវាងអ្នកដឹកនាំតារាង (ឧទាហរណ៍៖ លេខ 1 សម្លាប់លេខ 2)",
-                "row1_ratio": "កំណត់អប្បបរមា <highlight>3.0</highlight>",
-                "row1_kill": "+30 ($10 \\times 3.0$)",
-                "row1_death": "-150 ($-50 \\times 3.0$)",
                 "row2_name": "អ្នកថ្មី (ពិន្ទុទាប) សម្លាប់អ្នកដឹកនាំ (ពិន្ទុខ្ពស់)",
-                "row2_ratio": "ទទួលបានអតិបរមា <highlight>6.0</highlight>",
-                "row2_kill": "+60 (ឡើងចំណាត់ថ្នាក់លឿន)",
-                "row2_death": "-300 (ធ្លាក់ចំណាត់ថ្នាក់ខ្លាំង)",
                 "row3_name": "អ្នកដឹកនាំសម្លាប់អ្នកថ្មី (ខុសគ្នាខ្លាំង)",
-                "row3_ratio": "កំណត់អប្បបរមា <highlight>3.0</highlight>",
-                "row3_kill": "+30",
-                "row3_death": "-150",
-                "conclusion": "សេចក្តីសន្និដ្ឋានសំខាន់៖ ដោយសារមេគុណអប្បបរមាគឺ x3.0 ការសម្លាប់ទាំងអស់រវាងអ្នកលេងពិន្ទុវិជ្ជមាននឹងត្រូវគុណយ៉ាងហោចណាស់ 3 ដង! តំបន់ពិន្ទុវិជ្ជមានគឺសាហាវខ្លាំង។"
+                "conclusion": "សេចក្តីសន្និដ្ឋានសំខាន់៖ ដោយសារមេគុណអប្បបរមាគឺ x3.0 ការសម្លាប់ទាំងអស់រវាងអ្នកលេងពិន្ទុវិជ្ជមាននឹងត្រូវគុណយ៉ាងហោចណាស់ 3 ដង! តំបន់ពិន្ទុវិជ្ជមានគឺសាហាវខ្លាំង。"
             },
             "negativeZone": {
                 "title": "4. តំបន់ពិន្ទុអវិជ្ជមាន៖ នៅពេលប្រព័ន្ធកំណត់",
                 "desc": "ប្រសិនបើពិន្ទុរបស់អ្នកធ្លាក់ចុះដល់ <highlightRed>0</highlightRed> ឬទាបជាងនេះ អ្នកនឹងចូលទៅក្នុងស្ថានភាពពិន្ទុអវិជ្ជមាន។ ប្រព័ន្ធ <highlightRed>មិនស្ដារពិន្ទុដោយស្វ័យប្រវត្តិ</highlightRed> ទេ អ្នកត្រូវរកពិន្ទុដោយខ្លួនឯងតាមរយៈការសម្លាប់។",
-                "desc2": "ប្រសិនបើអ្នកលេងម្នាក់ណាមានពិន្ទុអវិជ្ជមាន ប្រព័ន្ធពិន្ទុចល័តនឹង <highlightRed>ផ្អាក</highlightRed> ហើយត្រឡប់ទៅការគណនាមូលដ្ឋានវិញ៖",
-                "c1": "<bold>អ្នកពិន្ទុអវិជ្ជមានសម្លាប់អ្នកពិន្ទុវិជ្ជមាន៖</bold> អ្នកពិន្ទុអវិជ្ជមានទទួលបាន <highlight>+10 ពិន្ទុ</highlight> មូលដ្ឋាន។ អ្នកពិន្ទុវិជ្ជមានត្រូវដក <highlightRed>-50 ពិន្ទុ</highlightRed>។",
                 "c1_ai": "(ចំណាំ៖ អ្នកពិន្ទុអវិជ្ជមានមិនអាចទទួលបានពិន្ទុខ្ពស់ពីការសម្លាប់អ្នកដឹកនាំ ដើម្បីការពារការប្រើប្រាស់ប្រព័ន្ធខុសគោលបំណង)។",
-                "c2": "<bold>អ្នកពិន្ទុវិជ្ជមានសម្លាប់អ្នកពិន្ទុអវិជ្ជមាន៖</bold> អ្នកពិន្ទុវិជ្ជមានទទួលបាន <highlight>+10 ពិន្ទុ</highlight> មូលដ្ឋាន។ អ្នកពិន្ទុអវិជ្ជមានត្រូវដក <highlightRed>-50 ពិន្ទុ</highlightRed>។",
                 "c2_ai": "(ចំណាំ៖ អ្នកពិន្ទុវិជ្ជមាននឹងទទួលបានពិន្ទុតិច នៅពេលសម្លាប់អ្នកពិន្ទុអវិជ្ជមាន ដើម្បីលើកទឹកចិត្តការប្រកួតជាមួយអ្នកខ្លាំងជាង)។",
-                "c3": "<bold>អ្នកពិន្ទុអវិជ្ជមានទាំងពីរសម្លាប់គ្នា៖</bold> អ្នកសម្លាប់ទទួលបាន <highlight>+10 ពិន្ទុ</highlight> អ្នកត្រូវសម្លាប់ត្រូវដក <highlightRed>-50 ពិន្ទុ</highlightRed>។",
                 "c3_note": "(ប្រសិនបើមានអត្ថប្រយោជន៍សមាជិក នឹងនៅតែអនុវត្តមេគុណដដែល)។"
             },
             "combat": {
@@ -288,12 +199,11 @@
                     "row2_note": "បន្ថែម +6",
                     "row3_name": "បង្កឱ្យមិត្តរួមក្រុមងងឹតភ្នែករហូតដល់ស្លាប់",
                     "row3_note": "ការពិន័យជំនួយអវិជ្ជមាន (<highlightRed>-150 ពិន្ទុ</highlightRed> សម្រាប់ប៉ះពាល់មិត្តរួមក្រុម និង <highlightRed>-100 ពិន្ទុ</highlightRed> សម្រាប់ Flashbang មិត្តរួមក្រុម)។",
-                    "ai_note": "(ចំណាំ៖ ការពិន័យទាំងនេះអនុវត្តតែពេលមិត្តរួមក្រុមសម្លាប់គ្នាក្រោមឥទ្ធិពលអវិជ្ជមានពីអ្នកប៉ុណ្ណោះ)។",
-                    "user_note": "(ចំណាំអ្នកប្រើ៖ ប្រសិនបើអ្នកបោះ Flashbang មិត្តរួមក្រុម ប៉ុន្តែសត្រូវជាអ្នកសម្លាប់ពួកគេ អ្នកនឹងមិនត្រូវពិន័យទេ។ ប៉ុន្តែបើមិត្តរួមក្រុមសម្លាប់គ្នាក្រោម Flashbang នោះ អ្នកនឹងត្រូវពិន័យសរុប <highlightRed>-250 ពិន្ទុ</highlightRed>)។"
+                    "ai_note": "(ចំណាំ៖ ការពិន័យទាំងនេះអនុវត្តតែពេលមិត្តរួមក្រុមសម្លាប់គ្នាក្រោមឥទ្ធិពលអវិជ្ជមានពីអ្នកប៉ុណ្ណោះ)។"
                 },
                 "tableE": {
                     "title": "E. ពិន្ទុបន្ថែមសម្រាប់ Kill Streak (កំណត់ឡើងវិញរាល់ជុំ)",
-                    "h1": "Kill Streak",
+                    "h1": "សម្លាប់ជាប់គ្នា (Kill Streak)",
                     "h2": "ពិន្ទុបន្ថែម",
                     "row1_name": "សម្លាប់ជាប់គ្នា 2 នាក់",
                     "row2_name": "សម្លាប់ជាប់គ្នា 3 នាក់",
@@ -322,8 +232,7 @@
                 "row6_note": "បន្ថែមសម្រាប់សមាជិកក្រុមទាំងអស់ដែលដាក់គ្រាប់បែក។",
                 "row7_name": "ស្លាប់ដោយសារគ្រាប់បែក",
                 "row7_note": "ដកពិន្ទុបន្តិច និងមិនរាប់ជាអត្តឃាត។",
-                "row8_name": "ពិន្ទុពេលវេលាលេង",
-                "row8_note": "លេងគ្រប់ <highlight>10 នាទី</highlight> (អនុវត្តតែពេលម៉ាស៊ីនមេមានអ្នកលេងគ្រប់ចំនួនអប្បបរមា)។"
+                "row8_name": "ពិន្ទុពេលវេលាលេង"
             },
             "minigame": {
                 "title": "7. ហ្គេមគណិតវិទ្យារហ័ស",
@@ -332,267 +241,16 @@
                 "h2": "ពិន្ទុ/ការពិន័យ",
                 "h3": "ចំណាំ",
                 "row1_name": "ឆ្លើយត្រូវមុនគេ",
-                "row1_val": "<highlight>+50 ពិន្ទុ</highlight>",
                 "row1_note": "ត្រូវបានគុណតាមមេគុណសមាជិក។ សំណួរនឹងបញ្ចប់ភ្លាម។",
                 "row2_name": "ឆ្លើយខុសលើកទី 1",
-                "row2_val": "<highlightRed>-50 ពិន្ទុ</highlightRed>",
                 "row2_note": "បិទសិទ្ធិឆ្លើយរយៈពេល <highlightRed>2 វិនាទី</highlightRed>។",
                 "row3_name": "ឆ្លើយខុសលើកទី 2",
-                "row3_val": "<highlightRed>-100 ពិន្ទុ</highlightRed>",
                 "row3_note": "បិទសិទ្ធិឆ្លើយរយៈពេល <highlightRed>2 វិនាទី</highlightRed>។",
                 "row4_name": "ឆ្លើយខុសលើកទី 3",
-                "row4_val": "<highlightRed>-150 ពិន្ទុ</highlightRed>",
                 "row4_note": "<highlightRed>ត្រូវបានបិទសិទ្ធិចូលរួមសំណួរបច្ចុប្បន្ន</highlightRed>។",
-                "ai_note": "(ចំណាំ៖ ការពិន័យពីការឆ្លើយខុសនឹងត្រូវដកដោយផ្ទាល់ពីពិន្ទុចំណាត់ថ្នាក់របស់អ្នក ហើយមិនត្រូវបានកាត់បន្ថយដោយមេគុណសមាជិកណាមួយឡើយ)។"
+                "ai_note": "(ចំណាំ៖ ការពិន័យពីការឆ្លើយខុសនឹងត្រូវដកដោយផ្ទាល់ពីពិន្ទុចំណាត់ថ្នាក់របស់អ្នក ហើយមិនត្រូវបានកាត់បន្ថyមដោយមេគុណសមាជិកណាមួយឡើយ)។"
             },
             "conclusion": "ឯកសារនេះគឺជាស្តង់ដារផ្លូវការសម្រាប់អ្នកលេងយោង និងបង្កើនប្រសិទ្ធភាពពិន្ទុចំណាត់ថ្នាក់របស់ខ្លួននៅក្នុងប្រព័ន្ធ zRanks។"
-        },
-        "section2": {
-            "title": "2. Chính Sách Chống Gian Lận"
-        },
-        "section3": {
-            "title": "3. Quy Định Về Dữ Liệu & Khai Thác Mạng"
-        },
-        "section4": {
-            "title": "4. Quyền Lợi Hội Viên Ưu Tiên & Đóng Góp"
-        },
-        "section5": {
-            "title": "5. Từ Chối Trách Nhiệm"
-        }
-    },
-    "privacy": {
-        "title": "Chính Sách Bảo Mật & Thu Thập Dữ Liệu",
-        "subtitle": "Chính sách bảo mật · Cập nhật lần cuối: 01/03/2026",
-        "section1": {
-            "title": "1. Dữ liệu hệ thống được thu thập tự động"
-        },
-        "section2": {
-            "title": "2. Tính chất công khai của dữ liệu thống kê"
-        },
-        "section3": {
-            "title": "3. Lưu trữ dữ liệu hồ sơ xử phạt"
-        },
-        "section4": {
-            "title": "4. Sử dụng Cookie & Phiên làm việc trên Web"
-        },
-        "section5": {
-            "title": "5. Bảo vệ dữ liệu nội bộ"
-        },
-        "section6": {
-            "title": "6. Phương thức liên hệ Ban quản trị"
-        }
-    },
-    "rules": {
-        "title": "Luật Máy Chủ & Quy Định Hình Phạt",
-        "subtitle": "Quy định Máy chủ · Cập nhật lần cuối: 28/05/2026",
-        "portal": {
-            "title": "Hệ Thống Quy Định & Hướng Dẫn",
-            "subtitle": "Trung tâm lưu trữ các quy tắc ứng xử, điều khoản dịch vụ và đặc quyền hội viên của 7-Màu Community.",
-            "serverTitle": "Quy Định & Luật Máy Chủ",
-            "serverDesc": "Quy tắc hành vi dành cho Quản trị viên / Nhân viên và người chơi, cùng khung hình phạt chi tiết (Cấm nói, Trục xuất, Cấm chơi).",
-            "vipTitle": "Hướng Dẫn Gói Hội Viên Ưu Tiên",
-            "vipDesc": "Thông tin chi tiết về đặc quyền, bảng lệnh dành cho hội viên và hướng dẫn nhận trang bị trong chế độ tập luyện.",
-            "rankTitle": "Hệ Thống Điểm Xếp Hạng zRanks",
-            "rankDesc": "Bách khoa toàn thư chi tiết về hệ thống tính điểm, điều kiện leo rank, hệ số đặc quyền VIP/SVIP và ma trận điểm rank sinh tử.",
-            "termsTitle": "Điều Khoản Dịch Vụ",
-            "termsDesc": "Các thỏa thuận pháp lý về tài khoản, định danh hệ thống, chính sách chống gian lận và quy định dữ liệu.",
-            "privacyTitle": "Chính Sách Bảo Mật",
-            "privacyDesc": "Cách thức hệ thống zSystems thu thập dữ liệu trong trò chơi, tệp dữ liệu tạm thời và chính sách bảo mật thông tin nội bộ."
-        },
-        "backToPortal": "Quay lại Cổng Hướng dẫn",
-        "vipGuide": {
-            "title": "3. HƯỚNG DẪN ĐẶC QUYỀN ĐÓNG GÓP HỘI VIÊN",
-            "subtitle": "Thông tin chi tiết về các đặc quyền, hướng dẫn kích hoạt và tra cứu lệnh dành cho hội viên ủng hộ máy chủ",
-            "section1Title": "1. ĐẶC QUYỀN GÓI ĐÓNG GÓP HỘI VIÊN ƯU TIÊN & ĐẶC BIỆT",
-            "vipTitle": "GÓI HỘI VIÊN ƯU TIÊN (VIP)",
-            "vipBenefit1": "Tăng 1.5 lần toàn bộ điểm thưởng tích lũy <underlineAmber>nhân 1.5 điểm số xếp hạng</underlineAmber> mỗi trận đấu.",
-            "vipBenefit2": "<underlineAmber>Kết nối ưu tiên</underlineAmber> vào máy chủ ngay cả khi phòng đã đầy.",
-            "vipBenefit3": "Quyền sở hữu hệ thống <highlightAmber>thay đổi ngoại trang vũ khí</highlightAmber> đồng bộ trực tiếp từ trang quản trị vào trong trò chơi.",
-            "vipBenefit4": "Tùy chọn nhạc chiến thắng đặc biệt <highlightAmber>(zMVP)</highlightAmber> phát bài hát yêu thích khi đạt danh hiệu xuất sắc nhất vòng đấu.",
-            "svipTitle": "GÓI HỘI VIÊN ĐẶC BIỆT (SVIP)",
-            "svipBenefitExtra": "Bao gồm toàn bộ quyền lợi của gói VIP nhưng được <underlineRed>nhân đôi điểm số xếp hạng (x2.0)</underlineRed> thay vì nhân 1.5 cùng các đặc quyền:",
-            "svipBenefit1": "Quyền sở hữu các <underlineRed>[zVũKhí]</underlineRed> tùy chỉnh độc quyền.",
-            "svipBenefit2": "Quyền lựa chọn các ngoại hình nhân vật tùy chỉnh <underlineRed>[zNgoạiHình]</underlineRed>.",
-            "svipBenefit3": "Cấp quyền sử dụng <underlineRed>bảng điều khiển quản trị</underlineRed> máy chủ cơ bản.",
-            "section2Title": "2. HƯỚNG DẪN NHẬN TRANG BỊ & THỬ NGHIỆM HỆ THỐNG",
-            "activationTitle": "III. HƯỚNG DẪN KÍCH HOẠT QUYỀN LỢI",
-            "activationContent": "Sau khi hoàn thành thủ tục ủng hộ kinh phí và gửi liên kết trang cá nhân Steam của bạn cho Quản trị viên / Nhân viên, vui lòng kiên nhẫn chờ máy chủ đổi bản đồ kế tiếp để hệ thống tự động đồng bộ và kích hoạt quyền lợi hội viên trên tài khoản của bạn.",
-            "cmdGuideTitle": "IV. CÚ PHÁP SỬ DỤNG LỆNH GỌI TRANG BỊ",
-            "cmdGiveSyntax": "Cú pháp nhận vũ khí: !give @me <param>tên_vũ_khí</param>",
-            "retakesWeaponsTitle": "Danh sách vũ khí được phép nhận trong chế độ chơi Tập luyện chiếm lại bom điểm của máy chủ:",
-            "pistolsLabel": "Dòng súng lục bán tự động",
-            "smgsLabel": "Dòng súng liên thanh cỡ nhỏ",
-            "riflesLabel": "Dòng súng trường tấn công",
-            "heavyLabel": "Dòng súng máy hạng nặng",
-            "cliSimulator": "MÔ PHỎNG CÁCH HOẠT ĐỘNG CỦA LỆNH MÁY CHỦ",
-            "section3Title": "3. DANH SÁCH BỘ LỆNH QUẢN TRỊ DÀNH CHO HỘI VIÊN ĐẶC BIỆT",
-            "svipCmdsTitle": "V. BẢNG TRA CỨU LỆNH QUẢN TRỊ DÀNH CHO HỘI VIÊN ĐẶC BIỆT",
-            "cmdAdminDesc": "Mở bảng điều khiển hệ thống Quản Trị",
-            "cmdAdminBadge": "Bảng Quản Trị",
-            "cmdBanDesc": "Cấm người chơi vi phạm quy định máy chủ",
-            "cmdBanBadge": "Cấm Chơi",
-            "cmdKickDesc": "Trục xuất người chơi ra khỏi máy chủ hiện tại",
-            "cmdKickBadge": "Trục Xuất",
-            "cmdMuteDesc": "Cấm trò chuyện bằng giọng nói và chữ của người chơi vi phạm",
-            "cmdMuteBadge": "Cấm Nói / Chat",
-            "cmdGiveDesc": "Nhận vũ khí hoặc trang bị khẩn cấp",
-            "cmdGiveBadge": "Gọi Trang Bị",
-            "cmdMapDesc": "Yêu cầu thay đổi bản đồ thi đấu hiện tại",
-            "cmdMapBadge": "Yêu Cầu Bản Đồ",
-            "mandatoryTitle": "4. QUY ĐỊNH BẮT BUỘC DÀNH CHO HỘI VIÊN",
-            "mandatoryRule1": "Nghiêm cấm tuyệt đối hành vi cố tình sử dụng chế độ quan sát để giữ vị trí trống hoặc cướp vị trí chơi của người chơi đang trong hàng chờ.",
-            "mandatoryRule2": "Không được gọi liên tục vũ khí/trang bị nhiều lần trong một vòng đấu gây gián đoạn, giật lag hoặc ảnh hưởng tiêu cực đến trải nghiệm chơi chung.",
-            "mandatoryRule3": "Mọi hình thức xử phạt (Trục xuất, Cấm chơi, Cấm nói, Cấm trò chuyện) được thực hiện bởi Hội viên Đặc biệt đều bắt buộc phải có bằng chứng rõ ràng (ảnh chụp vi phạm hoặc video ghi nhận trận đấu).",
-            "mandatoryRule4": "<bold>BẤT KỲ HÀNH VI LẠM QUYỀN QUẢN TRỊ NÀO SẼ BỊ TƯỚC QUYỀN LẬP TỨC VÀ KHÓA TÀI KHOẢN VĨNH VIỄN KHÔNG ĐỀN BÙ.</bold>",
-            "section5Title": "5. HỆ THỐNG SKINS CHANGER ĐỒNG BỘ TRỰC TUYẾN",
-            "skinModContent": "Toàn bộ hội viên có quyền tự do thay đổi, tùy chỉnh ngoại trang vũ khí trực tiếp trên trang quản trị và đồng bộ ngay lập tức vào trong trò chơi tại cổng thông tin:",
-            "skinModLink": "Trang Web thay đổi ngoại trang:",
-            "skinModLinkText": "/dashboard/skins",
-            "tutorialTitle": "CHẾ ĐỘ HƯỚNG DẪN: THAO TÁC",
-            "tutorialMoveWS": "HÃY NHẤN PHÍM <bold>W</bold> HOẶC <bold>S</bold> ĐỂ DI CHUYỂN",
-            "tutorialOpenCategory": "TUYỆT VỜI! HÃY NHẤN PHÍM <bold>E</bold> ĐỂ MỞ DANH MỤC",
-            "tutorialCloseMenu": "RẤT TỐT! HÃY NHẤN PHÍM <bold>TAB</bold> ĐỂ ĐÓNG MENU",
-            "tutorialHintTitle": "GỢI Ý THAO TÁC",
-            "tutorialHintMove": "Ấn W/S để di chuyển",
-            "tutorialHintOpen": "Ấn E để mở danh mục",
-            "tutorialHintExit": "Ấn TAB để đóng menu",
-            "tutorialDoneTitle": "THỬ NGHIỆM XONG!",
-            "tutorialDoneHint": "Nhập !admin vào hộp soạn thảo để thử mở lại bảng điều khiển",
-            "inputPlaceholder": "Nhập lệnh (vd: !admin)..."
-        },
-        "rank": {
-            "title": "ĐIỀU KHOẢN ĐIỂM XẾP HẠNG BÁCH KHOA TOÀN THƯ",
-            "subtitle": "Tài liệu hướng dẫn cơ chế tính điểm và quy tắc xếp hạng chính thức",
-            "config_note": "(Lưu ý: Tài liệu lấy dữ liệu từ cấu hình mặc định của hệ thống. Tính năng giải cứu con tin không được áp dụng trong phiên bản hiện tại).",
-            "constraints": {
-                "title": "1. ĐIỀU KIỆN CHUNG BẮT BUỘC",
-                "desc": "Hệ thống zRanks sẽ tạm dừng tính điểm (không cộng hoặc trừ điểm) nếu rơi vào các trường hợp sau:"
-            },
-            "vipBoost": {
-                "title": "2. HỆ SỐ ĐẶC QUYỀN HỘI VIÊN",
-                "desc": "<bold>Chỉ nhân số Dương (Phép Cộng):</bold> Bất kỳ khoản điểm cộng nào (hạ gục đối thủ, gỡ bom, chiến thắng vòng đấu...) đều được nhân lên:"
-            },
-            "dynamicElo": {
-                "title": "3. CHIẾN TRƯỜNG ĐIỂM DƯƠNG: HỆ SỐ ĐỘNG",
-                "desc": "Tính năng tính điểm động này <highlight>CHỈ KÍCH HOẠT</highlight> khi cả hai người chơi giao tranh đều có điểm số lớn hơn <highlight>0</highlight>.",
-                "matrixTitle": "Ma Trận Giao Tranh: Người chơi Điểm Dương vs Người chơi Điểm Dương",
-                "h1": "Tình huống giao tranh",
-                "h2": "Tỉ lệ cơ sở",
-                "h3": "Điểm người hạ gục (Hạ gục +10)",
-                "h4": "Điểm người bị hạ gục (Tử trận -50)",
-                "row1_name": "Giao tranh giữa những người dẫn đầu bảng xếp hạng (Ví dụ: Thứ hạng 1 hạ gục Thứ hạng 2)",
-                "row2_name": "Người mới (Điểm số thấp) hạ gục Người dẫn đầu bảng (Điểm số cực cao)",
-                "row3_name": "Người dẫn đầu bảng hạ gục Người mới (Chênh lệch lớn)",
-                "conclusion": "KẾT LUẬN QUAN TRỌNG: Vì hệ số nhân thấp nhất là x3.0, nên mọi lượt hạ gục diễn ra giữa những người chơi có điểm dương đều bị khuếch đại ít nhất là 3 lần! Đấu trường điểm dương luôn cực kỳ khốc liệt."
-            },
-            "negativeZone": {
-                "title": "4. KHU VỰC ĐIỂM ÂM: KHI HỆ THỐNG GIỚI HẠN",
-                "desc": "Nếu điểm số của bạn giảm xuống mức <highlightRed>0</highlightRed> hoặc thấp hơn, bạn sẽ rơi vào trạng thái điểm âm. Hệ thống mặc định <highlightRed>không tự động phục hồi</highlightRed> điểm số, bạn bắt buộc phải tự tích lũy điểm qua các lượt hạ gục để nâng điểm lên.",
-                "c1_ai": "(Lưu ý: Người có điểm âm không thể nhận số lượng điểm lớn khi hạ gục người đứng đầu, tránh lạm dụng điểm số).",
-                "c2_ai": "(Lưu ý: Người điểm dương khi hạ gục người điểm âm sẽ nhận lượng điểm rất thấp để khuyến khích thử thách bản thân với đối thủ mạnh hơn).",
-                "c3_note": "(Nếu có đặc quyền hội viên thì vẫn được áp dụng hệ số nhân tương ứng)."
-            },
-            "combat": {
-                "title": "5. BẢNG CHI TIẾT ĐIỂM GIAO TRANH",
-                "desc": "Các giá trị điểm này được phép cộng dồn trong cùng một lượt hạ gục, và được nhân theo hệ số hội viên nếu là số điểm cộng.",
-                "tableA": {
-                    "title": "A. Điểm cơ bản & Hình phạt",
-                    "h1": "Hành động",
-                    "h2": "Điểm",
-                    "h3": "Ghi chú",
-                    "row1_name": "Hạ gục đối thủ",
-                    "row1_note": "Điểm cơ bản.",
-                    "row2_name": "Bị hạ gục (Tử trận)",
-                    "row2_note": "Điểm bị trừ.",
-                    "row3_name": "Hạ gục đồng đội",
-                    "row3_note": "Hình phạt rất nặng (Đồng đội bị hạ gục vẫn bị trừ điểm tử trận cơ bản <highlightRed>-50 điểm</highlightRed>).",
-                    "row4_name": "Tự sát hoặc rơi tự do",
-                    "row4_note": "Hình phạt rất nặng (Ngoại trừ trường hợp mất kết nối mạng)."
-                },
-                "tableB": {
-                    "title": "B. Điểm thưởng kỹ năng giao tranh",
-                    "h1": "Kỹ năng",
-                    "h2": "Điểm cộng thêm",
-                    "row1_name": "Hạ gục bằng cách bắn vào đầu",
-                    "row2_name": "Hạ gục không bật ống ngắm",
-                    "row3_name": "Hạ gục xuyên vật cản (Đục tường)",
-                    "row3_note": "Nhân với số lượng vật cản xuyên qua",
-                    "row4_name": "Hạ gục từ khoảng cách xa (Trên 35 mét)",
-                    "row5_name": "Hạ gục xuyên qua làn khói",
-                    "row6_name": "Hạ gục đối thủ khi đang bị mù"
-                },
-                "tableC": {
-                    "title": "C. Điểm thưởng sử dụng vũ khí đặc biệt",
-                    "h1": "Vũ khí",
-                    "h2": "Điểm cộng thêm",
-                    "row1_name": "Hạ gục bằng dao",
-                    "row2_name": "Hạ gục bằng súng phóng điện",
-                    "row3_name": "Hạ gục bằng lựu đạn nổ",
-                    "row4_name": "Hạ gục bằng lựu đạn lửa",
-                    "row5_name": "Đỉnh cao hạ gục: Ném trang bị trúng trực tiếp hạ gục đối thủ chỉ còn lượng máu cực thấp"
-                },
-                "tableD": {
-                    "title": "D. Hỗ trợ hạ gục (Trợ công)",
-                    "h1": "Hành động",
-                    "h2": "Điểm",
-                    "h3": "Ghi chú",
-                    "row1_name": "Hỗ trợ hạ gục cơ bản",
-                    "row2_name": "Hỗ trợ hạ gục bằng lựu đạn mù",
-                    "row2_note": "Thêm +6",
-                    "row3_name": "Hành vi gây mù đồng đội dẫn đến tử trận",
-                    "row3_note": "Phạt hỗ trợ tiêu cực (<highlightRed>-150 điểm</highlightRed> hỗ trợ hại đồng đội và <highlightRed>-100 điểm</highlightRed> vì gây mù đồng đội).",
-                    "ai_note": "(Lưu ý: Các hình phạt hỗ trợ hại đồng đội chỉ áp dụng khi đồng đội trực tiếp hạ gục lẫn nhau dưới tác động tiêu cực của bạn)."
-                },
-                "tableE": {
-                    "title": "E. Điểm thưởng chuỗi hạ gục (Đặt lại mỗi vòng đấu)",
-                    "h1": "Chuỗi hạ gục",
-                    "h2": "Điểm thưởng thêm",
-                    "row1_name": "Hạ gục liên tiếp 2 mạng",
-                    "row2_name": "Hạ gục liên tiếp 3 mạng",
-                    "row3_name": "Hạ gục liên tiếp 4 mạng",
-                    "row4_name": "Hạ gục liên tiếp 5 mạng (Quét sạch)",
-                    "row5_name": "Mốc chuỗi hạ gục hủy diệt liên tiếp",
-                    "row5_note": "Nhận thêm +55 điểm cho mỗi lượt hạ gục tiếp theo"
-                }
-            },
-            "objectives": {
-                "title": "6. ĐIỂM NHIỆM VỤ CHIẾN THUẬT",
-                "desc": "(Chỉ áp dụng cho người chơi đang tham gia trực tiếp trong trận đấu, người quan sát không được tính điểm).",
-                "h1": "Nhiệm vụ",
-                "h2": "Điểm",
-                "h3": "Ghi chú",
-                "row1_name": "Chiến thắng vòng đấu",
-                "row1_note": "Cộng cho toàn bộ thành viên trong đội.",
-                "row2_name": "Thất bại vòng đấu",
-                "row2_note": "Trừ cho toàn bộ thành viên trong đội.",
-                "row3_name": "Người chơi xuất sắc nhất vòng đấu (Danh hiệu MVP)",
-                "row3_note": "Cộng thêm cho thành viên đạt danh hiệu.",
-                "row4_name": "Kích hoạt bom C4",
-                "row5_name": "Gỡ bỏ bom C4",
-                "row5_note": "Cộng riêng cho người thực hiện thành công.",
-                "row6_name": "Bom C4 phát nổ thành công",
-                "row6_note": "Cộng cho tất cả thành viên của đội kích hoạt bom.",
-                "row7_name": "Tử trận do bom nổ",
-                "row7_note": "Bị trừ nhẹ điểm và không tính là hành vi tự sát.",
-                "row8_name": "Điểm tích lũy thời gian chơi"
-            },
-            "minigame": {
-                "title": "7. TRÒ CHƠI PHỤ TOÁN HỌC NHANH TRÍ",
-                "desc": "Mỗi <highlight>10 phút</highlight>, hệ thống sẽ hiển thị một phép tính ngẫu nhiên trên màn hình. Sử dụng lệnh !aw <param>kết quả</param> để trả lời (Không áp dụng cho người quan sát).",
-                "h1": "Kết quả",
-                "h2": "Điểm/Hình phạt",
-                "h3": "Ghi chú",
-                "row1_name": "Trả lời ĐÚNG đầu tiên",
-                "row1_note": "Được nhân theo hệ số hội viên. Câu hỏi kết thúc ngay.",
-                "row2_name": "Trả lời SAI lần 1",
-                "row2_note": "Tạm khóa khả năng trả lời trong <highlightRed>2 giây</highlightRed>.",
-                "row3_name": "Trả lời SAI lần 2",
-                "row3_note": "Tạm khóa khả năng trả lời trong <highlightRed>2 giây</highlightRed>.",
-                "row4_name": "Trả lời SAI lần 3",
-                "row4_note": "<highlightRed>Bị khóa quyền tham gia trả lời câu hỏi hiện tại</highlightRed>.",
-                "ai_note": "(Lưu ý: Mọi điểm phạt từ việc trả lời sai sẽ bị trừ thẳng vào điểm xếp hạng của bạn và không được giảm trừ bởi bất kỳ hệ số hội viên nào)."
-            },
-            "conclusion": "Tài liệu này là quy chuẩn chính thức để người chơi tham khảo và tối ưu hóa điểm số xếp hạng của mình trên hệ thống zRanks."
         }
     }
 }

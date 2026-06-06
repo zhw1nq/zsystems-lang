@@ -1,12 +1,12 @@
 {
     "models": {
-        "title": "zModels",
+        "title": "ម៉ូដែល zModels",
         "description": "ម៉ូដែលអ្នកលេងពិសេសសម្រាប់ SVIP",
         "equipped": "បានដាក់",
         "equip": "ដាក់",
         "unequip": "ដកចេញ",
-        "ct": "Counter Terrorist",
-        "t": "Terrorist",
+        "ct": "តួអង្គ CT",
+        "t": "តួអង្គ T",
         "private": "ឯកជន",
         "search": "ស្វែងរកម៉ូដែល...",
         "noResults": "រកមិនឃើញម៉ូដែល",
@@ -15,7 +15,7 @@
         "selectCategory": "ជ្រើសរើសប្រភេទ"
     },
     "weapons": {
-        "title": "zWeapons", 
+        "title": "អាវុធ zWeapons", 
         "description": "Skin អាវុធពិសេសសម្រាប់ SVIP",
         "equipped": "បានដាក់",
         "equip": "ដាក់",
@@ -52,14 +52,14 @@
         "allWeapons": "ទាំងអស់"
     },
     "mvp": {
-        "title": "zMVP",
+        "title": "តន្ត្រី zMVP",
         "description": "ដាក់បទចម្រៀង MVP តាមបំណង",
         "search": "ស្វែងរក MVP...",
         "noResults": "រកមិនឃើញ MVP",
         "free": "ឥតគិតថ្លៃ",
-        "vip": "VIP",
-        "svip": "SVIP",
-        "admin": "ADMIN",
+        "vip": "សមាជិក VIP",
+        "svip": "សមាជិក SVIP",
+        "admin": "អ្នកគ្រប់គ្រង (ADMIN)",
         "preview": "មើលជាមុន",
         "stop": "បញ្ឈប់",
         "apply": "អនុវត្ត",

@@ -18,7 +18,7 @@
         "deaths": "Kematian",
         "assists": "Bantuan",
         "mvp": "MVP",
-        "firstBlood": "First Blood",
+        "firstBlood": "Darah Pertama (First Blood)",
         "roundsPlayed": "Pusingan"
     },
     "pagination": {
@@ -87,7 +87,7 @@
         "confirm": "Faham"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "Mata Positif Teratas",
+        "negative": "Mata Negatif Teratas"
     }
 }

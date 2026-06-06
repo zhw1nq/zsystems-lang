@@ -105,7 +105,7 @@
             "section5Title": "5. ລະບົບ SKINS CHANGER ອອນລາຍ",
             "skinModContent": "ສະມາຊິກທຸກຄົນສາມາດປ່ຽນ ແລະ ປັບແຕ່ງສະກິນອາວຸດໄດ້ຜ່ານໜ້າແອດມິນ ແລະ ຊິງເຂົ້າເກມທັນທີ:",
             "skinModLink": "ເວັບປ່ຽນສະກິນ:",
-            "skinModLinkText": "/dashboard/skins",
+            "skinModLinkText": "/dashboard/skins#ສະກິນ",
             "tutorialTitle": "ໂໝດສອນການໃຊ້",
             "tutorialMoveWS": "ກົດ <bold>W</bold> ຫຼື <bold>S</bold> ເພື່ອເຄື່ອນທີ່",
             "tutorialOpenCategory": "ດີຫຼາຍ! ກົດ <bold>E</bold> ເພື່ອເປີດໝວດ",
@@ -203,7 +203,7 @@
                 },
                 "tableE": {
                     "title": "E. ຄະແນນໂບນັດຈາກ Kill Streak (ຣີເຊັດທຸກຮອບ)",
-                    "h1": "Kill Streak",
+                    "h1": "ຂ້າຕິດຕໍ່ກັນ (Kill Streak)",
                     "h2": "ຄະແນນໂບນັດເພີ່ມ",
                     "row1_name": "ສັງຫານຕິດຕໍ່ 2 ຄົນ",
                     "row2_name": "ສັງຫານຕິດຕໍ່ 3 ຄົນ",

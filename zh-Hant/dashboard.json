@@ -81,17 +81,17 @@
             "removeMute": "解除禁言",
             "deleteBan": "刪除封禁",
             "deleteMute": "刪除禁言",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "確認刪除",
+            "confirmDeleteDesc": "您確定要刪除 {player} 的記錄 #{id} 嗎？此操作無法撤銷。",
+            "removeReasonPlaceholder": "輸入移除原因...",
+            "editBanDesc": "更改此封禁的原因與時長。",
+            "editMuteDesc": "更改此禁言的原因、時長與類型。",
+            "removeBanDesc": "移除封禁並允許玩家重新加入。",
+            "removeMuteDesc": "移除禁言並允許玩家重新溝通。",
+            "rebanDesc": "以新的時長與原因重新封禁此玩家。",
+            "remuteDesc": "以新的時長與原因重新禁言此玩家。",
+            "actionSuccess": "操作成功",
+            "actionFailed": "操作失敗"
         }
     },
     "playerAction": {

@@ -1,12 +1,12 @@
 {
     "models": {
-        "title": "zModels",
+        "title": "Model Premium zModels",
         "description": "Model pemain eksklusif untuk SVIP",
         "equipped": "Dipakai",
         "equip": "Pakai",
         "unequip": "Tanggalkan",
-        "ct": "Counter Terrorist",
-        "t": "Terrorist",
+        "ct": "Model Anti-Pengganas (CT)",
+        "t": "Model Pengganas (T)",
         "private": "Peribadi",
         "search": "Cari model...",
         "noResults": "Tiada model dijumpai",
@@ -15,7 +15,7 @@
         "selectCategory": "Pilih kategori"
     },
     "weapons": { 
-        "title": "zWeapons",
+        "title": "Senjata Premium zWeapons",
         "description": "Kulit senjata eksklusif untuk SVIP",
         "equipped": "Dipakai",
         "equip": "Pakai",
@@ -52,14 +52,14 @@
         "allWeapons": "Semua"
     },
     "mvp": {
-        "title": "zMVP",
+        "title": "Lagu zMVP",
         "description": "Pakai lagu kebanggaan MVP tersuai",
         "search": "Cari MVP...",
         "noResults": "Tiada MVP dijumpai",
         "free": "PERCUMA",
         "vip": "VIP",
-        "svip": "SVIP",
-        "admin": "ADMIN",
+        "svip": "Keahlian SVIP",
+        "admin": "PENTADBIR (ADMIN)",
         "preview": "Pratonton",
         "stop": "Henti",
         "apply": "Guna",

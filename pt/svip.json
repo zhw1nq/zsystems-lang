@@ -29,7 +29,7 @@
         "accessDenied": "Acesso SVIP necessário para usar esta função",
         "notLoggedIn": "Faça login para usar esta função",
         "categories": {
-            "rifles": "Rifles",
+            "rifles": "Fuzis",
             "pistols": "Pistolas",
             "smgs": "SMGs",
             "heavy": "Pesadas",

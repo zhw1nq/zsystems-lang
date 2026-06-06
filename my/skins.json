@@ -1,19 +1,19 @@
 {
-    "title": "Skins",
+    "title": "လက်နက် အကွက်များ (Skins)",
     "description": "CS2 လက်နက်အရောင် များကို ရှာဖွေနှင့် စိတ်ကြိုက်ပြင်ဆင်ပါ",
     "tabs": {
         "weaponSkins": "လက်နက်အရောင်",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "agents": "ကိုယ်စားလှယ်များ (Agents)",
+        "musicKits": "တေးဂီတ ပက်ကေ့ခ်ျများ (Music Kits)",
+        "pinsCoins": "တံဆိပ်များနှင့် ဒင်္ဂါးများ (Pins & Coins)"
     },
     "categories": {
         "gloves": "လက်အိတ်",
-        "rifles": "Rifles",
+        "rifles": "ရိုင်ဖယ်များ (Rifles)",
         "knives": "ဓားများ", 
-        "smgs": "SMGs",
-        "pistols": "Pistols",
-        "heavy": "Heavy",
+        "smgs": "စက်သေနတ်ငယ်များ (SMGs)",
+        "pistols": "ပစ္စတိုများ (Pistols)",
+        "heavy": "အကြီးစား လက်နက်များ (Heavy)",
         "equipment": "ပစ္စည်းကိရိယာ"
     },
     "team": {

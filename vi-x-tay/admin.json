@@ -87,7 +87,7 @@
         "steamHelp": "Nhập SteamID64, link hồ sơ cạ nhấn Enter",
         "namePlaceholder": "Chử tàng chòi admin",
         "group": "Nhóm Admin",
-        "selectGroup": "Chọn nhóm...",
+        "selectGroup": "Chọi nhóm...",
         "noGroup": "Mải nhóm (Tùy chỉnh)",
         "flagsFromGroup": "Quyền đảy slíp tự nhóm đạ chọn",
         "alreadyExpired": "Đạ mết hạn"
@@ -131,9 +131,9 @@
         "minutes": "phút",
         "permanent": "Mãi mãi",
         "active": "Tàng lồng",
-        "addBanDescription": "Tạo mới lệnh cấm chơi (ban) trên hệ thống máy chủ.",
-        "noMutes": "Boóc mị lượt ban nào",
-        "noBans": "Chưa có lượt ban nào"
+        "addBanDescription": "Tạo mới lệnh cấm lỉn (ban) slên hệ thống máy chủ.",
+        "noMutes": "Chửa mỉ pày ban lừ",
+        "noBans": "Chửa mỉ pày ban lừ"
     },
     "mutes": {
         "title": "Danh sách Mute",
@@ -156,8 +156,8 @@
         "mute": "MUTE (Voice)",
         "silence": "SILENCE (Cả slong)",
         "active": "Tàng lồng",
-        "addMuteDescription": "Tạo mới lệnh cấm chat/mic (mute) trên hệ thống máy chủ.",
-        "noMutes": "Boóc mị lượt mute nào"
+        "addMuteDescription": "Tạo mới cấm chữ/mic (mute) slên hệ thống máy chủ.",
+        "noMutes": "Chửa mỉ pày mute lừ"
     },
     "logs": {
         "title": "Sổ ghi hoạt động",
@@ -189,7 +189,7 @@
         "headerCodeHTML": "Header HTML",
         "headerCodeCSS": "Header CSS",
         "discordWebhook": "Discord Webhook URL",
-        "earlyAccess": "Tính năng thử nghiệm",
+        "earlyAccess": "Tính năng thử lồng",
         "debugMode": "Chế độ debug",
         "announcementEnabled": "Kháư thông báo cả thảy hệ thống",
         "announcementTitle": "Tiêu đề thông báo",
@@ -343,7 +343,7 @@
         },
         "logs": {
             "noLogs": "Chửa mỉ sổ ghi",
-            "loadMore": "Tải thêm"
+            "loadMore": "Tải têm"
         },
         "actions": {
             "suspend": "Đình chỉ",
@@ -360,8 +360,8 @@
             "unlinkSteam": "Bỏ nối cấp Steam",
             "resendVerification": "Sửng lặp email xác nhận",
             "editProfile": "Sửa hồ sơ",
-            "reasonPlaceholder": "Nhập lý do...",
-            "reasonRequired": "Cần nhập lý do",
+            "reasonPlaceholder": "Khít lý do...",
+            "reasonRequired": "Cần khít lý do",
             "durationDays": "Thời hạn (vằn)",
             "durationPermanent": "Mãi mãi",
             "confirmTitle": "Nhận chắc hành động",

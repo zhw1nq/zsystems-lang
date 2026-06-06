@@ -87,7 +87,7 @@
         "confirm": "Mengerti"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "Poin Positif Teratas",
+        "negative": "Poin Negatif Teratas"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "title": "Skin Collections",
+    "title": "Skin Collections စုစည်းမှုများ",
     "description": "အသိုင်းအဝိုင်းနှင့် skin collection များကို ရှာဖွေနှင့် မျှဝေပါ",
     "tabs": {
         "community": "အသိုင်းအဝိုင်း",
@@ -28,7 +28,7 @@
         "descPlaceholder": "သင့် collection ကို ဖော်ပြပါ...",
         "visibility": "အများမြင်",
         "preview": "လက်ရှိ Loadout",
-        "previewDesc": "{skins} skins, {knives} knives, {gloves} gloves, {agents} agents, {music} music, {pins} pins",
+        "previewDesc": "{skins} သားရေမျက်နှာပြင်များ (skins)၊ {knives} ဓားများ၊ {gloves} လက်အိတ်များ၊ {agents} အေးဂျင့်များ၊ {music} တေးဂီတ၊ {pins} တံဆိပ်များ",
         "submit": "Collection ဖန်တီး",
         "success": "Collection အောင်မြင်စွာ ဖန်တီးပြီး!",
         "error": "Collection ဖန်တီး၍ မရပါ",
@@ -45,12 +45,12 @@
         "deleteConfirmTitle": "Collection ဖျက်မလား?",
         "deleteConfirmDesc": "ဤ collection ကို ဖျက်ရန် သေချာပါသလား? ဤလုပ်ဆောင်ချက်ကို ပြန်လည် မပြုလုပ်နိုင်ပါ။",
         "edit": "တည်းဖြတ်",
-        "skins": "Skins",
-        "knives": "Knives",
-        "gloves": "Gloves",
-        "agents": "Agents",
-        "music": "Music",
-        "pins": "Pins"
+        "skins": "Skins အကွက်များ",
+        "knives": "ဓားများ (Knives)",
+        "gloves": "လက်အိတ်များ (Gloves)",
+        "agents": "အေးဂျင့်များ (Agents)",
+        "music": "တေးဂီတ (Music)",
+        "pins": "တံဆိပ်များ (Pins)"
     },
     "comment": {
         "title": "မှတ်ချက်များ",

@@ -37,8 +37,8 @@
         "waiting": "Menunggu...",
         "decided": "Peta Padanan",
         "pickSide": "Pilih Sisi",
-        "ct": "Counter-Terrorist",
-        "t": "Terrorist"
+        "ct": "Anti-Pengganas (CT)",
+        "t": "Pengganas (T)"
     },
     "stats": {
         "title": "Statistik",

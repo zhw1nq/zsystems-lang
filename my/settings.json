@@ -105,7 +105,7 @@
             "noSessions": "တက်ကြွ session မရှိ",
             "lastActive": "နောက်ဆုံး အသုံးပြု: {time}",
             "device": {
-                "desktop": "Desktop",
+                "desktop": "Desktop ကွန်ပျူတာ",
                 "mobile": "မိုဘိုင်း",
                 "tablet": "တက်ဘလက်",
                 "unknown": "မသိ"
@@ -160,7 +160,7 @@
             "title": "ကိုယ်ရေးအချက်အလက်",
             "description": "အကောင့် အချက်အလက်။ အချို့ဒေတာကို Discord မှ sync လုပ်သည်။",
             "username": "အသုံးပြုသူအမည်",
-            "sevenId": "7ID",
+            "sevenId": "7ID ကုဒ်",
             "email": "အီးမေးလ်",
             "displayName": "ပြသအမည်",
             "registeredAt": "စာရင်းသွင်းရက်",
@@ -195,8 +195,8 @@
         "linkedAccounts": {
             "title": "ချိတ်ဆက်ထားသော အကောင့်များ",
             "description": "zSystems အကောင့်နှင့် ချိတ်ဆက်ထားသော Discord နှင့် Steam အကောင့်များ။",
-            "discord": "Discord",
-            "steam": "Steam",
+            "discord": "Discord အကောင့်",
+            "steam": "Steam အကောင့်",
             "linkedAt": "ချိတ်ဆက်ရက်: {date}",
             "notLinked": "မချိတ်ဆက်ရသေး"
         },

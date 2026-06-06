@@ -17,8 +17,8 @@
     "serverDetail": {
         "players": "អ្នកលេង",
         "noPlayers": "គ្មានអ្នកលេង",
-        "teamCT": "Counter-Terrorists",
-        "teamT": "Terrorists",
+        "teamCT": "ក្រុមប្រឆាំងភេរវករ (Counter-Terrorists)",
+        "teamT": "ក្រុមភេរវករ (Terrorists)",
         "teamUnassigned": "មិនទាន់កំណត់",
         "serverInfo": "ព័ត៌មានម៉ាស៊ីនមេ",
         "chat": "ជជែក",
@@ -55,7 +55,7 @@
         "reason": "មូលហេតុ",
         "duration": "រយៈពេល",
         "timeLeft": "នៅសល់",
-        "admin": "Admin",
+        "admin": "អ្នកគ្រប់គ្រង (Admin)",
         "removeReason": "មូលហេតុលុប",
         "dateTime": "កាលបរិច្ឆេទ / ពេល",
         "statusActive": "សកម្ម",
@@ -81,17 +81,17 @@
             "removeMute": "លុប Mute",
             "deleteBan": "លុបការហាមឃាត់",
             "deleteMute": "លុប Mute",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "បញ្ជាក់ការលុប",
+            "confirmDeleteDesc": "តើអ្នកពិតជាចង់លុបកំណត់ត្រា #{id} របស់ {player} មែនទេ? សកម្មភាពនេះមិនអាចត្រឡប់ក្រោយបានទេ។",
+            "removeReasonPlaceholder": "បញ្ចូលមូលហេតុលុប...",
+            "editBanDesc": "ផ្លាស់ប្តូរមូលហេតុ និងរយៈពេលនៃការហាមឃាត់។",
+            "editMuteDesc": "ផ្លាស់ប្តូរមូលហេតុ រយៈពេល និងប្រភេទនៃការ Mute។",
+            "removeBanDesc": "លុបការហាមឃាត់ និងអនុញ្ញាតឱ្យអ្នកលេងចូលរួមឡើងវិញ។",
+            "removeMuteDesc": "លុបការ Mute និងអនុញ្ញាតឱ្យអ្នកលេងប្រាស្រ័យទាក់ទងឡើងវិញ។",
+            "rebanDesc": "ហាមឃាត់អ្នកលេងម្តងទៀតជាមួយនឹងរយៈពេល និងមូលហេតុថ្មី។",
+            "remuteDesc": "Mute អ្នកលេងម្តងទៀតជាមួយនឹងរយៈពេល និងមូលហេតុថ្មី។",
+            "actionSuccess": "សកម្មភាពទទួលបានជោគជ័យ",
+            "actionFailed": "សកម្មភាពបរាជ័យ"
         }
     },
     "playerAction": {
@@ -112,7 +112,7 @@
         "success": "បានអនុវត្ត {action} លើ {player} ដោយជោគជ័យ",
         "failed": "សកម្មភាពមិនបាន",
         "socialLink": "តំណភ្ជាប់សង្គម",
-        "statsChecker": "STATS CHECKER",
+        "statsChecker": "ឧបករណ៍ពិនិត្យស្ថិតិ (STATS CHECKER)",
         "noSteamInfo": "មិនទាន់បញ្ចូលព័ត៌មាន SteamID",
         "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ឬតំណប្រវត្តិរូប...",
         "autoResolveHint": "ទាញយកព័ត៌មានដោយស្វ័យប្រវត្តិពី SteamID64, តំណប្រវត្តិរូប ឬ vanity URL នៅពេលបិទភ្ជាប់",
@@ -131,23 +131,23 @@
         "currentPlan": "ផែនការបច្ចុប្បន្ន",
         "tiers": {
             "member": {
-                "name": "FREE",
-                "priceMonthly": "FREE",
-                "priceQuarterly": "FREE",
+                "name": "ឥតគិតថ្លៃ (FREE)",
+                "priceMonthly": "ឥតគិតថ្លៃ (FREE)",
+                "priceQuarterly": "ឥតគិតថ្លៃ (FREE)",
                 "description": "បទពិសោធន៍មូលដ្ឋាន",
                 "button": "លេងឥឡូវ"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
+                "name": "សមាជិក SVIP",
+                "priceMonthly": "២០០,០០០ ដុង (200.000₫)",
+                "priceQuarterly": "៥០០,០០០ ដុង (500.000₫)",
                 "description": "កិត្តិយសខ្ពស់បំផុត",
                 "button": "ដំឡើង"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
+                "name": "សមាជិក VIP",
+                "priceMonthly": "១០០,០០០ ដុង (100.000₫)",
+                "priceQuarterly": "២៥០,០០០ ដុង (250.000₫)",
                 "description": "បទពិសោធន៍កែលម្អ",
                 "button": "ដំឡើង"
             }

@@ -1,26 +1,26 @@
 {
-    "title": "Trận đấu",
-    "subtitle": "Lịch sử các trận đấu trên hệ thống",
-    "searchPlaceholder": "Tìm kiếm theo tên đội...",
-    "noMatches": "Không tìm thấy trận đấu nào",
-    "live": "ĐANG THI ĐẤU",
-    "finished": "KẾT THÚC",
-    "win": "THẮNG",
-    "lose": "THUA",
-    "viewDetail": "Chi tiết",
-    "page": "Trang {page}/{total}",
-    "previous": "Trước",
-    "next": "Sau",
+    "title": "Perlawanan",
+    "subtitle": "Sejarah perlawanan pada sistem",
+    "searchPlaceholder": "Cari mengikut nama pasukan...",
+    "noMatches": "Tiada perlawanan ditemui",
+    "live": "LANGSUNG",
+    "finished": "TAMAT",
+    "win": "MENANG",
+    "lose": "KALAH",
+    "viewDetail": "Lihat Butiran",
+    "page": "Halaman {page}/{total}",
+    "previous": "Sebelum",
+    "next": "Seterusnya",
     "tabs": {
-        "rounds": "Diễn biến",
-        "kills": "Sát thương",
-        "roundStats": "Stats theo Round",
-        "economy": "Kinh tế",
-        "overview": "Tổng quan",
-        "details": "Chi tiết trận đấu"
+        "rounds": "Pusingan",
+        "kills": "Pembunuhan",
+        "roundStats": "Statistik Pusingan",
+        "economy": "Ekonomi",
+        "overview": "Gambaran Keseluruhan",
+        "details": "Butiran Perlawanan"
     },
     "scoreboard": {
-        "player": "Người chơi",
+        "player": "Pemain",
         "kills": "K",
         "deaths": "D",
         "assists": "A",
@@ -28,64 +28,64 @@
         "hsPercent": "HS%",
         "kd": "K/D",
         "damage": "DMG",
-        "entry": "Entry",
-        "accuracy": "Chính xác"
+        "entry": "Pembunuhan Pembuka",
+        "accuracy": "Ketepatan"
     },
     "rounds": {
-        "round": "R{number}",
-        "planted": "Đặt bom",
-        "defused": "Gỡ bom",
-        "roundProgress": "Cumulative Score Progress Chart",
-        "playerStats": "Player Performance Chart"
+        "round": "P{number}",
+        "planted": "Bom Ditanam",
+        "defused": "Bom Dijinakkan",
+        "roundProgress": "Carta Kemajuan Skor Terkumpul",
+        "playerStats": "Carta Prestasi Pemain"
     },
     "kills": {
-        "round": "Round",
-        "killer": "Người bắn",
-        "victim": "Nạn nhân",
-        "weapon": "Vũ khí",
-        "distance": "K/C",
+        "round": "Pusingan",
+        "killer": "Pembunuh",
+        "victim": "Mangsa",
+        "weapon": "Senjata",
+        "distance": "Jarak",
         "headshot": "HS",
         "wallbang": "WB",
-        "allRounds": "Tất cả",
-        "filterByRound": "Lọc theo round",
-        "entry": "Entry"
+        "allRounds": "Semua",
+        "filterByRound": "Tapis Mengikut Pusingan",
+        "entry": "Pembunuhan Pembuka"
     },
     "roundStats": {
-        "round": "Round",
-        "player": "Người chơi",
-        "side": "Phe",
+        "round": "Pusingan",
+        "player": "Pemain",
+        "side": "Sisi",
         "kills": "K",
         "deaths": "D",
         "assists": "A",
         "damage": "DMG",
         "hsKills": "HS",
-        "trade": "Trade",
-        "alive": "Sống",
-        "selectRound": "Chọn round"
+        "trade": "Pertukaran",
+        "alive": "Hidup",
+        "selectRound": "Pilih Pusingan"
     },
     "economy": {
-        "round": "Round",
-        "equipValue": "Trang bị",
-        "moneyLeft": "Tiền còn",
-        "weapon": "Vũ khí chính",
-        "armor": "Giáp",
+        "round": "Pusingan",
+        "equipValue": "Peralatan",
+        "moneyLeft": "Baki Wang",
+        "weapon": "Senjata Utama",
+        "armor": "Perisai",
         "defuser": "Kit",
-        "grenades": "Lựu đạn"
+        "grenades": "Bom Tangan"
     },
     "mvp": {
         "title": "MVP",
-        "rating": "Rating"
+        "rating": "Penarafan"
     },
-    "showEarlyLeavers": "Hiện người chơi rời sớm ({count})",
-    "hideEarlyLeavers": "Ẩn người chơi rời sớm",
+    "showEarlyLeavers": "Tunjukkan pemain keluar awal ({count})",
+    "hideEarlyLeavers": "Sembunyikan pemain keluar awal",
     "subtabs": {
-        "general": "Tổng quan",
-        "timeline": "Timeline",
-        "aim": "Ngắm bắn",
-        "utility": "Utility",
-        "activity": "Hoạt động",
-        "trades": "Đổi mạng",
-        "opening": "Opening Duels",
-        "clutches": "Clutches"
+        "general": "Umum",
+        "timeline": "Garis Masa",
+        "aim": "Bidikan",
+        "utility": "Utiliti",
+        "activity": "Aktiviti",
+        "trades": "Pertukaran",
+        "opening": "Pertarungan Pembuka",
+        "clutches": "Saat Genting (Clutch)"
     }
 }

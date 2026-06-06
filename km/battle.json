@@ -1,6 +1,6 @@
 {
-    "title": "Battle Mode",
-    "subtitle": "5v5 Competitive Matchmaking",
+    "title": "របៀបប្រយុទ្ធ (Battle Mode)",
+    "subtitle": "ប្រព័ន្ធស្វែងរកការប្រកួត 5v5 (5v5 Matchmaking)",
     "party": {
         "title": "ក្រុមរបស់អ្នក",
         "solo": "លេងតែម្នាក់ឯង",
@@ -37,15 +37,15 @@
         "waiting": "កំពុងរង់ចាំ...",
         "decided": "ផែនទីផ្គូផ្គង",
         "pickSide": "ជ្រើសខាង",
-        "ct": "Counter-Terrorist",
-        "t": "Terrorist"
+        "ct": "ក្រុមប្រឆាំងភេរវករ (CT)",
+        "t": "ក្រុមភេរវករ (T)"
     },
     "stats": {
         "title": "ស្ថិតិ",
         "matches": "ផ្គូផ្គង",
         "wins": "ឈ្នះ",
         "winRate": "អត្រាឈ្នះ",
-        "kd": "K/D",
+        "kd": "សម្លាប់/ស្លាប់ (K/D)",
         "winStreak": "ឈ្នះជាប់",
         "bestStreak": "ឈ្នះជាប់ល្អបំផុត",
         "noMatches": "មិនទាន់លេងផ្គូផ្គង"
@@ -57,7 +57,7 @@
         "matches": "ផ្គូផ្គង",
         "wins": "ឈ្នះ",
         "winRate": "ឈ្នះ %",
-        "kd": "K/D"
+        "kd": "សម្លាប់/ស្លាប់ (K/D)"
     },
     "invite": {
         "received": "អញ្ជើញក្រុម",

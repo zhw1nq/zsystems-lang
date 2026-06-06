@@ -160,7 +160,7 @@
             "title": "ព័ត៌មានផ្ទាល់",
             "description": "ព័ត៌មានគណនីរបស់អ្នក។ ទិន្នន័យខ្លះសមកាលពី Discord។",
             "username": "ឈ្មោះអ្នកប្រើ",
-            "sevenId": "7ID",
+            "sevenId": "លេខសម្គាល់ 7ID",
             "email": "អ៊ីមែល",
             "displayName": "ឈ្មោះបង្ហាញ",
             "registeredAt": "ចុះឈ្មោះ",
@@ -195,8 +195,8 @@
         "linkedAccounts": {
             "title": "គណនីភ្ជាប់",
             "description": "គណនី Discord និង Steam ភ្ជាប់គណនី zSystems។",
-            "discord": "Discord",
-            "steam": "Steam",
+            "discord": "គណនី Discord",
+            "steam": "គណនី Steam",
             "linkedAt": "ភ្ជាប់: {date}",
             "notLinked": "មិនទាន់ភ្ជាប់"
         },
