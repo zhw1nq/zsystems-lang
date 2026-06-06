@@ -5,10 +5,10 @@
         "weaponSkins": "Skin Mạc Súng",
         "agents": "Agents",
         "musicKits": "Nhạc",
-        "pinsCoins": "Huy Hiệu"
+        "pinsCoins": "Mác hiệu"
     },
     "categories": {
-        "gloves": "Găng tay",
+        "gloves": "Bao tay",
         "rifles": "Súng Trường",
         "knives": "Mạc",
         "smgs": "Tiểu Liên",
@@ -26,7 +26,7 @@
     "selectWeapon": "Chọn mốc mạc súng pửa chòi skin",
     "loginRequired": "Mời pỉ đăng nhập pửa dùng Skins",
     "loading": "Tàng tải skin...",
-    "itemCount": "{count} mục",
+    "itemCount": "{count} ản",
     "toast": {
         "tooFast": "Lồng quá nhanh",
         "tooFastDesc": "Mời pỉ chả 2s cón pửa lồng lặp",

@@ -20,7 +20,7 @@
         "logout": "Ók mạng",
         "support": "Giúp đỡ",
         "matches": "Trận đấu",
-        "rules": "Hướng dẫn"
+        "rules": "Luật máy chủ"
     },
     "actions": {
         "copy": "Chép lặp",
@@ -88,5 +88,5 @@
         "warning": "Lỉn game quá 180 phút/vằn hại thâng sức khỏe",
         "loadingWarning": "Lỉn game quá 180 phút mỗi vằn hại thâng sức khỏe."
     },
-    "optional": "Tùy chọn"
+    "optional": "Tùy chọi"
 }

@@ -37,8 +37,8 @@
         "waiting": "กำลังรอ...",
         "decided": "แผนที่แข่งขัน",
         "pickSide": "เลือกฝั่ง",
-        "ct": "Counter-Terrorist",
-        "t": "Terrorist"
+        "ct": "ฝั่ง CT",
+        "t": "ฝั่ง T"
     },
     "stats": {
         "title": "สถิติ",

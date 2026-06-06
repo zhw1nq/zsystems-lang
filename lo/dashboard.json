@@ -17,8 +17,8 @@
     "serverDetail": {
         "players": "ຜູ້ຫຼິ້ນ",
         "noPlayers": "ບໍ່ມີຜູ້ຫຼິ້ນ",
-        "teamCT": "Counter-Terrorists",
-        "teamT": "Terrorists",
+        "teamCT": "ກອງປາບປາມ (Counter-Terrorists)",
+        "teamT": "ກຸ່ມກໍ່ການຮ້າຍ (Terrorists)",
         "teamUnassigned": "ຍັງບໍ່ຈັດທີມ",
         "serverInfo": "ຂໍ້ມູນເຊີບເວີ",
         "chat": "ແຊັດ",
@@ -55,7 +55,7 @@
         "reason": "ເຫດຜົນ",
         "duration": "ໄລຍະເວລາ",
         "timeLeft": "ເຫຼືອເວລາ",
-        "admin": "Admin",
+        "admin": "ຜູ້ດູແລ (Admin)",
         "removeReason": "ເຫດຜົນຖອນ",
         "dateTime": "ວັນທີ / ເວລາ",
         "statusActive": "ກຳລັງໃຊ້",
@@ -81,17 +81,17 @@
             "removeMute": "ຖອນ Mute",
             "deleteBan": "ລຶບແບນ",
             "deleteMute": "ລຶບ Mute",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "ຢືນຢັນການລຶບ",
+            "confirmDeleteDesc": "ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບບັນທຶກ #{id} ຂອງ {player}? ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.",
+            "removeReasonPlaceholder": "ປ້ອນເຫດຜົນການປົດ...",
+            "editBanDesc": "ປ່ຽນແປງເຫດຜົນ ແລະ ໄລຍະເວລາການແບນ.",
+            "editMuteDesc": "ປ່ຽນແປງເຫດຜົນ, ໄລຍະເວລາ ແລະ ປະເພດການປິດສຽງ.",
+            "removeBanDesc": "ປົດແບນ ແລະ ອະນຸຍາດໃຫ້ຜູ້ຫຼິ້ນເຂົ້າຮ່ວມໃໝ່.",
+            "removeMuteDesc": "ປົດການປິດສຽງ ແລະ ອະນຸຍາດໃຫ້ຕິດຕໍ່ສື່ສານອີກຄັ້ງ.",
+            "rebanDesc": "ແບນຜູ້ຫຼິ້ນອີກຄັ້ງດ້ວຍໄລຍະເວລາ ແລະ ເຫດຜົນໃໝ່.",
+            "remuteDesc": "ປິດສຽງຜູ້ຫຼິ້ນອີກຄັ້ງດ້ວຍໄລຍະເວລາ ແລະ ເຫດຜົນໃໝ່.",
+            "actionSuccess": "ດຳເນີນການສຳເລັດ",
+            "actionFailed": "ດຳເນີນການບໍ່ສຳເລັດ"
         }
     },
     "playerAction": {
@@ -111,8 +111,8 @@
         },
         "success": "ດຳເນີນ {action} ກັບ {player} ສຳເລັດ",
         "failed": "ດຳເນີນການບໍ່ສຳເລັດ",
-        "socialLink": "SOCIAL LINK",
-        "statsChecker": "STATS CHECKER",
+        "socialLink": "ລິ້ງສັງຄົມ (SOCIAL LINK)",
+        "statsChecker": "ເຄື່ອງມືກວດສອບສະຖິຕິ (STATS CHECKER)",
         "noSteamInfo": "ຍັງບໍ່ໄດ້ໃສ່ຂໍ້ມູນ SteamID",
         "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ຫຼື ລິ້ງໂປຣໄຟລ໌...",
         "autoResolveHint": "ດຶງຂໍ້ມູນອັດຕະໂນມັດຈາກ SteamID64, ລິ້ງໂປຣໄຟລ໌ ຫຼື vanity URL ເມື່ອວາງໃສ່",
@@ -138,16 +138,16 @@
                 "button": "ຫຼິ້ນເລີຍ"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
+                "name": "ສະມາຊິກ SVIP",
+                "priceMonthly": "200,000 ດົງ (200.000₫)",
+                "priceQuarterly": "500,000 ດົງ (500.000₫)",
                 "description": "ລະດັບສູງສຸດ",
                 "button": "ອັບເກຣດ"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
+                "name": "ສະມາຊິກ VIP",
+                "priceMonthly": "100,000 ດົງ (100.000₫)",
+                "priceQuarterly": "250,000 ດົງ (250.000₫)",
                 "description": "ປະສົບການຂັ້ນສູງ",
                 "button": "ອັບເກຣດ"
             }

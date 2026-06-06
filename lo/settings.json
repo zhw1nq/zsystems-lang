@@ -160,7 +160,7 @@
             "title": "ຂໍ້ມູນສ່ວນຕົວ",
             "description": "ຂໍ້ມູນບັນຊີຂອງທ່ານ. ບາງຂໍ້ມູນຖືກຊິງຈາກ Discord.",
             "username": "ຊື່ຜູ້ໃຊ້",
-            "sevenId": "7ID",
+            "sevenId": "ລະຫັດ 7ID",
             "email": "ອີເມວ",
             "displayName": "ຊື່ສະແດງ",
             "registeredAt": "ລົງທະບຽນ",
@@ -179,7 +179,7 @@
             "steamSynced": "ຊິງ Steam ແລ້ວ"
         },
         "avatar": {
-            "title": "Avatar",
+            "title": "ຮູບແທນຕົວ (Avatar)",
             "description": "Avatar ປັດຈຸບັນຖືກຊິງຈາກ Discord.",
             "comingSoon": "ອັບໂຫຼດ avatar ກຳນົດເອງ — ຈະມາໃນໄວໆນີ້"
         },
@@ -195,8 +195,8 @@
         "linkedAccounts": {
             "title": "ບັນຊີທີ່ເຊື່ອມ",
             "description": "ບັນຊີ Discord ແລະ Steam ທີ່ເຊື່ອມກັບ zSystems.",
-            "discord": "Discord",
-            "steam": "Steam",
+            "discord": "ບັນຊີ Discord",
+            "steam": "ບັນຊີ Steam",
             "linkedAt": "ເຊື່ອມ: {date}",
             "notLinked": "ຍັງບໍ່ເຊື່ອມ"
         },

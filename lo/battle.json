@@ -1,6 +1,6 @@
 {
-    "title": "ໂໝດ Battle",
-    "subtitle": "5v5 Competitive Matchmaking",
+    "title": "ໂໝດປະຈັນບານ (Battle Mode)",
+    "subtitle": "ລະບົບຈັບຄູ່ແຂ່ງຂັນ 5v5 (5v5 Matchmaking)",
     "party": {
         "title": "ປາຕີ້ຂອງທ່ານ",
         "solo": "ຫຼິ້ນຄົນດຽວ",
@@ -37,15 +37,15 @@
         "waiting": "ກຳລັງລໍຖ້າ...",
         "decided": "ແຜນທີ່ແຂ່ງ",
         "pickSide": "ເລືອກຝ່າຍ",
-        "ct": "Counter-Terrorist",
-        "t": "Terrorist"
+        "ct": "ກອງປາບປາມ (CT)",
+        "t": "ກຸ່ມກໍ່ການຮ້າຍ (T)"
     },
     "stats": {
         "title": "ສະຖິຕິ",
         "matches": "ແມຊ",
         "wins": "ຊະນະ",
         "winRate": "ອັດຕາຊະນະ",
-        "kd": "K/D",
+        "kd": "ອັດຕາຂ້າ/ຕາຍ (K/D)",
         "winStreak": "ຊະນະຕໍ່ເນື່ອງ",
         "bestStreak": "ສະຖິຕິດີທີ່ສຸດ",
         "noMatches": "ຍັງບໍ່ໄດ້ຫຼິ້ນແມຊ"
@@ -57,7 +57,7 @@
         "matches": "ແມຊ",
         "wins": "ຊະນະ",
         "winRate": "ຊະນະ %",
-        "kd": "K/D"
+        "kd": "ອັດຕາຂ້າ/ຕາຍ (K/D)"
     },
     "invite": {
         "received": "ຄຳເຊີນປາຕີ້",

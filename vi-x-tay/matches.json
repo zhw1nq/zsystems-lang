@@ -1,26 +1,26 @@
 {
     "title": "Trận đấu",
-    "subtitle": "Lịch sử các trận đấu trên hệ thống",
-    "searchPlaceholder": "Tìm kiếm theo tên đội...",
-    "noMatches": "Không tìm thấy trận đấu nào",
-    "live": "ĐANG THI ĐẤU",
-    "finished": "KẾT THÚC",
+    "subtitle": "Lịch sử mốc trận đấu slên hệ thống",
+    "searchPlaceholder": "Sáo theo chư đội...",
+    "noMatches": "Bấu sáo hăn trận đấu lừ",
+    "live": "TÀNG LỈN",
+    "finished": "MẾT TRẬN",
     "win": "THẮNG",
     "lose": "THUA",
     "viewDetail": "Chi tiết",
     "page": "Trang {page}/{total}",
-    "previous": "Trước",
-    "next": "Sau",
+    "previous": "Cón",
+    "next": "Lăng",
     "tabs": {
         "rounds": "Diễn biến",
-        "kills": "Sát thương",
+        "kills": "Đánh hại",
         "roundStats": "Stats theo Round",
         "economy": "Kinh tế",
         "overview": "Tổng quan",
         "details": "Chi tiết trận đấu"
     },
     "scoreboard": {
-        "player": "Người chơi",
+        "player": "Cần lỉn",
         "kills": "K",
         "deaths": "D",
         "assists": "A",
@@ -29,7 +29,7 @@
         "kd": "K/D",
         "damage": "DMG",
         "entry": "Entry",
-        "accuracy": "Chính xác"
+        "accuracy": "Chăn"
     },
     "rounds": {
         "round": "R{number}",
@@ -40,19 +40,19 @@
     },
     "kills": {
         "round": "Round",
-        "killer": "Người bắn",
-        "victim": "Nạn nhân",
-        "weapon": "Vũ khí",
+        "killer": "Cần bắn",
+        "victim": "Cần bỉ slắp",
+        "weapon": "Mạc súng",
         "distance": "K/C",
         "headshot": "HS",
         "wallbang": "WB",
-        "allRounds": "Tất cả",
+        "allRounds": "Cả thảy",
         "filterByRound": "Lọc theo round",
         "entry": "Entry"
     },
     "roundStats": {
         "round": "Round",
-        "player": "Người chơi",
+        "player": "Cần lỉn",
         "side": "Phe",
         "kills": "K",
         "deaths": "D",
@@ -61,13 +61,13 @@
         "hsKills": "HS",
         "trade": "Trade",
         "alive": "Sống",
-        "selectRound": "Chọn round"
+        "selectRound": "Chọi round"
     },
     "economy": {
         "round": "Round",
-        "equipValue": "Trang bị",
-        "moneyLeft": "Tiền còn",
-        "weapon": "Vũ khí chính",
+        "equipValue": "Lồng đồ",
+        "moneyLeft": "Tiền nhăng",
+        "weapon": "Mạc súng chính",
         "armor": "Giáp",
         "defuser": "Kit",
         "grenades": "Lựu đạn"
@@ -76,8 +76,8 @@
         "title": "MVP",
         "rating": "Rating"
     },
-    "showEarlyLeavers": "Hiện người chơi rời sớm ({count})",
-    "hideEarlyLeavers": "Ẩn người chơi rời sớm",
+    "showEarlyLeavers": "Chòi cần lỉn pây cón ({count})",
+    "hideEarlyLeavers": "Hắp cần lỉn pây cón",
     "subtabs": {
         "general": "Tổng quan",
         "timeline": "Timeline",

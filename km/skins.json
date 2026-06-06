@@ -1,11 +1,11 @@
 {
-    "title": "Skins",
+    "title": "ស្គីន",
     "description": "រុករក និងប្តូរ skin អាវុធ CS2 របស់អ្នក",
     "tabs": {
         "weaponSkins": "Skin អាវុធ",
-        "agents": "Agents",
-        "musicKits": "Music Kits",
-        "pinsCoins": "Pins & Coins"
+        "agents": "តួអង្គ",
+        "musicKits": "កញ្ចប់តន្ត្រី",
+        "pinsCoins": "ម្ជុល និង កាក់"
     },
     "categories": {
         "gloves": "កងដៃ",

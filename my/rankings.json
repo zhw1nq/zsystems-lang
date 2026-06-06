@@ -10,15 +10,15 @@
         "player": "ကစားသမား",
         "points": "အမှတ်",
         "rank": "အဆင့်",
-        "kd": "K/D",
-        "hsr": "HS%",
+        "kd": "သတ်မှု/သေဆုံးမှု အချိုး (K/D Ratio)",
+        "hsr": "ဦးခေါင်းထိမှန်မှု (HS%)",
         "winRate": "အနိုင်ရနှုန်း",
         "playtime": "ကစားချိန်",
         "kills": "သတ်မှု",
         "deaths": "သေဆုံးမှု",
         "assists": "အကူအညီ",
-        "mvp": "MVP",
-        "firstBlood": "First Blood",
+        "mvp": "အကောင်းဆုံး ကစားသမား (MVP)",
+        "firstBlood": "ပထမဦးဆုံး သတ်မှု (First Blood)",
         "roundsPlayed": "Round များ"
     },
     "pagination": {
@@ -71,7 +71,7 @@
         "weaponName": "လက်နက်",
         "weaponKills": "သတ်မှု",
         "weaponHS": "HS",
-        "weaponHSR": "HS%",
+        "weaponHSR": "ဦးခေါင်းထိမှန်မှု ရာခိုင်နှုန်း (HS%)",
         "weaponAccuracy": "တိကျမှု"
     },
     "context": {
@@ -87,7 +87,7 @@
         "confirm": "နားလည်ပါပြီ"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "အပေါင်းရမှတ် အများဆုံး (Top Positive Points)",
+        "negative": "အနှုတ်ရမှတ် အများဆုံး (Top Negative Points)"
     }
 }

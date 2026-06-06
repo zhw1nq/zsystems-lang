@@ -224,7 +224,7 @@
                 "password": "กรอกรหัสผ่าน",
                 "success": "บัญชีจะถูกลบใน 12 ชั่วโมง",
                 "error": "ลบไม่สำเร็จ",
-                "successDetail": "Bạn có thể hủy bằng cách liên hệ hỗ trợ trước thời hạn."
+                "successDetail": "คุณสามารถยกเลิกได้โดยติดต่อฝ่ายสนับสนุนก่อนกำหนดเวลา"
             }
         }
     },
@@ -263,8 +263,8 @@
         "successDetail": "ซิงค์ข้อมูลแล้ว",
         "error": "อัปเดตไม่สำเร็จ",
         "errorDetail": "กรุณาลองใหม่",
-        "discordSynced": "Discord đã đồng bộ",
-        "steamSynced": "Steam đã đồng bộ",
-        "hint": "Nhấn nút bên dưới để cập nhật avatar và tên hiển thị mới nhất từ Discord và Steam."
+        "discordSynced": "ซิงค์ Discord แล้ว",
+        "steamSynced": "ซิงค์ Steam แล้ว",
+        "hint": "คลิกปุ่มด้านล่างเพื่อดึงข้อมูลรูปโปรไฟล์และชื่อที่แสดงล่าสุดจาก Discord และ Steam"
     }
 }

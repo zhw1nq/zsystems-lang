@@ -9,7 +9,7 @@
         "ranks": "ອັນດັບ",
         "contact": "ຕິດຕໍ່",
         "getDemo": "ຂໍ Demo",
-        "subbrand": "zSYSTEMS-v2", 
+        "subbrand": "ລະບົບ zSYSTEMS-v2", 
         "playNow": "ຫຼິ້ນເລີຍ",
         "login": "ເຂົ້າສູ່ລະບົບ",
         "changeSkins": "ປ່ຽນສະກິນອາວຸດ"
@@ -20,7 +20,7 @@
         "support": "ຊ່ວຍເຫຼືອ"
     },
     "stats": {
-        "uptime": "UPTIME",
+        "uptime": "ເວລາເຮັດວຽກ (Uptime)",
         "ping": "PING",
         "players6h": "ຜູ້ຫຼິ້ນ / 6ຊມ"
     },
@@ -55,11 +55,11 @@
     "rules": "ກົດລະບຽບຊຸມຊົນ",
     "report": "ລາຍງານການລະເມີດ",
     "contact": "ຕິດຕໍ່ສະໜັບສະໜູນ",
-    "faq": "FAQ"
+    "faq": "ຄຳຖາມທີ່ພົບເລື້ອຍ (FAQ)"
 }
 },
 "character": {
-"name": "7-CHAN"
+"name": "ຕົວລະຄອນ 7-CHAN"
 },
 "preloader": {
 "restricted18": "ຈຳກັດ 18+",
@@ -69,10 +69,10 @@
 "loading": "ກຳລັງໂຫຼດ"
 },
 "zsystems": {
-"title": "zSystems",
+"title": "ລະບົບ zSystems",
 "subtitle": "ສະຖາປັດຕະຍະກຳລະບົບ zSystems",
 "backHome": "ກັບໄປໜ້າຫຼັກ",
-"heroTag": "zSystems & vhming Core Platform",
+"heroTag": "ແພລດຟອມ zSystems & vhming",
 "description": "zSystems ແລະ vhming ແມ່ນລະບົບຈັດການຂັ້ນສູງ ແລະ ແຜງຄວບຄຸມແບບ All-In-One (AIO) ທີ່ປັບແຕ່ງເພື່ອປະສິດທິພາບສູງສຸດ ຊ່ວຍໃຫ້ການດຳເນີນງານລາບລື່ນ, ປະສິດທິພາບສູງ ແລະ ຈັດການຖານຂໍ້ມູນແບບເວລາຈິງ.",
 "legalTitle": "ຂໍ້ມູນລະບົບ & ຂໍ້ກົດໝາຍ",
 "features": {
@@ -87,19 +87,19 @@
 },
 "owner": {
     "label": "ເຈົ້າຂອງ",
-    "name": "luxiie",
+    "name": "ເຈົ້າຂອງ luxiie",
     "desc": "ຕົວແທນທາງກົດໝາຍ, ຜູ້ກໍ່ຕັ້ງ ແລະ ເຈົ້າຂອງລິຂະສິດຢ່າງເປັນທາງການຂອງ zSystems.",
     "linkText": "ເຂົ້າເບິ່ງ luxiie"
 },
 "developer": {
     "label": "ນັກພັດທະນາ",
-    "name": "vhming",
+    "name": "ຜູ້ພັດທະນາ vhming",
     "desc": "ນັກພັດທະນາຫຼັກ ແລະ ສະຖາປະນິກລະບົບຜູ້ສ້າງ ແລະ ດູແລ zSystems.",
     "linkText": "ເຂົ້າເບິ່ງ vhming.com"
 },
 "dmca": {
     "label": "ການປົກປ້ອງລິຂະສິດ",
-    "name": "DMCA Protected",
+    "name": "ປົກປ້ອງໂດຍ DMCA Protected",
     "desc": "ເນື້ອຫາ, ການອອກແບບ ແລະ ຊອດໂຄດ ໄດ້ຮັບການຄຸ້ມຄອງລິຂະສິດດິຈິຕອນລະດັບສາກົນ.",
     "linkText": "ກວດສອບ DMCA"
 },

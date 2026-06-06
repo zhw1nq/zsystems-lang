@@ -18,7 +18,7 @@
         "deaths": "ตาย",
         "assists": "แอสซิสต์",
         "mvp": "MVP",
-        "firstBlood": "First Blood",
+        "firstBlood": "การฆ่าครั้งแรก",
         "roundsPlayed": "รอบ"
     },
     "pagination": {
@@ -65,7 +65,7 @@
         "ctHours": "ชั่วโมงฝั่ง CT",
         "subtitle": "สถิติรายละเอียดของแต่ละเซิร์ฟเวอร์",
         "back": "ย้อนกลับ",
-        "dominationKills": "Domination",
+        "dominationKills": "ครอบงำ",
         "ctRounds": "รอบ CT",
         "tRounds": "รอบ T",
         "weaponName": "อาวุธ",
@@ -87,7 +87,7 @@
         "confirm": "เข้าใจแล้ว"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "อันดับคะแนนบวกสูงสุด",
+        "negative": "อันดับคะแนนลบสูงสุด"
     }
 }

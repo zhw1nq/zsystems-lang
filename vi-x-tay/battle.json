@@ -20,8 +20,8 @@
     },
     "match": {
         "found": "ĐẠ HĂN TRẬN!",
-        "accept": "CHẤP NHẬN",
-        "decline": "TỪ CHỐI",
+        "accept": "NHẬN",
+        "decline": "BẤU NHẬN",
         "cancelReason": {
             "decline": "Mốc cần lỉn đạ từ chối"
         },
@@ -35,8 +35,8 @@
         "yourTurn": "Lượt cúa pỉ — Chọn map pửa BAN",
         "enemyTurn": "Phe bên tàng chọn...",
         "waiting": "Tàng chả...",
-        "decided": "Map thi đấu",
-        "pickSide": "Chọn Side",
+        "decided": "Map lỉn",
+        "pickSide": "Chọi Side",
         "ct": "Counter-Terrorist",
         "t": "Terrorist"
     },
@@ -62,12 +62,12 @@
     "invite": {
         "received": "Lời mời chạu đội",
         "from": "{name} mời pỉ chạu đội",
-        "accept": "Chấp nhận",
-        "decline": "Từ chối"
+        "accept": "Nhận",
+        "decline": "Bấu nhận"
     },
     "cooldown": {
         "reason": {
-            "decline": "Từ chối trận đấu"
+            "decline": "Bấu nhận trận đấu"
         }
     },
     "history": {

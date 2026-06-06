@@ -12,12 +12,12 @@
     },
     "card": {
         "items": "{count} items",
-        "uses": "{count} lượt dùng",
-        "likes": "{count} thích", 
+        "uses": "{count} pày dùng",
+        "likes": "{count} pày thích", 
         "comments": "{count} bình luận",
         "by": "vị {author}",
         "public": "Công khai",
-        "private": "Riêng tư"
+        "private": "Giử kín"
     },
     "create": {
         "button": "Chế mấư",
@@ -36,11 +36,11 @@
         "emptyLoadout": "Loadout lủc nẩy pảo, mải lừ pửa giử"
     },
     "detail": {
-        "apply": "Áp dụng bộ sưu tập",
+        "apply": "Lồng bộ sưu tập",
         "applyConfirmTitle": "Áp dụng bộ sưu tập bấu?",
         "applyConfirmDesc": "Loadout lủc nẩy cúa pỉ slẽ bỉ ghi đè hoàn toàn bặng tàng items trong bộ sưu tập nẩy. Hành động nẩy bấu tể quây lặp.",
-        "applySuccess": "Đạ áp dụng bộ sưu tập đảy việc!",
-        "applyError": "Bấu tể áp dụng bộ sưu tập",
+        "applySuccess": "Đạ lồng bộ sưu tập đảy việc!",
+        "applyError": "Bấu tể lồng bộ sưu tập",
         "delete": "Mịt",
         "deleteConfirmTitle": "Mịt bộ sưu tập bấu?",
         "deleteConfirmDesc": "Pỉ mỉ chắc mừa mịt bộ sưu tập nẩy bấu? Hành động nẩy bấu tể quây lặp.",
@@ -74,8 +74,8 @@
         "tooFast": "Lồng quá nhanh!",
         "tooFastDesc": "Mới pỉ chả cón pửa lồng hành động tiếp lăng",
         "copiedId": "Đạ chép lặp ID",
-        "applied": "Đạ áp dụng bộ sưu tập!",
-        "applyError": "Bấu tể áp dụng"
+        "applied": "Đạ lồng bộ sưu tập!",
+        "applyError": "Bấu tể lồng"
     },
     "search": "Sáo bộ sưu tập..."
 }

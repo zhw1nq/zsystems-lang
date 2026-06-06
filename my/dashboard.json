@@ -17,8 +17,8 @@
     "serverDetail": {
         "players": "ကစားသမားများ",
         "noPlayers": "ကစားသမား မရှိ",
-        "teamCT": "Counter-Terrorists",
-        "teamT": "Terrorists",
+        "teamCT": "Counter-Terrorists (CT အဖွဲ့)",
+        "teamT": "Terrorists (T အဖွဲ့)",
         "teamUnassigned": "မသတ်မှတ်ရသေး",
         "serverInfo": "ဆာဗာ အချက်အလက်",
         "chat": "ချတ်",
@@ -55,7 +55,7 @@
         "reason": "အကြောင်းရင်း",
         "duration": "ကြာချိန်",
         "timeLeft": "ကျန်ရှိချိန်",
-        "admin": "Admin",
+        "admin": "Admin (စီမံခန့်ခွဲသူ)",
         "removeReason": "ဖယ်ရှားရခြင်း အကြောင်းရင်း",
         "dateTime": "ရက်စွဲ / အချိန်",
         "statusActive": "တက်ကြွ",
@@ -81,17 +81,17 @@
             "removeMute": "Mute ဖယ်ရှား",
             "deleteBan": "ပိတ်ပင် ဖျက်",
             "deleteMute": "Mute ဖျက်",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "ဖျက်ရန် အတည်ပြုခြင်း",
+            "confirmDeleteDesc": "ကစားသမား {player} ၏ မှတ်တမ်း #{id} ကို ဖျက်ရန် သေချာပါသလား။ ဤလုပ်ဆောင်ချက်ကို ပြန်ပြင်၍မရပါ။",
+            "removeReasonPlaceholder": "ဖယ်ရှားရန် အကြောင်းပြချက်ကို ရိုက်ထည့်ပါ...",
+            "editBanDesc": "ပိတ်ပင်မှု၏ အကြောင်းပြချက်နှင့် ကြာချိန်ကို ပြောင်းလဲပါ။",
+            "editMuteDesc": "အသံပိတ်ခြင်း၏ အကြောင်းပြချက်၊ ကြာချိန်နှင့် အမျိုးအစားကို ပြောင်းလဲပါ။",
+            "removeBanDesc": "ပိတ်ပင်မှုကို ဖယ်ရှားပြီး ကစားသမားအား ပြန်လည်ဝင်ရောက်ခွင့်ပြုပါ။",
+            "removeMuteDesc": "အသံပိတ်ခြင်းကို ဖယ်ရှားပြီး ကစားသမားအား ပြန်လည်ပြောဆိုခွင့်ပြုပါ။",
+            "rebanDesc": "ကစားသမားအား ကြာချိန်နှင့် အကြောင်းပြချက်အသစ်ဖြင့် ပြန်လည်ပိတ်ပင်ပါ။",
+            "remuteDesc": "ကစားသမားအား ကြာချိန်နှင့် အကြောင်းပြချက်အသစ်ဖြင့် ပြန်လည်အသံပိတ်ပါ။",
+            "actionSuccess": "လုပ်ဆောင်ချက် အောင်မြင်ပါသည်",
+            "actionFailed": "လုပ်ဆောင်ချက် မအောင်မြင်ပါ"
         }
     },
     "playerAction": {
@@ -111,8 +111,8 @@
         },
         "success": "{player} အပေါ် {action} အောင်မြင်စွာ လုပ်ဆောင်ပြီး",
         "failed": "လုပ်ဆောင်ချက် မအောင်မြင်",
-        "socialLink": "SOCIAL LINK",
-        "statsChecker": "STATS CHECKER",
+        "socialLink": "လူမှုကွန်ရက် လင့်ခ် (SOCIAL LINK)",
+        "statsChecker": "အခြေအနေ စစ်ဆေးကိရိယာ (STATS CHECKER)",
         "noSteamInfo": "SteamID အချက်အလက် မထည့်ရသေးပါ",
         "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX သို့မဟုတ် profile link...",
         "autoResolveHint": "SteamID64၊ profile link သို့မဟုတ် vanity URL ကို paste လုပ်သောအခါ အချက်အလက်ကို အလိုအလျောက် ရယူမည်",
@@ -131,23 +131,23 @@
         "currentPlan": "လက်ရှိ အစီအစဉ်",
         "tiers": {
             "member": {
-                "name": "FREE",
-                "priceMonthly": "FREE",
-                "priceQuarterly": "FREE",
+                "name": "FREE (အခမဲ့)",
+                "priceMonthly": "FREE (အခမဲ့)",
+                "priceQuarterly": "FREE (အခမဲ့)",
                 "description": "အခြေခံ အတွေ့အကြုံ",
                 "button": "ယခုကစားရန်"
             },
             "svip": {
-                "name": "SVIP",
-                "priceMonthly": "200.000₫",
-                "priceQuarterly": "500.000₫",
+                "name": "SVIP အဆင့်",
+                "priceMonthly": "200.000 ₫ (ဒေါင်)",
+                "priceQuarterly": "500.000 ₫ (ဒေါင်)",
                 "description": "အမြင့်ဆုံး ဂုဏ်သိက္ခာ",
                 "button": "အဆင့်မြှင့်"
             },
             "vip": {
-                "name": "VIP",
-                "priceMonthly": "100.000₫",
-                "priceQuarterly": "250.000₫",
+                "name": "VIP အဆင့်",
+                "priceMonthly": "100.000 ₫ (ဒေါင်)",
+                "priceQuarterly": "250.000 ₫ (ဒေါင်)",
                 "description": "တိုးတက်သော အတွေ့အကြုံ",
                 "button": "အဆင့်မြှင့်"
             }

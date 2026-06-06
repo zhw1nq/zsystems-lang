@@ -40,7 +40,7 @@
       "brandDescription": "Cộng đồng CS2 to nhất Việt Nam. Hệ thống máy chủ ổn định, chạy khỏe, trễ cực ít.",
       "navigation": "Đường dẫn",
       "servers": "Máy chủ",
-      "support": "Hỗ trợ",
+      "support": "Giúp đỡ",
       "serverTip": "Mở console CS2, gõ connect [IP] để vào chơi",
       "copyConnect": "Bấm để copy lệnh connect",
       "dmca": "Bản quyền & DMCA Protected: zSystems cạ 7-Mau Community giữ luật bản quyền. Counter-Strike 2 là thương hiệu của Valve Corporation.",
@@ -59,7 +59,7 @@
         "privacy": "Luật giử kín",
         "rules": "Luật cộng đồng",
         "report": "Báo lỗi",
-        "contact": "Liên hệ hỗ trợ",
+        "contact": "Liên hệ giúp đỡ",
         "faq": "FAQ"
       }
     },
@@ -71,15 +71,15 @@
     "preloader": {
       "restricted18": "Giới hạn 18+",
       "warningInitial": "Chơi game quá 180 phút mỗi ngày slẽ ảnh hưởng xấu đến sức khỏe.",
-      "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
+      "warningFun": "Mới pỉ lỉn game vui vẻ slên 7-mau.com!",
       "warningStuck": "Nếu màn hình bị kẹt hoặc tải lâu, hãy tải lại trang.",
-      "loading": "ĐANG TẢI"
+      "loading": "TÀNG TẢI"
     },
   
     "zsystems": {
       "title": "zSystems",
       "subtitle": "Pây slẳm hệ thống zSystems",
-      "backHome": "QUAY LẠI TRANG CHỦ",
+      "backHome": "QUÂY LẠP TRANG CHỦ",
       "heroTag": "zSystems & vhming Core Platform",
   
       "description": "zSystems cạ vhming là hệ thống pây slẳm cạ bảng điều khiển cho cần dùng All-In-One (AIO), chạy mượt, khỏe lắm, cạ quản lý dữ liệu chạy liền tức thì.",
@@ -101,14 +101,14 @@
         "label": "CHỦ",
         "name": "luxiie",
         "desc": "Người đứng tên, dựng cạ giữ quyền hệ thống zSystems.",
-        "linkText": "Ghé thăm luxiie"
+        "linkText": "Pay chòi luxiie"
       },
   
       "developer": {
         "label": "NGƯỜI LÀM",
         "name": "vhming",
         "desc": "Người dựng cạ giữ hệ thống zSystems chạy ổn.",
-        "linkText": "Ghé thăm vhming.com"
+        "linkText": "Pay chòi vhming.com"
       },
   
       "dmca": {

@@ -10,15 +10,15 @@
         "player": "អ្នកលេង",
         "points": "ពិន្ទុ",
         "rank": "ចំណាត់ថ្នាក់",
-        "kd": "K/D",
-        "hsr": "HS%",
+        "kd": "សម្លាប់/ស្លាប់ (K/D)",
+        "hsr": "ភាគរយបាញ់ក្បាល (HS%)",
         "winRate": "អត្រាឈ្នះ",
         "playtime": "ពេលលេង",
         "kills": "សម្លាប់",
         "deaths": "ស្លាប់",
         "assists": "ជួយ",
-        "mvp": "MVP",
-        "firstBlood": "First Blood",
+        "mvp": "កីឡាករឆ្នើម (MVP)",
+        "firstBlood": "ការសម្លាប់ដំបូង (First Blood)",
         "roundsPlayed": "វគ្គ"
     },
     "pagination": {
@@ -65,13 +65,13 @@
         "ctHours": "ម៉ោងខាង CT",
         "subtitle": "ស្ថិតិលម្អិតតាមម៉ាស៊ីនមេនីមួយៗ",
         "back": "ត្រឡប់ក្រោយ",
-        "dominationKills": "Domination",
+        "dominationKills": "ការសម្លាប់ត្រួតត្រា (Domination)",
         "ctRounds": "វគ្គ CT",
         "tRounds": "វគ្គ T",
         "weaponName": "អាវុធ",
-        "weaponKills": "Kills",
+        "weaponKills": "ការសម្លាប់ (Kills)",
         "weaponHS": "HS",
-        "weaponHSR": "HS%",
+        "weaponHSR": "ភាគរយបាញ់ក្បាល (HS%)",
         "weaponAccuracy": "ភាពត្រឹមត្រូវ"
     },
     "context": {
@@ -87,7 +87,7 @@
         "confirm": "យល់ព្រម"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "ចំណាត់ថ្នាក់ពិន្ទុវិជ្ជមាន",
+        "negative": "ចំណាត់ថ្នាក់ពិន្ទុអវិជ្ជមាន"
     }
 }

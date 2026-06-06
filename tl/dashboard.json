@@ -81,17 +81,17 @@
             "removeMute": "Tanggalin ang Mute",
             "deleteBan": "Burahin ang Ban",
             "deleteMute": "Burahin ang Mute",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "Kumpirmahin ang Pagbura",
+            "confirmDeleteDesc": "Sigurado ka bang gusto mong burahin ang record #{id} para kay {player}? Ang aksyong ito ay hindi na maaaring bawiin.",
+            "removeReasonPlaceholder": "Ilagay ang dahilan ng pagtanggal...",
+            "editBanDesc": "Baguhin ang dahilan at tagal ng ban na ito.",
+            "editMuteDesc": "Baguhin ang dahilan, tagal, at uri ng mute na ito.",
+            "removeBanDesc": "Tanggalin ang ban at payagang makasali muli ang manlalaro.",
+            "removeMuteDesc": "Tanggalin ang mute at payagang makipag-usap muli ang manlalaro.",
+            "rebanDesc": "I-ban muli ang manlalaro gamit ang bagong tagal at dahilan.",
+            "remuteDesc": "I-mute muli ang manlalaro gamit ang bagong tagal at dahilan.",
+            "actionSuccess": "Matagumpay na naisagawa",
+            "actionFailed": "Nabigo ang aksyon"
         }
     },
     "playerAction": {

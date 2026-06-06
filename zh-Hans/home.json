@@ -62,47 +62,47 @@
         "name": "7-CHAN"
     },
     "preloader": {
-        "restricted18": "Giới hạn 18+",
-        "warningInitial": "Chơi game quá 180 phút mỗi ngày sẽ ảnh hưởng xấu đến sức khỏe.",
-        "warningFun": "Chúc anh em chơi game vui vẻ tại 7-mau.com!",
-        "warningStuck": "Nếu màn hình chờ bị kẹt hoặc tải quá lâu, hãy tải lại trang để tiếp tục.",
-        "loading": "ĐANG TẢI"
+        "restricted18": "18+ 限制",
+        "warningInitial": "每天游戏超过 180 分钟会影响健康。",
+        "warningFun": "祝大家在 7-mau.com 玩得开心！",
+        "warningStuck": "如果加载页面卡住或加载时间过长，请重新加载页面以继续。",
+        "loading": "加载中"
     },
     "zsystems": {
         "title": "zSystems",
-        "subtitle": "Kiến trúc hệ thống zSystems",
-        "backHome": "QUAY LẠI TRANG CHỦ",
+        "subtitle": "zSystems 系统架构",
+        "backHome": "返回首页",
         "heroTag": "zSystems & vhming Core Platform",
-        "description": "zSystems và vhming là hệ thống quản lý nâng cao và bảng điều khiển dành cho người dùng All-In-One (AIO) tối ưu, mang lại khả năng vận hành liền mạch, hiệu năng vượt trội và quản lý cơ sở dữ liệu thời gian thực.",
-        "legalTitle": "Thông Tin Hệ Thống & Pháp Lý",
+        "description": "zSystems 和 vhming 是终极的高级管理系统和用户面板，作为多合一 (AIO) 解决方案，提供无缝操作、卓越性能和实时数据库管理。",
+        "legalTitle": "系统信息与法律保护",
         "features": {
-            "engineTitle": "Động Cơ Hiệu Năng Cao",
-            "engineDesc": "Được vận hành bởi các mô-đun xử lý thế hệ mới cung cấp khả năng thực thi luồng mili-giây và quản lý hiệu suất mạnh mẽ.",
-            "cacheTitle": "Phân Lớp Bộ Nhớ Đệm L2 Tập Trung",
-            "cacheDesc": "Lưu trữ bền vững và đồng bộ hóa qua các cụm bộ nhớ đệm Redis hiệu năng cao để phục vụ lượng người dùng khổng lồ ngay lập tức.",
-            "architectureTitle": "Kiến Trúc Hệ Thống Cinematic",
-            "architectureDesc": "Bảo vệ mạnh mẽ chống lại các mối đe dọa không gian mạng, giao thức liên kết an toàn và kiểm tra phiên tự động được xây dựng trực tiếp vào lõi.",
-            "pipelineTitle": "Đường Truyền Trễ Siêu Thấp",
-            "pipelineDesc": "Tối ưu hóa quy trình thực thi được thiết kế dành riêng cho cộng đồng game thủ đòi hỏi khắt khe và các hệ thống nhiều người chơi."
+            "engineTitle": "高性能引擎",
+            "engineDesc": "由下一代处理模块驱动，提供亚毫秒级线程执行和强大的性能处理。",
+            "cacheTitle": "集中式 L2 缓存层",
+            "cacheDesc": "通过高性能 Redis 缓存集群进行持久化和同步，以立即服务海量用户。",
+            "architectureTitle": "电影级系统架构",
+            "architectureDesc": "强大的网络威胁防护、安全链接协议以及直接内置于内核的自动会话检查。",
+            "pipelineTitle": "超低延迟管线",
+            "pipelineDesc": "专为高需求游戏社区和多玩家系统设计的优化管线执行。"
         },
         "owner": {
-            "label": "CHỦ SỞ HỮU",
+            "label": "系统所有者",
             "name": "luxiie",
-            "desc": "Đại diện pháp lý, nhà sáng lập kiêm sở hữu bản quyền chính thức hệ thống zSystems.",
-            "linkText": "Ghé thăm luxiie"
+            "desc": "zSystems 平台的法定代表人、创始人及官方版权所有者。",
+            "linkText": "访问 luxiie"
         },
         "developer": {
-            "label": "LẬP TRÌNH VIÊN",
+            "label": "主程序员",
             "name": "vhming",
-            "desc": "Nhà phát triển chính kiêm kiến trúc sư trưởng xây dựng và vận hành hệ thống zSystems.",
-            "linkText": "Ghé thăm vhming.com"
+            "desc": "构建和运营 zSystems 平台的主开发人员兼首席架构师。",
+            "linkText": "访问 vhming.com"
         },
         "dmca": {
-            "label": "BẢO VỆ BẢN QUYỀN",
+            "label": "版权保护",
             "name": "DMCA Protected",
-            "desc": "Nội dung, thiết kế và mã nguồn được đăng ký bảo hộ bản quyền kỹ thuật số toàn cầu.",
-            "linkText": "Xác minh DMCA"
+            "desc": "所有内容、设计资产和源代码均在全球范围内受到数字保护。",
+            "linkText": "验证 DMCA"
         },
-        "footerText": "Được xây dựng bởi vhming với sự xuất sắc tuyệt đối."
+        "footerText": "由 vhming 构建，追求绝对卓越。"
     }
 }

@@ -87,7 +87,7 @@
         "confirm": "Entendi"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "Top Pontos Positivos",
+        "negative": "Top Pontos Negativos"
     }
 }

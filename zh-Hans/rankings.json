@@ -87,7 +87,7 @@
         "confirm": "知道了"
     },
     "mode": {
-        "positive": "Top Điểm Dương",
-        "negative": "Top Điểm Âm"
+        "positive": "正积分排行",
+        "negative": "负积分排行"
     }
 }

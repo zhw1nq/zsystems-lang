@@ -105,9 +105,9 @@
             "noSessions": "Tiada sesi aktif",
             "lastActive": "Terakhir aktif: {time}",
             "device": {
-                "desktop": "Desktop",
+                "desktop": "Komputer Desktop",
                 "mobile": "Mudah Alih",
-                "tablet": "Tablet",
+                "tablet": "Peranti Tablet",
                 "unknown": "Tidak diketahui"
             }
         },
@@ -164,7 +164,7 @@
             "email": "E-mel",
             "displayName": "Nama paparan",
             "registeredAt": "Didaftarkan",
-            "status": "Status",
+            "status": "Status Profil",
             "statusActive": "Aktif",
             "statusSuspended": "Digantung",
             "statusBanned": "Disekat",
@@ -179,7 +179,7 @@
             "steamSynced": "Steam disegerakkan"
         },
         "avatar": {
-            "title": "Avatar",
+            "title": "Gambar Profil",
             "description": "Avatar semasa anda disegerakkan dari Discord.",
             "comingSoon": "Muat naik avatar tersuai — akan datang"
         },
@@ -195,8 +195,8 @@
         "linkedAccounts": {
             "title": "Akaun Dipautkan",
             "description": "Akaun Discord dan Steam dipautkan kepada akaun zSystems anda.",
-            "discord": "Discord",
-            "steam": "Steam",
+            "discord": "Akaun Discord",
+            "steam": "Akaun Steam",
             "linkedAt": "Dipautkan: {date}",
             "notLinked": "Tidak dipautkan"
         },

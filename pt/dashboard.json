@@ -81,17 +81,17 @@
             "removeMute": "Remover mute",
             "deleteBan": "Excluir banimento",
             "deleteMute": "Excluir mute",
-            "confirmDeleteTitle": "Xác nhận xóa",
-            "confirmDeleteDesc": "Bạn có chắc muốn xóa bản ghi #{id} của {player}? Hành động này không thể hoàn tác.",
-            "removeReasonPlaceholder": "Nhập lý do gỡ...",
-            "editBanDesc": "Thay đổi lý do và thời hạn của lệnh cấm.",
-            "editMuteDesc": "Thay đổi lý do, thời hạn và loại cấm chat.",
-            "removeBanDesc": "Gỡ lệnh cấm và cho phép người chơi tham gia lại.",
-            "removeMuteDesc": "Gỡ lệnh cấm chat và cho phép giao tiếp lại.",
-            "rebanDesc": "Cấm lại người chơi với thời hạn và lý do mới.",
-            "remuteDesc": "Cấm chat lại người chơi với thời hạn và lý do mới.",
-            "actionSuccess": "Thực hiện thành công",
-            "actionFailed": "Thực hiện thất bại"
+            "confirmDeleteTitle": "Confirmar exclusão",
+            "confirmDeleteDesc": "Tem certeza de que deseja excluir o registro #{id} de {player}? Esta ação não pode ser desfeita.",
+            "removeReasonPlaceholder": "Digite o motivo da remoção...",
+            "editBanDesc": "Alterar o motivo e a duração deste banimento.",
+            "editMuteDesc": "Alterar o motivo, a duração e o tipo deste silenciamento.",
+            "removeBanDesc": "Remover o banimento e permitir que o jogador entre novamente.",
+            "removeMuteDesc": "Remover o silenciamento e permitir que o jogador se comunique novamente.",
+            "rebanDesc": "Banir novamente o jogador com uma nova duração e motivo.",
+            "remuteDesc": "Silenciar novamente o jogador com uma nova duração e motivo.",
+            "actionSuccess": "Ação concluída com sucesso",
+            "actionFailed": "Ação falhou"
         }
     },
     "playerAction": {

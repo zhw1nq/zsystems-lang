@@ -12,7 +12,7 @@
         "noResults": "Bấu sáo hăn cần lỉn lừ",
         "accessDenied": "Pỉ cần quyền SVIP pửa dùng tính năng nẩy",
         "notLoggedIn": "Mời pỉ đăng nhập pửa dùng",
-        "selectCategory": "Chọn danh mục" 
+        "selectCategory": "Chọi danh mục" 
     },
     "weapons": {
         "title": "zWeapons",
@@ -22,14 +22,14 @@
         "unequip": "Gỡ",
         "search": "Sáo mạc súng...",
         "noResults": "Bấu sáo hăn mạc súng lừ",
-        "selectPack": "Chọn bộ skin",
-        "selectWeapon": "Chọn loại mạc súng",
+        "selectPack": "Chọi bộ skin",
+        "selectWeapon": "Chọi loại mạc súng",
         "viewByType": "Chòi theo loại súng",
         "viewByPack": "Chòi theo bộ skin",
         "accessDenied": "Pỉ cần quyền SVIP pửa dùng tính năng nẩy",
         "notLoggedIn": "Mời pỉ đăng nhập pửa dùng",
         "categories": {
-            "rifles": "Súng Trường",
+            "rifles": "Súng trường",
             "pistols": "Súng ngẳn",
             "smgs": "Tiểu Liên",
             "heavy": "Súng nặc",
@@ -62,7 +62,7 @@
         "admin": "ADMIN",
         "preview": "Nghỉn thử",
         "stop": "Chặng",
-        "apply": "Áp dụng",
+        "apply": "Lồng",
         "unequip": "Gỡ",
         "equipped": "Tàng dùng",
         "lockedVip": "Đòi VIP",
