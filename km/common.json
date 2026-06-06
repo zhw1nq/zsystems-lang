@@ -25,35 +25,22 @@
     "actions": {
         "copy": "ចម្លង",
         "connect": "ភ្ជាប់",
-        "save": "រក្សាទុក",
         "cancel": "បោះបង់",
         "close": "បិទ",
-        "confirm": "បញ្ជាក់",
-        "delete": "លុប",
-        "edit": "កែសម្រួល",
         "back": "ត្រឡប់",
         "retry": "ព្យាយាមម្តងទៀត",
         "search": "ស្វែងរក..."
     },
     "status": {
-        "online": "អនឡាញ",
-        "offline": "ក្រៅបណ្តាញ",
-        "loading": "កំពុងផ្ទុក...",
-        "error": "កំហុស",
-        "success": "ជោគជ័យ"
+        "loading": "កំពុងផ្ទុក..."
     },
     "toast": {
         "copied": "បានចម្លងទៅ clipboard",
         "copyFailed": "ចម្លងមិនបាន"
     },
-    "footer": {
-        "rights": "រក្សាសិទ្ធិទាំងអស់"
-    },
     "sidebar": {
         "collapse": "បង្រួម",
         "expand": "ពង្រីក",
-        "language": "ភាសា",
-        "theme": "រូបរាង",
         "terms": "លក្ខខណ្ឌ & ភាពឯកជន",
         "guest": "ភ្ញៀវ",
         "settings": "ការកំណត់"

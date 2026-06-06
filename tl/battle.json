@@ -8,50 +8,26 @@
         "invite": "Mag-imbita gamit ang 7ID",
         "invitePlaceholder": "Ilagay ang #7ID...",
         "inviteButton": "Magpadala ng Imbitasyon",
-        "leave": "Umalis sa Party",
-        "disband": "I-disband ang Party",
-        "full": "Puno na ang Party (5/5)",
-        "members": "{count}/5 miyembro",
-        "leader": "Leader",
-        "member": "Miyembro",
-        "disbanded": "Na-disband ang party" 
+        "leave": "Umalis sa Party"
     },
     "queue": {
         "find": "MAGHANAP NG MATCH",
         "cancel": "KANSelahin",
         "searching": "Naghahanap ng match...",
-        "estimatedWait": "Tinatayang oras ng paghihintay: {time}",
         "playersInQueue": "{count} manlalaro ang naghahanap",
         "partiesInQueue": "{count} party ang naghahanap",
-        "cooldown": "Nasa cooldown ka. Subukang muli sa {time}",
-        "memberCooldown": "{name} ay nasa cooldown",
-        "emailRequired": "Kailangang verified ang email ng lahat ng miyembro",
         "leaderOnly": "Tanging leader ng party lamang ang maaaring maghanap ng match"
     },
     "match": {
         "found": "NAHANAP ANG MATCH!",
         "accept": "TANGGAPIN",
         "decline": "TANGGIHAN",
-        "accepted": "{count}/{total} ang tumanggap",
-        "timeRemaining": "{seconds}s",
-        "cancelled": "Nakansela ang match",
         "cancelReason": {
-            "decline": "May manlalaro na tumanggi",
-            "timeout": "Nag-expire ang oras ng pagtanggap"
+            "decline": "May manlalaro na tumanggi"
         },
-        "teamA": "Team A",
-        "teamB": "Team B",
         "myTeam": "INYONG TEAM",
         "enemyTeam": "KALABAN NA TEAM",
         "accepted_status": "Handa na",
-        "vs": "VS",
-        "captain": "Kapitan",
-        "configuring": "Inaayos ang server...",
-        "live": "LIVE",
-        "finished": "TAPOS NA",
-        "won": "PANALO",
-        "lost": "TALO",
-        "draw": "TABLE",
         "starting": "NAGSISIMULA ANG MATCH!!!"
     },
     "mapBan": {
@@ -59,12 +35,8 @@
         "yourTurn": "Ikaw na — Pumili ng map na IBA-BAN",
         "enemyTurn": "Kalaban ang pumipili...",
         "waiting": "Naghihintay...",
-        "banned": "Banned",
-        "remaining": "Natitira: {count} na map",
         "decided": "Map ng Match",
-        "timePerBan": "{seconds}s",
         "pickSide": "Pumili ng Side",
-        "pickSideDesc": "Ang Team B ang pipili ng starting side",
         "ct": "Counter-Terrorist",
         "t": "Terrorist"
     },
@@ -72,17 +44,10 @@
         "title": "Estadistika",
         "matches": "Matches",
         "wins": "Panalo",
-        "losses": "Talo",
-        "draws": "Tabla",
         "winRate": "Win Rate",
         "kd": "K/D",
-        "kills": "Kills",
-        "deaths": "Deaths",
-        "assists": "Assists",
-        "mvps": "MVPs",
         "winStreak": "Sunod-sunod na Panalo",
         "bestStreak": "Pinakamahabang Streak",
-        "recentMatches": "Kamakailang Matches",
         "noMatches": "Wala pang matches"
     },
     "leaderboard": {
@@ -98,29 +63,16 @@
         "received": "Imbitasyon sa Party",
         "from": "Inimbita ka ni {name} sa kanilang party",
         "accept": "Tanggapin",
-        "decline": "Tanggihan",
-        "expired": "Expired na ang imbitasyon",
-        "notFound": "Hindi natagpuan ang player",
-        "sent": "Naipadala ang imbitasyon",
-        "alreadySent": "Naipadala na ang imbitasyon sa player na ito"
+        "decline": "Tanggihan"
     },
     "cooldown": {
-        "active": "Aktibong Cooldown",
-        "remaining": "Natitira: {time}",
         "reason": {
-            "decline": "Tumanggi sa match",
-            "timeout": "Nag-expire ang oras ng pagtanggap",
-            "abandon": "Iniwan ang match",
-            "toxic": "Negatibong asal"
+            "decline": "Tumanggi sa match"
         }
     },
     "history": {
         "title": "Kasaysayan ng Match",
-        "noHistory": "Wala pang history ng match",
-        "map": "Map",
-        "score": "Score",
-        "result": "Resulta",
-        "date": "Petsa"
+        "noHistory": "Wala pang history ng match"
     },
     "errors": {
         "matchNotFound": "Hindi natagpuan ang match",

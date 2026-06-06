@@ -1,8 +1,6 @@
 {
     "title": "Bảng xếp hạng",
     "subtitle": "Xếp hạng người chơi theo máy chủ",
-    "serverSelect": "Chọn máy chủ",
-    "allServers": "Tất cả máy chủ",
     "noServers": "Không có máy chủ nào",
     "search": "Tìm tên hoặc SteamID...",
     "refreshing": "Đang cập nhật...",
@@ -12,7 +10,7 @@
         "player": "Người chơi",
         "points": "Điểm",
         "rank": "Hạng",
-        "kd": "K/D", 
+        "kd": "K/D",
         "hsr": "HS%",
         "winRate": "Tỷ lệ thắng",
         "playtime": "Thời gian chơi",
@@ -31,20 +29,10 @@
     },
     "empty": "Không tìm thấy người chơi nào",
     "error": "Không thể tải bảng xếp hạng",
-    "hours": "{value}h",
-    "unranked": "Chưa xếp hạng",
-    "lastOnline": "Lần cuối online",
-    "viewProfile": "Xem chi tiết",
-    "podium": {
-        "first": "Hạng 1",
-        "second": "Hạng 2",
-        "third": "Hạng 3"
-    },
     "detail": {
         "title": "Thông tin người chơi",
         "subtitle": "Thống kê chi tiết trên từng máy chủ",
         "back": "Quay lại",
-        "steamProfile": "Xem Steam Profile",
         "combat": "Chiến đấu",
         "accuracy": "Độ chính xác",
         "rounds": "Vòng đấu",
@@ -80,21 +68,20 @@
         "todayHours": "Hôm nay",
         "terroristHours": "Giờ đội T",
         "ctHours": "Giờ đội CT",
-        "spectatorHours": "Giờ xem",
         "weaponName": "Vũ khí",
         "weaponKills": "Kills",
         "weaponHS": "HS",
         "weaponHSR": "HS%",
-        "weaponAccuracy": "Độ chính xác",
-        "close": "Đóng"
+        "weaponAccuracy": "Độ chính xác"
     },
     "context": {
-        "label": "Người chơi",
-        "viewProfile": "Xem hồ sơ",
-        "openSteam": "Mở Steam Profile",
         "copySteamId": "Sao chép Steam ID",
         "copied": "Đã sao chép!",
         "verifiedStaff": "Trang cá nhân chính thức: zSystems đã xác nhận rằng đây là tài khoản của Ban quản trị / Nhân sự chính thức thuộc hệ thống Cộng đồng 7-Màu.",
         "verifiedUser": "Tài khoản đã xác minh: zSystems đã xác nhận tài khoản này là chính chủ, đã liên kết tài khoản Steam và xác minh địa chỉ Email thành công."
+    },
+    "mode": {
+        "positive": "Top Điểm Dương",
+        "negative": "Top Điểm Âm"
     }
 }

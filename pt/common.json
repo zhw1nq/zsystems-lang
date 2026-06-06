@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Copiar",
         "connect": "Conectar",
-        "save": "Salvar",
         "cancel": "Cancelar",
         "close": "Fechar",
-        "confirm": "Confirmar",
-        "delete": "Excluir",
-        "edit": "Editar",
         "back": "Voltar",
         "retry": "Tentar novamente",
         "search": "Pesquisar..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Carregando...",
-        "error": "Erro",
-        "success": "Sucesso"
+        "loading": "Carregando..."
     },
     "toast": {
         "copied": "Copiado para a área de transferência",
         "copyFailed": "Falha ao copiar"
     },
-    "footer": {
-        "rights": "Todos os direitos reservados"
-    },
     "sidebar": {
         "collapse": "Recolher",
         "expand": "Expandir",
-        "language": "Idioma",
-        "theme": "Tema",
         "terms": "Termos e Privacidade",
         "guest": "Convidado",
         "settings": "Configurações"

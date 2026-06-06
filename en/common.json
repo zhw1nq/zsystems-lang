@@ -7,7 +7,7 @@
         "settings": "Settings",
         "servers": "Servers",
         "bans": "Bans",
-        "mutes": "Mutes / Gags", 
+        "mutes": "Mutes / Gags",
         "skins": "Skins",
         "skinCollections": "Collections",
         "zmodels": "zModels",
@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Copy",
         "connect": "Connect",
-        "save": "Save",
         "cancel": "Cancel",
         "close": "Close",
-        "confirm": "Confirm",
-        "delete": "Delete",
-        "edit": "Edit",
         "back": "Back",
         "retry": "Retry",
         "search": "Search..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Loading...",
-        "error": "Error",
-        "success": "Success"
+        "loading": "Loading..."
     },
     "toast": {
         "copied": "Copied to clipboard",
         "copyFailed": "Failed to copy"
     },
-    "footer": {
-        "rights": "All rights reserved"
-    },
     "sidebar": {
         "collapse": "Collapse",
         "expand": "Expand",
-        "language": "Language",
-        "theme": "Theme",
         "terms": "Terms & Privacy",
         "guest": "Guest",
         "settings": "Settings"

@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Kopyahin",
         "connect": "Kumonekta",
-        "save": "I-save",
         "cancel": "Kanselahin",
         "close": "Isara",
-        "confirm": "Kumpirmahin",
-        "delete": "Tanggalin",
-        "edit": "I-edit",
         "back": "Bumalik",
         "retry": "Subukang muli",
         "search": "Maghanap..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Naglo-load...",
-        "error": "Error",
-        "success": "Tagumpay"
+        "loading": "Naglo-load..."
     },
     "toast": {
         "copied": "Nakopya sa clipboard",
         "copyFailed": "Nabigong kopyahin"
     },
-    "footer": {
-        "rights": "Lahat ng karapatan ay nakalaan"
-    },
     "sidebar": {
         "collapse": "I-collapse",
         "expand": "I-expand",
-        "language": "Wika",
-        "theme": "Tema",
         "terms": "Mga Tuntunin at Privacy",
         "guest": "Bisita",
         "settings": "Mga Setting"

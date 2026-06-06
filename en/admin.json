@@ -5,7 +5,7 @@
         "statistics": "Statistics",
         "admins": "Manage Admins",
         "accounts": "Account Management",
-        "servers": "Manage Servers", 
+        "servers": "Manage Servers",
         "bans": "Manage Bans",
         "mutes": "Manage Mutes",
         "logs": "Logs",
@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Total Admins",
-        "totalServers": "Total Servers",
-        "activeBans": "Active Bans",
-        "activeMutes": "Active Mutes",
-        "totalLogs": "Total Logs",
         "overview": "System Overview",
-        "description": "System-wide metrics and activity trends",
         "total": "total",
         "recentActivity": "Recent Activity",
         "last7Days": "Bans & mutes over the last 7 days",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Most active admins by actions issued",
         "noData": "No data available",
         "errorLoading": "Failed to load statistics",
-        "totalWarns": "Total Warns",
-        "totalChatMessages": "Chat Messages",
         "uniquePlayers": "Unique Players",
-        "totalPlaytimeHours": "Total Playtime",
-        "totalSessions": "Total Sessions",
         "playerActivity": "Player Activity",
         "last30Days": "Unique players & sessions over the last 30 days",
         "topMaps": "Top Maps",
         "topMapsDesc": "Most played maps by session count",
         "serverStats": "Server Statistics",
-        "serverStatsDesc": "Per-server breakdown of player activity",
         "hours": "hours",
         "sessions": "sessions",
         "players": "players",
@@ -59,8 +49,7 @@
         "showAll": "Show all {count} servers",
         "showLess": "Show less",
         "allServers": "All Servers",
-        "last3Months": "Last 3 months",
-        "last14Days": "Last 14 days"
+        "last3Months": "Last 3 months"
     },
     "admins": {
         "title": "Admin List",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "Configure a new admin with templates or custom settings",
         "templates": "Quick Templates",
-        "information": "Admin Information",
         "preview": "Preview",
         "steamInput": "Steam ID / Profile URL",
         "steamPlaceholder": "SteamID64, profile URL, or vanity...",
         "steamHelp": "Enter SteamID64, profile link, or vanity URL and press Enter",
-        "resolved": "Resolved",
         "namePlaceholder": "Admin display name",
         "group": "Admin Group",
         "selectGroup": "Select a group...",
         "noGroup": "No Group (Custom)",
         "flagsFromGroup": "Flags are inherited from the selected group",
-        "daysFromNow": "days from now",
-        "alreadyExpired": "Already expired",
-        "previewName": "Admin Name",
-        "noFlags": "No flags set",
-        "noServer": "No server selected"
+        "alreadyExpired": "Already expired"
     },
     "gift": {
         "title": "Claim Your Gift",
-        "loading": "Loading...",
-        "redeemed": "Gift Claimed!",
-        "unavailable": "Gift Unavailable",
-        "notFound": "Gift Not Found",
-        "package": "Package",
         "duration": "Duration",
-        "days": "days",
-        "expiresIn": "Link expires in",
-        "claim": "Claim Gift",
-        "loginRequired": "You must be logged in with a linked Steam account",
-        "redeemSuccess": "Gift claimed successfully! You are now an admin.",
-        "redeemSuccessMessage": "Your admin privileges have been activated.",
-        "redeemFailed": "Failed to claim gift",
-        "alreadyUsed": "This gift link has already been used.",
-        "expired": "This gift link has expired.",
-        "notFoundMessage": "This gift link does not exist or has been removed."
+        "days": "days"
     },
     "servers": {
         "title": "Server List",
@@ -140,9 +109,7 @@
         "rconConsole": "RCON Console",
         "sendCommand": "Send Command",
         "command": "Command",
-        "response": "Response",
-        "noRcon": "RCON not configured",
-        "cannotDelete": "Cannot delete server with attached admins"
+        "noRcon": "RCON not configured"
     },
     "bans": {
         "title": "Ban List",
@@ -161,14 +128,10 @@
         "actions": "Actions",
         "unban": "Unban",
         "reban": "Reban",
-        "edit": "Edit",
-        "addComment": "Add Comment",
         "delete": "Delete",
         "minutes": "minutes",
         "permanent": "Permanent",
         "active": "Active",
-        "unbanned": "Unbanned",
-        "expired": "Expired",
         "noBans": "No bans found"
     },
     "mutes": {
@@ -188,15 +151,11 @@
         "actions": "Actions",
         "unmute": "Unmute",
         "remute": "Remute",
-        "edit": "Edit",
-        "addComment": "Add Comment",
         "delete": "Delete",
         "gag": "GAG (Chat)",
         "mute": "MUTE (Voice)",
         "silence": "SILENCE (Both)",
         "active": "Active",
-        "unmuted": "Unmuted",
-        "expired": "Expired",
         "noMutes": "No mutes found"
     },
     "logs": {
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "Loading...",
         "error": "An error occurred",
         "noAccess": "Access Denied",
         "noAccessDesc": "You do not have permission to access this page.",
@@ -293,8 +251,6 @@
             "kill": "Are you sure you want to force kill this server?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disk",
             "network": "Network",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "Account Details",
-            "tabInfo": "Info",
-            "tabSessions": "Sessions",
-            "tabLogs": "Security Logs",
             "basicInfo": "Basic Info",
             "statistics": "Statistics",
             "linkedAccounts": "Linked Accounts",
             "adminActions": "Admin Actions",
-            "uuid": "UUID",
             "loginCount": "Login Count",
             "lastLoginAt": "Last Login",
             "lastLoginIp": "Last IP",
@@ -372,13 +324,10 @@
             "twoFactor": "Two-Factor Auth",
             "passkey": "Passkey",
             "locale": "Language",
-            "tosAccepted": "ToS Accepted",
-            "marketing": "Marketing Email",
             "verified": "Verified",
             "notVerified": "Not Verified",
             "enabled": "Enabled",
             "disabled": "Disabled",
-            "never": "Never",
             "noData": "No data",
             "notLinked": "Not linked",
             "createdAt": "Created",
@@ -387,20 +336,11 @@
             "failedAttempts": "Failed attempts"
         },
         "sessions": {
-            "device": "Device",
-            "ip": "IP Address",
-            "lastActive": "Last Active",
             "revoke": "Revoke",
             "revokeAll": "Logout All",
-            "noSessions": "No active sessions",
-            "revokeConfirm": "Revoke this session?",
-            "revokeAllConfirm": "Logout all sessions for this user?"
+            "noSessions": "No active sessions"
         },
         "logs": {
-            "event": "Event",
-            "ip": "IP",
-            "time": "Time",
-            "details": "Details",
             "noLogs": "No logs yet",
             "loadMore": "Load more"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "Unlink Steam? The user may lose account recovery options.",
             "displayName": "Display Name",
             "email": "Email"
-        },
-        "toast": {
-            "actionSuccess": "Action completed successfully",
-            "actionFailed": "Action failed"
         },
         "editProfile": {
             "emailWarning": "Changing email will reset verification status",

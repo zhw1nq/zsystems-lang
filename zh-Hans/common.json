@@ -25,35 +25,22 @@
     "actions": {
         "copy": "复制",
         "connect": "连接",
-        "save": "保存",
         "cancel": "取消",
         "close": "关闭",
-        "confirm": "确认",
-        "delete": "删除",
-        "edit": "编辑",
         "back": "返回",
         "retry": "重试",
         "search": "搜索..."
     },
     "status": {
-        "online": "在线",
-        "offline": "离线",
-        "loading": "加载中...",
-        "error": "错误",
-        "success": "成功"
+        "loading": "加载中..."
     },
     "toast": {
         "copied": "已复制到剪贴板",
         "copyFailed": "复制失败"
     },
-    "footer": {
-        "rights": "保留所有权利"
-    },
     "sidebar": {
         "collapse": "折叠",
         "expand": "展开",
-        "language": "语言",
-        "theme": "主题",
         "terms": "条款与隐私",
         "guest": "访客",
         "settings": "设置"

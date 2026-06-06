@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Chép lặp",
         "connect": "Nối cấp",
-        "save": "Giử lăư",
         "cancel": "Bỏ",
         "close": "Hắp",
-        "confirm": "Nhận chắc",
-        "delete": "Mịt",
-        "edit": "Sửa",
         "back": "Quây lặp",
         "retry": "Thử lặp",
         "search": "Sáo..."
     },
     "status": {
-        "online": "Slên mạng",
-        "offline": "Lống mạng",
-        "loading": "Tàng tải...",
-        "error": "Phít",
-        "success": "Đảy việc"
+        "loading": "Tàng tải..."
     },
     "toast": {
         "copied": "Đạ chép",
         "copyFailed": "Chép bấu đảy"
     },
-    "footer": {
-        "rights": "Cả thảy quyền đảy giử"
-    },
     "sidebar": {
         "collapse": "Thu gọn",
         "expand": "Kháư rộng",
-        "language": "Quam",
-        "theme": "Màu chính",
         "terms": "Điều khoản & Giử kín",
         "guest": "Khách",
         "settings": "Sắp đặt"

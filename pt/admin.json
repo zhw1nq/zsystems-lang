@@ -13,12 +13,7 @@
     },
     "stats": {
         "totalAdmins": "Total de Administradores",
-        "totalServers": "Total de Servidores",
-        "activeBans": "Banimentos Ativos",
-        "activeMutes": "Mutes Ativos",
-        "totalLogs": "Total de Logs",
         "overview": "Visão Geral do Sistema",
-        "description": "Métricas e tendências de atividade em todo o sistema",
         "total": "total",
         "recentActivity": "Atividade Recente",
         "last7Days": "Banimentos e mutes nos últimos 7 dias",
@@ -29,17 +24,12 @@
         "topAdminsDesc": "Administradores mais ativos por ações realizadas",
         "noData": "Sem dados disponíveis",
         "errorLoading": "Falha ao carregar estatísticas",
-        "totalWarns": "Total de Advertências",
-        "totalChatMessages": "Mensagens de Chat",
         "uniquePlayers": "Jogadores Únicos",
-        "totalPlaytimeHours": "Tempo Total de Jogo",
-        "totalSessions": "Total de Sessões",
         "playerActivity": "Atividade de Jogadores",
         "last30Days": "Jogadores únicos e sessões nos últimos 30 dias",
         "topMaps": "Mapas Mais Jogados",
         "topMapsDesc": "Mapas mais jogados por número de sessões",
         "serverStats": "Estatísticas do Servidor",
-        "serverStatsDesc": "Detalhamento por servidor da atividade dos jogadores",
         "hours": "horas",
         "sessions": "sessões",
         "players": "jogadores",
@@ -59,8 +49,7 @@
         "showAll": "Mostrar todos os {count} servidores",
         "showLess": "Mostrar menos",
         "allServers": "Todos os Servidores",
-        "last3Months": "Últimos 3 meses",
-        "last14Days": "Últimos 14 dias"
+        "last3Months": "Últimos 3 meses"
     },
     "admins": {
         "title": "Lista de Administradores",
@@ -92,41 +81,21 @@
     "addAdmin": {
         "subtitle": "Configure um novo admin com modelos ou configurações personalizadas",
         "templates": "Modelos Rápidos",
-        "information": "Informações do Administrador",
         "preview": "Pré-visualização",
         "steamInput": "Steam ID / URL do perfil",
         "steamPlaceholder": "SteamID64, link de perfil ou vanity...",
         "steamHelp": "Insira SteamID64, link de perfil ou vanity e pressione Enter",
-        "resolved": "Resolvido",
         "namePlaceholder": "Nome de exibição do admin",
         "group": "Grupo de Administrador",
         "selectGroup": "Selecione um grupo...",
         "noGroup": "Sem grupo (Personalizado)",
         "flagsFromGroup": "Flags herdadas do grupo selecionado",
-        "daysFromNow": "dias a partir de agora",
-        "alreadyExpired": "Já expirado",
-        "previewName": "Nome do Admin",
-        "noFlags": "Nenhuma flag definida",
-        "noServer": "Nenhum servidor selecionado"
+        "alreadyExpired": "Já expirado"
     },
     "gift": {
         "title": "Resgate Seu Presente",
-        "loading": "Carregando...",
-        "redeemed": "Presente Resgatado!",
-        "unavailable": "Presente Indisponível",
-        "notFound": "Presente Não Encontrado",
-        "package": "Pacote",
         "duration": "Duração",
-        "days": "dias",
-        "expiresIn": "Link expira em",
-        "claim": "Resgatar Presente",
-        "loginRequired": "Você precisa estar logado com uma conta Steam vinculada",
-        "redeemSuccess": "Presente resgatado com sucesso! Você agora é um admin.",
-        "redeemSuccessMessage": "Seus privilégios de admin foram ativados.",
-        "redeemFailed": "Falha ao resgatar presente",
-        "alreadyUsed": "Este link de presente já foi usado.",
-        "expired": "Este link de presente expirou.",
-        "notFoundMessage": "Este link não existe ou foi removido."
+        "days": "dias"
     },
     "servers": {
         "title": "Lista de Servidores",
@@ -140,9 +109,7 @@
         "rconConsole": "Console RCON",
         "sendCommand": "Enviar Comando",
         "command": "Comando",
-        "response": "Resposta",
-        "noRcon": "RCON não configurado",
-        "cannotDelete": "Não é possível excluir servidor com administradores vinculados"
+        "noRcon": "RCON não configurado"
     },
     "bans": {
         "title": "Lista de Banimentos",
@@ -160,14 +127,10 @@
         "actions": "Ações",
         "unban": "Remover Banimento",
         "reban": "Reaplicar Banimento",
-        "edit": "Editar",
-        "addComment": "Adicionar Comentário",
         "delete": "Excluir",
         "minutes": "minutos",
         "permanent": "Permanente",
         "active": "Ativo",
-        "unbanned": "Desbanido",
-        "expired": "Expirado",
         "addBanDescription": "Criar uma nova punição de banimento (ban) no sistema de servidores.",
         "noBans": "Ainda não há banimentos"
     },
@@ -187,15 +150,11 @@
         "actions": "Ações",
         "unmute": "Remover Mute",
         "remute": "Reaplicar Mute",
-        "edit": "Editar",
-        "addComment": "Adicionar Comentário",
         "delete": "Excluir",
         "gag": "GAG (Chat)",
         "mute": "MUTE (Voz)",
         "silence": "SILENCE (Ambos)",
         "active": "Ativo",
-        "unmuted": "Desmutado",
-        "expired": "Expirado",
         "addMuteDescription": "Criar uma nova punição de silenciamento de chat/microfone (mute) no sistema de servidores.",
         "noMutes": "Ainda não há silenciamentos"
     },
@@ -257,7 +216,6 @@
         }
     },
     "common": {
-        "loading": "Carregando...",
         "error": "Ocorreu um erro",
         "noAccess": "Acesso Negado",
         "noAccessDesc": "Você não tem permissão para acessar esta página.",
@@ -293,8 +251,6 @@
             "kill": "Tem certeza que deseja forçar o encerramento deste servidor?"
         },
         "resources": {
-            "cpu": "CPU",
-            "ram": "RAM",
             "disk": "Disco",
             "network": "Rede",
             "uptime": "Uptime",
@@ -357,14 +313,10 @@
         },
         "detail": {
             "title": "Detalhes da Conta",
-            "tabInfo": "Info",
-            "tabSessions": "Sessões",
-            "tabLogs": "Logs de Segurança",
             "basicInfo": "Informações Básicas",
             "statistics": "Estatísticas",
             "linkedAccounts": "Contas Vinculadas",
             "adminActions": "Ações de Admin",
-            "uuid": "UUID",
             "loginCount": "Número de logins",
             "lastLoginAt": "Último login",
             "lastLoginIp": "Último IP",
@@ -372,13 +324,10 @@
             "twoFactor": "Autenticação 2FA",
             "passkey": "Passkey",
             "locale": "Idioma",
-            "tosAccepted": "ToS aceito",
-            "marketing": "Email de marketing",
             "verified": "Verificado",
             "notVerified": "Não verificado",
             "enabled": "Ativo",
             "disabled": "Desativado",
-            "never": "Nunca",
             "noData": "Sem dados",
             "notLinked": "Não vinculado",
             "createdAt": "Criado",
@@ -387,20 +336,11 @@
             "failedAttempts": "Tentativas falhas"
         },
         "sessions": {
-            "device": "Dispositivo",
-            "ip": "IP",
-            "lastActive": "Última atividade",
             "revoke": "Revogar",
             "revokeAll": "Logout de todos",
-            "noSessions": "Nenhuma sessão ativa",
-            "revokeConfirm": "Revogar esta sessão?",
-            "revokeAllConfirm": "Deslogar todas as sessões deste usuário?"
+            "noSessions": "Nenhuma sessão ativa"
         },
         "logs": {
-            "event": "Evento",
-            "ip": "IP",
-            "time": "Hora",
-            "details": "Detalhes",
             "noLogs": "Nenhum log ainda",
             "loadMore": "Carregar mais"
         },
@@ -435,10 +375,6 @@
             "confirmUnlinkSteam": "Desvincular Steam?",
             "displayName": "Nome de exibição",
             "email": "Email"
-        },
-        "toast": {
-            "actionSuccess": "Ação concluída com sucesso",
-            "actionFailed": "Falha na ação"
         },
         "editProfile": {
             "emailWarning": "Alterar email redefinirá a verificação",

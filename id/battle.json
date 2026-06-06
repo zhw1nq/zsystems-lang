@@ -6,52 +6,28 @@
         "solo": "Bermain solo",
         "create": "Buat Party",
         "invite": "Undang via 7ID",
-        "invitePlaceholder": "Masukkan #7ID...", 
+        "invitePlaceholder": "Masukkan #7ID...",
         "inviteButton": "Kirim Undangan",
-        "leave": "Keluar dari Party",
-        "disband": "Bubarkan Party",
-        "full": "Party penuh (5/5)",
-        "members": "{count}/5 anggota",
-        "leader": "Pemimpin",
-        "member": "Anggota",
-        "disbanded": "Party telah dibubarkan"
+        "leave": "Keluar dari Party"
     },
     "queue": {
         "find": "CARI PERTANDINGAN",
         "cancel": "BATAL",
         "searching": "Mencari pertandingan...",
-        "estimatedWait": "Perkiraan tunggu: {time}",
         "playersInQueue": "{count} pemain mencari",
         "partiesInQueue": "{count} party mencari",
-        "cooldown": "Anda dalam cooldown. Coba lagi dalam {time}",
-        "memberCooldown": "{name} sedang cooldown",
-        "emailRequired": "Semua anggota harus memverifikasi email",
         "leaderOnly": "Hanya pemimpin party yang dapat mencari pertandingan"
     },
     "match": {
         "found": "PERTANDINGAN DITEMUKAN!",
         "accept": "TERIMA",
         "decline": "TOLAK",
-        "accepted": "{count}/{total} menerima",
-        "timeRemaining": "{seconds}d",
-        "cancelled": "Pertandingan dibatalkan",
         "cancelReason": {
-            "decline": "Seorang pemain menolak pertandingan",
-            "timeout": "Waktu terima habis"
+            "decline": "Seorang pemain menolak pertandingan"
         },
-        "teamA": "Tim A",
-        "teamB": "Tim B",
         "myTeam": "TIM ANDA",
         "enemyTeam": "TIM LAWAN",
         "accepted_status": "Siap",
-        "vs": "VS",
-        "captain": "Kapten",
-        "configuring": "Mengonfigurasi server...",
-        "live": "LIVE",
-        "finished": "SELESAI",
-        "won": "MENANG",
-        "lost": "KALAH",
-        "draw": "SERI",
         "starting": "PERTANDINGAN DIMULAI!!!"
     },
     "mapBan": {
@@ -59,12 +35,8 @@
         "yourTurn": "Giliran Anda — Pilih peta untuk di-BAN",
         "enemyTurn": "Lawan sedang memilih...",
         "waiting": "Menunggu...",
-        "banned": "Diban",
-        "remaining": "Tersisa: {count} peta",
         "decided": "Peta Pertandingan",
-        "timePerBan": "{seconds}d",
         "pickSide": "Pilih Sisi",
-        "pickSideDesc": "Tim B memilih sisi awal",
         "ct": "Counter-Terrorist",
         "t": "Terrorist"
     },
@@ -72,17 +44,10 @@
         "title": "Statistik",
         "matches": "Pertandingan",
         "wins": "Menang",
-        "losses": "Kalah",
-        "draws": "Seri",
         "winRate": "Rasio Menang",
         "kd": "K/D",
-        "kills": "Kill",
-        "deaths": "Death",
-        "assists": "Assist",
-        "mvps": "MVP",
         "winStreak": "Rangkaian Menang",
         "bestStreak": "Rangkaian Terbaik",
-        "recentMatches": "Pertandingan Terbaru",
         "noMatches": "Belum ada pertandingan"
     },
     "leaderboard": {
@@ -98,29 +63,16 @@
         "received": "Undangan Party",
         "from": "{name} mengundang Anda ke party mereka",
         "accept": "Terima",
-        "decline": "Tolak",
-        "expired": "Undangan telah kedaluwarsa",
-        "notFound": "Pemain tidak ditemukan",
-        "sent": "Undangan terkirim",
-        "alreadySent": "Sudah mengirim undangan ke pemain ini"
+        "decline": "Tolak"
     },
     "cooldown": {
-        "active": "Cooldown Aktif",
-        "remaining": "Tersisa: {time}",
         "reason": {
-            "decline": "Menolak pertandingan",
-            "timeout": "Waktu terima habis",
-            "abandon": "Meninggalkan pertandingan",
-            "toxic": "Perilaku negatif"
+            "decline": "Menolak pertandingan"
         }
     },
     "history": {
         "title": "Riwayat Pertandingan",
-        "noHistory": "Belum ada riwayat pertandingan",
-        "map": "Peta",
-        "score": "Skor",
-        "result": "Hasil",
-        "date": "Tanggal"
+        "noHistory": "Belum ada riwayat pertandingan"
     },
     "errors": {
         "matchNotFound": "Pertandingan tidak ditemukan",

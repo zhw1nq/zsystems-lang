@@ -25,35 +25,22 @@
     "actions": {
         "copy": "Salin",
         "connect": "Hubungkan",
-        "save": "Simpan",
         "cancel": "Batal",
         "close": "Tutup",
-        "confirm": "Konfirmasi",
-        "delete": "Hapus",
-        "edit": "Edit",
         "back": "Kembali",
         "retry": "Coba lagi",
         "search": "Cari..."
     },
     "status": {
-        "online": "Online",
-        "offline": "Offline",
-        "loading": "Memuat...",
-        "error": "Kesalahan",
-        "success": "Berhasil"
+        "loading": "Memuat..."
     },
     "toast": {
         "copied": "Disalin ke clipboard",
         "copyFailed": "Gagal menyalin"
     },
-    "footer": {
-        "rights": "Hak cipta dilindungi"
-    },
     "sidebar": {
         "collapse": "Ciutkan",
         "expand": "Perluas",
-        "language": "Bahasa",
-        "theme": "Tema",
         "terms": "Ketentuan & Privasi",
         "guest": "Tamu",
         "settings": "Pengaturan"

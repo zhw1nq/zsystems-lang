@@ -25,35 +25,22 @@
     "actions": {
         "copy": "ສຳເນົາ",
         "connect": "ເຊື່ອມຕໍ່",
-        "save": "ບັນທຶກ",
         "cancel": "ຍົກເລີກ",
         "close": "ປິດ",
-        "confirm": "ຢືນຢັນ",
-        "delete": "ລຶບ",
-        "edit": "ແກ້ໄຂ",
         "back": "ກັບຄືນ",
         "retry": "ລອງໃໝ່",
         "search": "ຄົ້ນຫາ..."
     },
     "status": {
-        "online": "ອອນລາຍ",
-        "offline": "ອອບລາຍ",
-        "loading": "ກຳລັງໂຫຼດ...",
-        "error": "ຜິດພາດ",
-        "success": "ສຳເລັດ"
+        "loading": "ກຳລັງໂຫຼດ..."
     },
     "toast": {
         "copied": "ສຳເນົາໄປຄລິບບອດແລ້ວ",
         "copyFailed": "ສຳເນົາບໍ່ສຳເລັດ"
     },
-    "footer": {
-        "rights": "ສະຫງວນລິຂະສິດ"
-    },
     "sidebar": {
         "collapse": "ຫຍໍ້",
         "expand": "ຂະຫຍາຍ",
-        "language": "ພາສາ",
-        "theme": "ຮູບແບບ",
         "terms": "ເງື່ອນໄຂ & ຄວາມເປັນສ່ວນຕົວ",
         "guest": "ແຂກ",
         "settings": "ການຕັ້ງຄ່າ"

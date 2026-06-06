@@ -8,50 +8,26 @@
         "invite": "เชิญด้วย 7ID",
         "invitePlaceholder": "กรอก #7ID...",
         "inviteButton": "ส่งคำเชิญ",
-        "leave": "ออกจากปาร์ตี้",
-        "disband": "ยุบปาร์ตี้", 
-        "full": "ปาร์ตี้เต็มแล้ว (5/5)",
-        "members": "{count}/5 สมาชิก",
-        "leader": "หัวหน้าปาร์ตี้",
-        "member": "สมาชิก",
-        "disbanded": "ปาร์ตี้ถูกยุบแล้ว"
+        "leave": "ออกจากปาร์ตี้"
     },
     "queue": {
         "find": "ค้นหาแมตช์",
         "cancel": "ยกเลิก",
         "searching": "กำลังค้นหาแมตช์...",
-        "estimatedWait": "เวลารอโดยประมาณ: {time}",
         "playersInQueue": "{count} ผู้เล่นกำลังค้นหา",
         "partiesInQueue": "{count} ปาร์ตี้กำลังค้นหา",
-        "cooldown": "คุณอยู่ในช่วงคูลดาวน์ กรุณาลองใหม่ใน {time}",
-        "memberCooldown": "{name} อยู่ในช่วงคูลดาวน์",
-        "emailRequired": "สมาชิกทุกคนต้องยืนยันอีเมล",
         "leaderOnly": "เฉพาะหัวหน้าปาร์ตี้เท่านั้นที่สามารถค้นหาแมตช์ได้"
     },
     "match": {
         "found": "พบแมตช์แล้ว!",
         "accept": "ยอมรับ",
         "decline": "ปฏิเสธ",
-        "accepted": "ยอมรับแล้ว {count}/{total}",
-        "timeRemaining": "{seconds} วินาที",
-        "cancelled": "แมตช์ถูกยกเลิก",
         "cancelReason": {
-            "decline": "มีผู้เล่นปฏิเสธแมตช์",
-            "timeout": "หมดเวลาการยอมรับ"
+            "decline": "มีผู้เล่นปฏิเสธแมตช์"
         },
-        "teamA": "ทีม A",
-        "teamB": "ทีม B",
         "myTeam": "ทีมของคุณ",
         "enemyTeam": "ทีมศัตรู",
         "accepted_status": "พร้อมแล้ว",
-        "vs": "VS",
-        "captain": "กัปตัน",
-        "configuring": "กำลังตั้งค่าเซิร์ฟเวอร์...",
-        "live": "กำลังแข่ง",
-        "finished": "จบการแข่งขัน",
-        "won": "ชนะ",
-        "lost": "แพ้",
-        "draw": "เสมอ",
         "starting": "กำลังเริ่มแมตช์!!!"
     },
     "mapBan": {
@@ -59,12 +35,8 @@
         "yourTurn": "ถึงตาคุณ — เลือกแผนที่ที่จะแบน",
         "enemyTurn": "ฝ่ายตรงข้ามกำลังเลือก...",
         "waiting": "กำลังรอ...",
-        "banned": "ถูกแบน",
-        "remaining": "เหลือ: {count} แผนที่",
         "decided": "แผนที่แข่งขัน",
-        "timePerBan": "{seconds} วินาที",
         "pickSide": "เลือกฝั่ง",
-        "pickSideDesc": "ทีม B เป็นผู้เลือกฝั่งเริ่มต้น",
         "ct": "Counter-Terrorist",
         "t": "Terrorist"
     },
@@ -72,17 +44,10 @@
         "title": "สถิติ",
         "matches": "แมตช์",
         "wins": "ชนะ",
-        "losses": "แพ้",
-        "draws": "เสมอ",
         "winRate": "อัตราชนะ",
         "kd": "K/D",
-        "kills": "คิล",
-        "deaths": "ตาย",
-        "assists": "แอสซิสต์",
-        "mvps": "MVP",
         "winStreak": "สตรีคชนะ",
         "bestStreak": "สตรีคดีที่สุด",
-        "recentMatches": "แมตช์ล่าสุด",
         "noMatches": "ยังไม่มีแมตช์ที่เล่น"
     },
     "leaderboard": {
@@ -98,29 +63,16 @@
         "received": "คำเชิญเข้าปาร์ตี้",
         "from": "{name} ได้เชิญคุณเข้าปาร์ตี้",
         "accept": "ยอมรับ",
-        "decline": "ปฏิเสธ",
-        "expired": "คำเชิญหมดอายุแล้ว",
-        "notFound": "ไม่พบผู้เล่น",
-        "sent": "ส่งคำเชิญแล้ว",
-        "alreadySent": "ได้ส่งคำเชิญไปยังผู้เล่นนี้แล้ว"
+        "decline": "ปฏิเสธ"
     },
     "cooldown": {
-        "active": "กำลังคูลดาวน์",
-        "remaining": "เหลือเวลา: {time}",
         "reason": {
-            "decline": "ปฏิเสธแมตช์",
-            "timeout": "หมดเวลาการยอมรับ",
-            "abandon": "ออกจากแมตช์",
-            "toxic": "พฤติกรรมเชิงลบ"
+            "decline": "ปฏิเสธแมตช์"
         }
     },
     "history": {
         "title": "ประวัติการแข่งขัน",
-        "noHistory": "ยังไม่มีประวัติการแข่งขัน",
-        "map": "แผนที่",
-        "score": "คะแนน",
-        "result": "ผลการแข่งขัน",
-        "date": "วันที่"
+        "noHistory": "ยังไม่มีประวัติการแข่งขัน"
     },
     "errors": {
         "matchNotFound": "ไม่พบแมตช์",

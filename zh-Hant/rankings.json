@@ -1,8 +1,6 @@
 {
     "title": "排行榜",
     "subtitle": "依伺服器查看玩家排名",
-    "serverSelect": "選擇伺服器",
-    "allServers": "所有伺服器",
     "noServers": "沒有可用的伺服器",
     "search": "搜尋名稱或 SteamID...",
     "refreshing": "重新整理中...",
@@ -31,18 +29,8 @@
     },
     "empty": "找不到玩家",
     "error": "載入排行榜失敗",
-    "hours": "{value} 小時",
-    "unranked": "未排名",
-    "lastOnline": "最後上線",
-    "viewProfile": "查看詳細資料",
-    "podium": {
-        "first": "第 1 名",
-        "second": "第 2 名",
-        "third": "第 3 名"
-    },
     "detail": {
         "title": "玩家詳細資料",
-        "steamProfile": "查看 Steam 個人檔案",
         "combat": "戰鬥數據",
         "accuracy": "準確率",
         "rounds": "回合",
@@ -75,8 +63,6 @@
         "todayHours": "今日",
         "terroristHours": "T 陣營時數",
         "ctHours": "CT 陣營時數",
-        "spectatorHours": "觀戰時數",
-        "close": "關閉",
         "subtitle": "各伺服器的詳細統計",
         "back": "返回",
         "dominationKills": "統治擊殺",
@@ -87,20 +73,21 @@
         "weaponHS": "爆頭",
         "weaponHSR": "爆頭率",
         "weaponAccuracy": "準確度"
-        },
-        "context": {
-            "label": "玩家",
-            "viewProfile": "查看個人資料",
-            "openSteam": "開啟 Steam 個人檔案",
-            "copySteamId": "複製 Steam ID",
-            "copied": "已複製！",
-            "verifiedStaff": "官方個人檔案：zSystems 已確認這是屬於 7-Color 社群系統官方管理團隊 / 工作人員的帳號。",
-            "verifiedUser": "已驗證帳號：zSystems 已確認該帳號為本人所有，已成功綁定 Steam 帳號並驗證電子郵件。"
-        },
+    },
+    "context": {
+        "copySteamId": "複製 Steam ID",
+        "copied": "已複製！",
+        "verifiedStaff": "官方個人檔案：zSystems 已確認這是屬於 7-Color 社群系統官方管理團隊 / 工作人員的帳號。",
+        "verifiedUser": "已驗證帳號：zSystems 已確認該帳號為本人所有，已成功綁定 Steam 帳號並驗證電子郵件。"
+    },
     "aiWarning": {
         "title": "此頁面由 AI Claude Opus 4.7 生成",
         "desc1": "AI 效能極差，因此若遇到卡頓，請啟用硬體加速。避免開啟 F12，否則可能導致網站凍結並需要重新啟動，請注意。",
         "desc2": "由於時間有限，我還沒來得及完成它，感謝大家的理解。",
         "confirm": "了解"
+    },
+    "mode": {
+        "positive": "Top Điểm Dương",
+        "negative": "Top Điểm Âm"
     }
 }
