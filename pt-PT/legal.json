@@ -1,0 +1,256 @@
+{
+    "terms": {
+        "title": "Acordo dos Termos de Serviço",
+        "subtitle": "Termos de Serviço · Última atualização: 01/03/2026",
+        "section1": {
+            "title": "1. Contas e Identificação do Sistema"
+        },
+        "section2": {
+            "title": "2. Política Anti-Cheat de Tolerância Zero"
+        },
+        "section3": {
+            "title": "3. Regras de Exploração de Dados e Rede"
+        },
+        "section4": {
+            "title": "4. Benefícios VIP & Doações"
+        },
+        "section5": {
+            "title": "5. Isenção de Garantias"
+        }
+    },
+    "privacy": {
+        "title": "Política de Privacidade e Coleta de Dados",
+        "subtitle": "Política de Privacidade · Última atualização: 01/03/2026",
+        "section1": {
+            "title": "1. Dados coletados automaticamente pelo sistema"
+        },
+        "section2": {
+            "title": "2. Natureza pública dos dados estatísticos"
+        },
+        "section3": {
+            "title": "3. Armazenamento de registros de banimento"
+        },
+        "section4": {
+            "title": "4. Uso de cookies e sessão web"
+        },
+        "section5": {
+            "title": "5. Proteção de dados internos"
+        },
+        "section6": {
+            "title": "6. Como entrar em contato com a administração"
+        }
+    },
+    "rules": {
+        "title": "Regras do Servidor & Regulamentos de Penalidades",
+        "subtitle": "Regulamentos do servidor · Última atualização: 28/05/2026",
+        "portal": {
+            "title": "Sistema de Regras & Guias",
+            "subtitle": "Centro de armazenamento das regras de conduta, termos de serviço e privilégios de membros da Comunidade 7-Màu.",
+            "serverTitle": "Regras & Leis do Servidor",
+            "serverDesc": "Regras de comportamento para Administradores / Equipe e jogadores, juntamente com a estrutura detalhada de penalidades (Silenciar, Expulsar, Banir).",
+            "vipTitle": "Guia do Pacote de Membro Prioritário",
+            "vipDesc": "Informações detalhadas sobre privilégios, comandos para membros e guia para obter equipamentos no modo de treinamento.",
+            "rankTitle": "Sistema de Pontuação zRanks",
+            "rankDesc": "Enciclopédia detalhada sobre o sistema de pontuação, requisitos de progressão de rank, bônus VIP/SVIP e matriz de pontos do modo mortal.",
+            "termsTitle": "Termos de Serviço",
+            "termsDesc": "Acordos legais relacionados a contas, identificação do sistema, políticas anti-trapaça e regulamentos de dados.",
+            "privacyTitle": "Política de Privacidade",
+            "privacyDesc": "Como o sistema zSystems coleta dados no jogo, arquivos temporários e políticas de proteção de informações internas."
+        },
+        "backToPortal": "Voltar ao Portal de Guias",
+        "vipGuide": {
+            "title": "3. GUIA DE PRIVILÉGIOS DE CONTRIBUIÇÃO PARA MEMBROS",
+            "subtitle": "Informações detalhadas sobre privilégios, ativação e consulta de comandos para membros que apoiam o servidor",
+            "section1Title": "1. PRIVILÉGIOS DOS PACOTES DE MEMBRO PRIORITÁRIO & ESPECIAL",
+            "vipTitle": "PACOTE DE MEMBRO PRIORITÁRIO (VIP)",
+            "vipBenefit1": "Aumento de 1.5x em todos os pontos acumulados <underlineAmber>multiplicando em 1.5 os pontos de ranking</underlineAmber> a cada partida.",
+            "vipBenefit2": "<underlineAmber>Conexão prioritária</underlineAmber> ao servidor mesmo quando estiver lotado.",
+            "vipBenefit3": "Acesso ao sistema de <highlightAmber>alteração de skins de armas</highlightAmber> sincronizado diretamente do painel administrativo para dentro do jogo.",
+            "vipBenefit4": "Opção especial de música de vitória <highlightAmber>(zMVP)</highlightAmber> para tocar sua música favorita ao conquistar o título de melhor jogador da rodada.",
+            "svipTitle": "PACOTE DE MEMBRO ESPECIAL (SVIP)",
+            "svipBenefitExtra": "Inclui todos os benefícios do pacote VIP, porém com <underlineRed>multiplicador duplo de pontos de ranking (x2.0)</underlineRed> em vez de 1.5x, além dos privilégios:",
+            "svipBenefit1": "Direito de possuir armas personalizadas exclusivas <underlineRed>[zArmas]</underlineRed>.",
+            "svipBenefit2": "Direito de escolher aparências personalizadas de personagens <underlineRed>[zSkins]</underlineRed>.",
+            "svipBenefit3": "Concessão de acesso ao <underlineRed>painel básico de administração</underlineRed> do servidor.",
+            "section2Title": "2. GUIA DE EQUIPAMENTOS & TESTE DO SISTEMA",
+            "activationTitle": "III. GUIA DE ATIVAÇÃO DOS BENEFÍCIOS",
+            "activationContent": "Após concluir o processo de contribuição financeira e enviar o link do seu perfil Steam para os Administradores / Equipe, aguarde pacientemente a próxima troca de mapa para que o sistema sincronize automaticamente e ative os benefícios de membro em sua conta.",
+            "cmdGuideTitle": "IV. SINTAXE DOS COMANDOS DE EQUIPAMENTO",
+            "cmdGiveSyntax": "Sintaxe para receber armas: !give @me <param>nome_da_arma</param>",
+            "retakesWeaponsTitle": "Lista de armas permitidas no modo de treinamento de retomada de bomba do servidor:",
+            "pistolsLabel": "Pistolas semiautomáticas",
+            "smgsLabel": "Submetralhadoras",
+            "riflesLabel": "Fuzis de assalto",
+            "heavyLabel": "Armas pesadas",
+            "cliSimulator": "SIMULAÇÃO DO FUNCIONAMENTO DOS COMANDOS DO SERVIDOR",
+            "section3Title": "3. LISTA DE COMANDOS ADMINISTRATIVOS PARA MEMBROS ESPECIAIS",
+            "svipCmdsTitle": "V. TABELA DE COMANDOS ADMINISTRATIVOS PARA MEMBROS ESPECIAIS",
+            "cmdAdminDesc": "Abrir o painel de controle administrativo do sistema",
+            "cmdAdminBadge": "Painel Admin",
+            "cmdBanDesc": "Banir jogadores que violarem as regras do servidor",
+            "cmdBanBadge": "Banir",
+            "cmdKickDesc": "Expulsar jogadores do servidor atual",
+            "cmdKickBadge": "Expulsar",
+            "cmdMuteDesc": "Silenciar voz e chat de jogadores infratores",
+            "cmdMuteBadge": "Silenciar / Chat",
+            "cmdGiveDesc": "Receber armas ou equipamentos de emergência",
+            "cmdGiveBadge": "Solicitar Equipamento",
+            "cmdMapDesc": "Solicitar alteração do mapa atual",
+            "cmdMapBadge": "Solicitar Mapa",
+            "mandatoryTitle": "4. REGRAS OBRIGATÓRIAS PARA MEMBROS",
+            "mandatoryRule1": "É estritamente proibido utilizar o modo espectador para reservar vagas ou roubar posições de jogadores na fila.",
+            "mandatoryRule2": "Não é permitido solicitar repetidamente armas/equipamentos várias vezes em uma mesma rodada causando interrupções, lag ou impacto negativo na experiência dos outros jogadores.",
+            "mandatoryRule3": "Toda penalidade aplicada por Membros Especiais (Expulsão, Banimento, Silenciamento ou Bloqueio de Chat) deve obrigatoriamente possuir provas claras (capturas de tela ou vídeos da infração).",
+            "mandatoryRule4": "<bold>QUALQUER FORMA DE ABUSO DE PODER ADMINISTRATIVO RESULTARÁ NA REMOÇÃO IMEDIATA DOS PRIVILÉGIOS E BANIMENTO PERMANENTE DA CONTA SEM COMPENSAÇÃO.</bold>",
+            "section5Title": "5. SISTEMA DE SKINS CHANGER COM SINCRONIZAÇÃO ONLINE",
+            "skinModContent": "Todos os membros têm liberdade para alterar e personalizar skins de armas diretamente no painel administrativo com sincronização instantânea para o jogo através do portal:",
+            "skinModLink": "Página de alteração de skins:",
+            "skinModLinkText": "/dashboard/skins",
+            "tutorialTitle": "MODO TUTORIAL: CONTROLES",
+            "tutorialMoveWS": "PRESSIONE <bold>W</bold> OU <bold>S</bold> PARA SE MOVER",
+            "tutorialOpenCategory": "ÓTIMO! AGORA PRESSIONE <bold>E</bold> PARA ABRIR A CATEGORIA",
+            "tutorialCloseMenu": "MUITO BEM! PRESSIONE <bold>TAB</bold> PARA FECHAR O MENU",
+            "tutorialHintTitle": "DICAS DE CONTROLE",
+            "tutorialHintMove": "Pressione W/S para mover",
+            "tutorialHintOpen": "Pressione E para abrir categoria",
+            "tutorialHintExit": "Pressione TAB para fechar menu",
+            "tutorialDoneTitle": "TESTE CONCLUÍDO!",
+            "tutorialDoneHint": "Digite !admin na caixa de texto para tentar abrir novamente o painel",
+            "inputPlaceholder": "Digite um comando (ex: !admin)..."
+        },
+        "rank": {
+            "title": "ENCICLOPÉDIA DOS TERMOS DE PONTUAÇÃO DE RANKING",
+            "subtitle": "Documento oficial explicando o mecanismo de pontuação e regras de classificação",
+            "config_note": "(Observação: Este documento utiliza dados da configuração padrão do sistema. O recurso de resgate de reféns não está disponível na versão atual).",
+            "constraints": {
+                "title": "1. CONDIÇÕES GERAIS OBRIGATÓRIAS",
+                "desc": "O sistema zRanks pausará a contagem de pontos (sem adicionar ou remover pontos) nas seguintes situações:"
+            },
+            "vipBoost": {
+                "title": "2. MULTIPLICADORES DE PRIVILÉGIOS DE MEMBROS",
+                "desc": "<bold>Apenas valores positivos são multiplicados:</bold> Qualquer ganho de pontos (eliminação de inimigos, desarme de bomba, vitória de rodada...) recebe multiplicadores:"
+            },
+            "dynamicElo": {
+                "title": "3. CAMPO DE BATALHA POSITIVO: SISTEMA DINÂMICO",
+                "desc": "Este sistema de pontuação dinâmica <highlight>APENAS É ATIVADO</highlight> quando ambos os jogadores envolvidos possuem mais de <highlight>0</highlight> pontos.",
+                "matrixTitle": "Matriz de Combate: Jogador Positivo vs Jogador Positivo",
+                "h1": "Situação de combate",
+                "h2": "Taxa base",
+                "h3": "Pontos do eliminador (Eliminação +10)",
+                "h4": "Pontos do eliminado (Morte -50)",
+                "row1_name": "Combate entre líderes do ranking (Exemplo: Rank 1 elimina Rank 2)",
+                "row2_name": "Novato (baixa pontuação) elimina líder do ranking (pontuação extremamente alta)",
+                "row3_name": "Líder do ranking elimina novato (grande diferença de pontos)",
+                "conclusion": "CONCLUSÃO IMPORTANTE: Como o menor multiplicador é x3.0, todas as eliminações entre jogadores com pontuação positiva são amplificadas em pelo menos 3 vezes! O campo de batalha positivo é sempre extremamente brutal."
+            },
+            "negativeZone": {
+                "title": "4. ZONA NEGATIVA: QUANDO O SISTEMA LIMITA",
+                "desc": "Se sua pontuação cair para <highlightRed>0</highlightRed> ou menos, você entrará no estado de pontuação negativa. O sistema <highlightRed>não recupera pontos automaticamente</highlightRed>; você deverá acumular pontos manualmente através de eliminações.",
+                "c1_ai": "(Observação: Jogadores negativos não podem ganhar grandes quantidades de pontos ao eliminar líderes do ranking para evitar abusos).",
+                "c2_ai": "(Observação: Jogadores positivos recebem poucos pontos ao eliminar jogadores negativos para incentivar desafios contra adversários fortes).",
+                "c3_note": "(Caso possuam privilégios de membro, os multiplicadores continuam sendo aplicados normalmente)."
+            },
+            "combat": {
+                "title": "5. TABELA DETALHADA DE PONTOS DE COMBATE",
+                "desc": "Esses valores podem ser acumulados na mesma eliminação e são multiplicados pelos bônus de membro quando forem valores positivos.",
+                "tableA": {
+                    "title": "A. Pontos básicos & Penalidades",
+                    "h1": "Ação",
+                    "h2": "Pontos",
+                    "h3": "Observações",
+                    "row1_name": "Eliminar inimigo",
+                    "row1_note": "Pontuação base.",
+                    "row2_name": "Ser eliminado (Morte)",
+                    "row2_note": "Pontos perdidos.",
+                    "row3_name": "Eliminar aliado",
+                    "row3_note": "Penalidade extremamente severa (O aliado eliminado ainda perderá os pontos básicos de morte <highlightRed>-50 pontos</highlightRed>).",
+                    "row4_name": "Suicídio ou queda",
+                    "row4_note": "Penalidade extremamente severa (Exceto em casos de perda de conexão)."
+                },
+                "tableB": {
+                    "title": "B. Pontos de bônus por habilidade em combate",
+                    "h1": "Habilidade",
+                    "h2": "Pontos adicionais",
+                    "row1_name": "Eliminação com tiro na cabeça",
+                    "row2_name": "Eliminação sem usar mira telescópica",
+                    "row3_name": "Eliminação atravessando obstáculos (Atravessar parede)",
+                    "row3_note": "Multiplicado pela quantidade de obstáculos atravessados",
+                    "row4_name": "Eliminação à longa distância (Acima de 35 metros)",
+                    "row5_name": "Eliminação através da fumaça",
+                    "row6_name": "Eliminação do oponente enquanto estiver cegado"
+                },
+                "tableC": {
+                    "title": "C. Pontos de bônus pelo uso de armas especiais",
+                    "h1": "Arma",
+                    "h2": "Pontos adicionais",
+                    "row1_name": "Eliminação com faca",
+                    "row2_name": "Eliminação com arma de choque",
+                    "row3_name": "Eliminação com granada explosiva",
+                    "row4_name": "Eliminação com granada incendiária",
+                    "row5_name": "Eliminação suprema: Acertar diretamente um equipamento arremessado e eliminar um oponente com pouquíssima vida restante"
+                },
+                "tableD": {
+                    "title": "D. Assistência em eliminação",
+                    "h1": "Ação",
+                    "h2": "Pontos",
+                    "h3": "Observação",
+                    "row1_name": "Assistência básica em eliminação",
+                    "row2_name": "Assistência em eliminação com granada de efeito cegante",
+                    "row2_note": "Adiciona +6",
+                    "row3_name": "Cegar companheiro de equipe causando sua morte",
+                    "row3_note": "Penalidade por assistência negativa (<highlightRed>-150 pontos</highlightRed> por prejudicar companheiro e <highlightRed>-100 pontos</highlightRed> por cegá-lo).",
+                    "ai_note": "(Nota: As penalidades por assistência negativa só se aplicam quando companheiros de equipe eliminam uns aos outros sob o efeito negativo causado por você)."
+                },
+                "tableE": {
+                    "title": "E. Pontos de bônus por sequência de eliminações (Reiniciado a cada rodada)",
+                    "h1": "Sequência de eliminações",
+                    "h2": "Pontos de bônus adicionais",
+                    "row1_name": "2 eliminações consecutivas",
+                    "row2_name": "3 eliminações consecutivas",
+                    "row3_name": "4 eliminações consecutivas",
+                    "row4_name": "5 eliminações consecutivas (Aniquilação total)",
+                    "row5_name": "Marco de sequência destrutiva de eliminações",
+                    "row5_note": "Recebe +55 pontos extras para cada eliminação seguinte"
+                }
+            },
+            "objectives": {
+                "title": "6. PONTOS DE OBJETIVOS TÁTICOS",
+                "desc": "(Aplicável apenas aos jogadores participando diretamente da partida; espectadores não recebem pontos).",
+                "h1": "Objetivo",
+                "h2": "Pontos",
+                "h3": "Observação",
+                "row1_name": "Vitória na rodada",
+                "row1_note": "Concedido a todos os membros da equipe.",
+                "row2_name": "Derrota na rodada",
+                "row2_note": "Subtraído de todos os membros da equipe.",
+                "row3_name": "Melhor jogador da rodada (Título MVP)",
+                "row3_note": "Bônus adicional para o jogador premiado.",
+                "row4_name": "Ativar a bomba C4",
+                "row5_name": "Desarmar a bomba C4",
+                "row5_note": "Concedido apenas ao jogador que realizar a ação com sucesso.",
+                "row6_name": "Explosão bem-sucedida da bomba C4",
+                "row6_note": "Concedido a todos os membros da equipe que ativou a bomba.",
+                "row7_name": "Morte causada pela explosão da bomba",
+                "row7_note": "Pequena penalidade de pontos e não conta como suicídio.",
+                "row8_name": "Pontos acumulados por tempo de jogo"
+            },
+            "minigame": {
+                "title": "7. MINIJOGO DE MATEMÁTICA RÁPIDA",
+                "desc": "A cada <highlight>10 minutos</highlight>, o sistema exibirá uma operação matemática aleatória na tela. Use o comando !aw <param>resultado</param> para responder (Não aplicável para espectadores).",
+                "h1": "Resultado",
+                "h2": "Pontos/Penalidade",
+                "h3": "Observação",
+                "row1_name": "Primeira resposta CORRETA",
+                "row1_note": "Multiplicado pelo coeficiente de membro. A pergunta termina imediatamente.",
+                "row2_name": "Primeira resposta ERRADA",
+                "row2_note": "Bloqueio temporário da capacidade de responder por <highlightRed>2 segundos</highlightRed>.",
+                "row3_name": "Segunda resposta ERRADA",
+                "row3_note": "Bloqueio temporário da capacidade de responder por <highlightRed>2 segundos</highlightRed>.",
+                "row4_name": "Terceira resposta ERRADA",
+                "row4_note": "<highlightRed>Perde o direito de participar da pergunta atual</highlightRed>.",
+                "ai_note": "(Nota: Todas as penalidades por respostas erradas serão descontadas diretamente da sua pontuação de ranking e não serão reduzidas por nenhum coeficiente de membro)."
+            },
+            "conclusion": "Este documento é o regulamento oficial para que os jogadores consultem e otimizem sua pontuação de ranking no sistema zRanks."
+        }
+    }
+}
