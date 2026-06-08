@@ -114,6 +114,7 @@
     "bans": {
         "title": "Danh sách Ban",
         "addBan": "Têm Ban",
+        "addBanDescription": "Tạo mới lệnh cấm lỉn (ban) slên hệ thống máy chủ.",
         "playerName": "Chử cần lỉn",
         "playerSteamId": "Steam ID cần lỉn",
         "playerIp": "IP cần lỉn",
@@ -131,13 +132,12 @@
         "minutes": "phút",
         "permanent": "Mãi mãi",
         "active": "Tàng lồng",
-        "addBanDescription": "Tạo mới lệnh cấm lỉn (ban) slên hệ thống máy chủ.",
-        "noMutes": "Chửa mỉ pày ban lừ",
         "noBans": "Chửa mỉ pày ban lừ"
     },
     "mutes": {
         "title": "Danh sách Mute",
         "addMute": "Têm Mute",
+        "addMuteDescription": "Tạo mới cấm chữ/mic (mute) slên hệ thống máy chủ.",
         "playerName": "Chử cần lỉn",
         "playerSteamId": "Steam ID cần lỉn",
         "adminName": "Admin",
@@ -156,7 +156,6 @@
         "mute": "MUTE (Voice)",
         "silence": "SILENCE (Cả slong)",
         "active": "Tàng lồng",
-        "addMuteDescription": "Tạo mới cấm chữ/mic (mute) slên hệ thống máy chủ.",
         "noMutes": "Chửa mỉ pày mute lừ"
     },
     "logs": {
