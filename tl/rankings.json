@@ -6,7 +6,7 @@
     "refreshing": "Nagre-refresh...",
     "refreshIn": "Ire-refresh sa {seconds}s",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "Manlalaro",
         "points": "Puntos",
         "rank": "Ranggo",
@@ -31,6 +31,8 @@
     "error": "Nabigong i-load ang rankings",
     "detail": {
         "title": "Detalye ng Manlalaro",
+        "subtitle": "Detalyadong stats sa bawat server",
+        "back": "Bumalik",
         "combat": "Labanan",
         "accuracy": "Katumpakan",
         "rounds": "Rounds",
@@ -51,6 +53,9 @@
         "roundsLost": "Talo",
         "gamesWon": "Mga Larong Panalo",
         "gamesLost": "Mga Larong Talo",
+        "dominationKills": "Domination",
+        "ctRounds": "CT Rounds",
+        "tRounds": "T Rounds",
         "bombPlanted": "Bombang Nailagay",
         "bombDefused": "Bombang Na-defuse",
         "hostageRescued": "Na-rescue na Hostage",
@@ -63,11 +68,6 @@
         "todayHours": "Ngayon",
         "terroristHours": "Oras ng T-side",
         "ctHours": "Oras ng CT-side",
-        "subtitle": "Detalyadong stats sa bawat server",
-        "back": "Bumalik",
-        "dominationKills": "Domination",
-        "ctRounds": "CT Rounds",
-        "tRounds": "T Rounds",
         "weaponName": "Sandata",
         "weaponKills": "Kills",
         "weaponHS": "HS",
@@ -79,12 +79,6 @@
         "copied": "Nakopya!",
         "verifiedStaff": "Opisyal na profile: Kinumpirma ng zSystems na ito ay opisyal na account ng Admin / Staff ng 7-Color Community system.",
         "verifiedUser": "Beripikadong account: Kinumpirma ng zSystems na ang account na ito ay tunay na pagmamay-ari ng user, nakakonekta na ang Steam account at matagumpay na napatunayan ang email address."
-    },
-    "aiWarning": {
-        "title": "Ang pahinang ito ay ginawa ng AI Claude Opus 4.7",
-        "desc1": "Mahina ang performance ng AI, kaya kung may lag, i-enable ang Hardware Acceleration. Iwasan ang pagbukas ng F12 dahil maaaring mag-freeze ang web at kailangang i-restart.",
-        "desc2": "Dahil kulang sa oras, hindi pa ito tapos. Salamat sa lahat.",
-        "confirm": "Naiintindihan"
     },
     "mode": {
         "positive": "Top Positibong Puntos",
