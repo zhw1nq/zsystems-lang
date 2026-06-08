@@ -12,12 +12,12 @@
     "previous": "Nakaraan",
     "next": "Susunod",
     "tabs": {
+        "overview": "Overview",
+        "details": "Mga Detalye ng Match",
         "rounds": "Mga Round",
         "kills": "Kills",
         "roundStats": "Stats ng Round",
-        "economy": "Ekonomiya",
-        "overview": "Overview",
-        "details": "Mga Detalye ng Match"
+        "economy": "Ekonomiya"
     },
     "scoreboard": {
         "player": "Manlalaro",
