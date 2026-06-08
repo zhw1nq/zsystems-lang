@@ -1,3 +1,18 @@
 files:
   - source: /vi/*.json
-    translation: /%two_letters_code%/*.json
+    translation: /%locale%/%file_name%.json
+    languages_mapping:
+      locale:
+        en-US: en
+        vi-VN: vi
+        vi-x-tay: vi-x-tay
+        id-ID: id
+        ms-MY: ms
+        th-TH: th
+        km-KH: km
+        lo-LA: lo
+        my-MM: my
+        tl-PH: tl
+        pt-PT: pt
+        zh-CN: zh-Hans
+        zh-TW: zh-Hant
