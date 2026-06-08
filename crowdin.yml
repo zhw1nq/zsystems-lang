@@ -3,16 +3,16 @@ files:
     translation: /%locale%/%file_name%.json
     languages_mapping:
       locale:
-        en-US: en
-        vi-VN: vi
+        en: en
+        vi: vi
         vi-x-tay: vi-x-tay
-        id-ID: id
-        ms-MY: ms
-        th-TH: th
-        km-KH: km
-        lo-LA: lo
-        my-MM: my
-        tl-PH: tl
-        pt-PT: pt
+        id: id
+        ms: ms
+        th: th
+        km: km
+        lo: lo
+        my: my
+        tl: tl
+        pt: pt
         zh-CN: zh-Hans
         zh-TW: zh-Hant
