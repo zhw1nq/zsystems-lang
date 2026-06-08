@@ -1,0 +1,3 @@
+files:
+  - source: /vi/*.json
+    translation: /%two_letters_code%/*.json
