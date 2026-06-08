@@ -12,12 +12,12 @@
     "previous": "Sebelumnya",
     "next": "Berikutnya",
     "tabs": {
+        "overview": "Ringkasan",
+        "details": "Detail Pertandingan",
         "rounds": "Ronde",
         "kills": "Kill",
         "roundStats": "Statistik Ronde",
-        "economy": "Ekonomi",
-        "overview": "Ringkasan",
-        "details": "Detail Pertandingan"
+        "economy": "Ekonomi"
     },
     "scoreboard": {
         "player": "Pemain",
