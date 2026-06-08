@@ -1,0 +1,96 @@
+{
+    "title": "Modo de Batalha",
+    "subtitle": "Partidas competitivas 5v5",
+    "party": {
+        "title": "Seu Grupo",
+        "solo": "Jogando sozinho",
+        "create": "Criar grupo",
+        "invite": "Convidar por 7ID",
+        "invitePlaceholder": "Digite #7ID...",
+        "inviteButton": "Enviar convite",
+        "leave": "Sair do grupo"
+    },
+    "queue": {
+        "find": "ENCONTRAR PARTIDA",
+        "cancel": "CANCELAR",
+        "searching": "Procurando partida...",
+        "playersInQueue": "{count} jogadores procurando",
+        "partiesInQueue": "{count} grupos procurando",
+        "leaderOnly": "Somente o líder do grupo pode buscar uma partida"
+    },
+    "match": {
+        "found": "PARTIDA ENCONTRADA!",
+        "accept": "ACEITAR",
+        "decline": "RECUSAR",
+        "cancelReason": {
+            "decline": "Um jogador recusou a partida"
+        },
+        "myTeam": "SUA EQUIPE",
+        "enemyTeam": "EQUIPE INIMIGA",
+        "accepted_status": "Pronto",
+        "starting": "INICIANDO PARTIDA!!!"
+    },
+    "mapBan": {
+        "title": "BANIMENTO DE MAPAS",
+        "yourTurn": "Sua vez — Selecione um mapa para BANIR",
+        "enemyTurn": "Oponente escolhendo...",
+        "waiting": "Aguardando...",
+        "decided": "Mapa da partida",
+        "pickSide": "Escolher lado",
+        "ct": "Contra-Terrorista",
+        "t": "Terrorista"
+    },
+    "stats": {
+        "title": "Estatísticas",
+        "matches": "Partidas",
+        "wins": "Vitórias",
+        "winRate": "Taxa de vitória",
+        "kd": "K/D",
+        "winStreak": "Sequência de vitórias",
+        "bestStreak": "Melhor sequência",
+        "noMatches": "Nenhuma partida jogada ainda"
+    },
+    "leaderboard": {
+        "title": "Classificação",
+        "rank": "#",
+        "player": "Jogador",
+        "matches": "Partidas",
+        "wins": "Vitórias",
+        "winRate": "Vit %",
+        "kd": "K/D"
+    },
+    "invite": {
+        "received": "Convite de grupo",
+        "from": "{name} te convidou para o grupo",
+        "accept": "Aceitar",
+        "decline": "Recusar"
+    },
+    "cooldown": {
+        "reason": {
+            "decline": "Recusou uma partida"
+        }
+    },
+    "history": {
+        "title": "Histórico de partidas",
+        "noHistory": "Nenhum histórico de partidas ainda"
+    },
+    "errors": {
+        "matchNotFound": "Partida não encontrada",
+        "invalidState": "O estado da partida foi alterado",
+        "notYourTurn": "Não é a vez da sua equipe",
+        "notCaptain": "Somente o capitão pode realizar esta ação",
+        "mapAlreadyBanned": "Este mapa já foi banido",
+        "notInMatch": "Você não está nesta partida",
+        "notAuthorized": "Você não está autorizado",
+        "validationError": "Dados inválidos",
+        "networkError": "Erro de conexão, tente novamente",
+        "unknown": "Ocorreu um erro",
+        "matchDeclined": "Um jogador recusou a partida",
+        "matchTimeout": "Tempo de aceitação expirou",
+        "matchCancelled": "A partida foi cancelada"
+    },
+    "experimental": {
+        "title": "Funcionalidade experimental",
+        "description": "Este recurso ainda está em desenvolvimento. Apenas a interface (UI) está disponível e nenhuma ação pode ser executada neste ambiente."
+    }
+}
