@@ -1,0 +1,81 @@
+{
+    "title": "Coleções de Skins",
+    "description": "Descubra e compartilhe coleções de skins com a comunidade",
+    "tabs": {
+        "community": "Comunidade",
+        "my": "Minhas Coleções"
+    },
+    "sort": {
+        "newest": "Mais recentes",
+        "mostLiked": "Mais curtidas",
+        "mostUsed": "Mais usadas"
+    },
+    "card": {
+        "items": "{count} itens",
+        "uses": "{count} usos",
+        "likes": "{count} curtidas",
+        "comments": "{count} comentários",
+        "by": "por {author}",
+        "public": "Público",
+        "private": "Privado"
+    },
+    "create": {
+        "button": "Criar novo",
+        "title": "Criar coleção",
+        "name": "Nome da coleção",
+        "namePlaceholder": "ex: AWP Dragon Lore + Butterfly Fade",
+        "description": "Descrição",
+        "descPlaceholder": "Descreva sua coleção...",
+        "visibility": "Público",
+        "preview": "Loadout atual",
+        "previewDesc": "{skins} skins, {knives} facas, {gloves} luvas, {agents} agentes, {music} músicas, {pins} pins",
+        "submit": "Criar coleção",
+        "success": "Coleção criada com sucesso!",
+        "error": "Falha ao criar coleção",
+        "limitReached": "Você atingiu o limite de {max} coleções",
+        "emptyLoadout": "Seu loadout atual está vazio, nada para salvar"
+    },
+    "detail": {
+        "apply": "Aplicar coleção",
+        "applyConfirmTitle": "Aplicar coleção?",
+        "applyConfirmDesc": "Seu loadout atual será completamente substituído pelos itens desta coleção. Esta ação não pode ser desfeita.",
+        "applySuccess": "Coleção aplicada com sucesso!",
+        "applyError": "Falha ao aplicar coleção",
+        "delete": "Excluir",
+        "deleteConfirmTitle": "Excluir coleção?",
+        "deleteConfirmDesc": "Tem certeza que deseja excluir esta coleção? Esta ação não pode ser desfeita.",
+        "edit": "Editar",
+        "skins": "Skins",
+        "knives": "Facas",
+        "gloves": "Luvas",
+        "agents": "Agentes",
+        "music": "Músicas",
+        "pins": "Pins"
+    },
+    "comment": {
+        "title": "Comentários",
+        "placeholder": "Escreva um comentário...",
+        "submit": "Publicar",
+        "empty": "Ainda não há comentários",
+        "deleteConfirm": "Excluir este comentário?",
+        "error": "Falha ao postar comentário",
+        "loginRequired": "Faça login para comentar"
+    },
+    "empty": {
+        "community": "Ainda não há coleções. Seja o primeiro a compartilhar!",
+        "my": "Você ainda não criou nenhuma coleção.",
+        "noItems": "A coleção está vazia"
+    },
+    "toast": {
+        "liked": "Coleção curtida",
+        "unliked": "Curtida removida",
+        "deleted": "Coleção excluída",
+        "updated": "Coleção atualizada",
+        "tooFast": "Muito rápido!",
+        "tooFastDesc": "Aguarde antes de fazer a próxima ação",
+        "copiedId": "ID copiado",
+        "applied": "Coleção aplicada!",
+        "applyError": "Falha ao aplicar"
+    },
+    "search": "Pesquisar coleções..."
+}
