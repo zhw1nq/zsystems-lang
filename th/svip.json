@@ -12,7 +12,7 @@
         "noResults": "ไม่พบโมเดล",
         "accessDenied": "ต้องใช้สิทธิ SVIP เพื่อใช้งานฟีเจอร์นี้",
         "notLoggedIn": "กรุณาเข้าสู่ระบบเพื่อใช้งานฟีเจอร์นี้",
-        "selectCategory": "เลือกหมวดหมู่" 
+        "selectCategory": "เลือกหมวดหมู่"
     },
     "weapons": {
         "title": "zWeapons",
