@@ -1,0 +1,73 @@
+{
+    "models": {
+        "title": "zModels",
+        "description": "Trang bị nhân vật riêng cho SVIP",
+        "equipped": "Đang trang bị",
+        "equip": "Trang bị",
+        "unequip": "Gỡ bỏ",
+        "ct": "Counter Terrorist",
+        "t": "Terrorist",
+        "private": "Private",
+        "search": "Tìm kiếm nhân vật...",
+        "noResults": "Không tìm thấy nhân vật",
+        "accessDenied": "Bạn cần quyền SVIP để sử dụng tính năng này",
+        "notLoggedIn": "Vui lòng đăng nhập để sử dụng",
+        "selectCategory": "Chọn danh mục"
+    },
+    "weapons": {
+        "title": "zWeapons",
+        "description": "Trang bị vũ khí riêng cho SVIP",
+        "equipped": "Đang trang bị",
+        "equip": "Trang bị",
+        "unequip": "Gỡ bỏ",
+        "search": "Tìm kiếm vũ khí...",
+        "noResults": "Không tìm thấy vũ khí",
+        "selectPack": "Chọn bộ skin",
+        "selectWeapon": "Chọn loại vũ khí",
+        "viewByType": "Xem theo loại súng",
+        "viewByPack": "Xem theo bộ skin",
+        "accessDenied": "Bạn cần quyền SVIP để sử dụng tính năng này",
+        "notLoggedIn": "Vui lòng đăng nhập để sử dụng",
+        "categories": {
+            "rifles": "Súng Trường",
+            "pistols": "Súng Ngắn",
+            "smgs": "Tiểu Liên",
+            "heavy": "Súng Nặng",
+            "knives": "Dao",
+            "grenades": "Lựu Đạn"
+        }
+    },
+    "common": {
+        "locked": "Yêu cầu SVIP",
+        "lockedDesc": "Tính năng này chỉ dành cho người dùng SVIP. Nâng cấp để mở khóa.",
+        "loading": "Đang tải...",
+        "equipSuccess": "Đã trang bị thành công",
+        "equipSuccessDesc": "Đã trang bị {name}",
+        "unequipSuccess": "Đã gỡ bỏ",
+        "unequipSuccessDesc": "Đã gỡ {name}",
+        "equipFailed": "Trang bị thất bại",
+        "unequipFailed": "Gỡ bỏ thất bại",
+        "tooFast": "Quá nhanh",
+        "tooFastDesc": "Vui lòng chờ trước khi thao tác tiếp",
+        "allWeapons": "Tất cả"
+    },
+    "mvp": {
+        "title": "zMVP",
+        "description": "Trang bị nhạc MVP riêng",
+        "search": "Tìm kiếm MVP...",
+        "noResults": "Không tìm thấy MVP",
+        "free": "FREE",
+        "vip": "VIP",
+        "svip": "SVIP",
+        "admin": "ADMIN",
+        "preview": "Nghe thử",
+        "stop": "Dừng",
+        "apply": "Áp dụng",
+        "unequip": "Gỡ bỏ",
+        "equipped": "Đang sử dụng",
+        "lockedVip": "Yêu cầu VIP",
+        "lockedVipDesc": "Tính năng này chỉ dành cho người dùng VIP trở lên.",
+        "lockedSvip": "Yêu cầu SVIP",
+        "lockedSvipDesc": "Tính năng này chỉ dành cho người dùng SVIP. Nâng cấp để mở khóa."
+    }
+}
