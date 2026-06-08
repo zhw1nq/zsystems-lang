@@ -25,15 +25,13 @@
         "players6h": "PEMAIN / 6J"
     },
     "footer": {
-        "selectLanguage": "Pilih bahasa",
         "language": "Bahasa Melayu",
-        "privacy": "Dasar Privasi",
-        "terms": "Terma Perkhidmatan",
-        "contact": "Hubungi",
-        "poweredBy": "Dikuasakan oleh zSystems — Dibangunkan oleh zhw1nq & 7-Mau TEAM",
         "authLogin": "Log Masuk",
         "authRegister": "Daftar",
         "authAccount": "Akaun",
+        "privacy": "Dasar Privasi",
+        "terms": "Terma Perkhidmatan",
+        "contact": "Hubungi",
         "brandDescription": "Komuniti CS2 terbesar di Vietnam. Sistem pelayan yang stabil, prestasi tinggi dan kependaman yang sangat rendah.",
         "navigation": "Navigasi",
         "servers": "Pelayan",
@@ -56,53 +54,6 @@
             "report": "Laporkan Pelanggaran",
             "contact": "Hubungi Sokongan",
             "faq": "FAQ"
-        },
-        "character": {
-            "name": "7-CHAN"
-        },
-        "preloader": {
-            "restricted18": "Terhad 18+",
-            "warningInitial": "Bermain permainan lebih daripada 180 minit sehari akan memberi kesan buruk kepada kesihatan.",
-            "warningFun": "Semoga anda seronok bermain di 7-mau.com!",
-            "warningStuck": "Jika skrin pemuatan tersekat atau mengambil masa terlalu lama, sila muat semula halaman untuk meneruskan.",
-            "loading": "SEDANG DIMUATKAN"
-        },
-        "zsystems": {
-            "title": "zSystems",
-            "subtitle": "Seni Bina Sistem zSystems",
-            "backHome": "KEMBALI KE HALAMAN UTAMA",
-            "heroTag": "zSystems & Platform Teras vhming",
-            "description": "zSystems dan vhming ialah sistem pengurusan lanjutan serta panel kawalan All-In-One (AIO) yang dioptimumkan, menawarkan operasi lancar, prestasi unggul dan pengurusan pangkalan data masa nyata.",
-            "legalTitle": "Maklumat Sistem & Perundangan",
-            "features": {
-                "engineTitle": "Enjin Prestasi Tinggi",
-                "engineDesc": "Dikuasakan oleh modul pemprosesan generasi baharu yang menyediakan pelaksanaan aliran mili-saat dan pengurusan prestasi yang kukuh.",
-                "cacheTitle": "Lapisan Cache L2 Berpusat",
-                "cacheDesc": "Penyimpanan berterusan dan penyelarasan melalui kluster cache Redis berprestasi tinggi untuk melayani jumlah pengguna yang besar secara serta-merta.",
-                "architectureTitle": "Seni Bina Sistem Cinematic",
-                "architectureDesc": "Perlindungan kukuh terhadap ancaman siber, protokol sambungan selamat dan pemeriksaan sesi automatik dibina terus ke dalam teras sistem.",
-                "pipelineTitle": "Saluran Kependaman Ultra Rendah",
-                "pipelineDesc": "Aliran pelaksanaan yang dioptimumkan direka khas untuk komuniti pemain yang menuntut prestasi tinggi dan sistem berbilang pemain."
-            },
-            "owner": {
-                "label": "PEMILIK",
-                "name": "luxiie",
-                "desc": "Wakil sah, pengasas serta pemilik rasmi hak cipta sistem zSystems.",
-                "linkText": "Lawati luxiie"
-            },
-            "developer": {
-                "label": "PEMBANGUN",
-                "name": "vhming",
-                "desc": "Pembangun utama dan arkitek sistem yang membina serta mengendalikan sistem zSystems.",
-                "linkText": "Lawati vhming.com"
-            },
-            "dmca": {
-                "label": "PERLINDUNGAN HAK CIPTA",
-                "name": "DMCA Protected",
-                "desc": "Kandungan, reka bentuk dan kod sumber dilindungi oleh hak cipta digital global.",
-                "linkText": "Sahkan DMCA"
-            },
-            "footerText": "Dibangunkan oleh vhming dengan kecemerlangan mutlak."
         }
     },
     "character": {
