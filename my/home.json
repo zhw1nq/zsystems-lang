@@ -25,15 +25,13 @@
         "players6h": "ကစားသမား / ၆နာရီ"
     },
     "footer": {
-        "selectLanguage": "ဘာသာစကား ရွေးချယ်",
         "language": "မြန်မာ",
-        "privacy": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ",
-        "terms": "ဝန်ဆောင်မှုစည်းမျဉ်း",
-        "contact": "ဆက်သွယ်ရန်",
-        "poweredBy": "zSystems မှ ပံ့ပိုးထား — zhw1nq နှင့် 7-Mau TEAM မှ ဖန်တီးထား",
         "authLogin": "အကောင့်ဝင်ရန်",
         "authRegister": "အကောင့်ဖွင့်ရန်",
         "authAccount": "အကောင့်",
+        "privacy": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ",
+        "terms": "ဝန်ဆောင်မှုစည်းမျဉ်း",
+        "contact": "ဆက်သွယ်ရန်",
         "brandDescription": "ဗီယက်နမ်၏ အကြီးမားဆုံး CS2 အသိုင်းအဝိုင်း။ တည်ငြိမ်သော ဆာဗာစနစ်၊ စွမ်းဆောင်ရည်မြင့်ပြီး latency အလွန်နည်းသည်။",
         "navigation": "လမ်းညွှန်",
         "servers": "ဆာဗာများ",
@@ -56,53 +54,6 @@
             "report": "စည်းကမ်းဖောက်ဖျက်မှု တိုင်ကြားရန်",
             "contact": "ဆက်သွယ်ရန်",
             "faq": "FAQ အမေးအဖြေများ"
-        },
-        "character": {
-            "name": "7-CHAN"
-        },
-        "preloader": {
-            "restricted18": "၁၈+ ကန့်သတ်ချက်",
-            "warningInitial": "နေ့စဉ် ၁၈၀ မိနစ်ထက်ပို၍ ဂိမ်းကစားခြင်းသည် ကျန်းမာရေးကို ထိခိုက်စေနိုင်သည်။",
-            "warningFun": "7-mau.com တွင် ပျော်ရွှင်စွာ ဂိမ်းကစားနိုင်ပါစေ!",
-            "warningStuck": "Loading screen ကပ်နေခြင်း သို့မဟုတ် ကြာမြင့်စွာ တင်နေပါက စာမျက်နှာကို refresh လုပ်ပါ။",
-            "loading": "တင်နေသည်"
-        },
-        "zsystems": {
-            "title": "zSystems",
-            "subtitle": "zSystems စနစ်ဖွဲ့စည်းပုံ",
-            "backHome": "ပင်မစာမျက်နှာသို့ ပြန်ရန်",
-            "heroTag": "zSystems & vhming Core Platform",
-            "description": "zSystems နှင့် vhming သည် All-In-One (AIO) အသုံးပြုသူများအတွက် အဆင့်မြင့် စီမံခန့်ခွဲမှုစနစ်နှင့် control panel တစ်ခုဖြစ်ပြီး ချောမွေ့သော လည်ပတ်မှု၊ မြင့်မားသော စွမ်းဆောင်ရည်နှင့် အချိန်နှင့်တပြေးညီ database စီမံခန့်ခွဲမှုကို ပံ့ပိုးပေးသည်။",
-            "legalTitle": "စနစ်နှင့် ဥပဒေဆိုင်ရာ အချက်အလက်",
-            "features": {
-                "engineTitle": "စွမ်းဆောင်ရည်မြင့် Engine",
-                "engineDesc": "မျိုးဆက်သစ် processing module များဖြင့် လည်ပတ်ကာ millisecond အဆင့် လုပ်ဆောင်နိုင်မှုနှင့် အားကောင်းသော performance စီမံခန့်ခွဲမှုကို ပေးစွမ်းသည်။",
-                "cacheTitle": "ဗဟို L2 Cache Layer",
-                "cacheDesc": "Redis cache cluster များမှတစ်ဆင့် အမြန်နှုန်းမြင့် sync နှင့် data သိမ်းဆည်းမှုကို ထောက်ပံ့ပြီး အသုံးပြုသူအများအပြားကို ချက်ချင်း ဝန်ဆောင်မှုပေးနိုင်သည်။",
-                "architectureTitle": "Cinematic စနစ် တည်ဆောက်ပုံ ဗိသုကာ",
-                "architectureDesc": "Cyber attack များမှ ကာကွယ်မှု၊ လုံခြုံသော ချိတ်ဆက်မှု protocol များနှင့် အလိုအလျောက် session စစ်ဆေးမှုများကို core ထဲတွင် တည်ဆောက်ထားသည်။",
-                "pipelineTitle": "Latency အလွန်နည်းသော Pipeline",
-                "pipelineDesc": "ပြင်းထန်သော gamer အသိုင်းအဝိုင်းနှင့် multiplayer စနစ်များအတွက် အထူးပြု optimization ပြုလုပ်ထားသည်။"
-            },
-            "owner": {
-                "label": "ပိုင်ရှင်",
-                "name": "luxiie",
-                "desc": "zSystems စနစ်၏ ဥပဒေဆိုင်ရာ ကိုယ်စားလှယ်၊ တည်ထောင်သူနှင့် တရားဝင်မူပိုင်ခွင့်ပိုင်ရှင်။",
-                "linkText": "luxiie သို့ ဝင်ကြည့်ရန်"
-            },
-            "developer": {
-                "label": "DEVELOPER",
-                "name": "vhming",
-                "desc": "zSystems ကို တည်ဆောက်ပြီး လည်ပတ်စေသော အဓိက developer နှင့် system architect ဖြစ်သည်။",
-                "linkText": "vhming.com သို့ ဝင်ကြည့်ရန်"
-            },
-            "dmca": {
-                "label": "မူပိုင်ခွင့် ကာကွယ်မှု",
-                "name": "DMCA Protected",
-                "desc": "အကြောင်းအရာ၊ ဒီဇိုင်းနှင့် source code များကို ကမ္ဘာလုံးဆိုင်ရာ ဒစ်ဂျစ်တယ်မူပိုင်ခွင့်ဖြင့် ကာကွယ်ထားသည်။",
-                "linkText": "DMCA စစ်ဆေးရန်"
-            },
-            "footerText": "vhming မှ အကောင်းဆုံးအရည်အသွေးဖြင့် တည်ဆောက်ထားသည်။"
         }
     },
     "character": {
