@@ -1,0 +1,41 @@
+{
+    "title": "Skins",
+    "description": "Duyệt và tùy chỉnh skin vũ khí CS2 của bạn",
+    "tabs": {
+        "weaponSkins": "Skin Vũ Khí",
+        "agents": "Đặc Vụ",
+        "musicKits": "Nhạc Nền",
+        "pinsCoins": "Huy Hiệu"
+    },
+    "categories": {
+        "gloves": "Găng Tay",
+        "rifles": "Súng Trường",
+        "knives": "Dao",
+        "smgs": "Tiểu Liên",
+        "pistols": "Súng Ngắn",
+        "heavy": "Súng Nặng",
+        "equipment": "Trang Bị"
+    },
+    "team": {
+        "both": "Cả Hai Đội",
+        "ct": "Phe CT",
+        "t": "Phe T"
+    },
+    "search": "Tìm kiếm skin...",
+    "noResults": "Không tìm thấy skin",
+    "selectWeapon": "Chọn một vũ khí để xem skin",
+    "loginRequired": "Vui lòng đăng nhập để sử dụng Skins",
+    "loading": "Đang tải skin...",
+    "itemCount": "{count} mục",
+    "toast": {
+        "tooFast": "Thao tác quá nhanh",
+        "tooFastDesc": "Vui lòng đợi 2s trước khi thực hiện lại",
+        "equipped": "Đã trang bị!",
+        "equippedDesc": "Đã trang bị {name} thành công",
+        "unequipped": "Đã gỡ bỏ!",
+        "unequippedDesc": "Đã gỡ {name}",
+        "equipFailed": "Trang bị thất bại",
+        "unequipFailed": "Gỡ bỏ thất bại",
+        "unknownError": "Lỗi không xác định"
+    }
+}
