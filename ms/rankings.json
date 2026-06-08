@@ -6,7 +6,7 @@
     "refreshing": "Menyegarkan...",
     "refreshIn": "Segar semula dalam {seconds}s",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "Pemain",
         "points": "Mata",
         "rank": "Pangkat",
@@ -31,6 +31,8 @@
     "error": "Gagal memuatkan kedudukan",
     "detail": {
         "title": "Butiran Pemain",
+        "subtitle": "Statistik terperinci bagi setiap pelayan",
+        "back": "Kembali",
         "combat": "Pertempuran",
         "accuracy": "Ketepatan",
         "rounds": "Pusingan",
@@ -51,6 +53,9 @@
         "roundsLost": "Kalah",
         "gamesWon": "Permainan Dimenangi",
         "gamesLost": "Permainan Kalah",
+        "dominationKills": "Dominasi",
+        "ctRounds": "Pusingan CT",
+        "tRounds": "Pusingan T",
         "bombPlanted": "Bom Dipasang",
         "bombDefused": "Bom Dijinakkan",
         "hostageRescued": "Tawanan Diselamatkan",
@@ -63,11 +68,6 @@
         "todayHours": "Hari Ini",
         "terroristHours": "Jam Pasukan T",
         "ctHours": "Jam Pasukan CT",
-        "subtitle": "Statistik terperinci bagi setiap pelayan",
-        "back": "Kembali",
-        "dominationKills": "Dominasi",
-        "ctRounds": "Pusingan CT",
-        "tRounds": "Pusingan T",
         "weaponName": "Senjata",
         "weaponKills": "Bunuhan",
         "weaponHS": "HS",
@@ -79,12 +79,6 @@
         "copied": "Disalin!",
         "verifiedStaff": "Profil rasmi: zSystems telah mengesahkan bahawa ini ialah akaun rasmi Pentadbir / Kakitangan dalam sistem Komuniti 7-Warna.",
         "verifiedUser": "Akaun disahkan: zSystems telah mengesahkan akaun ini milik pemilik sebenar, telah memautkan akaun Steam dan berjaya mengesahkan alamat e-mel."
-    },
-    "aiWarning": {
-        "title": "Halaman ini dijana oleh AI Claude Opus 4.7",
-        "desc1": "Prestasi AI agak lemah, jadi jika anda mengalami lag, sila aktifkan Pecutan Perkakasan. Elakkan membuka F12 kerana ia boleh menyebabkan laman web membeku dan memerlukan mulakan semula. Harap maklum.",
-        "desc2": "Disebabkan kekangan masa, saya belum sempat menyiapkannya sepenuhnya. Terima kasih semua.",
-        "confirm": "Faham"
     },
     "mode": {
         "positive": "Mata Positif Teratas",
