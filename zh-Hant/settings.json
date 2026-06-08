@@ -29,9 +29,9 @@
         "appearanceHint": "自訂顏色與顯示模式。",
         "preferences": "偏好設定",
         "preferencesHint": "調整語言與視覺體驗。",
+        "customColor": "自訂顏色",
         "colorMode": "顏色模式",
         "colorModeHint": "選擇介面的顯示模式。",
-        "customColor": "自訂顏色",
         "light": "淺色",
         "auto": "自動",
         "dark": "深色",
@@ -231,8 +231,6 @@
     "notifications": {
         "title": "通知",
         "description": "管理您接收 zSystems 通知的方式。",
-        "saved": "通知偏好已儲存",
-        "saveError": "儲存偏好失敗",
         "security": {
             "title": "安全通知",
             "description": "當帳號發生安全相關活動時收到電子郵件通知。",
@@ -252,7 +250,9 @@
             "description": "收到關於新訊與優惠的電子郵件通知。",
             "promotional": "廣告郵件",
             "promotionalHint": "接收來自 7-Mau Community 的新訊、活動與優惠資訊。"
-        }
+        },
+        "saved": "通知偏好已儲存",
+        "saveError": "儲存偏好失敗"
     },
     "profile": {
         "title": "更新個人資料",

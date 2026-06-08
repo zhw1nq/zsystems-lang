@@ -25,15 +25,13 @@
         "players6h": "JOGADORES / 6H"
     },
     "footer": {
-        "selectLanguage": "Selecionar idioma",
         "language": "Português",
-        "privacy": "Política de privacidade",
-        "terms": "Termos de serviço",
-        "contact": "Contato",
-        "poweredBy": "Desenvolvido por zSystems — Desenvolvido por zhw1nq & 7-Mau TEAM",
         "authLogin": "Entrar",
         "authRegister": "Registrar",
         "authAccount": "Conta",
+        "privacy": "Política de privacidade",
+        "terms": "Termos de serviço",
+        "contact": "Contato",
         "brandDescription": "A maior comunidade CS2 do Vietnã. Sistema de servidores estável, alto desempenho e latência extremamente baixa.",
         "navigation": "Navegação",
         "servers": "Servidores",
@@ -56,53 +54,6 @@
             "report": "Reportar violação",
             "contact": "Contato de suporte",
             "faq": "FAQ"
-        },
-        "character": {
-            "name": "7-CHAN"
-        },
-        "preloader": {
-            "restricted18": "Restrito para 18+",
-            "warningInitial": "Jogar mais de 180 minutos por dia afeta negativamente a saúde.",
-            "warningFun": "Desejamos a todos uma ótima experiência de jogo no 7-mau.com!",
-            "warningStuck": "Se a tela de carregamento travar ou demorar muito, recarregue a página para continuar.",
-            "loading": "CARREGANDO"
-        },
-        "zsystems": {
-            "title": "zSystems",
-            "subtitle": "Arquitetura do sistema zSystems",
-            "backHome": "VOLTAR PARA A PÁGINA INICIAL",
-            "heroTag": "zSystems & Plataforma Central vhming",
-            "description": "zSystems e vhming são sistemas avançados de gerenciamento e painel All-In-One (AIO), oferecendo operação contínua, desempenho excepcional e gerenciamento de banco de dados em tempo real.",
-            "legalTitle": "Informações do Sistema & Jurídicas",
-            "features": {
-                "engineTitle": "Motor de Alto Desempenho",
-                "engineDesc": "Executado por módulos de processamento de nova geração que oferecem execução em milissegundos e gerenciamento robusto de desempenho.",
-                "cacheTitle": "Camada de Cache L2 Centralizada",
-                "cacheDesc": "Armazenamento persistente e sincronização através de clusters Redis de alto desempenho para atender instantaneamente grandes volumes de usuários.",
-                "architectureTitle": "Arquitetura de Sistema Cinemática",
-                "architectureDesc": "Proteção avançada contra ameaças cibernéticas, protocolos seguros de conexão e verificação automática de sessão integrados diretamente ao núcleo.",
-                "pipelineTitle": "Pipeline de Ultra Baixa Latência",
-                "pipelineDesc": "Fluxo de execução otimizado projetado especialmente para comunidades gamers exigentes e sistemas multiplayer."
-            },
-            "owner": {
-                "label": "PROPRIETÁRIO",
-                "name": "luxiie",
-                "desc": "Representante legal, fundador e proprietário oficial dos direitos autorais do sistema zSystems.",
-                "linkText": "Visitar luxiie"
-            },
-            "developer": {
-                "label": "DESENVOLVEDOR",
-                "name": "vhming",
-                "desc": "Desenvolvedor principal e arquiteto-chefe responsável pela criação e operação do sistema zSystems.",
-                "linkText": "Visitar vhming.com"
-            },
-            "dmca": {
-                "label": "PROTEÇÃO DE DIREITOS AUTORAIS",
-                "name": "DMCA Protected",
-                "desc": "Conteúdo, design e código-fonte registrados sob proteção global de direitos autorais digitais.",
-                "linkText": "Verificar DMCA"
-            },
-            "footerText": "Construído por vhming com excelência absoluta."
         }
     },
     "character": {

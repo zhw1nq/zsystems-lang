@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "排行榜",
+        "matches": "对局",
         "battleMode": "战斗模式",
         "admin": "管理面板",
         "login": "登录",
         "register": "注册",
         "logout": "登出",
         "support": "支持",
-        "matches": "对局",
         "rules": "指南"
     },
     "actions": {

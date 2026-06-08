@@ -12,12 +12,12 @@
     "previous": "上一页",
     "next": "下一页",
     "tabs": {
+        "overview": "概览",
+        "details": "比赛详情",
         "rounds": "回合",
         "kills": "击杀",
         "roundStats": "单回合数据",
-        "economy": "经济",
-        "overview": "概览",
-        "details": "比赛详情"
+        "economy": "经济"
     },
     "scoreboard": {
         "player": "玩家",

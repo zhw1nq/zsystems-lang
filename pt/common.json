@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "Classificações",
+        "matches": "Partida",
         "battleMode": "Modo de Batalha",
         "admin": "Painel de Admin",
         "login": "Entrar",
         "register": "Registrar",
         "logout": "Sair",
         "support": "Suporte",
-        "matches": "Partida",
         "rules": "Instruções"
     },
     "actions": {

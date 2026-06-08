@@ -114,6 +114,7 @@
     "bans": {
         "title": "Lista de Banimentos",
         "addBan": "Adicionar Banimento",
+        "addBanDescription": "Criar uma nova punição de banimento (ban) no sistema de servidores.",
         "playerName": "Nome do Jogador",
         "playerSteamId": "Steam ID do Jogador",
         "playerIp": "IP do Jogador",
@@ -131,12 +132,12 @@
         "minutes": "minutos",
         "permanent": "Permanente",
         "active": "Ativo",
-        "addBanDescription": "Criar uma nova punição de banimento (ban) no sistema de servidores.",
         "noBans": "Ainda não há banimentos"
     },
     "mutes": {
         "title": "Lista de Mutes",
         "addMute": "Adicionar Mute",
+        "addMuteDescription": "Criar uma nova punição de silenciamento de chat/microfone (mute) no sistema de servidores.",
         "playerName": "Nome do Jogador",
         "playerSteamId": "Steam ID do Jogador",
         "adminName": "Admin",
@@ -155,7 +156,6 @@
         "mute": "MUTE (Voz)",
         "silence": "SILENCE (Ambos)",
         "active": "Ativo",
-        "addMuteDescription": "Criar uma nova punição de silenciamento de chat/microfone (mute) no sistema de servidores.",
         "noMutes": "Ainda não há silenciamentos"
     },
     "logs": {

@@ -12,12 +12,12 @@
     "previous": "上一頁",
     "next": "下一頁",
     "tabs": {
+        "overview": "概覽",
+        "details": "比賽詳情",
         "rounds": "回合",
         "kills": "擊殺",
         "roundStats": "單回合數據",
-        "economy": "經濟",
-        "overview": "概覽",
-        "details": "比賽詳情"
+        "economy": "經濟"
     },
     "scoreboard": {
         "player": "玩家",

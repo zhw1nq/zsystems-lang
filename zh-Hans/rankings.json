@@ -6,7 +6,7 @@
     "refreshing": "正在刷新...",
     "refreshIn": "{seconds}秒后刷新",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "玩家",
         "points": "积分",
         "rank": "段位",
@@ -31,6 +31,8 @@
     "error": "加载排行榜失败",
     "detail": {
         "title": "玩家详情",
+        "subtitle": "各服务器的详细统计",
+        "back": "返回",
         "combat": "战斗",
         "accuracy": "精准度",
         "rounds": "回合",
@@ -51,6 +53,9 @@
         "roundsLost": "失败",
         "gamesWon": "比赛胜利",
         "gamesLost": "比赛失败",
+        "dominationKills": "统治击杀",
+        "ctRounds": "CT 回合",
+        "tRounds": "T 回合",
         "bombPlanted": "安放炸弹",
         "bombDefused": "拆除炸弹",
         "hostageRescued": "成功营救人质",
@@ -63,11 +68,6 @@
         "todayHours": "今日",
         "terroristHours": "T 阵营时长",
         "ctHours": "CT 阵营时长",
-        "subtitle": "各服务器的详细统计",
-        "back": "返回",
-        "dominationKills": "统治击杀",
-        "ctRounds": "CT 回合",
-        "tRounds": "T 回合",
         "weaponName": "武器",
         "weaponKills": "击杀",
         "weaponHS": "爆头",
@@ -79,12 +79,6 @@
         "copied": "已复制！",
         "verifiedStaff": "官方个人资料：zSystems 已确认这是属于 7-Color 社区系统官方管理团队 / 工作人员的账号。",
         "verifiedUser": "已验证账号：zSystems 已确认该账号为本人所有，已成功绑定 Steam 账号并验证电子邮箱。"
-    },
-    "aiWarning": {
-        "title": "此页面由 AI Claude Opus 4.7 生成",
-        "desc1": "由于 AI 性能极差，如果你遇到卡顿，请启用硬件加速。避免打开 F12，否则网页可能会卡死并需要重启，请注意。",
-        "desc2": "因为时间有限，我还没来得及完善它，谢谢大家",
-        "confirm": "知道了"
     },
     "mode": {
         "positive": "正积分排行",

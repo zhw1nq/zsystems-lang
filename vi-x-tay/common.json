@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "Xếp thứ",
+        "matches": "Trận đấu",
         "battleMode": "Battle Mode",
         "admin": "Admin Panel",
         "login": "Đăng nhập",
         "register": "Đăng ký",
         "logout": "Ók mạng",
         "support": "Giúp đỡ",
-        "matches": "Trận đấu",
         "rules": "Luật máy chủ"
     },
     "actions": {
