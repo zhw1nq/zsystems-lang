@@ -12,12 +12,12 @@
     "previous": "Sebelum",
     "next": "Seterusnya",
     "tabs": {
+        "overview": "Gambaran Keseluruhan",
+        "details": "Butiran Perlawanan",
         "rounds": "Pusingan",
         "kills": "Pembunuhan",
         "roundStats": "Statistik Pusingan",
-        "economy": "Ekonomi",
-        "overview": "Gambaran Keseluruhan",
-        "details": "Butiran Perlawanan"
+        "economy": "Ekonomi"
     },
     "scoreboard": {
         "player": "Pemain",
