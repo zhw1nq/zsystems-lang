@@ -114,6 +114,7 @@
     "bans": {
         "title": "ລາຍການແບນ",
         "addBan": "ເພີ່ມແບນ",
+        "addBanDescription": "ສ້າງຄຳສັ່ງຫ້າມຫຼິ້ນ (ban) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "playerName": "ຊື່ຜູ້ຫຼິ້ນ",
         "playerSteamId": "Steam ID ຜູ້ຫຼິ້ນ",
         "playerIp": "IP ຜູ້ຫຼິ້ນ",
@@ -131,12 +132,12 @@
         "minutes": "ນາທີ",
         "permanent": "ຖາວອນ",
         "active": "ກຳລັງໃຊ້",
-        "addBanDescription": "ສ້າງຄຳສັ່ງຫ້າມຫຼິ້ນ (ban) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "noBans": "ຍັງບໍ່ມີການແບນເທື່ອ"
     },
     "mutes": {
         "title": "ລາຍການ Mute",
         "addMute": "ເພີ່ມ Mute",
+        "addMuteDescription": "ສ້າງຄຳສັ່ງປິດການແຊັດ/ໄມໂຄຣໂຟນ (mute) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "playerName": "ຊື່ຜູ້ຫຼິ້ນ",
         "playerSteamId": "Steam ID ຜູ້ຫຼິ້ນ",
         "adminName": "ຜູ້ດູແລ (Admin)",
@@ -155,7 +156,6 @@
         "mute": "MUTE (ສຽງ)",
         "silence": "SILENCE (ທັງສອງ)",
         "active": "ກຳລັງໃຊ້",
-        "addMuteDescription": "ສ້າງຄຳສັ່ງປິດການແຊັດ/ໄມໂຄຣໂຟນ (mute) ໃໝ່ ໃນລະບົບເຊີບເວີ.",
         "noMutes": "ຍັງບໍ່ມີການປິດສຽງເທື່ອ"
     },
     "logs": {
