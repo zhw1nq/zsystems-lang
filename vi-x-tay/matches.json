@@ -12,12 +12,12 @@
     "previous": "Cón",
     "next": "Lăng",
     "tabs": {
+        "overview": "Tổng quan",
+        "details": "Chi tiết trận đấu",
         "rounds": "Diễn biến",
         "kills": "Đánh hại",
         "roundStats": "Stats theo Round",
-        "economy": "Kinh tế",
-        "overview": "Tổng quan",
-        "details": "Chi tiết trận đấu"
+        "economy": "Kinh tế"
     },
     "scoreboard": {
         "player": "Cần lỉn",
