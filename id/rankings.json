@@ -6,7 +6,7 @@
     "refreshing": "Memperbarui...",
     "refreshIn": "Perbarui dalam {seconds}d",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "Pemain",
         "points": "Poin",
         "rank": "Peringkat",
@@ -31,6 +31,8 @@
     "error": "Gagal memuat peringkat",
     "detail": {
         "title": "Detail Pemain",
+        "subtitle": "Statistik detail pada setiap server",
+        "back": "Kembali",
         "combat": "Pertempuran",
         "accuracy": "Akurasi",
         "rounds": "Ronde",
@@ -51,6 +53,9 @@
         "roundsLost": "Kalah",
         "gamesWon": "Game Menang",
         "gamesLost": "Game Kalah",
+        "dominationKills": "Dominasi",
+        "ctRounds": "Ronde CT",
+        "tRounds": "Ronde T",
         "bombPlanted": "Bom Ditanam",
         "bombDefused": "Bom Dijinakkan",
         "hostageRescued": "Sandera Diselamatkan",
@@ -63,11 +68,6 @@
         "todayHours": "Hari Ini",
         "terroristHours": "Jam Sisi T",
         "ctHours": "Jam Sisi CT",
-        "subtitle": "Statistik detail pada setiap server",
-        "back": "Kembali",
-        "dominationKills": "Dominasi",
-        "ctRounds": "Ronde CT",
-        "tRounds": "Ronde T",
         "weaponName": "Senjata",
         "weaponKills": "Kill",
         "weaponHS": "HS",
@@ -79,12 +79,6 @@
         "copied": "Disalin!",
         "verifiedStaff": "Profil resmi: zSystems telah mengonfirmasi bahwa ini adalah akun resmi Administrator / Staff dari komunitas 7-Warna.",
         "verifiedUser": "Akun terverifikasi: zSystems telah mengonfirmasi bahwa akun ini adalah milik asli pengguna, telah menautkan akun Steam dan berhasil memverifikasi alamat Email."
-    },
-    "aiWarning": {
-        "title": "Halaman ini dibuat oleh AI Claude Opus 4.7",
-        "desc1": "Performa AI sangat buruk, jadi jika Anda mengalami lag, harap aktifkan Hardware Acceleration. Hindari membuka F12 karena dapat membekukan web dan memerlukan restart. Harap diperhatikan.",
-        "desc2": "Karena waktu terbatas, saya belum sempat menyelesaikannya, terima kasih semuanya",
-        "confirm": "Mengerti"
     },
     "mode": {
         "positive": "Poin Positif Teratas",
