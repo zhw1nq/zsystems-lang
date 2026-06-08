@@ -13,13 +13,13 @@
         "zmodels": "Model zModels",
         "zweapons": "Senjata zWeapons",
         "rankings": "Kedudukan",
+        "matches": "Perlawanan",
         "battleMode": "Mod Pertempuran",
         "admin": "Panel Admin",
         "login": "Log Masuk",
         "register": "Daftar",
         "logout": "Log Keluar",
         "support": "Sokongan",
-        "matches": "Perlawanan",
         "rules": "Panduan"
     },
     "actions": {
