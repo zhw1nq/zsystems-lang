@@ -7,7 +7,6 @@
         "account": "账户",
         "notifications": "通知"
     },
-    
     "nav": {
         "colorMode": "颜色模式",
         "themeColor": "主题颜色",
@@ -30,9 +29,9 @@
         "appearanceHint": "自定义颜色与显示模式。",
         "preferences": "偏好设置",
         "preferencesHint": "调整语言与视觉体验。",
+        "customColor": "自定义颜色",
         "colorMode": "颜色模式",
         "colorModeHint": "选择界面的显示模式。",
-        "customColor": "自定义颜色",
         "light": "浅色",
         "auto": "自动",
         "dark": "深色",
@@ -237,7 +236,6 @@
             "description": "接收与安全相关活动的邮件。",
             "loginAlert": "登录提醒",
             "loginAlertHint": "当有新设备登录时发送邮件。",
-
             "passwordChange": "密码更改",
             "passwordChangeHint": "当密码被更改时发送邮件。"
         },
