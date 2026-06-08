@@ -10,7 +10,7 @@
         "mostLiked": "ถูกใจมากที่สุด",
         "mostUsed": "ถูกใช้งานมากที่สุด"
     },
-    "card": { 
+    "card": {
         "items": "{count} ไอเท็ม",
         "uses": "{count} ครั้งที่ใช้",
         "likes": "{count} ไลก์",
