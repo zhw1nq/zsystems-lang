@@ -12,12 +12,12 @@
     "previous": "Anterior",
     "next": "Próximo",
     "tabs": {
+        "overview": "Visão geral",
+        "details": "Detalhes da partida",
         "rounds": "Rodadas",
         "kills": "Eliminações",
         "roundStats": "Estatísticas da Rodada",
-        "economy": "Economia",
-        "overview": "Visão geral",
-        "details": "Detalhes da partida"
+        "economy": "Economia"
     },
     "scoreboard": {
         "player": "Jogador",
