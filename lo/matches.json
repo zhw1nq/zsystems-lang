@@ -12,12 +12,12 @@
     "previous": "ກ່ອນໜ້າ",
     "next": "ຖັດໄປ",
     "tabs": {
+        "overview": "ພາບລວມ",
+        "details": "ລາຍລະອຽດການແຂ່ງຂັນ",
         "rounds": "ຮອບ",
         "kills": "ການສັງຫານ",
         "roundStats": "ສະຖິຕິຕາມຮອບ",
-        "economy": "ເສດຖະກິດ",
-        "overview": "ພາບລວມ",
-        "details": "ລາຍລະອຽດການແຂ່ງຂັນ"
+        "economy": "ເສດຖະກິດ"
     },
     "scoreboard": {
         "player": "ຜູ້ຫຼິ້ນ",
