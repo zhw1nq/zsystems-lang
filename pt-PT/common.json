@@ -1,0 +1,92 @@
+{
+    "nav": {
+        "home": "Início",
+        "dashboard": "Painel",
+        "account": "Conta",
+        "security": "Segurança",
+        "settings": "Configurações",
+        "servers": "Servidores",
+        "bans": "Banimentos",
+        "mutes": "Silenciamentos / Gags",
+        "skins": "Skins",
+        "skinCollections": "Coleções",
+        "zmodels": "zModels",
+        "zweapons": "zWeapons",
+        "rankings": "Classificações",
+        "matches": "Partida",
+        "battleMode": "Modo de Batalha",
+        "admin": "Painel de Admin",
+        "login": "Entrar",
+        "register": "Registrar",
+        "logout": "Sair",
+        "support": "Suporte",
+        "rules": "Instruções"
+    },
+    "actions": {
+        "copy": "Copiar",
+        "connect": "Conectar",
+        "cancel": "Cancelar",
+        "close": "Fechar",
+        "back": "Voltar",
+        "retry": "Tentar novamente",
+        "search": "Pesquisar..."
+    },
+    "status": {
+        "loading": "Carregando..."
+    },
+    "toast": {
+        "copied": "Copiado para a área de transferência",
+        "copyFailed": "Falha ao copiar"
+    },
+    "sidebar": {
+        "collapse": "Recolher",
+        "expand": "Expandir",
+        "terms": "Termos e Privacidade",
+        "guest": "Convidado",
+        "settings": "Configurações"
+    },
+    "announcement": {
+        "title": "Anúncio do sistema",
+        "sourceLink": "Ver publicação original"
+    },
+    "errors": {
+        "notFound": {
+            "title": "404",
+            "message": "A página que você procura não existe",
+            "home": "Início",
+            "back": "Voltar"
+        },
+        "serverError": {
+            "title": "500",
+            "message": "Ocorreu um erro inesperado",
+            "errorCode": "Código do erro: {code}",
+            "pleaseRetry": "Por favor tente novamente",
+            "retry": "Tentar novamente",
+            "home": "Início"
+        }
+    },
+    "forcePasswordChange": {
+        "title": "Alteração de senha obrigatória",
+        "description": "Um administrador exigiu que você altere sua senha por motivos de segurança. Você deve alterar sua senha para continuar.",
+        "newPassword": "Nova senha",
+        "confirmPassword": "Confirmar senha",
+        "submit": "Alterar senha",
+        "rules": {
+            "minLength": "Pelo menos 8 caracteres",
+            "uppercase": "Pelo menos 1 letra maiúscula",
+            "number": "Pelo menos 1 número",
+            "match": "As senhas devem coincidir"
+        }
+    },
+    "welcomePopup": {
+        "greeting_night": "Boa noite, {name}",
+        "greeting_morning": "Bom dia, {name}",
+        "greeting_noon": "Boa tarde, {name}",
+        "greeting_afternoon": "Boa tarde, {name}",
+        "greeting_evening": "Boa noite, {name}",
+        "guest": "Convidado",
+        "warning": "Jogar mais de 180 minutos/dia pode afetar a saúde",
+        "loadingWarning": "Jogar mais de 180 minutos por dia afeta a saúde."
+    },
+    "optional": "Opcional"
+}
