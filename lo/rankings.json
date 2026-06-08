@@ -6,7 +6,7 @@
     "refreshing": "ກຳລັງຣີເຟຣຊ...",
     "refreshIn": "ຣີເຟຣຊໃນ {seconds} ວິ",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "ຜູ້ຫຼິ້ນ",
         "points": "ຄະແນນ",
         "rank": "Rank",
@@ -31,6 +31,8 @@
     "error": "ໂຫຼດອັນດັບບໍ່ສຳເລັດ",
     "detail": {
         "title": "ລາຍລະອຽດຜູ້ຫຼິ້ນ",
+        "subtitle": "ສະຖິຕິລະອຽດໃນແຕ່ລະເຊີບເວີ",
+        "back": "ກັບຄືນ",
         "combat": "ການຕໍ່ສູ້",
         "accuracy": "ຄວາມແມ່ນຍຳ",
         "rounds": "ຮອບ",
@@ -51,6 +53,9 @@
         "roundsLost": "ແພ້",
         "gamesWon": "ເກມຊະນະ",
         "gamesLost": "ເກມແພ້",
+        "dominationKills": "ການຄອບງຳ (Domination)",
+        "ctRounds": "ຮອບ CT",
+        "tRounds": "ຮອບ T",
         "bombPlanted": "ວາງບອມ",
         "bombDefused": "ຖອດບອມ",
         "hostageRescued": "ຊ່ວຍຕົວປະກັນ",
@@ -63,11 +68,6 @@
         "todayHours": "ມື້ນີ້",
         "terroristHours": "ຊົ່ວໂມງຝ່າຍ T",
         "ctHours": "ຊົ່ວໂມງຝ່າຍ CT",
-        "subtitle": "ສະຖິຕິລະອຽດໃນແຕ່ລະເຊີບເວີ",
-        "back": "ກັບຄືນ",
-        "dominationKills": "ການຄອບງຳ (Domination)",
-        "ctRounds": "ຮອບ CT",
-        "tRounds": "ຮອບ T",
         "weaponName": "ອາວຸດ",
         "weaponKills": "ການສັງຫານ (Kills)",
         "weaponHS": "HS",
@@ -79,12 +79,6 @@
         "copied": "ສຳເນົາແລ້ວ!",
         "verifiedStaff": "ໂປຣໄຟລ໌ທາງການ: zSystems ຢືນຢັນວ່ານີ້ແມ່ນບັນຊີຂອງທີມງານບໍລິຫານ / ພະນັກງານຢ່າງເປັນທາງການຂອງຊຸມຊົນ 7-Màu",
         "verifiedUser": "ບັນຊີທີ່ຢືນຢັນແລ້ວ: zSystems ຢືນຢັນວ່າບັນຊີນີ້ເປັນເຈົ້າຂອງແທ້, ໄດ້ເຊື່ອມຕໍ່ບັນຊີ Steam ແລະ ຢືນຢັນ Email ສຳເລັດ"
-    },
-    "aiWarning": {
-        "title": "ໜ້ານີ້ສ້າງໂດຍ AI Claude Opus 4.7",
-        "desc1": "ປະສິດທິພາບ AI ຍັງຕ່ຳ ຖ້າມີອາການກະຕຸກ ກະລຸນາເປີດ Hardware Acceleration. ຫຼີກລ້ຽງການເປີດ F12 ເພາະອາດເຮັດໃຫ້ເວັບຄ້າງ ແລະ ຕ້ອງໂຫຼດໃໝ່",
-        "desc2": "ເນື່ອງຈາກເວລາຈຳກັດ ບາງສ່ວນຍັງບໍ່ທັນສຳເລັດ ຂອບໃຈທຸກທ່ານ",
-        "confirm": "ເຂົ້າໃຈແລ້ວ"
     },
     "mode": {
         "positive": "ອັນດັບຄະແນນບວກ",
