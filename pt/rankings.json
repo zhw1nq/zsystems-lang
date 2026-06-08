@@ -6,7 +6,7 @@
     "refreshing": "Atualizando...",
     "refreshIn": "Atualizar em {seconds}s",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "Jogador",
         "points": "Pontos",
         "rank": "Rank",
@@ -31,6 +31,8 @@
     "error": "Falha ao carregar classificações",
     "detail": {
         "title": "Detalhes do Jogador",
+        "subtitle": "Estatísticas detalhadas de cada servidor",
+        "back": "Voltar",
         "combat": "Combate",
         "accuracy": "Precisão",
         "rounds": "Rodadas",
@@ -51,6 +53,9 @@
         "roundsLost": "Perdidas",
         "gamesWon": "Jogos vencidos",
         "gamesLost": "Jogos perdidos",
+        "dominationKills": "Dominação",
+        "ctRounds": "Rodadas CT",
+        "tRounds": "Rodadas T",
         "bombPlanted": "Bombas plantadas",
         "bombDefused": "Bombas desarmadas",
         "hostageRescued": "Reféns resgatados",
@@ -63,11 +68,6 @@
         "todayHours": "Hoje",
         "terroristHours": "Horas do time T",
         "ctHours": "Horas do time CT",
-        "subtitle": "Estatísticas detalhadas de cada servidor",
-        "back": "Voltar",
-        "dominationKills": "Dominação",
-        "ctRounds": "Rodadas CT",
-        "tRounds": "Rodadas T",
         "weaponName": "Arma",
         "weaponKills": "Abates",
         "weaponHS": "HS",
@@ -79,12 +79,6 @@
         "copied": "Copiado!",
         "verifiedStaff": "Perfil oficial: zSystems confirmou que esta é uma conta oficial da Administração / Equipe do sistema Comunidade 7-Cores.",
         "verifiedUser": "Conta verificada: zSystems confirmou que esta conta pertence ao proprietário legítimo, vinculou a conta Steam e verificou o endereço de e-mail com sucesso."
-    },
-    "aiWarning": {
-        "title": "Esta página foi gerada pela IA Claude Opus 4.7",
-        "desc1": "O desempenho da IA é bastante ruim, então se houver lentidão, ative a Aceleração de Hardware. Evite abrir o F12, pois isso pode travar o site e exigir reinicialização. Por favor, esteja ciente.",
-        "desc2": "Como o tempo é limitado, ainda não consegui finalizar tudo. Obrigado a todos.",
-        "confirm": "Entendi"
     },
     "mode": {
         "positive": "Top Pontos Positivos",
