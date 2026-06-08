@@ -6,7 +6,7 @@
     "refreshing": "重新整理中...",
     "refreshIn": "{seconds} 秒後重新整理",
     "table": {
-        "position": "#",
+        "position": "",
         "player": "玩家",
         "points": "積分",
         "rank": "排名",
@@ -31,6 +31,8 @@
     "error": "載入排行榜失敗",
     "detail": {
         "title": "玩家詳細資料",
+        "subtitle": "各伺服器的詳細統計",
+        "back": "返回",
         "combat": "戰鬥數據",
         "accuracy": "準確率",
         "rounds": "回合",
@@ -51,6 +53,9 @@
         "roundsLost": "失敗",
         "gamesWon": "獲勝場次",
         "gamesLost": "失敗場次",
+        "dominationKills": "統治擊殺",
+        "ctRounds": "CT 回合",
+        "tRounds": "T 回合",
         "bombPlanted": "安裝炸彈",
         "bombDefused": "拆除炸彈",
         "hostageRescued": "成功救援人質",
@@ -63,11 +68,6 @@
         "todayHours": "今日",
         "terroristHours": "T 陣營時數",
         "ctHours": "CT 陣營時數",
-        "subtitle": "各伺服器的詳細統計",
-        "back": "返回",
-        "dominationKills": "統治擊殺",
-        "ctRounds": "CT 回合",
-        "tRounds": "T 回合",
         "weaponName": "武器",
         "weaponKills": "擊殺",
         "weaponHS": "爆頭",
@@ -79,12 +79,6 @@
         "copied": "已複製！",
         "verifiedStaff": "官方個人檔案：zSystems 已確認這是屬於 7-Color 社群系統官方管理團隊 / 工作人員的帳號。",
         "verifiedUser": "已驗證帳號：zSystems 已確認該帳號為本人所有，已成功綁定 Steam 帳號並驗證電子郵件。"
-    },
-    "aiWarning": {
-        "title": "此頁面由 AI Claude Opus 4.7 生成",
-        "desc1": "AI 效能極差，因此若遇到卡頓，請啟用硬體加速。避免開啟 F12，否則可能導致網站凍結並需要重新啟動，請注意。",
-        "desc2": "由於時間有限，我還沒來得及完成它，感謝大家的理解。",
-        "confirm": "了解"
     },
     "mode": {
         "positive": "正積分排行",
