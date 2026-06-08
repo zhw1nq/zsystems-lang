@@ -25,15 +25,13 @@
         "players6h": "玩家 / 6小时"
     },
     "footer": {
-        "selectLanguage": "选择语言",
         "language": "英语",
-        "privacy": "隐私政策",
-        "terms": "服务条款",
-        "contact": "联系",
-        "poweredBy": "由 zSystems 提供支持 — 由 zhw1nq 与 7-Mau TEAM 开发",
         "authLogin": "登录",
         "authRegister": "注册",
         "authAccount": "账号",
+        "privacy": "隐私政策",
+        "terms": "服务条款",
+        "contact": "联系",
         "brandDescription": "越南最大的 CS2 社区。稳定的服务器系统，高性能与极低延迟。",
         "navigation": "导航",
         "servers": "服务器",
