@@ -114,6 +114,7 @@
     "bans": {
         "title": "បញ្ជីហាមឃាត់",
         "addBan": "បន្ថែមការហាមឃាត់",
+        "addBanDescription": "បង្កើតការហាមលេង (ban) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "playerName": "ឈ្មោះអ្នកលេង",
         "playerSteamId": "លេខសម្គាល់ Steam ID",
         "playerIp": "អាសយដ្ឋាន IP",
@@ -131,12 +132,12 @@
         "minutes": "នាទី",
         "permanent": "អចិន្ត្រៃយ៍",
         "active": "សកម្ម",
-        "addBanDescription": "បង្កើតការហាមលេង (ban) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "noBans": "មិនទាន់មានការហាមឃាត់ណាមួយទេ"
     },
     "mutes": {
         "title": "បញ្ជី Mute",
         "addMute": "បន្ថែម Mute",
+        "addMuteDescription": "បង្កើតការហាមជជែក/មីក្រូហ្វូន (mute) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "playerName": "ឈ្មោះអ្នកលេង",
         "playerSteamId": "Steam ID អ្នកលេង",
         "adminName": "អ្នកគ្រប់គ្រង (Admin)",
@@ -155,7 +156,6 @@
         "mute": "MUTE (សំឡេង)",
         "silence": "SILENCE (ទាំងពីរ)",
         "active": "សកម្ម",
-        "addMuteDescription": "បង្កើតការហាមជជែក/មីក្រូហ្វូន (mute) ថ្មីនៅលើប្រព័ន្ធម៉ាស៊ីនមេ។.",
         "noMutes": "មិនទាន់មានការបិទសំឡេងណាមួយទេ"
     },
     "logs": {

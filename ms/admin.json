@@ -114,6 +114,7 @@
     "bans": {
         "title": "Senarai Sekatan",
         "addBan": "Tambah Sekatan",
+        "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan.",
         "playerName": "Nama Pemain",
         "playerSteamId": "Steam ID Pemain",
         "playerIp": "IP Pemain",
@@ -131,12 +132,12 @@
         "minutes": "minit",
         "permanent": "Kekal",
         "active": "Aktif",
-        "addBanDescription": "Tambah larangan bermain (ban) baharu pada sistem pelayan.",
         "noBans": "Belum ada larangan"
     },
     "mutes": {
         "title": "Senarai Senyap",
         "addMute": "Tambah Senyap",
+        "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan.",
         "playerName": "Nama Pemain",
         "playerSteamId": "Steam ID Pemain",
         "adminName": "Pentadbir (Admin)",
@@ -155,7 +156,6 @@
         "mute": "MUTE (Suara)",
         "silence": "SILENCE (Kedua-duanya)",
         "active": "Aktif",
-        "addMuteDescription": "Tambah larangan sembang/mikrofon (mute) baharu pada sistem pelayan.",
         "noMutes": "Belum ada mute"
     },
     "logs": {

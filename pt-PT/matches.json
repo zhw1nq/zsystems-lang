@@ -1,0 +1,91 @@
+{
+    "title": "Partidas",
+    "subtitle": "Histórico de partidas no sistema",
+    "searchPlaceholder": "Pesquisar por nome da equipe...",
+    "noMatches": "Nenhuma partida encontrada",
+    "live": "AO VIVO",
+    "finished": "FINALIZADO",
+    "win": "VITÓRIA",
+    "lose": "DERROTA",
+    "viewDetail": "Ver detalhes",
+    "page": "Página {page}/{total}",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "tabs": {
+        "overview": "Visão geral",
+        "details": "Detalhes da partida",
+        "rounds": "Rodadas",
+        "kills": "Eliminações",
+        "roundStats": "Estatísticas da Rodada",
+        "economy": "Economia"
+    },
+    "scoreboard": {
+        "player": "Jogador",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "adr": "ADR",
+        "hsPercent": "HS%",
+        "kd": "K/D",
+        "damage": "DMG",
+        "entry": "Entry",
+        "accuracy": "Precisão"
+    },
+    "rounds": {
+        "round": "R{number}",
+        "planted": "Bomba plantada",
+        "defused": "Bomba desarmada",
+        "roundProgress": "Gráfico de Progresso de Pontuação Acumulada",
+        "playerStats": "Gráfico de Desempenho do Jogador"
+    },
+    "kills": {
+        "round": "Rodada",
+        "killer": "Assassino",
+        "victim": "Vítima",
+        "weapon": "Arma",
+        "distance": "Distância",
+        "headshot": "HS",
+        "wallbang": "WB",
+        "allRounds": "Todas",
+        "filterByRound": "Filtrar por rodada",
+        "entry": "Entry"
+    },
+    "roundStats": {
+        "round": "Rodada",
+        "player": "Jogador",
+        "side": "Lado",
+        "kills": "K",
+        "deaths": "D",
+        "assists": "A",
+        "damage": "DMG",
+        "hsKills": "HS",
+        "trade": "Troca",
+        "alive": "Vivo",
+        "selectRound": "Selecionar rodada"
+    },
+    "economy": {
+        "round": "Rodada",
+        "equipValue": "Equipamento",
+        "moneyLeft": "Dinheiro restante",
+        "weapon": "Arma principal",
+        "armor": "Colete",
+        "defuser": "Kit",
+        "grenades": "Granadas"
+    },
+    "mvp": {
+        "title": "MVP",
+        "rating": "Rating"
+    },
+    "showEarlyLeavers": "Mostrar jogadores que saíram cedo ({count})",
+    "hideEarlyLeavers": "Ocultar jogadores que saíram cedo",
+    "subtabs": {
+        "general": "Geral",
+        "timeline": "Timeline",
+        "aim": "Mira",
+        "utility": "Utilitários",
+        "activity": "Atividade",
+        "trades": "Trocas",
+        "opening": "Duelos de abertura",
+        "clutches": "Clutches"
+    }
+}

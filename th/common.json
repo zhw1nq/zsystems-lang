@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "อันดับ",
+        "matches": "การแข่งขัน",
         "battleMode": "โหมดแบทเทิล",
         "admin": "แผงผู้ดูแล",
         "login": "เข้าสู่ระบบ",
         "register": "สมัครสมาชิก",
         "logout": "ออกจากระบบ",
         "support": "ช่วยเหลือ",
-        "matches": "การแข่งขัน",
         "rules": "คำแนะนำ"
     },
     "actions": {

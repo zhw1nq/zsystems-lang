@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "Mga Ranggo",
+        "matches": "Mga Laban",
         "battleMode": "Battle Mode",
         "admin": "Panel ng Admin",
         "login": "Mag-login",
         "register": "Magrehistro",
         "logout": "Mag-logout",
         "support": "Suporta",
-        "matches": "Mga Laban",
         "rules": "Mga Alituntunin"
     },
     "actions": {

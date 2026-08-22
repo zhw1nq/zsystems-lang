@@ -1,0 +1,175 @@
+{
+    "title": "Painel de Controle",
+    "subtitle": "Visão geral e gerenciamento do servidor",
+    "servers": {
+        "title": "Servidores",
+        "count": "{count} servidores",
+        "allServers": "Todos os servidores",
+        "noServers": "Nenhum servidor neste grupo"
+    },
+    "serverCard": {
+        "connect": "Conectar",
+        "noMap": "Sem mapa",
+        "players": "{current}/{max} Jogadores",
+        "offline": "Offline",
+        "noInfo": "Nenhuma informação do servidor disponível."
+    },
+    "serverDetail": {
+        "players": "Jogadores",
+        "noPlayers": "Sem jogadores",
+        "teamCT": "Contra-Terroristas",
+        "teamT": "Terroristas",
+        "teamUnassigned": "Não atribuído",
+        "serverInfo": "Informações do servidor",
+        "chat": "Chat",
+        "contextMenu": {
+            "viewSteamProfile": "Ver conta",
+            "copySteamId": "Copiar SteamID",
+            "copyPlayerName": "Copiar nome do jogador",
+            "copyStats": "Copiar estatísticas",
+            "viewStats": "Ver conta"
+        },
+        "spectators": "Espectadores",
+        "noSpectators": "Sem espectadores",
+        "copied": "Copiado {label}",
+        "unknown": "Desconhecido"
+    },
+    "stats": {
+        "totalServers": "Total de servidores",
+        "playersOnline": "Jogadores online",
+        "totalBans": "Total de banimentos",
+        "totalMutes": "Total de mutes",
+        "kills": "Abates",
+        "deaths": "Mortes",
+        "score": "Pontuação"
+    },
+    "penalty": {
+        "title": "Penalidade",
+        "bans": "Banimentos",
+        "mutes": "Mutes",
+        "records": "{count} registros",
+        "noRecords": "Nenhum registro encontrado",
+        "player": "Jogador",
+        "status": "Status",
+        "type": "Tipo",
+        "reason": "Motivo",
+        "duration": "Duração",
+        "timeLeft": "Tempo restante",
+        "admin": "Administrador",
+        "removeReason": "Remover motivo",
+        "dateTime": "Data / Hora",
+        "statusActive": "Ativo",
+        "statusExpired": "Expirado",
+        "statusUnbanned": "Desbanido",
+        "permanent": "Permanente",
+        "expired": "Expirado",
+        "viewAll": "Ver todos",
+        "durationMinutes": "{value} min",
+        "durationHours": "{value} horas",
+        "durationDays": "{value} dias",
+        "page": "Página {page}/{total}",
+        "previous": "Anterior",
+        "next": "Próximo",
+        "ctx": {
+            "viewSteam": "Ver conta",
+            "comment": "Comentário",
+            "reban": "Rebanir",
+            "remute": "Re-mutar",
+            "editBan": "Editar banimento",
+            "editMute": "Editar mute",
+            "removeBan": "Remover banimento",
+            "removeMute": "Remover mute",
+            "deleteBan": "Excluir banimento",
+            "deleteMute": "Excluir mute",
+            "confirmDeleteTitle": "Confirmar exclusão",
+            "confirmDeleteDesc": "Tem certeza de que deseja excluir o registro #{id} de {player}? Esta ação não pode ser desfeita.",
+            "removeReasonPlaceholder": "Digite o motivo da remoção...",
+            "editBanDesc": "Alterar o motivo e a duração deste banimento.",
+            "editMuteDesc": "Alterar o motivo, a duração e o tipo deste silenciamento.",
+            "removeBanDesc": "Remover o banimento e permitir que o jogador entre novamente.",
+            "removeMuteDesc": "Remover o silenciamento e permitir que o jogador se comunique novamente.",
+            "rebanDesc": "Banir novamente o jogador com uma nova duração e motivo.",
+            "remuteDesc": "Silenciar novamente o jogador com uma nova duração e motivo.",
+            "actionSuccess": "Ação concluída com sucesso",
+            "actionFailed": "Ação falhou"
+        }
+    },
+    "playerAction": {
+        "adminActions": "Ações do administrador",
+        "duration": "Duração",
+        "permanent": "Permanente",
+        "reason": "Motivo",
+        "reasonPlaceholder": "Digite o motivo da penalidade...",
+        "reasonRequired": "Por favor, insira um motivo",
+        "muteGroup": "Bloqueios de comunicação",
+        "actions": {
+            "ban": "Banir jogador",
+            "kick": "Expulsar do servidor",
+            "mute": "Silenciar voz",
+            "gag": "Silenciar texto",
+            "silence": "Silenciar tudo"
+        },
+        "success": "Ação {action} executada com sucesso em {player}",
+        "failed": "Falha na ação",
+        "socialLink": "LINK SOCIAL",
+        "statsChecker": "VERIFICADOR DE ESTATÍSTICAS",
+        "noSteamInfo": "Informações do SteamID ainda não inseridas",
+        "steamInputHint": "STEAM_1:X:XXXXX, 7656XXXXXXXXXXXXX ou link do perfil...",
+        "autoResolveHint": "Obter informações automaticamente a partir do SteamID64, link do perfil ou vanity URL ao colar",
+        "selectDuration": "Selecionar duração",
+        "selectReason": "Selecionar motivo"
+    },
+    "privilege": {
+        "title": "Privilégios do servidor",
+        "description": "Faça upgrade da sua conta para desbloquear cosméticos exclusivos e acesso prioritário.",
+        "discount": "Economize",
+        "month1": "1 mês",
+        "months3": "3 meses",
+        "mostPopular": "MAIS POPULAR",
+        "periodMonthly": "/ 31 dias",
+        "periodQuarterly": "/ 90 dias",
+        "currentPlan": "PLANO ATUAL",
+        "tiers": {
+            "member": {
+                "name": "GRÁTIS",
+                "priceMonthly": "GRÁTIS",
+                "priceQuarterly": "GRÁTIS",
+                "description": "Experiência básica",
+                "button": "JOGAR AGORA"
+            },
+            "svip": {
+                "name": "SVIP",
+                "priceMonthly": "200.000₫",
+                "priceQuarterly": "500.000₫",
+                "description": "Prestígio máximo",
+                "button": "FAZER UPGRADE"
+            },
+            "vip": {
+                "name": "VIP",
+                "priceMonthly": "100.000₫",
+                "priceQuarterly": "250.000₫",
+                "description": "Experiência aprimorada",
+                "button": "FAZER UPGRADE"
+            }
+        },
+        "features": {
+            "customSkins": "Personalizar facas, luvas e armas",
+            "createCollections": "Criar coleções de skins",
+            "mvpPackFree": "Usar pacote MVP grátis",
+            "publicServers": "Entrar em servidores da comunidade",
+            "prioritySlot": "Acesso prioritário ao servidor",
+            "fastSupport": "Suporte prioritário de admins",
+            "mvpPackVip": "Desbloquear pacote MVP VIP",
+            "customLoadout": "Configuração personalizada de loadout",
+            "agentWibu3D": "Agentes Wibu 3D exclusivos",
+            "weaponWibu3D": "Armas Wibu 3D supremas",
+            "adminPrivileges": "Privilégios de administrador supremos"
+        }
+    },
+    "support": {
+        "title": "Equipe de suporte",
+        "description": "Pessoas sempre prontas para te ajudar na comunidade 7-Mau",
+        "admin": "Administrador",
+        "staff": "Equipe de suporte"
+    }
+}

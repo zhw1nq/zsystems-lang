@@ -12,12 +12,12 @@
     "previous": "ก่อนหน้า",
     "next": "ถัดไป",
     "tabs": {
+        "overview": "ภาพรวม",
+        "details": "รายละเอียดการแข่งขัน",
         "rounds": "รอบ",
         "kills": "การฆ่า",
         "roundStats": "สถิติรายรอบ",
-        "economy": "การเงิน",
-        "overview": "ภาพรวม",
-        "details": "รายละเอียดการแข่งขัน"
+        "economy": "การเงิน"
     },
     "scoreboard": {
         "player": "ผู้เล่น",

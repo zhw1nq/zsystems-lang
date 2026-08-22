@@ -13,13 +13,13 @@
         "zmodels": "zModels",
         "zweapons": "zWeapons",
         "rankings": "Peringkat",
+        "matches": "Pertandingan",
         "battleMode": "Mode Battle",
         "admin": "Panel Admin",
         "login": "Masuk",
         "register": "Daftar",
         "logout": "Keluar",
         "support": "Dukungan",
-        "matches": "Pertandingan",
         "rules": "Panduan"
     },
     "actions": {

@@ -114,6 +114,7 @@
     "bans": {
         "title": "ပိတ်ပင် စာရင်း",
         "addBan": "ပိတ်ပင် ထည့်",
+        "addBanDescription": "ဆာဗာစနစ်တွင် ကစားခွင့်ပိတ်ပင်မှု (ban) အသစ်တစ်ခု ဖန်တီးပါ။.",
         "playerName": "ကစားသမားအမည်",
         "playerSteamId": "ကစားသမား Steam ID",
         "playerIp": "ကစားသမား IP",
@@ -131,12 +132,12 @@
         "minutes": "မိနစ်",
         "permanent": "အမြဲတမ်း",
         "active": "တက်ကြွ",
-        "addBanDescription": "ဆာဗာစနစ်တွင် ကစားခွင့်ပိတ်ပင်မှု (ban) အသစ်တစ်ခု ဖန်တီးပါ။.",
         "noBans": "Ban လုပ်ထားမှု မရှိသေးပါ"
     },
     "mutes": {
         "title": "Mute စာရင်း",
         "addMute": "Mute ထည့်",
+        "addMuteDescription": "ဆာဗာစနစ်တွင် စကားပြော/မိုက်ခရိုဖုန်း (chat/mic) ပိတ်ပင်မှု (mute) အသစ်တစ်ခု ဖန်တီးပါ။.",
         "playerName": "ကစားသမားအမည်",
         "playerSteamId": "ကစားသမား Steam ID",
         "adminName": "အက်မင် (Admin)",
@@ -155,7 +156,6 @@
         "mute": "MUTE (အသံ)",
         "silence": "SILENCE (နှစ်ခုလုံး)",
         "active": "တက်ကြွ",
-        "addMuteDescription": "ဆာဗာစနစ်တွင် စကားပြော/မိုက်ခရိုဖုန်း (chat/mic) ပိတ်ပင်မှု (mute) အသစ်တစ်ခု ဖန်တီးပါ။.",
         "noMutes": "Mute လုပ်ထားမှု မရှိသေးပါ"
     },
     "logs": {

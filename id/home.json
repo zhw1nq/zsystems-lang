@@ -8,7 +8,7 @@
         "weaponSkins": "Skin Senjata",
         "ranks": "Peringkat",
         "contact": "Kontak",
-        "getDemo": "Dapatkan Demo", 
+        "getDemo": "Dapatkan Demo",
         "subbrand": "zSYSTEMS-v2",
         "playNow": "Main Sekarang",
         "login": "Masuk",
@@ -25,84 +25,82 @@
         "players6h": "PEMAIN / 6J"
     },
     "footer": {
-        "selectLanguage": "Pilih bahasa",
         "language": "Bahasa Indonesia",
+        "authLogin": "Masuk",
+        "authRegister": "Daftar",
+        "authAccount": "Akun",
         "privacy": "Kebijakan Privasi",
         "terms": "Ketentuan Layanan",
         "contact": "Kontak",
-        "poweredBy": "Didukung oleh zSystems — Dikembangkan oleh zhw1nq & 7-Mau TEAM",
-        "authLogin": "Masuk",
-"authRegister": "Daftar",
-"authAccount": "Akun",
-"brandDescription": "Komunitas CS2 terbesar di Vietnam. Sistem server stabil, performa tinggi, dan latensi sangat rendah.",
-"navigation": "Navigasi",
-"servers": "Server",
-"support": "Dukungan",
-"serverTip": "Buka console CS2, ketik connect [IP] untuk bergabung",
-"copyConnect": "Klik untuk menyalin perintah connect",
-"dmca": "Hak Cipta & DMCA Protected: zSystems dan Komunitas 7-Mau menghormati hukum hak kekayaan intelektual. Counter-Strike 2 adalah merek dagang terdaftar milik Valve Corporation.",
-"quickLinks": {
-  "leaderboard": "Papan Peringkat",
-  "stats": "Statistik Pribadi",
-  "matches": "Riwayat Pertandingan",
-  "register": "Daftar Akun",
-  "guide": "Panduan Bergabung",
-  "configs": "Unduh Config"
-},
-"supportLinks": {
-  "terms": "Syarat Penggunaan",
-  "privacy": "Kebijakan Privasi",
-  "rules": "Aturan Komunitas",
-  "report": "Laporkan Pelanggaran",
-  "contact": "Hubungi Dukungan",
-  "faq": "FAQ"
-}
-},
-"character": {
-  "name": "7-CHAN"
-},
-"preloader": {
-  "restricted18": "Batasan 18+",
-  "warningInitial": "Bermain game lebih dari 180 menit setiap hari akan berdampak buruk bagi kesehatan.",
-  "warningFun": "Selamat bermain dan semoga bersenang-senang di 7-mau.com!",
-  "warningStuck": "Jika layar loading macet atau memuat terlalu lama, silakan muat ulang halaman untuk melanjutkan.",
-  "loading": "MEMUAT"
-},
-"zsystems": {
-  "title": "zSystems",
-  "subtitle": "Arsitektur Sistem zSystems",
-  "backHome": "KEMBALI KE BERANDA",
-  "heroTag": "zSystems & Platform Inti vhming",
-  "description": "zSystems dan vhming adalah sistem manajemen lanjutan dan panel kontrol All-In-One (AIO) yang dioptimalkan untuk pengguna, memberikan operasi tanpa hambatan, performa unggul, dan pengelolaan basis data waktu nyata.",
-  "legalTitle": "Informasi Sistem & Hukum",
-  "features": {
-    "engineTitle": "Mesin Performa Tinggi",
-    "engineDesc": "Ditenagai oleh modul pemrosesan generasi baru yang menyediakan eksekusi alur dalam hitungan milidetik dan pengelolaan performa yang kuat.",
-    "cacheTitle": "Lapisan Cache L2 Terpusat",
-    "cacheDesc": "Penyimpanan persisten dan sinkronisasi melalui klaster cache Redis berperforma tinggi untuk melayani jutaan pengguna secara instan.",
-    "architectureTitle": "Arsitektur Sistem Cinematic",
-    "architectureDesc": "Perlindungan kuat terhadap ancaman siber, protokol koneksi aman, dan pemeriksaan sesi otomatis yang dibangun langsung ke inti sistem.",
-    "pipelineTitle": "Jalur Latensi Sangat Rendah",
-    "pipelineDesc": "Alur eksekusi yang dioptimalkan khusus untuk komunitas gamer kompetitif dan sistem multipemain."
-  },
-  "owner": {
-    "label": "PEMILIK",
-    "name": "luxiie",
-    "desc": "Perwakilan hukum, pendiri sekaligus pemilik hak cipta resmi sistem zSystems.",
-    "linkText": "Kunjungi luxiie"
-  },
-  "developer": {
-    "label": "PENGEMBANG",
-    "name": "vhming",
-    "desc": "Pengembang utama sekaligus arsitek utama yang membangun dan mengoperasikan sistem zSystems.",
-    "linkText": "Kunjungi vhming.com"
-  },
-  "dmca": {
-    "label": "PERLINDUNGAN HAK CIPTA",
-    "name": "DMCA Protected",
-    "desc": "Konten, desain, dan kode sumber terdaftar dalam perlindungan hak cipta digital global.",
-    "linkText": "Verifikasi DMCA"
-  },
-  "footerText": "Dibangun oleh vhming dengan standar keunggulan tertinggi."
+        "brandDescription": "Komunitas CS2 terbesar di Vietnam. Sistem server stabil, performa tinggi, dan latensi sangat rendah.",
+        "navigation": "Navigasi",
+        "servers": "Server",
+        "support": "Dukungan",
+        "serverTip": "Buka console CS2, ketik connect [IP] untuk bergabung",
+        "copyConnect": "Klik untuk menyalin perintah connect",
+        "dmca": "Hak Cipta & DMCA Protected: zSystems dan Komunitas 7-Mau menghormati hukum hak kekayaan intelektual. Counter-Strike 2 adalah merek dagang terdaftar milik Valve Corporation.",
+        "quickLinks": {
+            "leaderboard": "Papan Peringkat",
+            "stats": "Statistik Pribadi",
+            "matches": "Riwayat Pertandingan",
+            "register": "Daftar Akun",
+            "guide": "Panduan Bergabung",
+            "configs": "Unduh Config"
+        },
+        "supportLinks": {
+            "terms": "Syarat Penggunaan",
+            "privacy": "Kebijakan Privasi",
+            "rules": "Aturan Komunitas",
+            "report": "Laporkan Pelanggaran",
+            "contact": "Hubungi Dukungan",
+            "faq": "FAQ"
+        }
+    },
+    "character": {
+        "name": "7-CHAN"
+    },
+    "preloader": {
+        "restricted18": "Batasan 18+",
+        "warningInitial": "Bermain game lebih dari 180 menit setiap hari akan berdampak buruk bagi kesehatan.",
+        "warningFun": "Selamat bermain dan semoga bersenang-senang di 7-mau.com!",
+        "warningStuck": "Jika layar loading macet atau memuat terlalu lama, silakan muat ulang halaman untuk melanjutkan.",
+        "loading": "MEMUAT"
+    },
+    "zsystems": {
+        "title": "zSystems",
+        "subtitle": "Arsitektur Sistem zSystems",
+        "backHome": "KEMBALI KE BERANDA",
+        "heroTag": "zSystems & Platform Inti vhming",
+        "description": "zSystems dan vhming adalah sistem manajemen lanjutan dan panel kontrol All-In-One (AIO) yang dioptimalkan untuk pengguna, memberikan operasi tanpa hambatan, performa unggul, dan pengelolaan basis data waktu nyata.",
+        "legalTitle": "Informasi Sistem & Hukum",
+        "features": {
+            "engineTitle": "Mesin Performa Tinggi",
+            "engineDesc": "Ditenagai oleh modul pemrosesan generasi baru yang menyediakan eksekusi alur dalam hitungan milidetik dan pengelolaan performa yang kuat.",
+            "cacheTitle": "Lapisan Cache L2 Terpusat",
+            "cacheDesc": "Penyimpanan persisten dan sinkronisasi melalui klaster cache Redis berperforma tinggi untuk melayani jutaan pengguna secara instan.",
+            "architectureTitle": "Arsitektur Sistem Cinematic",
+            "architectureDesc": "Perlindungan kuat terhadap ancaman siber, protokol koneksi aman, dan pemeriksaan sesi otomatis yang dibangun langsung ke inti sistem.",
+            "pipelineTitle": "Jalur Latensi Sangat Rendah",
+            "pipelineDesc": "Alur eksekusi yang dioptimalkan khusus untuk komunitas gamer kompetitif dan sistem multipemain."
+        },
+        "owner": {
+            "label": "PEMILIK",
+            "name": "luxiie",
+            "desc": "Perwakilan hukum, pendiri sekaligus pemilik hak cipta resmi sistem zSystems.",
+            "linkText": "Kunjungi luxiie"
+        },
+        "developer": {
+            "label": "PENGEMBANG",
+            "name": "vhming",
+            "desc": "Pengembang utama sekaligus arsitek utama yang membangun dan mengoperasikan sistem zSystems.",
+            "linkText": "Kunjungi vhming.com"
+        },
+        "dmca": {
+            "label": "PERLINDUNGAN HAK CIPTA",
+            "name": "DMCA Protected",
+            "desc": "Konten, desain, dan kode sumber terdaftar dalam perlindungan hak cipta digital global.",
+            "linkText": "Verifikasi DMCA"
+        },
+        "footerText": "Dibangun oleh vhming dengan standar keunggulan tertinggi."
     }
 }

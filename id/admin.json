@@ -114,6 +114,7 @@
     "bans": {
         "title": "Daftar Blokir",
         "addBan": "Tambah Blokir",
+        "addBanDescription": "Membuat perintah larangan bermain (ban) baru di sistem server.",
         "playerName": "Nama Pemain",
         "playerSteamId": "Steam ID Pemain",
         "playerIp": "IP Pemain",
@@ -131,12 +132,12 @@
         "minutes": "menit",
         "permanent": "Permanen",
         "active": "Aktif",
-        "addBanDescription": "Membuat perintah larangan bermain (ban) baru di sistem server.",
         "noBans": "Belum ada ban"
     },
     "mutes": {
         "title": "Daftar Mute",
         "addMute": "Tambah Mute",
+        "addMuteDescription": "Membuat perintah pembisuan chat/mikrofon (mute) baru di sistem server.",
         "playerName": "Nama Pemain",
         "playerSteamId": "Steam ID Pemain",
         "adminName": "Admin",
@@ -155,7 +156,6 @@
         "mute": "MUTE (Suara)",
         "silence": "SILENCE (Keduanya)",
         "active": "Aktif",
-        "addMuteDescription": "Membuat perintah pembisuan chat/mikrofon (mute) baru di sistem server.",
         "noMutes": "Belum ada mute"
     },
     "logs": {

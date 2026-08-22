@@ -13,13 +13,13 @@
         "zmodels": "zModels မော်ဒယ်များ",
         "zweapons": "zWeapons လက်နက်များ",
         "rankings": "အဆင့်သတ်မှတ်ချက်များ",
+        "matches": "ပွဲစဉ်",
         "battleMode": "တိုက်ပွဲမုဒ် (Battle Mode)",
         "admin": "စီမံခန့်ခွဲရေး ပန်နယ် (Admin Panel)",
         "login": "ဝင်ရောက်ရန်",
         "register": "စာရင်းသွင်းရန်",
         "logout": "ထွက်ရန်",
         "support": "အကူအညီ",
-        "matches": "ပွဲစဉ်",
         "rules": "လမ်းညွှန်ချက်များ"
     },
     "actions": {

@@ -13,13 +13,13 @@
         "zmodels": "ໂມເດວ zModels",
         "zweapons": "ອາວຸດ zWeapons",
         "rankings": "ອັນດັບ",
+        "matches": "ແມັດການແຂ່ງຂັນ",
         "battleMode": "ໂໝດປະຈັນບານ (Battle Mode)",
         "admin": "ແຜງ Admin",
         "login": "ເຂົ້າສູ່ລະບົບ",
         "register": "ລົງທະບຽນ",
         "logout": "ອອກຈາກລະບົບ",
         "support": "ຊ່ວຍເຫຼືອ",
-        "matches": "ແມັດການແຂ່ງຂັນ",
         "rules": "ຄຳແນະນຳ"
     },
     "actions": {

@@ -114,6 +114,7 @@
     "bans": {
         "title": "Listahan ng Ban",
         "addBan": "Magdagdag ng Ban",
+        "addBanDescription": "Gumawa ng bagong ban sa sistema ng server.",
         "playerName": "Pangalan ng Player",
         "playerSteamId": "Steam ID ng Player",
         "playerIp": "IP ng Player",
@@ -131,12 +132,12 @@
         "minutes": "minuto",
         "permanent": "Permanente",
         "active": "Aktibo",
-        "addBanDescription": "Gumawa ng bagong ban sa sistema ng server.",
         "noBans": "Wala pang ban"
     },
     "mutes": {
         "title": "Listahan ng Mute",
         "addMute": "Magdagdag ng Mute",
+        "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system.",
         "playerName": "Pangalan ng Player",
         "playerSteamId": "Steam ID ng Player",
         "adminName": "Admin",
@@ -155,7 +156,6 @@
         "mute": "MUTE (Boses)",
         "silence": "SILENCE (Pareho)",
         "active": "Aktibo",
-        "addMuteDescription": "Gumawa ng bagong mute sa chat/mic sa server system.",
         "noMutes": "Wala pang mute"
     },
     "logs": {
